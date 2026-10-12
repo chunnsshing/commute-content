@@ -1,0 +1,1123 @@
+{
+  "schemaVersion": 3,
+  "feed": [
+    {
+      "id": "commons-mount-fuji-kawaguchi",
+      "kind": "place",
+      "title": "Mount Fuji",
+      "maker": "Romain Guy",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mount_Fuji_at_sunset%2C_March_2025.jpg/1280px-Mount_Fuji_at_sunset%2C_March_2025.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC0",
+        "credit": "Romain Guy, CC0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Japan",
+        "region": "Yamanashi",
+        "lat": 35.361,
+        "lon": 138.728,
+        "facts": [
+          [
+            "Elevation",
+            "3,776 m"
+          ],
+          [
+            "Last eruption",
+            "1707–1708"
+          ],
+          [
+            "Seen from",
+            "Lake Kawaguchi, c. 800 m"
+          ],
+          [
+            "Coordinates",
+            "35.36° N, 138.73° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Mount Fuji is an active stratovolcano on the island of Honshu, about 100 kilometres southwest of Tokyo, with a summit at 3,776 metres. It last erupted in 1707–1708. The present cone sits on older volcanoes, including Ko-Fuji, which formed between 100,000 and 17,000 years ago and is now almost completely buried. Its symmetrical cone is covered in snow for about five months of the year, and it joined the World Heritage List as a cultural site in 2013. This photograph was taken at 17:49 on 19 March 2025 from Lake Kawaguchi, the lowest of the Fuji Five Lakes, whose shore is popular with photographers for its panoramic views of the mountain.",
+      "lookAt": "The lake is smoothed to glass and the clouds are dragged into soft streaks: this is a long exposure, seconds rather than fractions. That stillness leaves the snowy cone as the only crisp form. The shoreline sits on the lower third, handing most of the frame to the sky's gradient from blue to sunset gold.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Fuji",
+        "https://commons.wikimedia.org/wiki/File:Mount_Fuji_at_sunset,_March_2025.jpg",
+        "https://en.wikipedia.org/wiki/Lake_Kawaguchi"
+      ],
+      "caption": {
+        "kind": "PLACE · JAPAN",
+        "title": "Mount Fuji",
+        "line2": "Romain Guy · Yamanashi"
+      },
+      "order": 0,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-elgin-bridge",
+      "kind": "place",
+      "title": "Elgin Bridge",
+      "maker": "Frank Schulenburg",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Boat_passing_under_Elgin_Bridge_during_blue_hour_%282023%29-L1003785.jpg/1280px-Boat_passing_under_Elgin_Bridge_during_blue_hour_%282023%29-L1003785.jpg",
+        "width": 1280,
+        "height": 850,
+        "license": "CC BY-SA 4.0",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Singapore River",
+        "lat": 1.2887,
+        "lon": 103.8499,
+        "facts": [
+          [
+            "Opened",
+            "30 May 1929"
+          ],
+          [
+            "Length",
+            "46 m"
+          ],
+          [
+            "National Monument",
+            "2019, No. 73"
+          ],
+          [
+            "Coordinates",
+            "1.29° N, 103.85° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Elgin Bridge carries traffic across the Singapore River between the Downtown Core and the Singapore River Planning Area. It stands on the site of the river's first crossing, a wooden footbridge of 1822 built after Stamford Raffles asked for a bridge linking the communities on either bank. An iron bridge named after the 8th Earl of Elgin replaced it in 1862, and the present concrete bridge was opened by Governor Sir Hugh Clifford on 30 May 1929. The Italian sculptor Rudolfo Nolli designed its cast-iron lamps. In 2019 it was gazetted a National Monument with the Anderson and Cavenagh bridges. Frank Schulenburg made this long exposure during blue hour on 18 August 2023 as a boat passed underneath.",
+      "lookAt": "The boat is gone, but its path stays: a long exposure turned it into red and green streaks sweeping out of the left edge. Everything static stays sharp, from the lit arch to the railing. That railing on the right is a leading line, pulling your eye from the foreground into the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elgin_Bridge_(Singapore)",
+        "https://commons.wikimedia.org/wiki/File:Boat_passing_under_Elgin_Bridge_during_blue_hour_(2023)-L1003785.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "Elgin Bridge",
+        "line2": "Frank Schulenburg · Singapore River"
+      },
+      "order": 1,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "nara-adams-tetons",
+      "kind": "photograph",
+      "title": "The Tetons and the Snake River",
+      "maker": "Ansel Adams",
+      "year": "1942",
+      "collection": "U.S. National Archives",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/1280px-Adams_The_Tetons_and_the_Snake_River.jpg",
+        "width": 1280,
+        "height": 1025,
+        "license": "Public domain",
+        "credit": "Ansel Adams, U.S. National Archives, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ansel Adams made The Tetons and the Snake River in 1942 in Grand Teton National Park, Wyoming. It belongs to the Mural Project: in 1941 the National Park Service contracted him for 180 days to photograph parks, Indian reservations and other places the Interior Department managed, for mural-sized prints to decorate the department's new building. The project ended on June 30, 1942, and because of the war the murals were never made. Adams sent 225 small prints and held on to the 229 negatives. He had helped found Group f/64, which favoured sharp focus and the full tonal range, and with Fred Archer had recently worked out the Zone System for controlling exposure and development. The picture was later encoded on the Voyager Golden Record.",
+      "lookAt": "The river enters at the bottom and swings out to the middle left, an S that walks your eye from near to far; Adams stood high on a bluff so the bend reads as a shape. Black pines and white snow both keep detail. Expose for both ends, then wait for broken cloud to light the water.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Tetons_and_the_Snake_River",
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File:Adams_The_Tetons_and_the_Snake_River.jpg",
+        "https://catalog.archives.gov/id/519904"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1942",
+        "title": "The Tetons and the Snake River",
+        "line2": "Ansel Adams · National Archives"
+      },
+      "order": 2,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-mount-lu-fog",
+      "kind": "place",
+      "title": "Mount Lu",
+      "maker": "pfctdayelise",
+      "year": "2005",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mount_Lushan_-_fog.JPG/1280px-Mount_Lushan_-_fog.JPG",
+        "width": 1280,
+        "height": 1723,
+        "license": "CC BY-SA 2.5",
+        "credit": "pfctdayelise, CC BY-SA 2.5, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Jiangxi",
+        "lat": 29.559,
+        "lon": 115.993,
+        "facts": [
+          [
+            "Highest peak",
+            "Dahanyang, 1,474 m"
+          ],
+          [
+            "Sea of clouds",
+            "Almost 200 days a year"
+          ],
+          [
+            "UNESCO",
+            "World Heritage Site, 1996"
+          ],
+          [
+            "Coordinates",
+            "29.56° N, 115.99° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Mount Lu, or Lushan, rises in Jiujiang, Jiangxi province, with the Yangtze River to the north and Poyang Lake to the east. The oval massif is about 25 kilometres long, and its highest point, Dahanyang Peak, reaches 1,474 metres. Its steep peaks stand above a sea of clouds that can surround the mountain for almost 200 days each year. Buddhist and Daoist temples and Confucian landmarks made it one of China's spiritual centres, and it has been a UNESCO World Heritage Site since 1996. The Song dynasty poet Su Shi wrote that he could not tell Lushan's true shape because he was inside the mountain. This photograph was taken in winter 2005; the pines are Huangshan pine.",
+      "lookAt": "Fog does the layering. The ridge on the right is near-black and full of texture; the cliff on the left is paler and softer; the gap between dissolves to white. Each step back loses contrast, and that loss reads as depth. The pines silhouetted along the right edge give scale, and the vertical frame stacks cliff over void.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Lu",
+        "https://commons.wikimedia.org/wiki/File:Mount_Lushan_-_fog.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Mount Lu",
+        "line2": "pfctdayelise · Jiangxi"
+      },
+      "order": 3,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-monster-building",
+      "kind": "place",
+      "title": "Monster Building",
+      "maker": "Benh LIEU SONG",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Looking_upward_at_the_Yick_Cheong_Building%2C_13_June_2019.jpg/1280px-Looking_upward_at_the_Yick_Cheong_Building%2C_13_June_2019.jpg",
+        "width": 1280,
+        "height": 1918,
+        "license": "CC BY-SA 4.0",
+        "credit": "Benh LIEU SONG, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Hong Kong",
+        "region": "Quarry Bay",
+        "lat": 22.2842,
+        "lon": 114.2125,
+        "facts": [
+          [
+            "Blocks",
+            "5"
+          ],
+          [
+            "Floors",
+            "18"
+          ],
+          [
+            "Units",
+            "2,243"
+          ],
+          [
+            "Coordinates",
+            "22.28° N, 114.21° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The so-called Monster Building is a group of five connected residential blocks on King's Road in Quarry Bay, Hong Kong. Built in the 1960s as Parker Estate, named after nearby Mount Parker, it was split in 1972 into the Fook Cheong, Montane, Oceanic, Yick Cheong and Yick Fat buildings. Its 2,243 flats house about 10,000 people. The estate became a magnet for photographers after a picture of it by Romain Jacquet-Lagrèze spread widely in 2013, and residents now post signs asking visitors to be respectful. It has appeared in films such as Ghost in the Shell. Benh Lieu Song looked straight up at the Yick Cheong Building at night on 13 June 2019.",
+      "lookAt": "Pointing the camera straight up turns walls into a frame. The building faces close in from both sides, leaving a column of violet sky as the only empty space, and a tower rises into it from the bottom. Thousands of windows and air conditioners become texture; the calm gap is what gives them shape.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monster_Building",
+        "https://commons.wikimedia.org/wiki/File:Looking_upward_at_the_Yick_Cheong_Building,_13_June_2019.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · HONG KONG",
+        "title": "Monster Building",
+        "line2": "Benh LIEU SONG · Quarry Bay"
+      },
+      "order": 4,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "nara-adams-white-house-ruin",
+      "kind": "photograph",
+      "title": "White House Ruin — view of cliff dwelling from river valley, in \"Canyon de Chelly\" National Monument, Arizona",
+      "maker": "Ansel Adams",
+      "year": "1942",
+      "collection": "U.S. National Archives",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ansel_Adams_-_National_Archives_79-AA-C01.jpg/1280px-Ansel_Adams_-_National_Archives_79-AA-C01.jpg",
+        "width": 1280,
+        "height": 1846,
+        "license": "Public domain",
+        "credit": "Ansel Adams, U.S. National Archives, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Ansel Adams made this vertical view of the White House Ruin for the Mural Project, his 1941–42 contract with the National Park Service to photograph places the Interior Department managed for mural-sized prints. The murals were never made because of the war; the National Archives holds the series as Ansel Adams Photographs of National Parks and Monuments. Canyon de Chelly, in northeastern Arizona, became a National Park Service unit in 1931. It lies inside the Navajo Nation, is owned by the Navajo Tribal Trust, and preserves ruins of peoples from the Ancestral Puebloans to the Navajo. About forty Navajo families live in the park, and visitors may enter the canyons only with a ranger or Navajo guide, except on the White House Ruin Trail.",
+      "lookAt": "The ruin takes only a strip in the lower third; the cliff fills everything above it, its dark streaks pouring down toward the rooms. That is how the vertical frame gives scale. Light skims the wall so every crack carries texture, while the alcove goes nearly black. Let the setting dwarf your subject.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canyon_de_Chelly_National_Monument",
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AA-C01.jpg",
+        "https://catalog.archives.gov/id/519851"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1942",
+        "title": "White House Ruin",
+        "line2": "Ansel Adams · National Archives"
+      },
+      "order": 5,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-chola-lake",
+      "kind": "place",
+      "title": "Chola Lake",
+      "maker": "Vyacheslav Argenberg",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chola_Mountain_Lake%2C_Nepal.jpg/1280px-Chola_Mountain_Lake%2C_Nepal.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY 4.0",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Nepal",
+        "region": "Khumbu",
+        "lat": 27.934,
+        "lon": 86.783,
+        "facts": [
+          [
+            "Lake elevation",
+            "c. 4,600 m"
+          ],
+          [
+            "Above it",
+            "Cholatse–Taboche massif, 6,440 m"
+          ],
+          [
+            "Cholatse first climbed",
+            "22 April 1982"
+          ],
+          [
+            "Coordinates",
+            "27.93° N, 86.78° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Chola Lake is a glacial lake at about 4,600 metres in the Chola Valley of Nepal's Khumbu region, south of the Great Himalayan Range. It lies beneath the north wall of the Cholatse–Taboche massif. The Chola glacier descends from Cholatse's east face, and the name is literal: in Tibetan 'cho' is lake, 'la' is pass and 'tse' is peak. Cholatse's north and east faces can be seen from Dughla, on the trail to Everest base camp; the mountain was first climbed on 22 April 1982. Vyacheslav Argenberg took this photograph on 18 October 2009, with alluvial fans and glacial moraines running down to the water under a blanket of cloud.",
+      "lookAt": "The lichen-covered boulder at bottom centre is the anchor. It gives the eye something near, tells you that you are standing high above the water, and closes the lower edge. From it the turquoise shoreline curves right into the grey fans, while the cloud lid hides the summits and keeps attention on texture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cholatse",
+        "https://commons.wikimedia.org/wiki/File:Chola_Mountain_Lake,_Nepal.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEPAL",
+        "title": "Chola Lake",
+        "line2": "Vyacheslav Argenberg · Khumbu"
+      },
+      "order": 6,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-angkor-wat",
+      "kind": "place",
+      "title": "Angkor Wat",
+      "maker": "Satdeep Gill",
+      "year": "2022",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg/1280px-Angkor_Wat_with_its_reflection_%28cropped%29.jpg",
+        "width": 1280,
+        "height": 645,
+        "license": "CC BY-SA 4.0",
+        "credit": "Satdeep Gill, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Cambodia",
+        "region": "Siem Reap",
+        "lat": 13.4119,
+        "lon": 103.8641,
+        "facts": [
+          [
+            "Built",
+            "c. 1113–1150"
+          ],
+          [
+            "Commissioned by",
+            "Suryavarman II"
+          ],
+          [
+            "Height",
+            "65 m"
+          ],
+          [
+            "UNESCO",
+            "1992"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Angkor Wat, in Siem Reap, Cambodia, is the largest religious complex in the world, on a site of 162.6 hectares. The Khmer king Suryavarman II built it in the first half of the 12th century as a Hindu temple to Vishnu, probably intended as his mausoleum. From the late 13th century it gradually became a Buddhist temple, and it has remained in use ever since. Its plan represents Mount Meru: galleries rise towards a central quincunx of towers, the highest reaching 65 metres. Unusually, it faces west. Angkor was listed as a UNESCO World Heritage Site in 1992, and the temple appears on Cambodia's flag. Satdeep Gill photographed it with its reflection on 9 September 2022.",
+      "lookAt": "The horizon sits almost exactly in the middle, which usually feels static, but here it is the point: the pool repeats the towers upside down, so the frame becomes a mirror. Notice the reflection is darker and softer than the temple. Calm water and a low position make the double image possible.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Angkor_Wat",
+        "https://commons.wikimedia.org/wiki/File:Angkor_Wat_with_its_reflection_(cropped).jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CAMBODIA",
+        "title": "Angkor Wat",
+        "line2": "Satdeep Gill · Siem Reap"
+      },
+      "order": 7,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "nasa-anders-earthrise",
+      "kind": "photograph",
+      "title": "Earthrise",
+      "maker": "William Anders",
+      "year": "1968",
+      "collection": "NASA",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/1280px-NASA-Apollo8-Dec24-Earthrise.jpg",
+        "width": 1280,
+        "height": 1280,
+        "license": "Public domain",
+        "credit": "William Anders, NASA, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "William Anders took Earthrise on December 24, 1968, from lunar orbit during Apollo 8, the first crewed voyage to orbit the Moon. He was using a heavily modified Hasselblad 500 EL with an electric drive, a simple sighting ring instead of a reflex viewfinder, and a 250 mm lens he had been using to photograph the lunar surface. When Earth appeared over the horizon he called for a roll of colour film, quickly; Jim Lovell noted the setting, 1/250 second at f/11. The custom Ektachrome was processed after the crew returned. The published version is rotated 95 degrees clockwise from the original so that Earth appears to rise. Nature photographer Galen Rowell called it the most influential environmental photograph ever taken.",
+      "lookAt": "Earth is small, just right of centre, and almost the whole square is black. The lunar horizon runs as a tilted grey band across the bottom fifth. The emptiness is what makes the planet matter. When your subject is distant, resist zooming tight: give it space and one edge to rise from.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Earthrise",
+        "https://commons.wikimedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1968",
+        "title": "Earthrise",
+        "line2": "William Anders · NASA"
+      },
+      "order": 8,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-moraine-lake",
+      "kind": "place",
+      "title": "Moraine Lake",
+      "maker": "Gorgo",
+      "year": "2005",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/1280px-Moraine_Lake_17092005.jpg",
+        "width": 1280,
+        "height": 960,
+        "license": "Public domain",
+        "credit": "Gorgo, Public domain, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Canada",
+        "region": "Banff National Park",
+        "lat": 51.3225,
+        "lon": -116.1856,
+        "facts": [
+          [
+            "Elevation",
+            "c. 1,884 m"
+          ],
+          [
+            "Area",
+            "50 ha"
+          ],
+          [
+            "Nearest village",
+            "Lake Louise, 14 km"
+          ],
+          [
+            "Coordinates",
+            "51.32° N, 116.19° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Moraine Lake is a snow- and glacier-fed alpine lake in Banff National Park, Alberta, 14 kilometres from the village of Lake Louise. It sits in the Valley of the Ten Peaks at about 1,884 metres and covers 50 hectares. Because it fills almost entirely from melt, it does not reach its crest until middle to late June; when full, rock sediment washed in by the surrounding glaciers gives it its azure colour. The lake has never been dammed or drained. Since 2023 the road has been closed to private cars. This photograph was taken on 17 September 2005; the peaks include Mount Allen, Mount Tuzo, Deltaform Mountain and Neptuak Mountain.",
+      "lookAt": "The shoreline sits just below the middle, so the reflection carries almost as much weight as the peaks themselves. Dead-still water and a low vantage at the lake's edge make the mirror. Sunlight rakes across the cliff faces and picks out every horizontal ledge, while the scree slope at left falls into cool shadow.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moraine_Lake",
+        "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CANADA",
+        "title": "Moraine Lake",
+        "line2": "Gorgo · Banff National Park"
+      },
+      "order": 9,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-ibn-tulun",
+      "kind": "place",
+      "title": "Mosque of Ibn Tulun",
+      "maker": "Berthold Werner",
+      "year": "2010",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Kairo_Ibn_Tulun_Moschee_BW_5.jpg/1280px-Kairo_Ibn_Tulun_Moschee_BW_5.jpg",
+        "width": 1280,
+        "height": 836,
+        "license": "CC BY 3.0",
+        "credit": "Berthold Werner, CC BY 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Egypt",
+        "region": "Cairo",
+        "lat": 30.0285,
+        "lon": 31.2495,
+        "facts": [
+          [
+            "Built",
+            "876–879 CE"
+          ],
+          [
+            "Architect",
+            "al-Nasrani"
+          ],
+          [
+            "Fountain kiosk",
+            "1296"
+          ],
+          [
+            "Coordinates",
+            "30.03° N, 31.25° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Mosque of Ibn Tulun in Islamic Cairo is the oldest well-preserved mosque in Egypt. Ahmad ibn Tulun, the Abbasid governor who made himself Egypt's de facto ruler, built it between 876 and 879 as the congregational mosque of his new capital, al-Qata'i. Its design follows the mosques of Samarra in Iraq, and its minaret has an unusual external spiral staircase. When al-Qata'i was razed in 905, the mosque was spared, and it is the city's only surviving monument. The domed fountain kiosk at the centre of the courtyard dates from a restoration by the Mamluk sultan Lajin in 1296. Berthold Werner photographed the courtyard on 4 November 2010.",
+      "lookAt": "Two buildings, two distances. The domed kiosk fills the centre and the spiral minaret stands back on the left, so you read depth without any lines leading in. Low arcades run across the whole width like a baseline, their dark arches repeating a rhythm. The empty plain sky lets both silhouettes read cleanly.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun",
+        "https://commons.wikimedia.org/wiki/File:Kairo_Ibn_Tulun_Moschee_BW_5.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · EGYPT",
+        "title": "Mosque of Ibn Tulun",
+        "line2": "Berthold Werner · Cairo"
+      },
+      "order": 10,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "loc-rothstein-dust-storm",
+      "kind": "photograph",
+      "title": "Farmer and sons walking in the face of a dust storm. Cimarron County, Oklahoma",
+      "maker": "Arthur Rothstein",
+      "year": "1936",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg/1280px-Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg",
+        "width": 1280,
+        "height": 1251,
+        "license": "Public domain",
+        "credit": "Arthur Rothstein, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Arthur Rothstein was 21 when he made this photograph in April 1936 on a farm near Felt, in Cimarron County, Oklahoma. Roy Stryker, his former teacher at Columbia, had hired him to set up the darkroom of the Resettlement Administration's photo unit and then sent him out as its first photographer, to document rural poverty for a New Deal agency. The farmer was Arthur Coble, walking with his young sons Milton and Darrel past fence posts almost buried in dust. Some have claimed the scene was staged; the Cobles said it was not. The agency became the Farm Security Administration in 1937, and the picture became one of the defining images of the Dust Bowl.",
+      "lookAt": "There is no horizon: dust has turned sky and ground into one grey, so the dark shed and three figures float in a field of tone. Fence posts sunk to stubs in the foreground measure how deep the dust is. In bad weather, look for one dark shape against the flat light.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Farmer_and_Sons_Walking_in_the_Face_of_a_Dust_Storm",
+        "https://en.wikipedia.org/wiki/Arthur_Rothstein",
+        "https://commons.wikimedia.org/wiki/File:Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.00241"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1936",
+        "title": "Farmer and Sons in a Dust Storm",
+        "line2": "Arthur Rothstein · Library of Congress"
+      },
+      "order": 11,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-cuernos-del-paine",
+      "kind": "place",
+      "title": "Cuernos del Paine",
+      "maker": "Pedro Szekely",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg/1280px-Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg",
+        "width": 1280,
+        "height": 960,
+        "license": "CC BY-SA 2.0",
+        "credit": "Pedro Szekely from Los Angeles, USA, CC BY-SA 2.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Patagonia",
+        "lat": -51.0024,
+        "lon": -73.0119,
+        "facts": [
+          [
+            "Height",
+            "c. 2,000 m"
+          ],
+          [
+            "Rock",
+            "Granite laccolith, c. 12.5 million years"
+          ],
+          [
+            "Park established",
+            "1959"
+          ],
+          [
+            "Coordinates",
+            "51.00° S, 73.01° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Cuernos del Paine, the 'Horns of Paine', belong to the Cordillera Paine in Torres del Paine National Park, Chilean Patagonia, about 280 kilometres north of Punta Arenas. The range formed about 12.5 million years ago, when magma intruded Cretaceous sedimentary rock and cooled as a laccolith that glaciers later carved. On the Cuernos, pale bands of exposed granite contrast with dark tops, the remnants of an eroded sedimentary layer. Paine means 'blue' in the Tehuelche language. The park was established in 1959 and became a UNESCO Biosphere Reserve in 1978. Pedro Szekely took this photograph in March 2023, looking at the Cuernos from Lake Pehoé.",
+      "lookAt": "Low sun from the left strikes only the pale granite faces and the underside of the cloud, so the horns glow while their dark caps stay dark: the two-tone geology made visible by light. Below sit calm bands of shrub and water, with a row of birds on the lake as a small foreground event.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cordillera_Paine",
+        "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg",
+        "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Cuernos del Paine",
+        "line2": "Pedro Szekely · Patagonia"
+      },
+      "order": 12,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-machu-picchu",
+      "kind": "place",
+      "title": "Machu Picchu",
+      "maker": "Martin St-Amant",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg/1280px-80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg",
+        "width": 1280,
+        "height": 1249,
+        "license": "CC BY-SA 3.0",
+        "credit": "Martin St-Amant, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Peru",
+        "region": "Cusco Region",
+        "lat": -13.1659,
+        "lon": -72.5459,
+        "facts": [
+          [
+            "Built",
+            "c. 1450"
+          ],
+          [
+            "Elevation",
+            "2,430 m"
+          ],
+          [
+            "UNESCO",
+            "1983"
+          ],
+          [
+            "Coordinates",
+            "13.17° S, 72.55° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Machu Picchu is a 15th-century Inca citadel on a mountain ridge 2,430 metres up in southern Peru, about 80 kilometres northwest of Cusco, above the Urubamba River. It is thought to have been built around 1450 as an estate for the Inca emperor Pachacuti, and it was abandoned about a century later, probably during the Spanish conquest. Its finely fitted dry-stone walls are in the classical Inca style. The site sits on a saddle between two peaks, Machu Picchu and Huayna Picchu, the steep mountain behind the ruins. It became a UNESCO World Heritage Site in 1983. Martin St-Amant took this photograph on 27 June 2009; the file page describes it as Machu Picchu at twilight.",
+      "lookAt": "Light is selective here. Low sun picks out the terraces and the green plaza while the mountains behind stay in shadow, and the heavy cloud above presses everything down. That contrast is why the ruins jump forward. Stand high, keep the peak behind your subject, and wait for light that singles it out.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Machu_Picchu",
+        "https://commons.wikimedia.org/wiki/File:80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · PERU",
+        "title": "Machu Picchu",
+        "line2": "Martin St-Amant · Cusco Region"
+      },
+      "order": 13,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "loc-delano-amarillo-elevators",
+      "kind": "photograph",
+      "title": "Grain elevators along the route of the Atchison, Topeka, and Santa Fe Railroad, Amarillo, Texas",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jack_Delano%2C_Grain_elevators_along_the_route_of_the_Atchison%2C_Topeka%2C_and_Santa_Fe_Railroad%2C_Amarillo%2C_Texas%2C_1943.jpg/1280px-Jack_Delano%2C_Grain_elevators_along_the_route_of_the_Atchison%2C_Topeka%2C_and_Santa_Fe_Railroad%2C_Amarillo%2C_Texas%2C_1943.jpg",
+        "width": 1280,
+        "height": 949,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Jack Delano made this colour transparency in March 1943 in Amarillo, Texas; the agency caption calls it part of a Santa Fe trip along the railroad's route. Born Yakov Ovcharov in 1914 in what is now Ukraine, he emigrated to the United States in 1923 and studied art in Philadelphia. Roy Stryker hired him in 1940 for the Farm Security Administration's photography program, at $2,300 a year, on condition that he own a car and a driver's licence. Delano tended to photograph the cultural and social patterns of regions rather than people or landscape alone, and by the time the country entered the war he had made photo essays on American industry. The slide came to the Library of Congress from the Office of War Information in 1944.",
+      "lookAt": "Delano stood far back and square-on, so the silos read as one flat wall of repeated cylinders with the painted names across them. The horizon sits below centre, giving the streaked sky more than half the frame, and a lone pole breaks the rhythm. When a building's power is repetition, face it straight.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://en.wikipedia.org/wiki/Farm_Security_Administration",
+        "https://commons.wikimedia.org/wiki/File:Jack_Delano,_Grain_elevators_along_the_route_of_the_Atchison,_Topeka,_and_Santa_Fe_Railroad,_Amarillo,_Texas,_1943.jpg",
+        "https://www.loc.gov/pictures/item/2017878104/"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Grain Elevators, Amarillo",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "order": 14,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-deadvlei",
+      "kind": "place",
+      "title": "Deadvlei",
+      "maker": "Giles Laurent",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/054e_Dead_camel_thorn_tree_in_Deadvlei_Photo_by_Giles_Laurent.jpg/1280px-054e_Dead_camel_thorn_tree_in_Deadvlei_Photo_by_Giles_Laurent.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 4.0",
+        "credit": "Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Namibia",
+        "region": "Namib-Naukluft Park",
+        "lat": -24.7597,
+        "lon": 15.2919,
+        "facts": [
+          [
+            "Trees died",
+            "600–700 years ago"
+          ],
+          [
+            "Surrounding dunes",
+            "300–400 m high"
+          ],
+          [
+            "Name",
+            "'Dead marsh'"
+          ],
+          [
+            "Coordinates",
+            "24.76° S, 15.29° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Deadvlei is a white clay pan near Sossusvlei, in Namibia's Namib-Naukluft Park. Its name means 'dead marsh', from English and the Afrikaans vlei. The pan formed when the Tsauchab River flooded after rain, leaving shallow pools where camel thorn trees could grow. When drought came and sand dunes encroached, the river was cut off and the trees died, believed to be 600 to 700 years ago. The wood is not petrified, but it has not decomposed because the area is so dry. The surrounding dunes reach 300 to 400 metres. Giles Laurent photographed this dead camel thorn tree, Vachellia erioloba, on the morning of 24 July 2025.",
+      "lookAt": "Three flat bands, white pan, orange dune and blue sky, and one dark shape cutting through all of them. The tree is centred, which usually feels static, but the symmetry suits this stillness. Morning sun from the left throws its shadow right across the pan, and the dune's lit and shaded slopes give the backdrop depth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadvlei",
+        "https://commons.wikimedia.org/wiki/File:054e_Dead_camel_thorn_tree_in_Deadvlei_Photo_by_Giles_Laurent.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NAMIBIA",
+        "title": "Deadvlei",
+        "line2": "Giles Laurent · Namib-Naukluft Park"
+      },
+      "order": 15,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-charles-bridge",
+      "kind": "place",
+      "title": "Charles Bridge",
+      "maker": "DXR",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/North_view_of_Charles_Bridge_from_M%C3%A1nes%C5%AFv_most%2C_Prague_20160808_1.jpg/1280px-North_view_of_Charles_Bridge_from_M%C3%A1nes%C5%AFv_most%2C_Prague_20160808_1.jpg",
+        "width": 1280,
+        "height": 720,
+        "license": "CC BY-SA 4.0",
+        "credit": "DXR, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Czech Republic",
+        "region": "Prague",
+        "lat": 50.0897,
+        "lon": 14.4115,
+        "facts": [
+          [
+            "Begun",
+            "1357"
+          ],
+          [
+            "Length",
+            "516 m"
+          ],
+          [
+            "Arches",
+            "16"
+          ],
+          [
+            "Designer",
+            "Peter Parler"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Charles Bridge is a medieval stone arch bridge across the Vltava in Prague. Construction began in 1357 under King Charles IV to replace the Judith Bridge, badly damaged by a flood in 1342. Legend says the first stone was laid at 5:31 on 9 July 1357, a palindromic moment chosen by the numerology-minded emperor. Until 1841 it was the only way across the river, linking Prague Castle with the Old Town on the coronation route of Bohemian kings. It is 516 metres long, rests on 16 arches and is lined with 30 statues, now all replicas. DXR photographed it from the neighbouring Mánes Bridge at about six in the evening on 8 August 2016.",
+      "lookAt": "The famous bridge is small here, a dark line of arches on the right. Shooting from the neighbouring bridge gives it context: river, boats, the dark tower at its end and the city's domes. The sky takes half the frame because the clouds earn it. Sometimes the best view of a landmark is from beside it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charles_Bridge",
+        "https://commons.wikimedia.org/wiki/File:North_view_of_Charles_Bridge_from_Mánesův_most,_Prague_20160808_1.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CZECH REPUBLIC",
+        "title": "Charles Bridge",
+        "line2": "DXR · Prague"
+      },
+      "order": 16,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "loc-lee-pie-town-filling-station",
+      "kind": "photograph",
+      "title": "Filling station and garage at Pie Town, New Mexico",
+      "maker": "Russell Lee",
+      "year": "1940",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Filling_station_and_garage_at_Pie_Town_1a34107v.jpg",
+        "width": 1024,
+        "height": 714,
+        "license": "Public domain",
+        "credit": "Russell Lee, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Russell Lee made this colour slide in October 1940 in Pie Town, a homesteading community on U.S. Highway 60 in Catron County, New Mexico; the record notes that the town's original owner sold pies, hence the name. Lee had trained as a chemical engineer, turned to painting, and took up photography first as a reference tool. Roy Stryker hired him for the Farm Security Administration's documentary project in the fall of 1936. His Pie Town series, which used Kodachrome colour film, became one of his best-known bodies of work, and in black and white he was known for using direct flash in interiors other photographers avoided. The slide was transferred to the Library of Congress from the Office of War Information in 1944.",
+      "lookAt": "The rounded edge of the slide mount is still in the frame. Two red pumps stand just right of centre, echoing the red band of siding above, while men and a truck balance the left. In colour, let one strong hue repeat across the frame against neutral white, brown and sky.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Russell_Lee_(photographer)",
+        "https://en.wikipedia.org/wiki/Pie_Town,_New_Mexico",
+        "https://commons.wikimedia.org/wiki/File:Filling_station_and_garage_at_Pie_Town_1a34107v.jpg",
+        "https://www.loc.gov/pictures/item/2017877695/"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1940",
+        "title": "Filling Station, Pie Town",
+        "line2": "Russell Lee · Library of Congress"
+      },
+      "order": 17,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-skaftafellsjokull",
+      "kind": "place",
+      "title": "Skaftafellsjökull",
+      "maker": "Martin Falbisoner",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/View_from_Skaftafell_National_Park_July_2014_-2.JPG/1280px-View_from_Skaftafell_National_Park_July_2014_-2.JPG",
+        "width": 1280,
+        "height": 721,
+        "license": "CC BY-SA 4.0",
+        "credit": "Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Iceland",
+        "region": "Skaftafell",
+        "lat": 64.0318,
+        "lon": -16.937,
+        "facts": [
+          [
+            "Park founded",
+            "15 September 1967"
+          ],
+          [
+            "Part of",
+            "Vatnajökull National Park, 2008"
+          ],
+          [
+            "Last large jökulhlaup",
+            "1996"
+          ],
+          [
+            "Coordinates",
+            "64.03° N, 16.94° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Skaftafellsjökull is a glacier spur of the Vatnajökull ice cap at Skaftafell, southeast Iceland. Skaftafell became a national park on 15 September 1967 and joined the larger Vatnajökull National Park on 7 June 2008. Its landscape has been shaped by eruptions of Öræfajökull and by glaciers and rivers; eruptions under the ice can trigger glacial floods, jökulhlaups, which spread sand across the Skeiðarársandur outwash plain. An eruption of Öræfajökull in 1362 wiped out the local community, and the district has been called Öræfi, 'the wasteland', ever since. Martin Falbisoner took this photograph on 21 July 2014 from the Skaftafellsheiði plateau, above the glacier's terminus, its lake and the river Skeiðará.",
+      "lookAt": "The hikers on the rocky outcrop make the picture: without them the ice, lake and plain have no scale. Placed low and central, they also stand in for you, looking in. Flat overcast light keeps the dark ice ridges and grey water evenly exposed, and the lake's curving edge leads toward the braided rivers at right.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Skaftafell",
+        "https://commons.wikimedia.org/wiki/File:View_from_Skaftafell_National_Park_July_2014_-2.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · ICELAND",
+        "title": "Skaftafellsjökull",
+        "line2": "Martin Falbisoner · Skaftafell"
+      },
+      "order": 18,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-brooklyn-bridge",
+      "kind": "place",
+      "title": "Brooklyn Bridge",
+      "maker": "Carlos Delgado",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Brooklyn_Bridge_-_03.jpg/1280px-Brooklyn_Bridge_-_03.jpg",
+        "width": 1280,
+        "height": 1920,
+        "license": "CC BY-SA 3.0",
+        "credit": "Carlos Delgado, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "New York City",
+        "lat": 40.704,
+        "lon": -73.9945,
+        "facts": [
+          [
+            "Opened",
+            "24 May 1883"
+          ],
+          [
+            "Main span",
+            "486.3 m"
+          ],
+          [
+            "Designer",
+            "John A. Roebling"
+          ],
+          [
+            "Coordinates",
+            "40.70° N, 73.99° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "The Brooklyn Bridge spans the East River between Manhattan and Brooklyn. Designed by John A. Roebling, with his son Washington Roebling as chief engineer, assisted by Emily Warren Roebling, it took thirteen years to build and opened on 24 May 1883. It was the first fixed crossing of the East River and, with a main span of 486.3 metres, the longest suspension bridge in the world at the time. Its hybrid design uses both vertical and diagonal cables, hung from neo-Gothic stone towers with pointed arches. Carlos Delgado took this night photograph in July 2012 for Wiki Loves Monuments, with the Freedom Tower, then under construction, and 8 Spruce Street behind.",
+      "lookAt": "A slow shutter erased the cars and kept their lights: white and amber streaks run along the roadway toward the stone tower. Above them, the cables and steel crossbeams make a net of lines that all converge on that pointed arch. Fixed geometry plus moving light is the classic night-bridge recipe.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+        "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_-_03.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Brooklyn Bridge",
+        "line2": "Carlos Delgado · New York City"
+      },
+      "order": 19,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "loc-highsmith-chrysler",
+      "kind": "photograph",
+      "title": "Chrysler Building detail, New York, New York",
+      "maker": "Carol M. Highsmith",
+      "year": "2007",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chrysler_Building_spire%2C_Manhattan%2C_by_Carol_Highsmith_%28LOC_highsm.04444%29.png/1280px-Chrysler_Building_spire%2C_Manhattan%2C_by_Carol_Highsmith_%28LOC_highsm.04444%29.png",
+        "width": 1280,
+        "height": 2339,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Carol M. Highsmith photographed the crown of the Chrysler Building on September 16, 2007. Since 1992 she has given her pictures of American places to the Library of Congress, nearly 100,000 images placed in the public domain, following the example of Frances Benjamin Johnston, who also donated her life's work there. This frame is born digital, part of Carol M. Highsmith's America, which the Library acquired in 2009. The building, designed by William Van Alen and finished in 1930, has a terraced crown of seven radiating arches clad in Nirosta stainless steel with triangular windows. Its 125-foot spire was built secretly inside the frame and raised on October 23, 1929; the building was the world's tallest for 11 months.",
+      "lookAt": "The verticals stay parallel; seen from the street below, the tower would lean backward. Sun catches the steel arches on one side, the other falls to grey, so the crown reads in relief against a deep blue sky. Get distance and height, not a wide lens, to keep architecture upright.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://en.wikipedia.org/wiki/Chrysler_Building",
+        "https://commons.wikimedia.org/wiki/File:Chrysler_Building_spire,_Manhattan,_by_Carol_Highsmith_(LOC_highsm.04444).png",
+        "https://www.loc.gov/pictures/item/2010630430/"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2007",
+        "title": "Chrysler Building Crown",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "order": 20,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-lake-hawea",
+      "kind": "place",
+      "title": "Lake Hāwea",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sun_over_Lake_Hawea%2C_New_Zealand.jpg/1280px-Sun_over_Lake_Hawea%2C_New_Zealand.jpg",
+        "width": 1280,
+        "height": 532,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Otago",
+        "lat": -44.5,
+        "lon": 169.2833,
+        "facts": [
+          [
+            "Area",
+            "c. 151 km²"
+          ],
+          [
+            "Depth",
+            "392 m"
+          ],
+          [
+            "Altitude",
+            "348 m"
+          ],
+          [
+            "Coordinates",
+            "44.50° S, 169.28° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Lake Hāwea lies in the Otago Region of New Zealand's South Island, at 348 metres above sea level. It stretches 35 kilometres from north to south, covers about 151 square kilometres and is 392 metres deep. It fills a glacial valley formed during the last ice age and is dammed at its southern end by a terminal moraine about 10,000 years old. In 1958 the lake was raised 20 metres to store water for hydroelectric power at the Roxburgh Dam. Lake Wānaka lies in a parallel glacial valley 8 kilometres to the west. The lake is named after a Māori tribe who preceded the Waitaha people. Michal Klajban took this photograph at 08:42 on 4 April 2019.",
+      "lookAt": "This is about timing. Shafts of sun break through the cloud and fall as pale columns between the ridges, lighting the mist over the water; minutes later they would be gone. Exposing for the bright cloud lets the mountains sink toward silhouette, and the thin strip of lake keeps the horizon low, leaving the drama overhead.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_H%C4%81wea",
+        "https://commons.wikimedia.org/wiki/File:Sun_over_Lake_Hawea,_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Lake Hāwea",
+        "line2": "Michal Klajban · Otago"
+      },
+      "order": 21,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-sydney-opera-house",
+      "kind": "place",
+      "title": "Sydney Opera House",
+      "maker": "Diliff",
+      "year": "2008",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/1280px-Sydney_Opera_House_-_Dec_2008.jpg",
+        "width": 1280,
+        "height": 707,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Australia",
+        "region": "Sydney",
+        "lat": -33.8526,
+        "lon": 151.2107,
+        "facts": [
+          [
+            "Opened",
+            "20 October 1973"
+          ],
+          [
+            "Architect",
+            "Jørn Utzon"
+          ],
+          [
+            "Height",
+            "65 m"
+          ],
+          [
+            "UNESCO",
+            "2007"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Sydney Opera House occupies the whole of Bennelong Point on Sydney Harbour. The Danish architect Jørn Utzon won an international design competition in 1957, and the New South Wales government authorised work to begin the following year. Cost and schedule overruns followed, Utzon resigned, and an Australian team led by Peter Hall completed the building. Queen Elizabeth II opened it on 20 October 1973. Its roof is a series of precast concrete shells, each made from sections of a sphere 75.2 metres in radius. It became a UNESCO World Heritage Site in 2007. Diliff took this exposure-blended photograph from the Sydney Harbour Bridge on 2 December 2008, using a Canon 5D and a 100mm lens.",
+      "lookAt": "A 100mm lens from the Harbour Bridge compresses the scene: the shells, the waterfront and the city lights behind seem stacked close together. Seen from above and to the side, the shells overlap like fanned sails. Blending exposures kept detail in the bright white roofs and in the dark harbour at once.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+        "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · AUSTRALIA",
+        "title": "Sydney Opera House",
+        "line2": "Diliff · Sydney"
+      },
+      "order": 22,
+      "batch": "2026-10-12"
+    },
+    {
+      "id": "nypl-abbott-pike-street",
+      "kind": "photograph",
+      "title": "Pike and Henry Streets, Manhattan",
+      "maker": "Berenice Abbott",
+      "year": "1936",
+      "collection": "New York Public Library",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg/1280px-Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg",
+        "width": 1280,
+        "height": 983,
+        "license": "Public domain",
+        "credit": "Berenice Abbott, New York Public Library, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Berenice Abbott made this view down Pike Street toward the Manhattan Bridge on March 6, 1936, for Changing New York. She had returned to New York in 1929 after years in Paris, where she had bought the remainder of Eugène Atget's archive, and set out to record the city as it turned into a modern metropolis, working with an 8 × 10-inch Century Universal view camera. In 1935 the Federal Art Project hired her as supervisor of the project, which let her hire assistants and concentrate on photographing and printing. By her resignation in 1939 she had produced 305 photographs, and a book of the series appeared that year with captions by Elizabeth McCausland. She favoured natural light, careful composition and sharp focus.",
+      "lookAt": "Tenement walls and their fire escapes funnel to the bridge tower, framed in the gap at the end of the street. Haze pales the tower, so the distance reads as layers. Shadow fills the left foreground while sun lands on the right pavement. Look for streets that frame a landmark, and shoot when air adds depth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Berenice_Abbott",
+        "https://commons.wikimedia.org/wiki/File:Pike_and_Henry_Street_by_Berenice_Abbott_in_1936.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1936",
+        "title": "Pike Street, Manhattan Bridge",
+        "line2": "Berenice Abbott · NYPL"
+      },
+      "order": 23,
+      "batch": "2026-10-12"
+    }
+  ]
+}
