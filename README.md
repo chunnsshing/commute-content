@@ -10,3 +10,9 @@ The app matches pictures by `id` and never shows an id twice, so new pictures ar
 Every picture is public domain, CC0, or Creative Commons (CC BY / CC BY-SA), with the photographer credited in
 `image.credit` and the licence in `image.license`. Rights-managed work appears only as a link card (`image: null`).
 Stories are written only from the sources listed in each item's `sources`.
+
+## Nightly batch
+
+A scheduled Claude Code routine adds 30 new pictures to `feed.json` every night, following
+[`content/louvre/AUTHORING.md`](content/louvre/AUTHORING.md) and checked by `tools/validate.py`.
+`content/louvre/history.json` remembers every picture ever published so nothing repeats; `feed.json` keeps the newest 10 batches.
