@@ -1118,6 +1118,1357 @@
       },
       "order": 23,
       "batch": "2026-10-12"
+    },
+    {
+      "id": "commons-serengeti-sunrise",
+      "kind": "place",
+      "title": "Serengeti at Sunrise",
+      "maker": "Giles Laurent",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/004_Sunrise_at_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-004_Sunrise_at_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+        "width": 1280,
+        "height": 409,
+        "license": "CC BY-SA 4.0",
+        "credit": "Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Tanzania",
+        "region": "Serengeti",
+        "lat": -2.3398,
+        "lon": 34.7334,
+        "facts": [
+          [
+            "Protected area",
+            "c. 30,000 km²"
+          ],
+          [
+            "Spans",
+            "Mara and Arusha Regions, Tanzania"
+          ],
+          [
+            "Habitats",
+            "Kopjes, grasslands, woodlands"
+          ],
+          [
+            "Coordinates",
+            "2.34° S, 34.73° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Serengeti is a geographical region in Africa, spanning the Mara and Arusha Regions of Tanzania and extending to southwestern Kenya. The protected area within it covers about 30,000 square kilometres, including Serengeti National Park and several game reserves. It hosts one of the world's largest land animal migrations by total body weight, and is counted among the Seven Natural Wonders of Africa. Its habitats include riverine forests, swamps, kopjes, grasslands and woodlands, and about 70 large mammal and 500 bird species live there. The name is often said to come from the Maa word \"seringit\", meaning \"endless plains\", though that etymology does not appear in Maa dictionaries. This panorama was taken at 05:02 on 9 July 2020, in the golden hour of sunrise.",
+      "lookAt": "A 140 mm lens with a teleconverter squeezes the low hill and the distant horizon into a thin band, leaving the grass to fill most of the frame. Early sunlight rakes across the seed heads and turns each tuft gold while the sky stays a cool violet. Look for that warm-against-cool contrast in the first minutes after sunrise.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serengeti",
+        "https://commons.wikimedia.org/wiki/File:004_Sunrise_at_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · TANZANIA",
+        "title": "Serengeti at Sunrise",
+        "line2": "Giles Laurent · Serengeti"
+      },
+      "order": 24,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-dune-45-sossusvlei",
+      "kind": "place",
+      "title": "Dune 45",
+      "maker": "Giles Laurent",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg/1280px-006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Namibia",
+        "region": "Namib-Naukluft",
+        "lat": -24.7398,
+        "lon": 15.2877,
+        "facts": [
+          [
+            "Height",
+            "80 m"
+          ],
+          [
+            "Sand age",
+            "5 million years"
+          ],
+          [
+            "Location",
+            "45 km past Sesriem"
+          ],
+          [
+            "Coordinates",
+            "24.74° S, 15.29° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Dune 45 stands in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia. It is so called because it lies 45 kilometres past Sesriem on the road to Sossusvlei. The dune is 80 metres high and is composed of 5-million-year-old sands. The photographer's file description says it is made of iron-rich quartz sand, whose deepening red tones come from gradual oxidation. That sand began as sediment carried by the Orange River to the Atlantic, was moved north by coastal currents, and was blown inland by south-westerly winds. This frame was taken at 08:39 on 24 July 2025 with a 70–200 mm lens set to 113 mm.",
+      "lookAt": "The sun rakes in from the left, so the ridge becomes one hard, curving line that splits the dune into red light and blue-black shadow. That edge is the whole composition. A 113 mm focal length flattens the slope into a clean shape, and tiny acacias at its base give the scale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sossusvlei",
+        "https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NAMIBIA",
+        "title": "Dune 45",
+        "line2": "Giles Laurent · Namib-Naukluft"
+      },
+      "order": 25,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "loc-genthe-clay-street-fire",
+      "kind": "photograph",
+      "title": "Looking East Down Clay Street",
+      "maker": "Arnold Genthe",
+      "year": "1906",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arnold_Genthe%2C_San_Francisco%2C_April_18%2C_1906.jpg/1280px-Arnold_Genthe%2C_San_Francisco%2C_April_18%2C_1906.jpg",
+        "width": 1280,
+        "height": 1713,
+        "license": "Public domain",
+        "credit": "Arnold Genthe, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Arnold Genthe made this photograph on 18 April 1906, looking east down Clay Street at the Great Fire in San Francisco. Genthe was born in Berlin and arrived in San Francisco in 1895 to work as a tutor, teaching himself photography afterwards. He was intrigued by the Chinese section of the city and photographed its inhabitants; about 200 of his Chinatown pictures survive. The earthquake and fire destroyed his studio, but he rebuilt. The Library of Congress holds this 4 × 5 inch lantern slide under digital ID cph.3c36175, and Genthe published the picture in his 1936 book As I Remember.",
+      "lookAt": "Two figures stand in the foreground with their backs to you, so you look over their shoulders at the fire. The steep street leads up to a bright smoke cloud, and the dark foreground against the light centre guides the eye. When something big happens, put people in front of it, so the viewer stands where they stand.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arnold_Genthe",
+        "https://commons.wikimedia.org/wiki/File:Arnold_Genthe,_San_Francisco,_April_18,_1906.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1906",
+        "title": "Looking East Down Clay Street",
+        "line2": "Arnold Genthe · Library of Congress"
+      },
+      "order": 26,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-matterhorn-stellisee-milky-way",
+      "kind": "place",
+      "title": "Matterhorn and the Milky Way",
+      "maker": "Giles Laurent",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/008_Milky_way_aligned_with_the_Matterhorn_reflecting_in_Stellisee_Photo_by_Giles_Laurent.jpg/1280px-008_Milky_way_aligned_with_the_Matterhorn_reflecting_in_Stellisee_Photo_by_Giles_Laurent.jpg",
+        "width": 1280,
+        "height": 2507,
+        "license": "CC BY-SA 4.0",
+        "credit": "Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Switzerland",
+        "region": "Valais",
+        "lat": 45.9764,
+        "lon": 7.6586,
+        "facts": [
+          [
+            "Summit",
+            "4,478 m"
+          ],
+          [
+            "First ascent",
+            "14 July 1865"
+          ],
+          [
+            "Faces",
+            "Four, split by four ridges"
+          ],
+          [
+            "Coordinates",
+            "45.98° N, 7.66° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "The Matterhorn is a mountain of the Alps on the border between Switzerland and Italy, a near-symmetric pyramidal peak in the Pennine Alps whose summit is 4,478 metres above sea level. It has four faces, separated by the Hörnli, Furggen, Zmutt and Leone ridges, and overlooks the Swiss town of Zermatt. Edward Whymper's party made the first ascent on 14 July 1865, and four climbers fell to their deaths on the descent. The peak is mainly gneiss that began as fragments of the African plate. The photographer says this picture needed months of waiting for clear skies, a new moon and the Milky Way passing behind the summit. Those conditions met on 20 August 2023, and he waited until about 3 a.m.",
+      "lookAt": "Plan first, then wait. Phone apps predicted the night the Milky Way would stand behind the summit, and the shutter then stayed open for 8 seconds at f/1.4 on a 24 mm lens. The still lake doubles both peak and stars, and the vertical format gives the sky most of the frame. Plan the shot around the sky.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Matterhorn",
+        "https://commons.wikimedia.org/wiki/File:008_Milky_way_aligned_with_the_Matterhorn_reflecting_in_Stellisee_Photo_by_Giles_Laurent.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SWITZERLAND",
+        "title": "Matterhorn and the Milky Way",
+        "line2": "Giles Laurent · Valais"
+      },
+      "order": 27,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-tianzi-mountain-wulingyuan",
+      "kind": "place",
+      "title": "Tianzi Mountain, Wulingyuan",
+      "maker": "chensiyuan",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+        "width": 1280,
+        "height": 639,
+        "license": "CC BY-SA 4.0",
+        "credit": "chensiyuan, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Hunan",
+        "lat": 29.333,
+        "lon": 110.5,
+        "facts": [
+          [
+            "Pillars",
+            "3,000+ quartzite sandstone"
+          ],
+          [
+            "Area",
+            "690 km²"
+          ],
+          [
+            "Formed",
+            "Devonian, 400–350 million years ago"
+          ],
+          [
+            "Coordinates",
+            "29.33° N, 110.50° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Wulingyuan is a scenic and historical site in Hunan Province in South Central China, noted for more than 3,000 quartzite sandstone pillars and peaks, many over 200 metres high, along with ravines, gorges, streams and waterfalls. It lies in Zhangjiajie City, about 270 kilometres northwest of Changsha, and covers 690 square kilometres. It is made up of four parks, including the Tianzi Mountain Nature Reserve. The pillars formed during the Devonian period, 400 to 350 million years ago, through a combination of tectonic uplift and water erosion. UNESCO inscribed the site in 1992. This panorama was taken from Mount Tianzi Shan; it is a featured picture on Commons, and its metadata dates it to 9 October 2012.",
+      "lookAt": "Haze does the compositional work here. Each ridge of pillars is paler and bluer than the one in front, so depth reads as stacked layers. A 17 mm lens keeps the foreground trees large and the distant ridges small. Find a viewpoint above the valley and let atmospheric haze separate the planes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wulingyuan Scenic and Historic Interest Area",
+        "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Tianzi Mountain, Wulingyuan",
+        "line2": "chensiyuan · Hunan"
+      },
+      "order": 28,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "loc-watkins-half-dome",
+      "kind": "photograph",
+      "title": "Half Dome, Yosemite Valley",
+      "maker": "Carleton Watkins",
+      "year": "c. 1865",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Carleton_Watkins%2C_Half_Dome%2C_Yosemite_Valley%2C_California%2C_ca._1865.jpg/1280px-Carleton_Watkins%2C_Half_Dome%2C_Yosemite_Valley%2C_California%2C_ca._1865.jpg",
+        "width": 1280,
+        "height": 1013,
+        "license": "Public domain",
+        "credit": "Carleton Watkins, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Carleton Watkins made this albumen print of Half Dome around 1865. He was born in 1829, and in July 1861 he travelled to Yosemite with his mammoth-plate camera, which used 18 × 22 inch glass plates, and his stereoscopic camera. He returned with thirty mammoth plates and one hundred stereoview negatives. It is said that Senator John Conness passed Watkins' photographs around Congress, one of the major factors in Lincoln signing the Yosemite Grant in 1864. Wikipedia says his photographs brought Half Dome to people. His studio was destroyed in the 1906 San Francisco earthquake and fire. The Library of Congress holds this print under digital ID ppmsca.09985.",
+      "lookAt": "The camera stands on a ledge, and the rock edge at lower right gives a foreground that makes the drop feel real. The dark valley floor and pale far ridges separate by tone alone, and the dome catches the light at top right. Get on a ledge, include the near rock, and let tone create the distance.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carleton_Watkins",
+        "https://commons.wikimedia.org/wiki/File:Carleton_Watkins,_Half_Dome,_Yosemite_Valley,_California,_ca._1865.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1865",
+        "title": "Half Dome, Yosemite Valley",
+        "line2": "Carleton Watkins · Library of Congress"
+      },
+      "order": 29,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-sildpollnes-church-lofoten",
+      "kind": "place",
+      "title": "Sildpollnes Church, Lofoten",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/A_Late_evening_view_to_Austnesfjorden_at_Sildpollnes_Church%2C_Austv%C3%A5g%C3%B8ya%2C_Lofoten%2C_Norway%2C_2015_April.jpg/1280px-A_Late_evening_view_to_Austnesfjorden_at_Sildpollnes_Church%2C_Austv%C3%A5g%C3%B8ya%2C_Lofoten%2C_Norway%2C_2015_April.jpg",
+        "width": 1280,
+        "height": 439,
+        "license": "CC BY-SA 4.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Nordland",
+        "lat": 68.3218,
+        "lon": 14.7193,
+        "facts": [
+          [
+            "Island",
+            "Austvågøya, Lofoten"
+          ],
+          [
+            "Towns",
+            "Svolvær and Leknes"
+          ],
+          [
+            "Leknes",
+            "169 km north of the Arctic Circle"
+          ],
+          [
+            "Camera position",
+            "68.32° N, 14.72° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Lofoten is an archipelago and traditional district in Nordland county, Norway, with dramatic mountains and peaks, open sea and sheltered bays, beaches and untouched lands. It has two towns, Svolvær and Leknes, and Leknes lies about 169 kilometres north of the Arctic Circle. Winter temperatures are extremely mild for the latitude, possibly the largest positive temperature anomaly in the world relative to latitude. This view looks across Austnesfjorden to Sildpollnes Church, on the Sildpollnes peninsula of the island of Austvågøya. It was taken at 22:11 on 26 April 2015 and is a panorama of several frames merged in software using a cylindrical projection.",
+      "lookAt": "A small white church with a red roof sits at the left edge, and its size tells you how tall the snowy peaks really are. Dry grass in the foreground leads the eye to the water. Late-evening cloud keeps the light soft and blue, so the church's warm colours are the only bright note.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lofoten",
+        "https://commons.wikimedia.org/wiki/File:A_Late_evening_view_to_Austnesfjorden_at_Sildpollnes_Church,_Austvågøya,_Lofoten,_Norway,_2015_April.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Sildpollnes Church, Lofoten",
+        "line2": "Ximonic (Simo Räsänen) · Nordland"
+      },
+      "order": 30,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-kolmanskop-doorway",
+      "kind": "place",
+      "title": "Kolmanskop Doorway",
+      "maker": "James Kerwin Photographic",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abandoned_building%2C_Kolmannskuppe%2C_Namibia.jpg/1280px-Abandoned_building%2C_Kolmannskuppe%2C_Namibia.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY 2.0",
+        "credit": "James Kerwin Photographic, CC BY 2.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Namibia",
+        "region": "Near Lüderitz",
+        "lat": -26.7042,
+        "lon": 15.2325,
+        "facts": [
+          [
+            "Diamond found",
+            "1908"
+          ],
+          [
+            "Distance",
+            "10 km inland from Lüderitz"
+          ],
+          [
+            "Abandoned",
+            "1956"
+          ],
+          [
+            "Coordinates",
+            "26.70° S, 15.23° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Kolmanskop, Afrikaans for \"Coleman's peak\", is a ghost town in the Namib in southern Namibia, 10 kilometres inland from the port of Lüderitz. In 1908, in what was then German South-West Africa, railway worker Zacharias Lewala found a diamond and showed it to his supervisor, the German railway inspector August Stauch. German miners settled, and residents built the village in the style of a German town, with a hospital, ballroom, power station, casino and ice factory, the first x-ray station in the southern hemisphere and the first tram in Africa. The diamond field began to deplete during World War I, and the town was abandoned in 1956. Tourists now walk through houses knee-deep in sand, and need a permit to enter.",
+      "lookAt": "Doorways inside doorways make a tunnel of frames, each smaller and lit differently, so the eye travels to the leaning door at the centre. The sand rising through the rooms is a diagonal that breaks the symmetry. Stand square to the wall, keep the camera level, and let soft window light fall evenly on the peeling paint.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kolmanskop",
+        "https://commons.wikimedia.org/wiki/File:Abandoned_building,_Kolmannskuppe,_Namibia.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NAMIBIA",
+        "title": "Kolmanskop Doorway",
+        "line2": "James Kerwin Photographic · Near Lüderitz"
+      },
+      "order": 31,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "nara-adams-old-faithful",
+      "kind": "photograph",
+      "title": "Old Faithful Geyser",
+      "maker": "Ansel Adams",
+      "year": "1941–42",
+      "collection": "U.S. National Archives",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photograph_of_Old_Faithful_Geyser_Erupting_in_Yellowstone_National_Park_-_NARA_-_519994.jpg/1280px-Photograph_of_Old_Faithful_Geyser_Erupting_in_Yellowstone_National_Park_-_NARA_-_519994.jpg",
+        "width": 1280,
+        "height": 1830,
+        "license": "Public domain",
+        "credit": "Ansel Adams, U.S. National Archives, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "This photograph of Old Faithful erupting against a dark sky is by Ansel Adams (1902–1984). It belongs to the series Ansel Adams Photographs of National Parks and Monuments, compiled 1941–1942 and documenting the period around 1933 to 1942; the file page gives no exact date. The National Archives holds it in Record Group 79, records of the National Park Service, as 79-AA-T04 (NAID 519994). Old Faithful is a cone geyser in Yellowstone National Park in Wyoming, named in 1870 during the Washburn–Langford–Doane Expedition. It erupts on average every 92 minutes, for 1½ to 5 minutes, to a height of 106 to 185 feet.",
+      "lookAt": "The sky is almost black while the steam is bright white, so the plume stands out like a solid shape. Adams lets the cloud take most of the frame and leaves only a thin strip of textured ground for scale. Wait for the eruption, expose for the steam highlights, and let the sky fall dark.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Old_Faithful",
+        "https://commons.wikimedia.org/wiki/File:Photograph_of_Old_Faithful_Geyser_Erupting_in_Yellowstone_National_Park_-_NARA_-_519994.jpg",
+        "https://catalog.archives.gov/id/519994"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1941–42",
+        "title": "Old Faithful Geyser",
+        "line2": "Ansel Adams · U.S. National Archives"
+      },
+      "order": 32,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-ama-dablam-pheriche",
+      "kind": "place",
+      "title": "Ama Dablam",
+      "maker": "Vyacheslav Argenberg",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ama_Dablam%2C_Nepal.jpg/1280px-Ama_Dablam%2C_Nepal.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY 4.0",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Nepal",
+        "region": "Khumbu",
+        "lat": 27.8611,
+        "lon": 86.8611,
+        "facts": [
+          [
+            "Main peak",
+            "6,812 m"
+          ],
+          [
+            "Name",
+            "\"Mother's charm box\" (Sherpa)"
+          ],
+          [
+            "First ascent",
+            "13 March 1961"
+          ],
+          [
+            "Coordinates",
+            "27.86° N, 86.86° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ama Dablam is a mountain in the Eastern Himalayas in Koshi Province, Nepal, in the Khumbu. Its main peak is 6,812 metres high and the lower western peak is 6,170 metres. The name literally means \"mother's charm box\" in the Sherpa language. Because of its soaring ridges and steep faces, it is sometimes called the \"Matterhorn of the Himalayas\". The first successful ascent was made on 13 March 1961, when Mike Gill and Barry Bishop were joined by Mike Ward and Wally Romanes, who climbed the Southwest Ridge. This photograph, a northwest view from Pheriche, Nepal, was taken on 20 October 2009.",
+      "lookAt": "Midday sun lights the snow faces almost flat, so the shape comes from the ridgelines and the shadowed rock beside them. The dark, empty foreground and the low stone wall give the peak a size reference. A deep blue sky is the only backdrop needed to frame so much white.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ama_Dablam",
+        "https://commons.wikimedia.org/wiki/File:Ama_Dablam,_Nepal.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEPAL",
+        "title": "Ama Dablam",
+        "line2": "Vyacheslav Argenberg · Khumbu"
+      },
+      "order": 33,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-aoraki-mount-cook-mueller-hut-track",
+      "kind": "place",
+      "title": "Aoraki / Mount Cook",
+      "maker": "Michal Klajban",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg/1280px-Aoraki_-_Mt_Cook%2C_Aoraki_-_Mount_Cook_National_Park%2C_New_Zealand.jpg",
+        "width": 1280,
+        "height": 672,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Southern Alps",
+        "lat": -43.595,
+        "lon": 170.1419,
+        "facts": [
+          [
+            "Height",
+            "3,724 m (2014)"
+          ],
+          [
+            "Range",
+            "Southern Alps"
+          ],
+          [
+            "First known ascent",
+            "25 December 1894"
+          ],
+          [
+            "Coordinates",
+            "43.60° S, 170.14° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Aoraki / Mount Cook is the highest mountain in New Zealand, listed in 2014 at 3,724 metres, in the Southern Alps of the South Island. It has three summits, the Low Peak, Middle Peak and High Peak, with the Tasman Glacier to the east and the Hooker Glacier to the southwest. The English name was given in 1851 by Captain John Lort Stokes to honour Captain James Cook. The first known ascent was on 25 December 1894, by Tom Fyfe, Jack Clarke and George Graham. On 14 December 1991, roughly 12 to 14 million cubic metres of rock and ice fell off the northern peak. This photograph was taken from the upper parts of the track to Mueller Hut on 16 January 2020.",
+      "lookAt": "From above the valley, layers appear: sunlit snow on the summit, blue mid-ridges, then dark slopes in shade. Haze softens the distance so the eye can separate each ridge. The pale lake and thin river below show where the valley floor falls away. A high viewpoint turns mountains into stacked planes of tone.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Cook",
+        "https://commons.wikimedia.org/wiki/File:Aoraki_-_Mt_Cook,_Aoraki_-_Mount_Cook_National_Park,_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Aoraki / Mount Cook",
+        "line2": "Michal Klajban · Southern Alps"
+      },
+      "order": 34,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "nypl-abbott-manhattan-skyline",
+      "kind": "photograph",
+      "title": "Manhattan Skyline, South Street and Jones Lane",
+      "maker": "Berenice Abbott",
+      "year": "1936",
+      "collection": "New York Public Library",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Manhattan_Skyline_I_South_Street_and_Jones_Lane_Manhattan_by_Berenice_Abbott_March_26_1936.jpg/1280px-Manhattan_Skyline_I_South_Street_and_Jones_Lane_Manhattan_by_Berenice_Abbott_March_26_1936.jpg",
+        "width": 1280,
+        "height": 1020,
+        "license": "Public domain",
+        "credit": "Berenice Abbott, New York Public Library, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Berenice Abbott made this photograph on 26 March 1936 from East River Pier 11, looking toward South Street and Jones Lane in Manhattan. It shows 120 Wall Street at far right and 40 Wall Street, with its pointed top, in the centre, plus signs for Wallrope, McMillan Shackle Blocks and Downtown Skyport. Abbott was born in Springfield, Ohio, in 1898; in Paris she became an assistant to Man Ray, who introduced her to Eugène Atget's photographs in 1925. In 1935 she was hired by the Federal Art Project as a project supervisor and used a large format camera to photograph the city. Commons treats the picture as the work of a WPA employee, in the public domain.",
+      "lookAt": "Abbott stands at the end of a pier, and its edge leads the eye straight into a canyon of towers. Tall buildings pointing up, a sliver of sky and cloud between them, and a low level camera keep the verticals straight. Find a long foreground line that points into your subject.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Berenice_Abbott",
+        "https://commons.wikimedia.org/wiki/File:Manhattan_Skyline_I_South_Street_and_Jones_Lane_Manhattan_by_Berenice_Abbott_March_26_1936.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1936",
+        "title": "Manhattan Skyline, South Street and Jones Lane",
+        "line2": "Berenice Abbott · New York Public Library"
+      },
+      "order": 35,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-batok-from-bromo",
+      "kind": "place",
+      "title": "Mount Batok from Bromo",
+      "maker": "Jakub Hałun",
+      "year": "2022",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Batok%2C_view_from_Bromo_volcano%2C_Java%2C_Indonesia%2C_20220820_0539_9409.jpg/1280px-Batok%2C_view_from_Bromo_volcano%2C_Java%2C_Indonesia%2C_20220820_0539_9409.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 4.0",
+        "credit": "Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Indonesia",
+        "region": "East Java",
+        "lat": -7.9417,
+        "lon": 112.95,
+        "facts": [
+          [
+            "Bromo",
+            "2,329 m"
+          ],
+          [
+            "Name",
+            "From Brahma, Hindu god of creation"
+          ],
+          [
+            "Reserve",
+            "Protected since 1919"
+          ],
+          [
+            "Coordinates (Bromo)",
+            "7.94° S, 112.95° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Mount Batok is the neighbouring cone that is often mistaken for Mount Bromo because of its prominence in the Tengger caldera. Bromo itself stands at 2,329 metres in the middle of a plain called the Sea of Sand, in a nature reserve protected since 1919. It is not the highest peak of the massif but is the most active and famous. The name Bromo comes from the Javanese pronunciation of Brahma, the Hindu god of creation. Bromo erupted in 2004, and two people were killed by rocks thrown out in that episode, and it began to erupt violently again on 26 November 2010. This photograph shows Batok in early-morning light, taken from the peak of Bromo's cone at 05:39 on 20 August 2022.",
+      "lookAt": "Low sun lights only Batok's slopes, so its fluted gullies glow orange against a deep blue sky and run like lines down the cone. The dark crater rim in the foreground gives the glowing cone depth, and a pale plume and low mist soften the background. Be on the rim before sunrise.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Bromo",
+        "https://commons.wikimedia.org/wiki/File:Batok,_view_from_Bromo_volcano,_Java,_Indonesia,_20220820_0539_9409.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDONESIA",
+        "title": "Mount Batok from Bromo",
+        "line2": "Jakub Hałun · East Java"
+      },
+      "order": 36,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-tara-cathedrals-atacama",
+      "kind": "place",
+      "title": "Tara Cathedrals",
+      "maker": "Diego Delso",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Catedrales_de_Tara%2C_Chile%2C_2016-02-07%2C_DD_62.JPG/1280px-Catedrales_de_Tara%2C_Chile%2C_2016-02-07%2C_DD_62.JPG",
+        "width": 1280,
+        "height": 717,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Antofagasta",
+        "lat": -23.1167,
+        "lon": -67.4333,
+        "facts": [
+          [
+            "Reserve area",
+            "740 km²"
+          ],
+          [
+            "Commune",
+            "San Pedro de Atacama"
+          ],
+          [
+            "Maximum elevation",
+            "4,860 m (Tara–Aguas Calientes)"
+          ],
+          [
+            "Coordinates (reserve)",
+            "23.12° S, 67.43° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Tara salt flat lies in the Atacama Desert of northern Chile. The Salar de Tara reserve is in the commune of San Pedro de Atacama, Antofagasta Region, and covers 740 square kilometres in seven separate sections. In the Tara and Aguas Calientes area the terrain reaches up to 4,860 metres above sea level. The reserve was designated a Wetland of International Importance under the Ramsar Convention in 1996. Its wildlife includes several flamingo species, which are classed as vulnerable, along with endangered species such as the vicuña and Darwin's rhea, and it is managed by the Corporación Nacional Forestal. This panorama, taken at 12:01 on 7 February 2016, shows the Tara Cathedrals on the left and the salt flat.",
+      "lookAt": "Midday sun is usually a problem, but here the cumulus clouds do the work: they build a high, textured sky over the green wetland and the pale lake. The red rock spires sit small on the left, balanced by the clouds on the right. At f/11 on a 24 mm lens, everything from bushes to far mountains stays sharp.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salar_de_Tara",
+        "https://commons.wikimedia.org/wiki/File:Catedrales_de_Tara,_Chile,_2016-02-07,_DD_62.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Tara Cathedrals",
+        "line2": "Diego Delso · Antofagasta"
+      },
+      "order": 37,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "loc-evans-johnstown-housing",
+      "kind": "photograph",
+      "title": "Johnstown Housing, Pennsylvania",
+      "maker": "Walker Evans",
+      "year": "1935",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Walker_Evans%2C_Johnstown_housing%2C_Pennsylvania%2C_1935.jpg/1280px-Walker_Evans%2C_Johnstown_housing%2C_Pennsylvania%2C_1935.jpg",
+        "width": 1280,
+        "height": 1008,
+        "license": "Public domain",
+        "credit": "Walker Evans, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Walker Evans made this photograph of housing in Johnstown, Pennsylvania, in December 1935, as part of his work for the Resettlement and Farm Security Administration. The Library of Congress holds it under digital IDs fsa.8c52080 and cph.3c03098. Evans was born in St. Louis, Missouri, and quickly turned a temporary job into a full-time position as an information specialist. The majority of his New Deal photography used a large format 8 × 10 inch view camera. He said his goal was to make pictures that are \"literate, authoritative, transcendent\", and in a 1964 Yale lecture he described his own style as \"Lyric Documentary\".",
+      "lookAt": "From a vantage above the town, a view camera records every roof, porch and fence rail with equal sharpness. A dusting of snow outlines the roofs and the slope, so the rooftops repeat in a pattern from the bottom edge to the top. Find a high viewpoint and let one repeating shape fill the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Walker_Evans",
+        "https://commons.wikimedia.org/wiki/File:Walker_Evans,_Johnstown_housing,_Pennsylvania,_1935.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1935",
+        "title": "Johnstown Housing, Pennsylvania",
+        "line2": "Walker Evans · Library of Congress"
+      },
+      "order": 38,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-eilean-donan-sunrise",
+      "kind": "place",
+      "title": "Eilean Donan at Sunrise",
+      "maker": "Diliff",
+      "year": "2011",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg/1280px-Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg",
+        "width": 1280,
+        "height": 753,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Scotland",
+        "region": "Loch Duich",
+        "lat": 57.274,
+        "lon": -5.5161,
+        "facts": [
+          [
+            "Setting",
+            "Meeting of Lochs Duich, Long and Alsh"
+          ],
+          [
+            "Original castle",
+            "13th century"
+          ],
+          [
+            "Destroyed",
+            "1719"
+          ],
+          [
+            "Coordinates",
+            "57.27° N, 5.52° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Eilean Donan is a small tidal island at the confluence of three sea lochs: Loch Duich, Loch Long and Loch Alsh. The original castle was built in the thirteenth century and became a stronghold of the Clan Mackenzie and their allies, the Clan MacRae. Royal Naval ships destroyed it in 1719, and the castle was demolished by the gunpowder exploding. By 1912 very little of it was still standing. Between 1919 and 1932 it was rebuilt by Lt. Col. John MacRae-Gilstrap, and the present buildings are entirely the result of that 20th-century reconstruction, which included an arched bridge for easier access. This view from the south-east at sunrise was taken on 6 January 2011 as a 2×6 segment panorama.",
+      "lookAt": "Low winter sun strikes the castle's stone and turns it gold while the cloud behind stays dark, so the building glows against its backdrop. The calm tidal water repeats that glow below. The bridge arches lead in from the right. Shoot when the water is still and the sun is low enough to light only the walls.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eilean_Donan",
+        "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle,_Scotland_-_Jan_2011.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SCOTLAND",
+        "title": "Eilean Donan at Sunrise",
+        "line2": "Diliff · Loch Duich"
+      },
+      "order": 39,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-giant-wild-goose-pagoda",
+      "kind": "place",
+      "title": "Giant Wild Goose Pagoda",
+      "maker": "Alexey Komarov",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Giant_Wild_Goose_Pagoda%2C_Xi%27an%2C_May%2C_2018-1.jpg/1280px-Giant_Wild_Goose_Pagoda%2C_Xi%27an%2C_May%2C_2018-1.jpg",
+        "width": 1280,
+        "height": 877,
+        "license": "CC BY-SA 4.0",
+        "credit": "Alexey Komarov, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Shaanxi",
+        "lat": 34.2197,
+        "lon": 108.9594,
+        "facts": [
+          [
+            "Height",
+            "64.1 m including base"
+          ],
+          [
+            "Built",
+            "652, Tang dynasty"
+          ],
+          [
+            "Storeys",
+            "Seven"
+          ],
+          [
+            "Coordinates",
+            "34.22° N, 108.96° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Giant Wild Goose Pagoda is a seven-storey Buddhist pagoda in the Daci'en Temple complex in southern Xi'an, Shaanxi, China. In 652, during the Tang dynasty, the monk Xuanzang oversaw its construction to preserve the hundreds of Sanskrit scriptures he had brought back from India. The original tower had five storeys; under Wu Zetian it was rebuilt as a seven-storey square pavilion-style tower. It is built of brick, and its present exterior mainly reflects major Ming-dynasty work. Its total height, including the base, is 64.1 metres. By 1996 it leaned about one metre, and groundwater control later helped it recover. This photograph was taken at 18:02 on 22 May 2018.",
+      "lookAt": "Shooting straight up the façade from its base makes the vertical lines converge, and each projecting eave becomes a heavy horizontal band that repeats up the tower. Cropping out the surroundings leaves only brick, shadow and blue sky. Warm late sun deepens the brick. Get close, point up, and let the repetition be the picture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Giant_Wild_Goose_Pagoda",
+        "https://commons.wikimedia.org/wiki/File:Giant_Wild_Goose_Pagoda,_Xi'an,_May,_2018-1.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Giant Wild Goose Pagoda",
+        "line2": "Alexey Komarov · Shaanxi"
+      },
+      "order": 40,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "loc-wolcott-cable-ferry",
+      "kind": "photograph",
+      "title": "Old Cable Ferry, Alabama",
+      "maker": "Marion Post Wolcott",
+      "year": "1939",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend%2C_Alabama.jpg/1280px-Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend%2C_Alabama.jpg",
+        "width": 1280,
+        "height": 855,
+        "license": "Public domain",
+        "credit": "Marion Post Wolcott, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Marion Post Wolcott photographed this old cable ferry between Camden and Gees Bend, Alabama, for the Farm Security Administration. The Library of Congress dates it \"May 1939?\", with a question mark, and holds it as fsa.8a40088. Wolcott was born in Montclair, New Jersey, on 7 June 1910; Stryker was impressed by her work and hired her immediately. Her FSA photographs often explore the political aspects of poverty and deprivation. She resigned in February 1942 after marrying Leon Oliver Wolcott and died in Santa Barbara, California, in 1990. The version on Wikimedia Commons was restored by Adam Cuerden.",
+      "lookAt": "The camera faces the low light across the river, so the water becomes a pale sheet and the far trees a dark band. The ferry sits as a silhouette, with a man holding a pole at its edge, and the cable slants across the sky to tie the frame together. Shoot toward the light and expose for the sky.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marion_Post_Wolcott",
+        "https://commons.wikimedia.org/wiki/File:Marion_Post_Wolcott_-_Old_cable_ferry_between_Camden_and_Gees_Bend,_Alabama.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1939",
+        "title": "Old Cable Ferry, Alabama",
+        "line2": "Marion Post Wolcott · Library of Congress"
+      },
+      "order": 41,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-hassan-tower-rabat",
+      "kind": "place",
+      "title": "Hassan Tower",
+      "maker": "Petar Milošević",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hassan_Tower%2C_Rabat_%28%D8%B5%D9%88%D9%85%D8%B9%D8%A9_%D8%AD%D8%B3%D8%A7%D9%86%29.jpg/1280px-Hassan_Tower%2C_Rabat_%28%D8%B5%D9%88%D9%85%D8%B9%D8%A9_%D8%AD%D8%B3%D8%A7%D9%86%29.jpg",
+        "width": 1280,
+        "height": 1705,
+        "license": "CC BY-SA 4.0",
+        "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Morocco",
+        "region": "Rabat",
+        "lat": 34.0242,
+        "lon": -6.8228,
+        "facts": [
+          [
+            "Construction began",
+            "1191"
+          ],
+          [
+            "Height",
+            "44 m (intended 64 m or more)"
+          ],
+          [
+            "Patron",
+            "Abu Yusuf Yaqub al-Mansur"
+          ],
+          [
+            "Coordinates",
+            "34.02° N, 6.82° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Hassan Tower is the minaret of an incomplete mosque in Rabat, Morocco. It was commissioned by Abu Yusuf Yaqub al-Mansur, the third caliph of the Almohad Caliphate, and construction began in 1191. When al-Mansur died in 1199, work on the mosque stopped. The tower is 44 metres tall, though its intended height was at least 64 metres. It is made of sandstone and has a square plan measuring 16 metres per side, while the mosque's walls were lime concrete on a rubble stone base. The mosque also sustained some damage in the 1755 Lisbon earthquake. The site was granted World Heritage status in 2012 as part of historic Rabat. This photograph was taken on 27 March 2024.",
+      "lookAt": "A palm trunk climbs the left of the frame while the tower fills the right: two vertical shapes, one soft and curved, one hard and square. The saturated blue sky and the sandstone's warm tone are near-complementary. The red wall along the bottom anchors the picture. Look for a foreground object whose shape answers your main subject.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hassan_Tower",
+        "https://commons.wikimedia.org/wiki/File:Hassan_Tower,_Rabat_(صومعة_حسان).jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · MOROCCO",
+        "title": "Hassan Tower",
+        "line2": "Petar Milošević · Rabat"
+      },
+      "order": 42,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-himeji-castle-moat",
+      "kind": "place",
+      "title": "Himeji Castle",
+      "maker": "Martin Falbisoner",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Himeji_Castle%2C_November_2016_-02.jpg/1280px-Himeji_Castle%2C_November_2016_-02.jpg",
+        "width": 1280,
+        "height": 664,
+        "license": "CC BY-SA 4.0",
+        "credit": "Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Japan",
+        "region": "Hyōgo",
+        "lat": 34.8394,
+        "lon": 134.6939,
+        "facts": [
+          [
+            "Main keep",
+            "46.4 m high, six floors and a basement"
+          ],
+          [
+            "Rebuilt",
+            "1601–1609"
+          ],
+          [
+            "UNESCO",
+            "11 December 1993"
+          ],
+          [
+            "Coordinates",
+            "34.84° N, 134.69° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Himeji Castle is a hilltop Japanese castle complex in Himeji, a city in Hyōgo Prefecture, often known as White Egret Castle or White Heron Castle. Himeyama hill was first fortified in 1333 by Akamatsu Norimura. Tokugawa Ieyasu granted the castle to his son-in-law Ikeda Terumasa, who completely rebuilt and expanded it from 1601 to 1609. The main keep is 46.4 metres high, standing 92 metres above sea level, and has six floors and a basement. In World War II, although most of the surrounding area was burned to the ground, the castle survived intact, and it again survived the 1995 earthquake virtually undamaged. It was registered as a UNESCO World Heritage Site on 11 December 1993. This photograph was taken on 17 November 2016.",
+      "lookAt": "The stone wall and the white plaster wall in the lower half form a long horizontal that crosses the frame and holds the keep high in the upper right. Red autumn leaves frame it on the left. Using wall and moat as foreground gives the castle a sense of height, defence and distance.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Himeji_Castle",
+        "https://commons.wikimedia.org/wiki/File:Himeji_Castle,_November_2016_-02.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · JAPAN",
+        "title": "Himeji Castle",
+        "line2": "Martin Falbisoner · Hyōgo"
+      },
+      "order": 43,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "nasa-williams-himalaya",
+      "kind": "photograph",
+      "title": "The Himalaya from the Space Station",
+      "maker": "Jeff Williams",
+      "year": "2016",
+      "collection": "NASA",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ISS-47_Himalaya_Mountains.jpg/1280px-ISS-47_Himalaya_Mountains.jpg",
+        "width": 1280,
+        "height": 1923,
+        "license": "Public domain",
+        "credit": "Jeff Williams, NASA, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "NASA astronaut Jeff Williams took this view of the Himalaya from the International Space Station on 30 April 2016, and posted about \"the amazing array of white peaks on the Himalaya Mountains\". NASA's Johnson Space Center catalogues it as ISS047-E-087333. The camera was a Nikon D4 at a 1,150 mm focal length, 1/2,000 second, f/11 and ISO 250, and the Commons file was re-rendered from NASA's raw image data. Williams, born on 18 January 1958, is a retired United States Army officer and former NASA astronaut. He was selected in 1996, became commander of Expedition 48, and his cumulative 534 days in space beat Scott Kelly's total.",
+      "lookAt": "At 1,150 mm the station window becomes a telescope, flattening hundreds of kilometres of ridges into stacked bands. Haze near the horizon turns blue, then black space sits above it, so distance reads as colour. Side light picks out snow and shade. With a long lens, aim along a range and let haze separate the layers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jeff_Williams_(astronaut)",
+        "https://commons.wikimedia.org/wiki/File:ISS-47_Himalaya_Mountains.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2016",
+        "title": "The Himalaya from the Space Station",
+        "line2": "Jeff Williams · NASA"
+      },
+      "order": 44,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-hanging-temple-hunyuan",
+      "kind": "place",
+      "title": "Hanging Temple, Hunyuan",
+      "maker": "Zhangzhugang",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg/1280px-Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 3.0",
+        "credit": "Zhangzhugang, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Shanxi",
+        "lat": 39.6658,
+        "lon": 113.705,
+        "facts": [
+          [
+            "Height above ground",
+            "75 m"
+          ],
+          [
+            "Support",
+            "27 wooden beams"
+          ],
+          [
+            "Traditions",
+            "Confucian, Buddhist and Taoist"
+          ],
+          [
+            "Coordinates",
+            "39.67° N, 113.71° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Hanging Temple, also called the Hanging Monastery or Xuankong Temple, is built into a cliff 75 metres above the ground near Mount Heng, in Hunyuan County, Datong City, Shanxi Province, China. Wikipedia says its construction was started at the end of the Northern Wei dynasty by one man, a monk named Liaoran. It integrates Confucianism, Buddhism and Taoism. The temple relies on 27 wooden beams to support all the main buildings, and oak crossbeams are fitted into holes chiselled into the cliff. It has 40 halls and pavilions in all. The closest city is Datong, 64 kilometres to the northwest. This photograph was taken at 09:02 on 30 August 2013.",
+      "lookAt": "The cliff overhang dominates the frame, which is the point: the temple looks small and fragile beneath all that rock. The pale, flat rock face gives the red and gold roofs strong contrast. Include plenty of cliff and the thin red supports, and let the proportions explain why the building is remarkable.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hanging_Temple",
+        "https://commons.wikimedia.org/wiki/File:Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Hanging Temple, Hunyuan",
+        "line2": "Zhangzhugang · Shanxi"
+      },
+      "order": 45,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-longsheng-rice-terraces",
+      "kind": "place",
+      "title": "Longsheng Rice Terraces",
+      "maker": "King of Hearts",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Longsheng_Rice_Terraces_November_2017_014.jpg/1280px-Longsheng_Rice_Terraces_November_2017_014.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 4.0",
+        "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Guangxi",
+        "lat": 25.75,
+        "lon": 110.1333,
+        "facts": [
+          [
+            "Elevation",
+            "600–800 m"
+          ],
+          [
+            "Age",
+            "About 650 years"
+          ],
+          [
+            "Distance",
+            "About 100 km from Guilin"
+          ],
+          [
+            "Coordinates",
+            "25.75° N, 110.13° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Longji Rice Terraces are in the town of Longji in Longsheng Various Nationalities Autonomous County, about 100 kilometres from Guilin. They lie between 600 and 800 metres above sea level, and the terraced fields were mostly built about 650 years ago. Longji is given in English as \"Dragon's Spine\", while Longsheng means \"Dragon's Victory\". Each season changes them, with layers of water in spring, layers of green rice shoots in summer, layers of rice in fall and layers of frost in winter. In early June, water is pumped over the rice paddies and young plants are moved to the main terraces. This photograph was taken on 22 November 2017, in Longsheng County, Guangxi.",
+      "lookAt": "The curving terrace edges are the subject: each one is a contour line, and from above they repeat in arcs that sweep the eye through the frame. Late-autumn stubble gives a muted gold-and-olive palette, and the grasses in front add depth. Look for a viewpoint high enough that the contour lines stack.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Longji_Rice_Terraces",
+        "https://commons.wikimedia.org/wiki/File:Longsheng_Rice_Terraces_November_2017_014.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Longsheng Rice Terraces",
+        "line2": "King of Hearts · Guangxi"
+      },
+      "order": 46,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "nasa-iss46-northern-india-night",
+      "kind": "photograph",
+      "title": "Northern India at Night",
+      "maker": "NASA astronauts",
+      "year": "2016",
+      "collection": "NASA",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ISS-46_Northern_India_at_night.jpg/1280px-ISS-46_Northern_India_at_night.jpg",
+        "width": 1280,
+        "height": 852,
+        "license": "Public domain",
+        "credit": "NASA, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Astronauts on the International Space Station made this long exposure of Northern India on 18 January 2016, while the Earth was shrouded in darkness. North is on the upper right, where the snowcapped Himalaya and the Tibetan plateau may be seen. Major cities in view include New Delhi, on the right side of the image, and Lahore on the left. NASA's Johnson Space Center catalogues it as ISS046-E-012758. It was shot on a Nikon D4 with a 28 mm lens at f/1.4, 1/3 second and ISO 10,000, and is a Featured Picture on Commons. An annotated version marks about 40 features, including Jaipur, Srinagar, Kabul and Tashkent, and an airglow layer.",
+      "lookAt": "At ISO 10,000, f/1.4 and a third of a second, city lights become glowing clusters joined by thin lines of roads. A pale cloud layer catches the glow, a green airglow band curves along the horizon, and stars sit above it. Use a steady support, open the lens wide and expose only long enough to record the lights.",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:ISS-46_Northern_India_at_night.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2016",
+        "title": "Northern India at Night",
+        "line2": "NASA astronauts · NASA"
+      },
+      "order": 47,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-sun-moon-pagodas-guilin",
+      "kind": "place",
+      "title": "Sun and Moon Pagodas",
+      "maker": "King of Hearts",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sun_and_Moon_Pagodas_Guilin_November_2017_HDR.jpg/1280px-Sun_and_Moon_Pagodas_Guilin_November_2017_HDR.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 4.0",
+        "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Guilin",
+        "lat": 25.2711,
+        "lon": 110.295,
+        "facts": [
+          [
+            "Sun Pagoda",
+            "41 m, nine stories, bronze-faced"
+          ],
+          [
+            "Moon Pagoda",
+            "35 m, seven stories, glazed tile"
+          ],
+          [
+            "Reconstructed",
+            "2001"
+          ],
+          [
+            "Coordinates",
+            "25.27° N, 110.30° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "The Sun and Moon Pagodas stand in Guilin, Guangxi, China. They were originally built in the city moat of Guilin during the Tang dynasty and were reconstructed in 2001. The Sun Pagoda is faced with bronze, has nine stories and is 41 metres tall, and is described as the tallest bronze pagoda in the world. The Moon Pagoda is faced with glazed tile, has seven stories and is 35 metres tall, and stands on an island in Shan Lake. The two are linked by an underwater glass tunnel. This photograph, taken on 21 November 2017, is an HDR composed of three exposures of 1/2, 2 and 8 seconds at f/11.",
+      "lookAt": "The lit towers are far brighter than the dark water and sky, so one exposure cannot hold both; here three exposures, from half a second to 8 seconds, were blended. The still lake then repeats every colour as a long reflection. Use a tripod, bracket your exposures and wait for calm water.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sun_and_Moon_Pagodas",
+        "https://commons.wikimedia.org/wiki/File:Sun_and_Moon_Pagodas_Guilin_November_2017_HDR.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Sun and Moon Pagodas",
+        "line2": "King of Hearts · Guilin"
+      },
+      "order": 48,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-petra-monastery-ad-deir",
+      "kind": "place",
+      "title": "The Monastery, Petra",
+      "maker": "Diego Delso",
+      "year": "2011",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg/1280px-The_Monastery%2C_Petra%2C_Jordan8.jpg",
+        "width": 1280,
+        "height": 845,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Jordan",
+        "region": "Petra",
+        "lat": 30.3378,
+        "lon": 35.4311,
+        "facts": [
+          [
+            "Façade",
+            "47 m high, 48 m wide"
+          ],
+          [
+            "Carved",
+            "Probably mid-first century AD"
+          ],
+          [
+            "Climb",
+            "Nearly 800 steps"
+          ],
+          [
+            "Coordinates",
+            "30.34° N, 35.43° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ad Deir, whose Arabic name ed-Deir means \"The Monastery\", is a rock-cut monument high in the hills northwest of the Petra city centre, in Jordan. The Deir was probably carved in the mid-first century AD, and its dedication is listed as Obodas I, with a question mark marking it as uncertain. The rock-cut façade is 47 metres high and 48 metres wide, and the door to the main chamber is 8 metres high. The monastery can be reached by ascending a path of nearly 800 steps, a 40-minute walk from the Basin. This photograph, taken on 30 September 2011, shows the façade carved into the sandstone hill.",
+      "lookAt": "Hard sun from the front-left models every column and carved shadow, while the cloudless sky is a clean blue backdrop. The sandstone's warm tones and the blue are near-complementary, so the monument separates cleanly. Bright, direct light suits carved surfaces; shoot when it skims across them.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ad_Deir",
+        "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan8.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · JORDAN",
+        "title": "The Monastery, Petra",
+        "line2": "Diego Delso · Petra"
+      },
+      "order": 49,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "loc-highsmith-grand-central",
+      "kind": "photograph",
+      "title": "Interior of Grand Central",
+      "maker": "Carol M. Highsmith",
+      "year": "2007",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Interior%2C_Grand_Central_Station%2C_New_York%2C_New_York_LCCN2010630085.tif/lossy-page1-1280px-Interior%2C_Grand_Central_Station%2C_New_York%2C_New_York_LCCN2010630085.tif.jpg",
+        "width": 1280,
+        "height": 916,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Carol M. Highsmith photographed this interior of Grand Central Station in 2007; the Library of Congress title is Interior, Grand Central Station, New York, New York (highsm.04087). It was a gift and purchase from Highsmith in 2009, part of her America project, and she has donated her photographs to the Library since 1992 to create a copyright-free and royalty-free archive. Grand Central Terminal is a commuter rail terminal at 42nd Street and Park Avenue in Midtown Manhattan. It opened on 2 February 1913 and has 44 platforms, more than any other railroad station in the world. Its concourse is 35,000 square feet, and Jacqueline Kennedy Onassis helped ward off its demolition.",
+      "lookAt": "A slow shutter turns commuters into soft ghosts on the polished floor, so the building stays calm while the crowd moves. Centring the camera on the three arched windows keeps the hall symmetrical, and the green ceiling fills the top. In a busy interior, use a tripod and a long exposure.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grand_Central_Terminal",
+        "https://en.wikipedia.org/wiki/Carol_Highsmith",
+        "https://commons.wikimedia.org/wiki/File:Interior,_Grand_Central_Station,_New_York,_New_York_LCCN2010630085.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2007",
+        "title": "Interior of Grand Central",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "order": 50,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-tunnel-view-yosemite",
+      "kind": "place",
+      "title": "Tunnel View, Yosemite Valley",
+      "maker": "Diliff",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg/1280px-Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg",
+        "width": 1280,
+        "height": 835,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Yosemite Valley",
+        "lat": 37.7217,
+        "lon": -119.6464,
+        "facts": [
+          [
+            "Length",
+            "About 12.1 km"
+          ],
+          [
+            "Depth",
+            "910–1,070 m"
+          ],
+          [
+            "Bridalveil Fall",
+            "190 m"
+          ],
+          [
+            "Coordinates",
+            "37.72° N, 119.65° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Yosemite Valley, in Yosemite National Park, California, is about 12 kilometres long and 910 to 1,070 metres deep. For the last 30 million years glaciers have periodically filled much of the valley, and the youngest of its plutons is the 87-million-year-old Half Dome granodiorite. Bridalveil Fall drops 190 metres. Wikipedia notes that the first view of Yosemite Valley many visitors see is Tunnel View, which is where this photograph was taken on 16 May 2013. El Capitan stands on the left, a dome rises in the distance, and Bridalveil Fall drops down the cliffs on the right.",
+      "lookAt": "Tunnel View works because the valley is framed on both sides: El Capitan's grey wall on the left, the cliffs beside Bridalveil Fall on the right, and dark forest filling the bottom. That V-shape points the eye to the distant dome. Look for a viewpoint where the near walls act as a frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yosemite_Valley",
+        "https://commons.wikimedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Tunnel View, Yosemite Valley",
+        "line2": "Diliff · Yosemite Valley"
+      },
+      "order": 51,
+      "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-uchisar-castle-cappadocia",
+      "kind": "place",
+      "title": "Uçhisar Castle",
+      "maker": "Wolfgang Moroder",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_U%C3%A7hisar_in_Cappadocia.jpg/1280px-Castle_U%C3%A7hisar_in_Cappadocia.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 3.0",
+        "credit": "Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Turkey",
+        "region": "Nevşehir",
+        "lat": 38.6289,
+        "lon": 34.8033,
+        "facts": [
+          [
+            "Castle height",
+            "60 m"
+          ],
+          [
+            "Town elevation",
+            "1,270 m"
+          ],
+          [
+            "Name",
+            "\"Outer citadel\""
+          ],
+          [
+            "Coordinates",
+            "38.63° N, 34.80° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Uçhisar is a town in Nevşehir Province in Cappadocia, Turkey, 7 kilometres east of Nevşehir. Its name means \"outer citadel\" in Turkish and refers to the huge rock cone that is its central feature. The town is dominated by a 60-metre-high \"castle\" that is actually a rock formation visible over a wide distance. It was cut out of tuff in earlier times and is crisscrossed by numerous underground passageways and rooms. The town stands at 1,270 metres above sea level. Like most of Cappadocia, Uçhisar once made a living from agriculture but now depends almost entirely on tourism. This photograph of the castle was taken on 21 April 2014.",
+      "lookAt": "Warm side light picks out hundreds of windows and doorways in the rock, so the cone reads as inhabited rather than merely rocky. The pinnacle at left leans toward the castle and makes a second shape that leads the eye up to the flag. Move until two rock forms overlap, then wait for sun on both.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/U%C3%A7hisar",
+        "https://commons.wikimedia.org/wiki/File:Castle_Uçhisar_in_Cappadocia.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · TURKEY",
+        "title": "Uçhisar Castle",
+        "line2": "Wolfgang Moroder · Nevşehir"
+      },
+      "order": 52,
+      "batch": "2026-10-23"
     }
   ]
 }
