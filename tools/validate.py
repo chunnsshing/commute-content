@@ -11,6 +11,23 @@ import json
 import re
 import subprocess
 import sys
+import time
+
+# Wikimedia's robot policy asks for a contact in the User-Agent; without one it throttles harder.
+UA = "LouvreFeed/0.1 (https://github.com/chunnsshing/commute-content)"
+
+
+def http_status(url):
+    """HTTP status for url, retrying rate limits (429) with backoff. Returns the last status."""
+    code = "000"
+    for wait in (0, 15, 30, 60):
+        time.sleep(wait)
+        code = subprocess.run(
+            ["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}", "--max-time", "30", "-A", UA, url],
+            capture_output=True, text=True).stdout
+        if code != "429":
+            break
+    return code
 
 ap = argparse.ArgumentParser()
 ap.add_argument("feed")
@@ -20,6 +37,7 @@ args = ap.parse_args()
 
 feed = json.load(open(args.feed))
 errors = []
+warnings = []
 if feed.get("schemaVersion") != 3:
     errors.append("schemaVersion must be 3")
 items = feed.get("feed", [])
@@ -106,12 +124,12 @@ for n, it in enumerate(items):
             errors.append(f"{tag}: lens {it.get('lens')!r} not in {sorted(LENSES)}")
 
     if args.net_batch and it.get("batch") == args.net_batch and isinstance(img, dict) and is_str(img.get("url")):
-        code = subprocess.run(
-            ["curl", "-s", "-o", "/dev/null", "-w", "%{http_code}", "--max-time", "30",
-             "-A", "Louvre/0.1 (personal app)", img["url"]],
-            capture_output=True, text=True).stdout
-        if code != "200":
+        code = http_status(img["url"])
+        if code == "429":
+            warnings.append(f"{tag}: image still rate-limited (429) after retries; not counted as broken")
+        elif code != "200":
             errors.append(f"{tag}: image answered HTTP {code}")
+        time.sleep(1)
 
 if args.history:
     history = json.load(open(args.history))
@@ -131,6 +149,8 @@ kinds = {}
 for it in items:
     kinds[it.get("kind")] = kinds.get(it.get("kind"), 0) + 1
 print(f"{len(items)} items in {len(batches)} batch(es): {kinds}")
+for w in warnings:
+    print("WARNING:", w)
 for e in errors:
     print("ERROR:", e)
 sys.exit(1 if errors else 0)

@@ -33,7 +33,11 @@ Every night, add **one batch of 30 new pictures** to `content/louvre/feed.json`.
    `image.license`, `Artist`/`Credit` → photographer.
    **Licence must be** `Public domain`, `CC0`, `CC BY x.x` or `CC BY-SA x.x`. Nothing else, no exceptions.
    Skip photos whose main subject is a recent copyrighted artwork or sculpture.
-2. Confirm `image.url` returns HTTP 200 (`curl -sI -A "Louvre/0.1 (personal app)" URL`).
+2. Confirm `image.url` returns HTTP 200.
+   **Every request to Wikimedia and Wikipedia** (curl, scripts) must send the User-Agent
+   `LouvreFeed/0.1 (https://github.com/chunnsshing/commute-content)`. Without a contact Wikimedia's robot policy
+   throttles hard (HTTP 429). Pace requests (about one per second) and, on a 429, wait and retry rather than
+   hammering. WebFetch is a good fallback for reading articles and file pages.
 3. **Look at the picture** before writing about it: download the thumbnail and open it. The `lookAt` must describe
    what is actually visible in that exact frame. If you cannot view an image, drop that picture.
 4. Read the Wikipedia article for the place (or photographer) and the Commons file page. Use **only facts from
