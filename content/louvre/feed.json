@@ -2469,6 +2469,1248 @@
       },
       "order": 52,
       "batch": "2026-10-23"
+    },
+    {
+      "id": "commons-taklamakan-alluvial-fan",
+      "kind": "place",
+      "title": "Alluvial fan, Taklamakan Desert",
+      "maker": "NASA/GSFC/METI/ERSDAC/JAROS and U.S./Japan ASTER Science Team",
+      "year": "2002",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg/1280px-Alluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1386,
+        "license": "Public domain",
+        "credit": "NASA/GSFC/METI/ERSDAC/JAROS, Public domain, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Xinjiang",
+        "lat": 38.9,
+        "lon": 82.2,
+        "facts": [
+          [
+            "Desert",
+            "Taklamakan, Tarim Basin"
+          ],
+          [
+            "Bounded by",
+            "Kunlun Mountains to the south"
+          ],
+          [
+            "Image covers",
+            "56.6 × 61.3 km"
+          ],
+          [
+            "Coordinates",
+            "38.90° N, 82.20° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Taklamakan Desert lies in northwestern China, inside the Tarim Basin in southern Xinjiang. The Kunlun Mountains bound it to the south, the Pamir Mountains to the west, the Tian Shan to the north and the Gobi Desert to the east. This view is not a photograph taken from the ground but an ASTER satellite image acquired on 2 May 2002. It shows a vast alluvial fan spreading across the desolate ground between the Kunlun and Altun mountain ranges on the desert's southern border. The left side is the active part of the fan and appears blue because water is currently flowing in its many small streams. The image covers an area of 56.6 by 61.3 kilometres.",
+      "lookAt": "From orbit, a landscape becomes a pattern. The channels fan outward from a single point at the top like the veins of a leaf, and the blue active streams stand apart from the tan, dormant ground. Look for a shape that repeats, then frame it so the repetition carries the eye.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taklamakan_Desert",
+        "https://commons.wikimedia.org/wiki/File:Alluvial_fan,_Taklimakan_Desert,_XinJiang_Province,_China,_NASA,_ASTER.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Alluvial fan, Taklamakan Desert",
+        "line2": "NASA/GSFC/METI/ERSDAC/JAROS · Xinjiang"
+      },
+      "order": 53,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-dzukou-valley",
+      "kind": "place",
+      "title": "Dzukou Valley",
+      "maker": "Samudra Bikash Hazarika",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg/1280px-Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 720,
+        "license": "CC BY-SA 4.0",
+        "credit": "Samudra Bikash Hazarika, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Nagaland and Manipur",
+        "lat": 25.553,
+        "lon": 94.067,
+        "facts": [
+          [
+            "Elevation",
+            "2,438–2,452 m"
+          ],
+          [
+            "Location",
+            "Nagaland–Manipur border"
+          ],
+          [
+            "Behind",
+            "Mount Japfü"
+          ],
+          [
+            "Coordinates",
+            "25.55° N, 94.07° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Dzukou Valley is a high-altitude valley in Northeast India that straddles the border between the states of Nagaland and Manipur. It lies behind Mount Japfü at an elevation of roughly 2,438 to 2,452 metres, in the Kohima and Senapati districts. It is known for its rolling meadows, seasonal wildflowers and rich biodiversity, and it is among the most popular trekking destinations in the region. Its seasonal bloom, long known locally as the Dzukou lily, is the same species as the Shirui lily. The valley is also a principal habitat of Blyth's tragopan, the state bird of Nagaland. This photograph was taken on 14 August 2016 and shows the green slopes under a heavy, cloudy sky.",
+      "lookAt": "The hills overlap like folded cloth, each ridge a slightly different green, and the far mountain sits high in the frame under grey cloud. Overcast light removes harsh shadow, so layers become the subject. Shoot long and compress the slopes, and use the sky as a quiet top margin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dzukou_Valley",
+        "https://commons.wikimedia.org/wiki/File:Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_(edit).jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Dzukou Valley",
+        "line2": "Samudra Bikash Hazarika · Nagaland and Manipur"
+      },
+      "order": 54,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "nara-adams-flock-owens-valley",
+      "kind": "photograph",
+      "title": "Flock in Owens Valley, California",
+      "maker": "Ansel Adams",
+      "year": "1941",
+      "collection": "U.S. National Archives",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ansel_Adams_-_National_Archives_79-AA-L02.jpg/1280px-Ansel_Adams_-_National_Archives_79-AA-L02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 820,
+        "license": "Public domain",
+        "credit": "Ansel Adams, U.S. National Archives, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Ansel Adams made this photograph of a flock of sheep in Owens Valley, California, in 1941. It belongs to the series Ansel Adams Photographs of National Parks and Monuments, compiled in 1941 and 1942. He was an American landscape photographer and environmentalist, known for his black-and-white images of the American West. He helped found Group f/64, which favoured sharp focus and the full tonal range of a photograph, and developed the Zone System with Fred Archer, a method for reaching a desired print through choices in exposure, development and printing. He was later contracted by the United States Department of the Interior to photograph national parks. He received the Presidential Medal of Freedom in 1980.",
+      "lookAt": "The sheep walk in a loose line toward the right while dust hangs over the flat ground, and a ridge of distant peaks closes the top. Adams placed the animals in the lower third and gave the land and sky the rest. Include the setting around the subject, not just the subject.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AA-L02.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1941",
+        "title": "Flock in Owens Valley, California",
+        "line2": "Ansel Adams · U.S. National Archives"
+      },
+      "order": 55,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-el-tatio-geyser",
+      "kind": "place",
+      "title": "El Tatio geyser field",
+      "maker": "Diego Delso",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG/1280px-G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Antofagasta Region",
+        "lat": -22.331,
+        "lon": -68.01,
+        "facts": [
+          [
+            "Elevation",
+            "4,320 m"
+          ],
+          [
+            "Geysers",
+            "Over 80 active"
+          ],
+          [
+            "Rank",
+            "Largest in the Southern Hemisphere"
+          ],
+          [
+            "Coordinates",
+            "22.33° S, 68.01° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "El Tatio is a geothermal field in the Andes of northern Chile, at 4,320 metres above sea level. It is the third-largest geyser field in the world and the largest in the Southern Hemisphere, with more than 80 active geysers. It lies at the western foot of a line of stratovolcanoes along the border between Chile and Bolivia, and water from its hot springs eventually forms the Rio Salado, a tributary of the Rio Loa. It is a major tourism destination, and has been studied as an analogue for the early Earth. This close-up of a geyser was taken on 1 February 2016, with steam drifting across the plain behind a mound of mineral deposits.",
+      "lookAt": "Steam turns the air into a soft screen that thickens with distance, separating the pale mound in front from the faint hills behind. Low light at either end of the day makes that depth visible. Put the solid subject in the foreground and let the vapour do the layering.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Tatio",
+        "https://commons.wikimedia.org/wiki/File:Géiseres_del_Tatio,_Atacama,_Chile,_2016-02-01,_DD_36-38_HDR.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "El Tatio geyser field",
+        "line2": "Diego Delso · Antofagasta Region"
+      },
+      "order": 56,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-dynjandi",
+      "kind": "place",
+      "title": "Dynjandi",
+      "maker": "Diego Delso",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG/1280px-Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1970,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Iceland",
+        "region": "Westfjords",
+        "lat": 65.7325,
+        "lon": -23.1986,
+        "facts": [
+          [
+            "Total height",
+            "100 m"
+          ],
+          [
+            "Region",
+            "Arnarfjörður, Westfjords"
+          ],
+          [
+            "Also called",
+            "Fjallfoss"
+          ],
+          [
+            "Coordinates",
+            "65.73° N, 23.20° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Dynjandi, also known as Fjallfoss, is a waterfall in Arnarfjörður in the Westfjords region of Iceland. It is the largest waterfall in the Westfjords and has a total height of 100 metres. Below it lie five other waterfalls: Háifoss, Úðafoss, Göngufoss, Hundafoss and Bæjarfoss. Dynjandi and the other falls on the river Dynjandisá, along with their surroundings, were protected as natural monuments in 1981. Dynjandisheiði, a mountain pass over the falls, holds the first car-accessible road to Ísafjörður. This photograph was taken on 14 August 2014. It is a combination of several exposures, with the lower fall softened into a smooth white veil.",
+      "lookAt": "Two kinds of water share this frame. The upper fall keeps its texture and the lower one is blurred into silk, which points to a slower shutter on a tripod. Choose the shutter speed for the effect you want, and let wet rock and moss in the foreground add contrast.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dynjandi",
+        "https://commons.wikimedia.org/wiki/File:Cascada_Dynjandi,_Vestfirðir,_Islandia,_2014-08-14,_DD_136-138_HDR.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · ICELAND",
+        "title": "Dynjandi",
+        "line2": "Diego Delso · Westfjords"
+      },
+      "order": 57,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-adams-frozen-lake-cliffs",
+      "kind": "photograph",
+      "title": "Frozen Lake and Cliffs, Sierra Nevada",
+      "maker": "Ansel Adams",
+      "year": "1927",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Frozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg/1280px-Frozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 997,
+        "license": "Public domain",
+        "credit": "Ansel Adams, Public domain, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ansel Adams took Frozen Lake and Cliffs, Sierra Nevada, California, in 1927, and it was published in 1932. Adams was an American landscape photographer and environmentalist, who at age 14 was given his first camera during his first visit to Yosemite National Park. He developed his early photographic work as a member of the Sierra Club. He later helped found Group f/64, an association of photographers advocating pure photography that favoured sharp focus and the full tonal range, and with Fred Archer he developed the Zone System. He was a life-long advocate of environmental conservation, and his work was deeply entwined with that advocacy. In 1980 he was awarded the Presidential Medal of Freedom for his work and persistent advocacy.",
+      "lookAt": "Black rock, white ice and dark water form a strip of tones that runs across the frame, and the cliff keeps fine detail even in its shadows. Take a reading from both the brightest and darkest parts, then choose an exposure that holds both.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File:Frozen_Lake_and_Cliffs,_Sierra_Nevada,_California.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1927",
+        "title": "Frozen Lake and Cliffs, Sierra Nevada",
+        "line2": "Ansel Adams · Wikimedia Commons"
+      },
+      "order": 58,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-inspiration-point-bryce",
+      "kind": "place",
+      "title": "Inspiration Point, Bryce Canyon",
+      "maker": "King of Hearts",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg/1280px-Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 768,
+        "license": "CC BY-SA 4.0",
+        "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Utah",
+        "lat": 37.64,
+        "lon": -112.17,
+        "facts": [
+          [
+            "Park area",
+            "35,835 acres"
+          ],
+          [
+            "Rim elevation",
+            "2,400–2,700 m"
+          ],
+          [
+            "Designated park",
+            "1928"
+          ],
+          [
+            "Coordinates",
+            "37.64° N, 112.17° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Bryce Canyon is not a true canyon but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau in southwestern Utah. Its distinctive hoodoos were formed by frost weathering and stream erosion of river and lake bed sedimentary rock, and the red, orange and white colours of the stone give the park its look. The area was settled by Mormon pioneers in the 1850s and named after Ebenezer Bryce, who homesteaded there in 1874. It became a national monument in 1923 and a national park in 1928. This four-segment panorama of Inspiration Point was taken on 20 November 2018 at 08:15, in early morning light.",
+      "lookAt": "Morning sun lights the hoodoos from the side, so every spire throws a shadow and the amphitheater gains depth. The curving trail on the right leads the eye toward the far ridge. When the subject is too wide for one frame, stitch a panorama and keep the horizon level.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park",
+        "https://commons.wikimedia.org/wiki/File:Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Inspiration Point, Bryce Canyon",
+        "line2": "King of Hearts · Utah"
+      },
+      "order": 59,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-namib-naukluft-dunes",
+      "kind": "place",
+      "title": "Namib-Naukluft dunes",
+      "maker": "Yathin S Krishnappa",
+      "year": "2011",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Namib-Naukluft_Sand_Dunes_%282011%29.jpg/1280px-Namib-Naukluft_Sand_Dunes_%282011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 582,
+        "license": "CC BY-SA 3.0",
+        "credit": "Yathin S Krishnappa, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Namibia",
+        "region": "Namib Desert",
+        "lat": -24.546,
+        "lon": 15.33,
+        "facts": [
+          [
+            "Park",
+            "Namib-Naukluft National Park"
+          ],
+          [
+            "Known for",
+            "Sossusvlei clay pan and dunes"
+          ],
+          [
+            "Dune colour",
+            "Older dunes reddish, newer yellow-brown"
+          ],
+          [
+            "Coordinates",
+            "24.55° S, 15.33° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Namib-Naukluft National Park lies in western Namibia between the Atlantic coast and the edge of the Great Escarpment. It covers part of the Namib Desert, which is considered the world's oldest desert, along with the Naukluft mountain range and the lagoon at Sandwich Harbour. Its best-known area, and one of the main visitor attractions in Namibia, is Sossusvlei, a clay pan surrounded by dunes. The file description notes that the older dunes are reddish and larger, while the newer dunes are yellow-brown. This photograph was taken on 20 April 2011 at 07:52 in the morning, when low sun lit only parts of the dune faces.",
+      "lookAt": "Early sun lights some dune slopes orange while others fall into shadow, so the frame splits into bands of colour. A single small tree at the bottom edge shows the scale. Use a long lens to flatten the dunes into layers, and wait for the light to sweep across.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Namib-Naukluft_National_Park",
+        "https://commons.wikimedia.org/wiki/File:Namib-Naukluft_Sand_Dunes_(2011).jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NAMIBIA",
+        "title": "Namib-Naukluft dunes",
+        "line2": "Yathin S Krishnappa · Namib Desert"
+      },
+      "order": 60,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "loc-delano-santa-fe-yard-blackout",
+      "kind": "photograph",
+      "title": "Santa Fe railroad yard, Los Angeles",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Activity_in_the_Santa_Fe_R.R._yard%2C_Los_Angeles%2C_Calif._All_switch_lights%2C_head_lights_and_lamps_have_been_shaded_from_above_in_accordance_with_blackout_regulations._The_heavy_light_streaks_LCCN2017878087.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 994,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Jack Delano made this colour transparency in March 1943 in the Santa Fe Railroad yard in Los Angeles. The Library of Congress title records that all switch lights, headlights and lamps had been shaded from above in accordance with blackout regulations. The heavy streaks of light were caused by the paths of locomotive headlights, and the thin lines by the lamps of switchmen working in the yard. Delano was born Yakov Ovcharov in the Russian Empire and spent much of his life in Puerto Rico. In the United States he worked for the Farm Security Administration, for which he was best known. He was also a composer, filmmaker, cartoonist and poet.",
+      "lookAt": "Nothing in the yard is still, so the lights draw their own paths: fat streaks from locomotives, thin wavy lines from walking switchmen. Delano left the shutter open. Put the camera on a firm support at night, and let moving lights write across a dark scene.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File:Activity_in_the_Santa_Fe_R.R._yard,_Los_Angeles,_Calif._All_switch_lights,_head_lights_and_lamps_have_been_shaded_from_above_in_accordance_with_blackout_regulations._The_heavy_light_streaks_LCCN2017878087.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Santa Fe railroad yard, Los Angeles",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "order": 61,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-grose-valley",
+      "kind": "place",
+      "title": "Grose Valley",
+      "maker": "Diliff",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Grose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg/1280px-Grose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 743,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Australia",
+        "region": "New South Wales",
+        "lat": -33.6,
+        "lon": 150.36,
+        "facts": [
+          [
+            "Range",
+            "Blue Mountains"
+          ],
+          [
+            "Greatest cliff height",
+            "510 m at Banks Wall"
+          ],
+          [
+            "Named after",
+            "Francis Grose"
+          ],
+          [
+            "Coordinates",
+            "33.60° S, 150.36° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Grose Valley is a rugged valley in the Blue Mountains of New South Wales, formed by the Grose River. Most of it lies within Blue Mountains National Park, between the Great Western Highway and Bells Line of Road. Triassic sandstones sit over Permian sedimentary rocks, and the cliffs are commonly over 200 metres, rising to 510 metres at Banks Wall. Charles Darwin called it stupendous and magnificent when he visited in 1836. In 1931 and 1932 a Sydney Bush Walkers group saved Blue Gum Forest from clearing by raising £130 to buy out a lease. This panorama, stitched from two rows of nine frames, was taken on 14 April 2013 from Rodreguez Pass near Govett's Leap.",
+      "lookAt": "A clear blue sky and sharp cliffs give a crisp, high-contrast scene. The sandstone wall on the right anchors the frame and the valley recedes in overlapping ridges to the left. A panorama like this works best when you step back from the edge and include foreground trees for scale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grose_Valley",
+        "https://commons.wikimedia.org/wiki/File:Grose_Valley,_NSW,_Australia_-_April_2013.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · AUSTRALIA",
+        "title": "Grose Valley",
+        "line2": "Diliff · New South Wales"
+      },
+      "order": 62,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-geirangerfjord",
+      "kind": "place",
+      "title": "Geirangerfjord",
+      "maker": "Simo Räsänen",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/1280px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 719,
+        "license": "CC BY-SA 3.0",
+        "credit": "Simo Räsänen, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Møre og Romsdal",
+        "lat": 62.121,
+        "lon": 7.129,
+        "facts": [
+          [
+            "Length",
+            "15 km"
+          ],
+          [
+            "Maximum width",
+            "1.5 km"
+          ],
+          [
+            "World Heritage",
+            "2005, with Nærøyfjord"
+          ],
+          [
+            "Coordinates",
+            "62.12° N, 7.13° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Geirangerfjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway, lying entirely within Stranda Municipality. It is a branch of the Sunnylvsfjorden, which itself branches off the Storfjorden, and it runs about 15 kilometres with a maximum width of 1.5 kilometres. The village of Geiranger sits at its end, where the river Geirangelva meets the water. The fjord was inscribed in 2005, jointly with Nærøyfjord, as the West Norwegian Fjords World Heritage Site, and it is among the most visited tourist sites in Norway. This view was taken on 16 June 2013 from Ørnesvingen, looking down onto the green slopes and dark water below.",
+      "lookAt": "Shooting from a high bend in the road lets the fjord curl through the frame like a river of dark glass. The bright foliage in the foreground frames both sides, and the steep slopes keep the eye moving. Seek elevation to turn water and shoreline into a shape.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geirangerfjord",
+        "https://commons.wikimedia.org/wiki/File:Geirangerfjord_from_Ørnesvingen,_2013_June.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Geirangerfjord",
+        "line2": "Simo Räsänen · Møre og Romsdal"
+      },
+      "order": 63,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "loc-delano-hulett-ore-docks-cleveland",
+      "kind": "photograph",
+      "title": "Hulett unloaders, Cleveland ore docks",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif/lossy-page1-1280px-Pennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 995,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Jack Delano made this colour transparency in May 1943 at the Pennsylvania Railroad ore docks in Cleveland, Ohio. The Library of Congress title describes iron ore being unloaded from a lake freighter by means of Hulett unloaders. Delano was born Yakov Ovcharov in the Russian Empire and spent much of his life in Puerto Rico. In the United States he worked for the Works Progress Administration and, most notably, the Farm Security Administration. He was a photographer, filmmaker and composer who also worked as a cartoonist, poet, professor and architectural designer. The picture records wartime industry at a working freight dock.",
+      "lookAt": "Heavy steel arms cut across the sky in strong diagonals, while the numbered hatches of the freighter run toward the vanishing point. Delano stood on the ship's deck to get both. Look for converging lines in industrial structures, and use a small figure to show the scale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File:Pennsylvania_R.R._ore_docks,_unloading_iron_ore_from_a_lake_freighter_by_means_of_\"Hulett\"_unloaders,_Cleveland,_Ohio_LCCN2017878204.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Hulett unloaders, Cleveland ore docks",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "order": 64,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-brihadisvara-temple-shivaratri",
+      "kind": "place",
+      "title": "Brihadisvara Temple",
+      "maker": "Rainer Halama",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/1280px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "credit": "Rainer Halama, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Tamil Nadu",
+        "lat": 10.783,
+        "lon": 79.132,
+        "facts": [
+          [
+            "Built",
+            "1003–1010 CE, by Rajaraja I"
+          ],
+          [
+            "Material",
+            "Granite"
+          ],
+          [
+            "Location",
+            "Thanjavur, south bank of the Cauvery"
+          ],
+          [
+            "Coordinates",
+            "10.78° N, 79.13° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Brihadisvara Temple, called Rajarajesvaram by its builder and known locally as Thanjai Periya Kovil, stands on the south bank of the Cauvery river in Thanjavur, Tamil Nadu. The Chola emperor Rajaraja I built it between 1003 and 1010 CE. It is one of the largest Hindu temples and an exemplar of Tamil architecture, and it is part of the UNESCO World Heritage Site known as the Great Living Chola Temples. It is built of granite, and its vimana tower is one of the tallest in South India. This photograph was taken at 19:46 on 27 February 2025, during Maha Shivaratri, as the temple glowed under the dusk sky.",
+      "lookAt": "The sky has gone deep blue but still holds a band of pink, and the lit temple glows against it. Shooting in that short window after sunset balances artificial lights with the last daylight. Use a tripod and expose for the sky, so the lamps do not blow out.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+        "https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_(edit).jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Brihadisvara Temple",
+        "line2": "Rainer Halama · Tamil Nadu"
+      },
+      "order": 65,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-bayon-angkor-thom",
+      "kind": "place",
+      "title": "Bayon, Angkor Thom",
+      "maker": "Diego Delso",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/1280px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 578,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Cambodia",
+        "region": "Siem Reap Province",
+        "lat": 13.441,
+        "lon": 103.859,
+        "facts": [
+          [
+            "Built",
+            "Late 12th or early 13th century"
+          ],
+          [
+            "Builder",
+            "King Jayavarman VII"
+          ],
+          [
+            "Role",
+            "State temple of Angkor Thom"
+          ],
+          [
+            "Coordinates",
+            "13.44° N, 103.86° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Bayon is a richly decorated Buddhist temple of the Khmer Empire at Angkor in Cambodia. It was built in the late 12th or early 13th century as the state temple of King Jayavarman VII, at the centre of his capital, Angkor Thom. It is best known for its many towers carved with serene, smiling stone faces on all sides, commonly interpreted as representations of the king and symbols of compassion. Extensive bas-reliefs depict historical events, religious themes and scenes of everyday life, making it an important visual source on Angkorian society. This photograph was taken at 15:17 on 17 August 2013, with a still green pond in the foreground.",
+      "lookAt": "The temple is set in a wide, low frame with the towers rising from the middle, and the still, green pond in the foreground fills the lower third. Standing back from the subject shows its outline at once. Keep the horizon level and let the ground carry the scale of the ruin.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bayon",
+        "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CAMBODIA",
+        "title": "Bayon, Angkor Thom",
+        "line2": "Diego Delso · Siem Reap Province"
+      },
+      "order": 66,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "loc-highsmith-lincoln-memorial-reflecting-pool",
+      "kind": "photograph",
+      "title": "Lincoln Memorial and Reflecting Pool from the Washington Monument",
+      "maker": "Carol M. Highsmith",
+      "year": "2010",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/View_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif/lossy-page1-1280px-View_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 669,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Carol M. Highsmith photographed the Lincoln Memorial, the Reflecting Pool and the World War II Memorial from the Washington Monument at 10:06 on 19 September 2010. The image belongs to the George F. Landegger Collection of District of Columbia Photographs in Carol M. Highsmith's America at the Library of Congress. Highsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration. She has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain. Her work documents the landscapes, architecture and people of the rural and urban United States.",
+      "lookAt": "From a great height the Mall becomes a straight axis, with the pool as a long mirror leading to the memorial. A slight haze softens the far skyline. High vantage points reveal the plan of a place: find the line that organises it and place it at the centre.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://commons.wikimedia.org/wiki/File:View_of_the_Lincoln_Memorial,_Reflecting_Pool,_and_WWII_Memorial,_from_the_Washington_Monument,_NW,_Washington,_D.C_LCCN2010641584.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2010",
+        "title": "Lincoln Memorial and Reflecting Pool from the Washington Monument",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "order": 67,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-meiktila-lake-pagoda",
+      "kind": "place",
+      "title": "Phaung Daw U Pagoda, Meiktila",
+      "maker": "Jakub Hałun",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg/1280px-20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 887,
+        "license": "CC BY-SA 4.0",
+        "credit": "Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Myanmar",
+        "region": "Mandalay Region",
+        "lat": 20.883,
+        "lon": 95.883,
+        "facts": [
+          [
+            "City",
+            "Meiktila, central Myanmar"
+          ],
+          [
+            "Lake",
+            "Meiktila Lake, 11 km long"
+          ],
+          [
+            "Pagodas",
+            "44 in the city (2020)"
+          ],
+          [
+            "Coordinates",
+            "20.88° N, 95.88° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Meiktila is a city in central Myanmar, on the banks of Meiktila Lake in the Mandalay Region, at the junction of the Bagan–Taunggyi, Yangon–Mandalay and Meiktila–Myingyan highways. The lake is an artificial irrigation and water reservoir about 11 kilometres long, and the best-known of the city's 44 Buddhist pagodas, as of 2020, are on its lakefront. The name comes from Mithila, an ancient Indian kingdom. Meiktila was also the site of the Battle of Meiktila and Mandalay, in which Allied forces under William Slim defeated Japanese forces. This photograph shows the Phaung Daw U Pagoda at 16:20 on 3 August 2016, under a blue sky with scattered cloud.",
+      "lookAt": "The golden bird's head crosses into the sky on the right and the long barge recedes to the left, so a diagonal leads you through the picture. Clouds add texture to the blue behind it. Wait for the sky to open up, and place the brightest shape against the cleanest background.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meiktila",
+        "https://commons.wikimedia.org/wiki/File:20160803_-_Meiktila,_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · MYANMAR",
+        "title": "Phaung Daw U Pagoda, Meiktila",
+        "line2": "Jakub Hałun · Mandalay Region"
+      },
+      "order": 68,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-st-marys-church-negombo",
+      "kind": "place",
+      "title": "St. Mary's Church, Negombo",
+      "maker": "Steffen Schmitz",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Negombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg/1280px-Negombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1148,
+        "license": "CC BY-SA 4.0",
+        "credit": "Steffen Schmitz, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Sri Lanka",
+        "region": "Western Province",
+        "lat": 7.201,
+        "lon": 79.838,
+        "facts": [
+          [
+            "Construction",
+            "1874–1922"
+          ],
+          [
+            "Style",
+            "Neoclassical"
+          ],
+          [
+            "First church on site",
+            "1544"
+          ],
+          [
+            "Coordinates",
+            "7.20° N, 79.84° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "St. Mary's Church is a Roman Catholic church on Grand Street in the heart of Negombo, and one of the largest Catholic churches in Sri Lanka. The first church on the site was established in 1544, and the present building, the fifth, was begun in 1874 and completed in 1922. It is neoclassical, with columns and plain walls. Inside, the ceilings are painted with scenes from the life of Christ by N. S. Godamanne, a local Buddhist painter, and the article describes the art and architecture as a blend of European practice with Sri Lankan art. Negombo is nicknamed Little Rome because of its many churches. This photograph was taken on 15 July 2025.",
+      "lookAt": "The church is shot square on from the middle of the road, so its two towers, pediment and columns mirror each other on both sides. Direct, even light keeps the pink and grey tones clean. Symmetry rewards a centred position, but check that the verticals stay straight.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_Negombo",
+        "https://commons.wikimedia.org/wiki/File:Negombo,_St._Mary's_Church,_2025-07_CN-02.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SRI LANKA",
+        "title": "St. Mary's Church, Negombo",
+        "line2": "Steffen Schmitz · Western Province"
+      },
+      "order": 69,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-abbott-nightview-new-york",
+      "kind": "photograph",
+      "title": "Nightview, New York",
+      "maker": "Berenice Abbott",
+      "year": "1930–1934",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Nightview%2C_Berenice_Abbott.jpg/1280px-Nightview%2C_Berenice_Abbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1669,
+        "license": "Public domain",
+        "credit": "Berenice Abbott, Public domain, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Berenice Abbott made this nighttime view of Midtown Manhattan from the top of the Empire State Building. Sources give dates ranging from 1930 to 1934. Abbott was an American photographer best known for her portraits of cultural figures of the interwar period, for her photographs of New York's architecture and urban design in the 1930s, and for science interpretation in the 1940s to the 1960s. In the early 1940s she developed Super Sight, also known as the Abbott Process, a form of macro photography. Because the file's source dates vary, the exact year of this photograph is uncertain.",
+      "lookAt": "The city is a field of small lit windows, with an elevated railway line cutting across the lower right as the single diagonal. Looking down from a great height flattens the buildings into pattern. Use a tripod at night, and let the lit windows carry the texture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Berenice_Abbott",
+        "https://commons.wikimedia.org/wiki/File:Nightview,_Berenice_Abbott.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1930–1934",
+        "title": "Nightview, New York",
+        "line2": "Berenice Abbott · Wikimedia Commons"
+      },
+      "order": 70,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-gandhi-bhawan-chandigarh",
+      "kind": "place",
+      "title": "Gandhi Bhawan, Chandigarh",
+      "maker": "UnpetitproleX",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gandhi_Bhawan%2C_Chandigarh.jpg/1280px-Gandhi_Bhawan%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 960,
+        "license": "CC BY-SA 4.0",
+        "credit": "UnpetitproleX, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Chandigarh",
+        "lat": 30.762,
+        "lon": 76.771,
+        "facts": [
+          [
+            "Architects",
+            "B. P. Mathur with Pierre Jeanneret"
+          ],
+          [
+            "Site",
+            "Panjab University"
+          ],
+          [
+            "Plan",
+            "Three-part pinwheel"
+          ],
+          [
+            "Coordinates",
+            "30.76° N, 76.77° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Gandhi Bhawan is a major landmark of Chandigarh, India, and a centre dedicated to the study of the words and works of Mohandas K. Gandhi. It was designed by the architect B. P. Mathur in collaboration with Pierre Jeanneret. The building stands on a raised plinth in a large pool, with an angular and curved three-part pinwheel roof meant to evoke a floating lotus flower. Its white colour was chosen to contrast with the red of the Fine Arts Museum designed by Le Corbusier, visible on the right of this frame. The photograph was taken on 26 September 2024, after an intense thunderstorm, when the pool lay still.",
+      "lookAt": "After the storm the pool is flat enough to hold a near-perfect reflection, which doubles the angular roof into a diamond. The red wall on the right sets off the white concrete. Shoot low to the water and wait for the surface to settle.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gandhi_Bhawan,_Chandigarh",
+        "https://commons.wikimedia.org/wiki/File:Gandhi_Bhawan,_Chandigarh.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Gandhi Bhawan, Chandigarh",
+        "line2": "UnpetitproleX · Chandigarh"
+      },
+      "order": 71,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-parkview-square-singapore",
+      "kind": "place",
+      "title": "Parkview Square",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Parkview_Square_and_Andaz_Hotel_buildings.jpg/1280px-Parkview_Square_and_Andaz_Hotel_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1707,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Downtown Core",
+        "lat": 1.3001,
+        "lon": 103.8576,
+        "facts": [
+          [
+            "Completed",
+            "2002"
+          ],
+          [
+            "Roof height",
+            "144 m"
+          ],
+          [
+            "Floors",
+            "24, plus 2 basements"
+          ],
+          [
+            "Coordinates",
+            "1.30° N, 103.86° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Parkview Square is an office building in the Downtown Core of Singapore, along North Bridge Road near Bugis. Construction began in 1999 and it was completed in 2002. It rises 144 metres across 24 floors, and was designed by the American architect James Adams with DP Architects of Singapore as local architect. Although it is a modern building, it is designed in a classic Art Deco style inspired by New York's Chanin Building of 1929. In this photograph, taken from Rochor Road at 17:00 on 12 June 2018, it stands beside the glass Andaz hotel building.",
+      "lookAt": "Two towers face each other: bronze-toned Art Deco on the left, glass and plants on the right. The contrast between ornament and grid is the picture. Pick a spot where two different styles meet, and keep the verticals straight so the cliff of each wall holds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Parkview_Square",
+        "https://commons.wikimedia.org/wiki/File:Parkview_Square_and_Andaz_Hotel_buildings.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "Parkview Square",
+        "line2": "Basile Morin · Downtown Core"
+      },
+      "order": 72,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "nypl-abbott-stone-and-william-street",
+      "kind": "photograph",
+      "title": "Stone and William Street, Manhattan",
+      "maker": "Berenice Abbott",
+      "year": "1936",
+      "collection": "New York Public Library",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Stone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff/lossy-page1-1280px-Stone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1633,
+        "license": "Public domain",
+        "credit": "Berenice Abbott, New York Public Library, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Berenice Abbott photographed the corner of Stone and William Street in Manhattan on 12 May 1936. The New York Public Library's note describes the view as looking up at an inter-building bridge, with the buildings in the foreground as dark masses and the buildings beyond well lit. Abbott was an American photographer best known for her portraits of cultural figures of the interwar period and for her photographs of the architecture and urban design of New York in the 1930s. In the early 1940s she also developed Super Sight, also known as the Abbott Process, a form of macro photography. This print is catalogued by the library under the reference CNY number 116.",
+      "lookAt": "Tilting the camera upward makes the towers lean in and the sky a narrow gap, while the footbridge floats across the middle. Dark foreground walls act as a frame around the light buildings. Point up, include a frame within a frame, and keep dark masses to push the bright ones forward.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Berenice_Abbott",
+        "https://commons.wikimedia.org/wiki/File:Stone_and_William_Street,_Manhattan_(NYPL_b13668355-482808).tiff"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1936",
+        "title": "Stone and William Street, Manhattan",
+        "line2": "Berenice Abbott · New York Public Library"
+      },
+      "order": 73,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-piazzetta-san-marco-venice",
+      "kind": "place",
+      "title": "Piazzetta San Marco, Venice",
+      "maker": "Benh Lieu Song",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Piazzetta_San_Marco_Venice_BLS.jpg/1280px-Piazzetta_San_Marco_Venice_BLS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 552,
+        "license": "Public domain",
+        "credit": "Benh Lieu Song, Public domain, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Italy",
+        "region": "Veneto",
+        "lat": 45.4375,
+        "lon": 12.3358,
+        "facts": [
+          [
+            "Built on",
+            "126 islands in a lagoon"
+          ],
+          [
+            "Bridges",
+            "472"
+          ],
+          [
+            "Republic of Venice",
+            "810–1797"
+          ],
+          [
+            "Coordinates",
+            "45.44° N, 12.34° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Venice is a coastal city in northeastern Italy, built on a group of 126 islands separated by canals and linked in part by 472 bridges. It was the capital of the Republic of Venice for almost a millennium, from 810 to 1797, and a major financial and maritime power in the Middle Ages and Renaissance. This view of the Piazzetta San Marco looks toward the Grand Canal at dawn, with the Doge's Palace on the left and the Biblioteca Marciana on the right. The two columns, Saint Mark's, protector of the city, on one and Saint Theodore's on the other, stand at the water's edge. The photograph was taken on 10 July 2015.",
+      "lookAt": "Blue-hour light is balanced between sky and street lamps, and the wet pavement echoes the glow. The two arcades run in toward the columns like a pair of guide rails. Get there before the crowds and use a tripod, so the empty square is part of the picture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Venice",
+        "https://commons.wikimedia.org/wiki/File:Piazzetta_San_Marco_Venice_BLS.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · ITALY",
+        "title": "Piazzetta San Marco, Venice",
+        "line2": "Benh Lieu Song · Veneto"
+      },
+      "order": 74,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-centre-block-ottawa",
+      "kind": "place",
+      "title": "Centre Block, Parliament Hill",
+      "maker": "Saffron Blaze",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 962,
+        "license": "CC BY-SA 3.0",
+        "credit": "Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Canada",
+        "region": "Ontario",
+        "lat": 45.425,
+        "lon": -75.7,
+        "facts": [
+          [
+            "Style",
+            "Gothic Revival"
+          ],
+          [
+            "First building lost",
+            "Fire, 1916"
+          ],
+          [
+            "Renovation",
+            "From 2018, until 2031"
+          ],
+          [
+            "Coordinates",
+            "45.43° N, 75.70° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Centre Block is the main building of the Canadian Parliament on Parliament Hill in Ottawa, Ontario, and holds the House of Commons and Senate chambers. It is built in the Gothic Revival style and is the building's second version: the first was destroyed by a fire in 1916, and only the Library of Parliament at the rear survives from it. Sculpting work on the interior continued into the 1970s. From 2018, members of Parliament were moved elsewhere for renovations lasting until 2031. The Peace Tower is shown on the Canadian $20 bill. This photograph, taken at 17:52 on 24 September 2013, shows the front under a clear blue sky.",
+      "lookAt": "The tower stands on the exact centre line and the two wings repeat evenly on each side. A cloudless deep-blue sky lifts the stone and the copper spire. Formal subjects reward a dead-centre view, a level horizon and a slightly longer lens, so the lines do not lean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Centre_Block",
+        "https://commons.wikimedia.org/wiki/File:Centre_Block_-_Parliament_Hill.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CANADA",
+        "title": "Centre Block, Parliament Hill",
+        "line2": "Saffron Blaze · Ontario"
+      },
+      "order": 75,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-vachon-times-square-rain",
+      "kind": "photograph",
+      "title": "Times Square on a rainy day",
+      "maker": "John Vachon",
+      "year": "1943",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg/1280px-Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1273,
+        "license": "Public domain",
+        "credit": "John Vachon, Public domain, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "John Vachon photographed Times Square in New York City on a rainy day in March 1943, between 2 and 17 March according to the file page. Vachon was an American photographer, remembered most for his work for the Farm Security Administration as part of the New Deal, and for his contributions to Look magazine. He was born in 1914 and died in 1975. The picture shows the wet street, the signs of Globe and others, and a bus at the right edge. It records the city during wartime, in grey weather. Only the month and range of days are known from the file; no other details of the commission are given there.",
+      "lookAt": "Rain turns the street into a mirror, and the grey sky keeps the contrast soft enough to show detail in the signs. A man and a woman with an umbrella stand in the middle distance and give the scene human scale. Wet days reward waiting for a figure to enter the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/John_Vachon",
+        "https://commons.wikimedia.org/wiki/File:Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Times Square on a rainy day",
+        "line2": "John Vachon · Wikimedia Commons"
+      },
+      "order": 76,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-teatro-del-lago-frutillar",
+      "kind": "place",
+      "title": "Teatro del Lago, Frutillar",
+      "maker": "Ermell",
+      "year": "2011",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Frutillar-Theatro-del-Lago-1030906-PSD.jpg/1280px-Frutillar-Theatro-del-Lago-1030906-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 753,
+        "license": "CC BY-SA 4.0",
+        "credit": "Ermell, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Los Lagos Region",
+        "lat": -41.1395,
+        "lon": -73.0254,
+        "facts": [
+          [
+            "Opened",
+            "6 November 2010"
+          ],
+          [
+            "Cost",
+            "US$20 million"
+          ],
+          [
+            "Main hall capacity",
+            "1,178"
+          ],
+          [
+            "Coordinates",
+            "41.14° S, 73.03° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Teatro del Lago is a concert hall on the shore of Llanquihue Lake in Frutillar, in Chile's Los Lagos Region. Gerardo Köster and Gustavo Greene began construction in 1998, and in 2008 a second team from Amercanda joined to use better acoustic materials. After about twelve years of work and a cost of US$20 million, it opened on 6 November 2010. The main concert hall holds 1,178 people, and a separate amphitheater seats 270. The theatre hosts the Semanas Musicales de Frutillar, Chile's biggest classical music festival, each late January and early February. This photograph was taken on 8 May 2011, with a snow-capped peak on the far horizon.",
+      "lookAt": "The wooden building leads from the right toward the lake and a distant white-capped peak, so a single frame holds architecture, water and mountain. The low sun warms the timber. Include a far landmark to place the building, and keep the people small for scale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Teatro_del_Lago",
+        "https://commons.wikimedia.org/wiki/File:Frutillar-Theatro-del-Lago-1030906-PSD.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Teatro del Lago, Frutillar",
+        "line2": "Ermell · Los Lagos Region"
+      },
+      "order": 77,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-clevedon-pier",
+      "kind": "place",
+      "title": "Clevedon Pier",
+      "maker": "Saffron Blaze",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Clevedon_Pier_2013.jpg/1280px-Clevedon_Pier_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 914,
+        "license": "CC BY-SA 3.0",
+        "credit": "Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United Kingdom",
+        "region": "Somerset, England",
+        "lat": 51.4432,
+        "lon": -2.8632,
+        "facts": [
+          [
+            "Length",
+            "312 m"
+          ],
+          [
+            "Opened",
+            "1869"
+          ],
+          [
+            "Listed",
+            "Grade I, 2001"
+          ],
+          [
+            "Coordinates",
+            "51.44° N, 2.86° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Clevedon Pier is a seaside pier in Clevedon, Somerset, on the east shore of the Severn Estuary. Sir John Betjeman called it the most beautiful pier in England, and it was made a Grade I listed building in 2001. It was built in the 1860s to attract tourists and provide a ferry port for rail passengers going to South Wales, and it opened in 1869. It is 312 metres long, with eight spans. Two of those spans collapsed during stress testing in 1970, and local fundraising and heritage grants allowed the pier to be dismantled, restored and reassembled. It fully reopened in 1998. This photograph was taken on 7 July 2013 at 22:15.",
+      "lookAt": "The sun has just gone, and orange sky and calm water fuse into one glowing field. The pier runs across the frame as a dark line, its arches repeating in reflection. A long exposure smooths the surface; set the horizon high or low, never in the middle.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Clevedon_Pier",
+        "https://commons.wikimedia.org/wiki/File:Clevedon_Pier_2013.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED KINGDOM",
+        "title": "Clevedon Pier",
+        "line2": "Saffron Blaze · Somerset, England"
+      },
+      "order": 78,
+      "batch": "2026-10-25"
+    },
+    {
+      "id": "commons-rothstein-china-junk-on-river",
+      "kind": "photograph",
+      "title": "A boat on a river, China",
+      "maker": "Arthur Rothstein",
+      "year": "1946",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg/1280px-Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 993,
+        "license": "Public domain",
+        "credit": "Arthur Rothstein, Public domain, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Arthur Rothstein photographed a boat on a river with rolling hills in the background in 1946, in the Jiangsu Province or Yunnan Province of China; the file does not say which. Rothstein was an American photographer whose career spanned five decades, and he received recognition as one of America's premier photojournalists. He was born in 1915 and died in 1985. This picture shows a sailing junk with patched sails on calm water, the hills behind it, and the boat and its reflection in the river. The file gives only the year and the description, so details of the commission and of the exact location are not stated here.",
+      "lookAt": "A single dark boat sits on the right third, its patched sail and reflection making a vertical against the long horizontal of the water. The hills run in a low band behind. Keep the subject off centre, and leave open water on the side it faces.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arthur_Rothstein",
+        "https://commons.wikimedia.org/wiki/File:Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1946",
+        "title": "A boat on a river, China",
+        "line2": "Arthur Rothstein · Wikimedia Commons"
+      },
+      "order": 79,
+      "batch": "2026-10-25"
     }
   ]
 }
