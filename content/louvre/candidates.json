@@ -93,29 +93,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Géiseres del Tatio, Atacama, Chile, 2016-02-01, DD 36-38 HDR.JPG",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AG%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG",
-  "license": "CC BY-SA 4.0",
-  "artist": "Diego Delso",
-  "credit": "Own work",
-  "dateTaken": "2016-02-01 11:12:48",
-  "description": "Close-up of a geyser in El Tatio, north of Chile, within the Andes Mountains near the Bolivian border. El Tatio is a geyser field at 4,320 meters above mean sea level and one of the highest-elevation geyser fields in the world. The field has over 80 active geysers, making it the largest geyser field in the southern hemisphere and the third largest in the world (after Yellowstone in the USA and Kronotsky Nature Reserve in Rusia).",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG/1280px-G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 853,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG/500px-G%C3%A9iseres_del_Tatio%2C_Atacama%2C_Chile%2C_2016-02-01%2C_DD_36-38_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "El Tatio",
-   "url": "https://en.wikipedia.org/wiki/El_Tatio",
-   "extract": "El Tatio is a geothermal field with many geysers located in the Andes Mountains of northern Chile at 4,320 metres (14,170 ft) above mean sea level. It is the third-largest geyser field in the world and the largest in the Southern Hemisphere. Various meanings have been proposed for the name \"El Tatio\", including \"oven\" or \"grandfather\". The geothermal field has many geysers, hot springs, and associated sinter deposits. The water from these hot springs eventually forms the Rio Salado, a major tributary of the Rio Loa, significantly increasing the amount of arsenic in the river. The geothermal vents are sites of populations of extremophile microorganisms such as hyperthermophiles, and El Tatio has been studied as an analogue for the early Earth and possible past life on Mars.\nEl Tatio lies at the western foot of a series of stratovolcanoes which runs along the border between Chile and Bolivia. This series of volcanoes is part of the Central Volcanic Zone (one of several volcanic belts in the Andes), and of the Altiplano–Puna volcanic complex (APVC) – a system of large calderas and associated ignimbrites which were the sources of supereruptions between 10 million and 1 million years ago. Some of these calderas may be the source of heat for the El Tatio geothermal system. There are no recorded eruptions of the Tatio volcanoes in the historical period.\nThe field is a major tourism destination in northern Chile. It was prospected over the last century for geothermal power production, but development efforts were discontinued after a major incident in 2009 in which a geothermal well blew out, creating a steam column. The blowout caused a political controversy about geothermal power development in Chile.",
-   "lat": -22.33138889,
-   "lon": -68.01027778
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Laguna Miñiques, Chile, 2016-02-08, DD 33-38 PAN.JPG",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ALaguna_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_33-38_PAN.JPG",
   "license": "CC BY-SA 4.0",
@@ -135,29 +112,6 @@
    "extract": "Miñiques is the name of a lake and a volcano in Chile. It lies south of Laguna Miscanti and at the foot of the Cerro Miscanti volcano. The lake is fed from Laguna Miscanti by seepage and its waters are brackish.",
    "lat": -23.765,
    "lon": -67.7925
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Frutillar-Theatro-del-Lago-1030906-PSD.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AFrutillar-Theatro-del-Lago-1030906-PSD.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Ermell",
-  "credit": "Own work",
-  "dateTaken": "2011-05-08 11:06:03",
-  "description": "Theatro del Lago in Frutillar  at Lake Llanquihue",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Frutillar-Theatro-del-Lago-1030906-PSD.jpg/1280px-Frutillar-Theatro-del-Lago-1030906-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 753,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Frutillar-Theatro-del-Lago-1030906-PSD.jpg/500px-Frutillar-Theatro-del-Lago-1030906-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Teatro del Lago",
-   "url": "https://en.wikipedia.org/wiki/Teatro_del_Lago",
-   "extract": "The Teatro del Lago (Theatre of the Lake) is a stage theatre and concert hall located in Frutillar, Los Lagos Region, Chile.",
-   "lat": -41.1395,
-   "lon": -73.02541389
   }
  },
  {
@@ -346,29 +300,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Piazzetta San Marco Venice BLS.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3APiazzetta_San_Marco_Venice_BLS.jpg",
-  "license": "Public domain",
-  "artist": "Benh LIEU SONG",
-  "credit": "Own work",
-  "dateTaken": "2015-07-10 04:56:48",
-  "description": "View of Piazzetta San Marco toward Grand Canal of Venice, at dawn, with Doges' Palace on the left and Biblioteca Marciana on the right. The two columns are, from left to right, Saint Mark's, protector of the city, and Saint Theodore's.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Piazzetta_San_Marco_Venice_BLS.jpg/1280px-Piazzetta_San_Marco_Venice_BLS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 552,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Piazzetta_San_Marco_Venice_BLS.jpg/500px-Piazzetta_San_Marco_Venice_BLS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Venice",
-   "url": "https://en.wikipedia.org/wiki/Venice",
-   "extract": "Venice is a coastal city in northeastern Italy and the capital of the region of Veneto, as well as the Metropolitan City of Venice. It is built on a group of 126 islands that are separated by expanses of open water and by canals; portions of the city are linked by 472 bridges. \nThe islands are in the shallow Venetian Lagoon, an enclosed bay lying between the mouths of the Po and the Piave rivers (more exactly between the Brenta and the Sile). As of 2026, the city proper (municipality of Venice) has a population of 249,385, nearly 50,000 of whom live in the historical island city of Venice (centro storico), while most of the population resides on the mainland (terraferma), and about 25,000 live on other islands in the lagoon (estuario).\nTogether with the cities of Padua and Treviso, Venice is included in the Padua-Treviso-Venice Metropolitan Area (PATREVE), which is considered a statistical metropolitan area, with a total population of 2.6 million.\nThe name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city was the capital of the Republic of Venice for almost a millennium, from 810 to 1797. It was a major financial and maritime power during the Middle Ages and Renaissance, and a staging area for the Crusades and the Battle of Lepanto, as well as an important centre of commerce—especially silk, grain, and spice, and of art from the 13th century to the end of the 17th century. The then-city-state is considered to have been the first real international financial centre, emerging in the 9th century and reaching its greatest prominence in the 14th century. This made Venice a wealthy city throughout most of its history. \nFor centuries, Venice possessed numerous territories along the Adriatic Sea and within the Italian peninsula, leaving a significant impact on the architecture and culture that can still be seen today. The Venetian Arsenal is considered by several historians to be the first factory in history and was the base of Venice's naval power. The sovereignty of Venice came to an end in 1797, at the hands of Napoleon. Subsequently, in 1866, the city became part of the Kingdom of Italy.\nVenice has been known as \"La Dominante\" (\"The Dominant\" or \"The Ruler\"), \"La Serenissima\" (\"The Most Serene\"), \"Queen of the Adriatic\", \"City of Water\", \"City of Masks\", \"City of Bridges\", \"The Floating City\", and \"City of Canals.\" The lagoon and the city within the lagoon were inscribed as a UNESCO World Heritage Site in 1987, covering an area of 70,176.4 hectares (173,410 acres). Venice is known for several important artistic movements – especially during the Italian Renaissance – and has played an important role in the history of instrumental and operatic music; it is the birthplace of Baroque music composers Tomaso Albinoni and Antonio Vivaldi.\nIn the 21st century, Venice remains a very popular tourist destination and a major cultural centre, and has often been ranked one of the most beautiful cities in the world. It has been described by The Times as one of Europe's most romantic cities and by The New York Times as \"undoubtedly the most beautiful city built by man\". However, the city faces challenges, including overtourism, pollution, tide peaks, and cruise ships sailing too close to buildings. Because Venice and its lagoon are under constant threat, Venice's UNESCO listing has been under constant examination.\n\n",
-   "lat": 45.4375,
-   "lon": 12.33583333
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Courtyard Zappeion Athens, Greece.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ACourtyard_Zappeion_Athens%2C_Greece.jpg",
   "license": "CC0",
@@ -392,29 +323,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Parkview Square and Andaz Hotel buildings.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AParkview_Square_and_Andaz_Hotel_buildings.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Basile Morin",
-  "credit": "Own work",
-  "dateTaken": "2018-06-12 16:59:42",
-  "description": "Parkview Square and Andaz Hotel buildings in Singapore, seen from Rochord Road at 5pm. Although it is a modern building, having been completed in 2002, Parkview Square is specially designed in the classic Art Deco style and is one of the most expensive office buildings in Singapore.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Parkview_Square_and_Andaz_Hotel_buildings.jpg/1280px-Parkview_Square_and_Andaz_Hotel_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1707,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Parkview_Square_and_Andaz_Hotel_buildings.jpg/500px-Parkview_Square_and_Andaz_Hotel_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Parkview Square",
-   "url": "https://en.wikipedia.org/wiki/Parkview_Square",
-   "extract": "Parkview Square is an office building located in the Downtown Core planning area of the Central Region in Singapore. It is situated along North Bridge Road, and is near the major commercial hub at Marina Centre. It is next to Bugis MRT station, Bugis Junction, and The Gateway, and straddles the Rochor Road and Ophir Road corridor.",
-   "lat": 1.30013889,
-   "lon": 103.85763333
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Interior of The Shoppes at Marina Bay Sands, Singapore.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AInterior_of_The_Shoppes_at_Marina_Bay_Sands%2C_Singapore.jpg",
   "license": "CC BY-SA 4.0",
@@ -434,29 +342,6 @@
    "extract": "Marina Bay Sands (often colloquially shortened to 'MBS') is an integrated resort fronting Marina Bay in Singapore and a landmark of the city. At its opening in 2010, it was deemed the world's most expensive standalone casino property at S$8 billion (US$6.88 billion). The resort includes a 1,850-room hotel, a 120,000-square-metre (1,300,000 sq ft) meetings and conventions facility at Sands Expo & Convention Centre, a 74,000-square-metre (800,000 sq ft) luxury shopping mall, The Shoppes at Marina Bay Sands, an ArtScience museum, a 2,183-capacity theatre, the world's first floating Apple store, the world's first Louis Vuitton Island Maison, celebrity chef, signature and Michelin-starred restaurants, and a casino with 500 tables and 3,000 electronic gaming machines. The complex includes three towers topped by the Sands Skypark, a 340-metre-long (1,120 ft) skyway connecting the towers with a capacity of 3,902 people and a 150 m (490 ft) infinity swimming pool, set on top of the world's largest public cantilevered platform, which overhangs the north tower by 66.5 m (218 ft). The 20-hectare resort was designed by Moshe Safdie. The main contractor was Ssangyong Engineering and Construction.\nThe resort is owned by Las Vegas Sands in agreement with the Singaporean authorities. Marina Bay Sands was originally set to open in 2009, but its construction faced delays caused by escalating costs of material and labour shortages from the outset exacerbated by the 2008 financial crisis. This pressured Las Vegas Sands to delay its projects elsewhere to complete the integrated resort. Its owner decided to open the integrated resort in stages, and it was approved by the Singapore authorities. The resort and SkyPark were officially opened on 23 and 24 June 2010 as part of a two-day celebration, following the casino's opening on 27 April that year. The SkyPark opened the following day. The theatre was completed in time for the first performance of Riverdance on 30 November. The indoor skating rink, which uses artificial ice, opened to a performance by Michelle Kwan on 18 December. The ArtScience Museum opened to the public and the debut of a 13-minute light, laser and water show called Wonder Full on 19 February 2011, marked the full completion of the integrated resort.\nThe opening of Marina Bay Sands was held on 17 February 2011. It also marked the opening of the seven celebrity chef restaurants. The last portion of the Marina Bay Sands, the floating pavilions, were finally opened to the public when the two tenants, Louis Vuitton and Pangaea Club, opened on 18 and 22 September 2011, respectively. The property is currently being expanded to include a fourth hotel tower, an arena and additional convention space.",
    "lat": 1.2825,
    "lon": 103.86
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Geirangerfjord from Ørnesvingen, 2013 June.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGeirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Ximonic (Simo Räsänen)",
-  "credit": "Own work",
-  "dateTaken": "2013-06-16 11:45:30",
-  "description": "A view to Geirangerfjord from Ørnesvingen, Stranda, Møre og Romsdal, Norway in 2013 June.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/1280px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 719,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/500px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Geirangerfjord",
-   "url": "https://en.wikipedia.org/wiki/Geirangerfjord",
-   "extract": "Geirangerfjorden (Norwegian) or Geiranger Fjord (English) is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in Stranda Municipality. It is a 15-kilometre-long (9+1⁄2 mi) branch off the Sunnylvsfjorden, which itself is a branch off the Storfjorden (lit. 'Great Fjord'). The small village of Geiranger is located at the end of the fjord where the Geirangelva river empties into it.\n\n",
-   "lat": 62.121,
-   "lon": 7.129
   }
  },
  {
@@ -507,29 +392,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Alluvial fan, Taklimakan Desert, XinJiang Province, China, NASA, ASTER.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AAlluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg",
-  "license": "Public domain",
-  "artist": "NASA/GSFC/METI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team",
-  "credit": "http://asterweb.jpl.nasa.gov/gallery-detail.asp?name=fan",
-  "dateTaken": "2002-05-02",
-  "description": "A vast alluvial fan blossoms across the desolate landscape between the Kunlun and Altun mountain ranges that form the southern border of the Taklimakan Desert in China’s XinJiang Province. The left side is the active part of the fan, and appears blue from water currently flowing in the many small streams. The image was acquired May 2, 2002, covers an area of 56.6 × 61.3 km, and is centered near 37.4 degrees north, 84.3 degrees east.) A view of Google Maps and county maps in Xinjiang provincial atlas shows that the alluvial fan is formed by the river called Mòlèqiē Hé (莫勒切河) in Chinese (which, ",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg/1280px-Alluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1386,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg/500px-Alluvial_fan%2C_Taklimakan_Desert%2C_XinJiang_Province%2C_China%2C_NASA%2C_ASTER.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Taklamakan Desert",
-   "url": "https://en.wikipedia.org/wiki/Taklamakan_Desert",
-   "extract": "The Taklamakan Desert ( TAK-lə-mə-KAN) is a desert in northwestern China. Located inside the Tarim Basin in Southern Xinjiang, it is bounded by the Kunlun Mountains to the south, the Pamir Mountains to the west, the Tian Shan range to the north, and the Gobi Desert to the east.",
-   "lat": 38.9,
-   "lon": 82.2
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:1 zhangjiajie huangshizhai wulingyuan panorama 2012.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3A1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
   "license": "CC BY-SA 4.0",
@@ -549,29 +411,6 @@
    "extract": "Wulingyuan ([ù.lǐŋ.ɥɛ̌n], Chinese: 武陵源) is a scenic and historical site in the Wulingyuan District of South Central China's Hunan Province. It is noted for more than 3,000 quartzite sandstone pillars and peaks across most of the site, many over 200 metres (660 ft) in height, along with many ravines and gorges with picturesque streams, pools, lakes, rivers, and waterfalls. It features 40 caves, many with large calcite deposits and a natural bridge named Tianqiaoshengkong (meaning 'bridge across the sky'), which is one of the highest natural bridges in the world. The site also provides habitat for many vulnerable species, including the dhole, Asiatic black bear, and Chinese water deer. \nThe site is situated in Zhangjiajie City and lies about 270 kilometres (170 mi) to the northwest of Changsha, the capital of Hunan Province. The park covers an area of 690 square kilometers (266 square miles). Wulingyuan forms part of the Wuling Mountain Range. The scenic area consists of four national parks, which are the Zhangjiajie National Forest Park, Suoxi Valley Nature Reserve, Tianzi Mountain Nature Reserve, and the recently added Yangjiajie Scenic Area. Overall there are over 560 attraction sights to view.  The site was inscribed as a UNESCO World Heritage Site in 1992.",
    "lat": 29.33333333,
    "lon": 110.5
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:20160803 - Meiktila, Myanmar - Phaung Daw U Pagoda - 7321.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3A20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Jakub Hałun",
-  "credit": "Own work",
-  "dateTaken": "2016-08-03 16:20:50",
-  "description": "Phaung Daw U Pagoda in Meiktila, Myanmar",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg/1280px-20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 887,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg/500px-20160803_-_Meiktila%2C_Myanmar_-_Phaung_Daw_U_Pagoda_-_7321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Meiktila",
-   "url": "https://en.wikipedia.org/wiki/Meiktila",
-   "extract": "Meiktila (Burmese: မိတ္ထီလာမြို့, MLCTS: mit thi la mrui.; Burmese pronunciation: [meɪʔtʰìlà mjo̰]) is a city in central Burma on the banks of Meiktila Lake in the Mandalay Region at the junctions of the Bagan-Taunggyi, Yangon-Mandalay and Meiktila-Myingyan highways. Because of its strategic position, Meiktila is home to Myanmar Air Force's central command and Meiktila Air Force Base. The country's main aerospace engineering university, Myanmar Aerospace Engineering University is also located in Meiktila. As of 2021, the city had a population of 177,442.",
-   "lat": 20.88333333,
-   "lon": 95.88333333
   }
  },
  {
@@ -645,29 +484,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Cascada Dynjandi, Vestfirðir, Islandia, 2014-08-14, DD 136-138 HDR.JPG",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ACascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG",
-  "license": "CC BY-SA 4.0",
-  "artist": "Diego Delso",
-  "credit": "Own work",
-  "dateTaken": "Taken on 14 August 2014",
-  "description": "Waterfall Dynjandi, Vestfirðir, Iceland",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG/1280px-Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1970,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG/500px-Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Dynjandi",
-   "url": "https://en.wikipedia.org/wiki/Dynjandi",
-   "extract": "Dynjandi (Icelandic pronunciation: [ˈtɪnjantɪ] , also known as Fjallfoss [ˈfjatl̥ˌfɔsː]) is a waterfall located in Arnarfjörður in the Westfjords region of Iceland. It is the largest waterfall in the Westfjords and has a total height of 100 metres (330 ft). Below it are five other waterfalls: Háifoss, Úðafoss, Göngufoss, Hundafoss and Bæjarfoss.\nDynjandi and other waterfalls in Dynjandisá and their surroundings were protected as natural monuments in 1981.\nDynjandisheiði is a mountain pass over the falls that contains the first-built car-accessible road to Ísafjörður.",
-   "lat": 65.7325192,
-   "lon": -23.1985946
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:ARG-2016-Aerial-Tierra del Fuego (Ushuaia)–Valle Carbajal 01.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AARG-2016-Aerial-Tierra_del_Fuego_%28Ushuaia%29%E2%80%93Valle_Carbajal_01.jpg",
   "license": "CC BY-SA 4.0",
@@ -710,29 +526,6 @@
    "extract": "The Flatirons are rock formations in the western  United States, near Boulder, Colorado, consisting of flatirons. There are five large, numbered Flatirons ranging from north to south (First through Fifth, respectively) along the east slope of Green Mountain (elev. 8,148 ft or 2,484 m), and the term \"The Flatirons\" sometimes refers to these five alone.  Numerous additional named Flatirons are on the southern part of Green Mountain, Bear Peak, and among the surrounding foothills. The rocks themselves are between 290-296 million years old. They are a popular rock-climbing location, with Mountain Project listing 1,427 climbing routes in The Flatirons. Many gather at Chautauqua Park in Boulder at the base of The Flatirons to enjoy the natural environment, preserved by Boulder Parks and Recreation. The Flatirons are an iconic symbol of Boulder, serving as the city's signature backdrop, emphasizing the culture of adventure.",
    "lat": 40,
    "lon": -105.3
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Clevedon Pier 2013.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AClevedon_Pier_2013.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Saffron Blaze",
-  "credit": "Own work",
-  "dateTaken": "2013-07-07 22:15:30",
-  "description": "Clevendon pier. Grade 1 listed pier near Bristol, England.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Clevedon_Pier_2013.jpg/1280px-Clevedon_Pier_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 914,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Clevedon_Pier_2013.jpg/500px-Clevedon_Pier_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Clevedon Pier",
-   "url": "https://en.wikipedia.org/wiki/Clevedon_Pier",
-   "extract": "Clevedon Pier is a seaside pier in the town of Clevedon, Somerset, England on the east shore of the Severn Estuary. It was described by Sir John Betjeman, as \"the most beautiful pier in England\" and was designated a Grade I listed building in 2001.\nThe pier was built during the 1860s to attract tourists and provide a ferry port for rail passengers to South Wales. The pier is 312 m (1,024 ft) long and consists of eight spans supported by steel rails covered by wooden decking, with a pavilion on the pier head.\nThe pier opened in 1869 and served as an embarkation point for paddle steamer excursions for almost 100 years. Two of the spans collapsed during stress testing in 1970 and demolition was proposed, but local fund raising and heritage grants allowed the pier to be dismantled for restoration and reassembled. It partially reopened in 1989 and then fully reopened in 1998. The next year it was named the Pier of the Year by the National Piers Society, also receiving a Civic Trust Award. The pier now offers a landing stage for steamers and is a popular attraction for tourists and anglers.",
-   "lat": 51.4432,
-   "lon": -2.8632
   }
  },
  {
@@ -875,29 +668,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Centre Block - Parliament Hill.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ACentre_Block_-_Parliament_Hill.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Saffron Blaze",
-  "credit": "Own work",
-  "dateTaken": "2013-09-24 17:52:08",
-  "description": "The Centre Block, Canadian Parliament building, with the Peace Tower in front, Ottawa, Southern Ontario.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/1280px-Centre_Block_-_Parliament_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 962,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Centre_Block_-_Parliament_Hill.jpg/500px-Centre_Block_-_Parliament_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Centre Block",
-   "url": "https://en.wikipedia.org/wiki/Centre_Block",
-   "extract": "The Centre Block (French: Édifice du Centre) is the main building of the Canadian Parliament buildings on Parliament Hill, in Ottawa, Ontario, containing the House of Commons and Senate chambers, as well as the offices of a number of members of parliament, senators, and senior administration for both legislative houses. It is also the location of several ceremonial spaces, such as the Hall of Honour, the Memorial Chamber, and Confederation Hall.\nBuilt in the Gothic Revival style, the present Centre Block is the building's second iteration. The first was destroyed by fire in 1916; all that remains of the original building is the Library of Parliament, at the rear of the Centre Block. Though construction began immediately after the blaze, sculpting work on the interior continued through the 1970s. Then, from 2018, MPs were moved elsewhere for renovations lasting until 2031.\nOne of the most recognizable buildings in Canada, the Centre Block is depicted on the Canadian $10 bill (the Library of Parliament), $20 bill (the Peace Tower), and the $50 bill.",
-   "lat": 45.425,
-   "lon": -75.7
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Correios Building, São Paulo, Brazil.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ACorreios_Building%2C_S%C3%A3o_Paulo%2C_Brazil.jpg",
   "license": "CC BY-SA 4.0",
@@ -963,75 +733,6 @@
    "extract": "Darcha (elevation 3,360 m or 11,020 ft) is a pair of villages (Darcha Sumdo and Darach Dangma) on the Bhaga River in the Lahaul sub-division in the Lahaul and Spiti district in the Indian state of Himachal Pradesh. It is the northernmost permanent settlement in Himachal Pradesh along the Manali-Leh Highway. With the opening of the Atal Tunnel, Darcha is likely to see a large influx of tourists as it is now connected to Manali throughout the year. The Nimmu–Padam–Darcha road which is being constructed, will improve connectivity of Kargil, Zanskar and Leh District of Ladakh to Darcha.\n\n",
    "lat": 32.674,
    "lon": 77.216
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Gandhi Bhawan, Chandigarh.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGandhi_Bhawan%2C_Chandigarh.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "UnpetitproleX",
-  "credit": "Own work",
-  "dateTaken": "26/09/2024 03:15:00 PM",
-  "description": "Gandhi Bhawan at the Panjab University in Chandigarh. A modernist building designed by Pierre Jeanneret, the lesser-known cousin of Le Corbusier. The building sits on a raised plinth in a large P-shaped shallow pool, with an angular and curved three-part pinwheel roof, designed to evoke a floating lotus flower. The white colour of the building was chosen so to contrast with the red of the Fine Arts Museum designed by Corbusier, visible on the right. Picture taken after an intense thunderstorm during late monsoon, when the pool was filled with rainwater.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gandhi_Bhawan%2C_Chandigarh.jpg/1280px-Gandhi_Bhawan%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 960,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Gandhi_Bhawan%2C_Chandigarh.jpg/500px-Gandhi_Bhawan%2C_Chandigarh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Gandhi Bhawan, Chandigarh",
-   "url": "https://en.wikipedia.org/wiki/Gandhi_Bhawan,_Chandigarh",
-   "extract": "The Gandhi Bhawan is a major landmark of the city of Chandigarh, India, and a center dedicated to the study of the words and works of Mohandas K. Gandhi. It was designed by architects B.P Mathur in collaboration with Pierre Jeanneret.",
-   "lat": 30.7618668,
-   "lon": 76.7713662
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Breathtaking beauty of Dzukou Valley in Manipur-Nagaland border (edit).jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ABreathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Original:  Samudra Bikash Hazarika\n\nDerivative work:  UnpetitproleX",
-  "credit": "This image has been extracted from another file",
-  "dateTaken": "14 August 2016, 08:16:29",
-  "description": "Dzukou valley is known as the valley of flowers of North East India. It is one of the best trekking attractions in Manipur-Nagaland border.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg/1280px-Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 720,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg/500px-Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Dzukou Valley",
-   "url": "https://en.wikipedia.org/wiki/Dzukou_Valley",
-   "extract": "The Dzukou Valley (also spelt Dzüko, Dzükou or Dzukuo) is a high-altitude valley in Northeast India, straddling the inter-state border of the states of Nagaland and Manipur. Lying behind Mount Japfü at an elevation between 2,438 and 2,452 m (7,999 and 8,045 ft) above sea level in the Kohima and Senapati districts, it is known for its rolling meadows, seasonal wildflowers and rich biodiversity, and is among the most popular trekking destinations in northeastern India.\nThe valley is one of the principal habitats of Blyth's tragopan (Tragopan blythii), the state bird of Nagaland, and is the type locality of the Dzukou Valley horned frog (Megophrys dzukou), described in 2020. Its iconic seasonal bloom, long known locally as the \"Dzukou lily\", is the same species as the Shirui lily (Lilium mackliniae). A comprehensive floristic survey was published by the Botanical Survey of India in 2016.\nAdministration over much of the valley is contested between Manipur and Nagaland as part of a wider inter-state boundary dispute, with the Mao Naga community of Senapati and the Southern Angami community of Kohima both asserting customary claims. The valley is also periodically threatened by wildfires, including major blazes in 2006, 2020–21 and January 2026.",
-   "lat": 25.553329,
-   "lon": 94.067065
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Brihadisvara Temple during Maha Shivaratri-WUS03611 (edit).jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ABrihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Original:  Rainer Halama\nDerivative work:  UnpetitproleX",
-  "credit": "This file was derived from:  Brihadisvara Temple during Maha Shivaratri-WUS03611.jpg",
-  "dateTaken": "27 February 2025 19:46:55+05:30",
-  "description": "Brihadisvara Temple during Maha Shivaratri",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/1280px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 800,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/500px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Brihadisvara Temple",
-   "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
-   "extract": "Brihadisvara Temple, called Rajarajesvaram (lit. 'Lord of Rajaraja') by its builder, and known locally as Thanjai Periya Kovil (lit. 'Thanjavur Big Temple') and Peruvudaiyar Kovil (lit. 'Temple of the great lord'), is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. It is also called Dakshina Meru (Meru of the South). Built by Chola emperor Rajaraja I between 1003 and 1010 CE, the temple is a part of the UNESCO World Heritage Site known as the \"Great Living Chola Temples\", along with the Chola-era Gangaikonda Cholapuram temple and Airavatesvara temple, which are about 70 kilometres (43 mi) and 40 kilometres (25 mi) to its northeast respectively.\nThe original monuments of this 11th-century temple were built around a moat. It included gopura, the main temple, its massive tower, inscriptions, frescoes, and sculptures predominantly related to Shaivism, but also of Vaishnavism and Shaktism. The temple was damaged in its history and some artwork is now missing. Additional mandapam and monuments were added in the centuries that followed. The temple now stands amidst fortified walls that were added after the 16th century.\nBuilt using granite, the vimana tower above the shrine is one of the tallest in South India. The temple has a massive colonnaded prakara (corridor) and one of the largest Shiva lingas in India. It is also famed for the quality of its sculpture, as well as being the location that commissioned the brass Nataraja, Shiva as the lord of dance, in the 11th century. The complex includes shrines for Nandi, Parvati, Murugan, Ganesha, Sabhapati, Dakshinamurti, Chandeshvara, Varahi, Thiyagarajar of Thiruvarur, Siddhar Karuvoorar and others. The temple is one of the most visited tourist attractions in Tamil Nadu.",
-   "lat": 10.78277778,
-   "lon": 79.13166667
   }
  },
  {
@@ -1147,29 +848,6 @@
    "extract": "Neak Pean (or Neak Poan) (Khmer: ប្រាសាទនាគព័ន្ធ, \"the entwined serpents\") at Angkor, Cambodia is an artificial island with a Mahayana Buddhist temple on a circular island in Jayatataka Baray, which was associated with Preah Khan temple, built during the reign of King Jayavarman VII. It is the \"Mebon\" of the Preah Khan baray (the \"Jayatataka\" of the inscription).",
    "lat": 13.46305556,
    "lon": 103.89444444
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Bayon, Angkor Thom, Camboya, 2013-08-17, DD 37.JPG",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ABayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG",
-  "license": "CC BY-SA 3.0",
-  "artist": "Diego Delso",
-  "credit": "Own work",
-  "dateTaken": "2013-08-17 15:17:46",
-  "description": "Bayon, Khmer temple  constructed in the late 12th or early 13th century and located in the ancient city of Angkor, today Cambodia.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/1280px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 578,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/500px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Bayon",
-   "url": "https://en.wikipedia.org/wiki/Bayon",
-   "extract": "The Bayon (Khmer: ប្រាសាទបាយ័ន, Prasat Bayoăn [praːsaːt baːjŏən];  BAI-on) is a richly decorated Theravada Buddhist temple of the Khmer Empire located at Angkor in Cambodia. Built in the late 12th or early 13th century as the state temple of King Jayavarman VII (Khmer: ព្រះបាទជ័យវរ្ម័នទី ៧), it stands at the centre of Jayavarman's capital city, Angkor Thom (Khmer: អង្គរធំ). The Bayon reflects the strong Buddhist orientation of Jayavarman VII's reign. Originally conceived as a Mahayana Buddhist monument centered on the cult of the Bodhisattva of compassion, the temple later adapted to the spread of Theravada Buddhism in Cambodia. Its iconography, spatial organization, and emphasis on compassion and kingship illustrate the close relationship between Buddhism and royal authority at Angkor, while its continued use as a Buddhist sanctuary demonstrates the enduring influence of Buddhism in the region.\nThe temple is best known for its many towers adorned with serene, smiling stone faces carved on all sides, which are commonly interpreted as representations of King Jayavarman VII and symbolize compassion and royal authority. The Bayon also features extensive bas-reliefs depicting historical events, religious themes, and scenes of everyday life in the Khmer Empire, making it one of the most important visual sources for the study of Angkorian society. The Japanese Government Team for the Safeguarding of Angkor (JSA) has described the Bayon as \"the most striking expression of the baroque style\" of Khmer architecture, in contrast to the classical style of Angkor Wat (Khmer: ប្រាសាទអង្គរវត្ត).",
-   "lat": 13.44111111,
-   "lon": 103.85861111
   }
  },
  {
@@ -1381,75 +1059,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Namib-Naukluft Sand Dunes (2011).jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ANamib-Naukluft_Sand_Dunes_%282011%29.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Yathin S Krishnappa",
-  "credit": "Own work",
-  "dateTaken": "20 April 2011 (07:52:54)",
-  "description": "Sand dunes in the Namib-Naukluft National Park, Namibia. Older dunes are reddish and larger, newer dunes are yellow-brown.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Namib-Naukluft_Sand_Dunes_%282011%29.jpg/1280px-Namib-Naukluft_Sand_Dunes_%282011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 582,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Namib-Naukluft_Sand_Dunes_%282011%29.jpg/500px-Namib-Naukluft_Sand_Dunes_%282011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Namib-Naukluft National Park",
-   "url": "https://en.wikipedia.org/wiki/Namib-Naukluft_National_Park",
-   "extract": "The Namib-Naukluft National Park is a national park in western Namibia, situated between the coast of the Atlantic Ocean and the edge of the Great Escarpment. It encompasses part of the Namib Desert (considered the world's oldest desert), the Naukluft mountain range, and the lagoon at Sandwich Harbour. The best-known area of the park and one of the main visitor attractions in Namibia is Sossusvlei, a clay pan surrounded by dunes, and Sesriem, a small canyon of the Tsauchab. The desert research station of Gobabeb is situated within the park.\n\n",
-   "lat": -24.54638889,
-   "lon": 15.32972222
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Negombo, St. Mary's Church, 2025-07 CN-02.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ANegombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Steffen Schmitz (more photos)",
-  "credit": "Own work",
-  "dateTaken": "2025-07-15",
-  "description": "Catholic St. Mary's Church in Negombo, Sri Lanka",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Negombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg/1280px-Negombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1148,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Negombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg/500px-Negombo%2C_St._Mary%27s_Church%2C_2025-07_CN-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "St. Mary's Church, Negombo",
-   "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_Negombo",
-   "extract": "St. Mary's Church is a landmark edifice, a Roman Catholic church in the heart of Negombo. It is one of the largest Catholic church  in Sri Lanka.",
-   "lat": 7.201,
-   "lon": 79.838
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Grose Valley, NSW, Australia - April 2013.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGrose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Diliff",
-  "credit": "Own work",
-  "dateTaken": "2013-04-14",
-  "description": "A 2 x 9 segment panorama of the Grose Valley as viewed from the Rodreguez Pass near Govett's Leap, Blackheath in the Blue Mountains of New South Wales, Australia.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Grose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg/1280px-Grose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 743,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Grose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg/500px-Grose_Valley%2C_NSW%2C_Australia_-_April_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Grose Valley",
-   "url": "https://en.wikipedia.org/wiki/Grose_Valley",
-   "extract": "The Grose Valley, officially Grose Gorge is a rugged valley in the Blue Mountains, New South Wales, Australia. It has been formed by the Grose River, the headwaters of which are in the Mount Victoria area. The valley is located between the Great Western Highway and Bells Line of Road, the two major routes across the Blue Mountains. The majority of the valley falls within the Blue Mountains National Park.",
-   "lat": -33.6,
-   "lon": 150.36
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Donner Lake as seen from Donner Pass.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ADonner_Lake_as_seen_from_Donner_Pass.jpg",
   "license": "CC BY-SA 3.0",
@@ -1469,29 +1078,6 @@
    "extract": "Donner Pass is a 7,056-foot-high (2,151 m) mountain pass in the northern Sierra Nevada, above Donner Lake and Donner Memorial State Park about 9 miles (14 km) west of Truckee, California. Like the Sierra Nevada itself, the pass has a steep approach from the east and a gradual approach from the west.\nThe pass has been used by the California Trail, First transcontinental railroad, Overland Route, Lincoln Highway and Victory Highway (both later U.S. Route 40 and still later Donner Pass Road), as well as indirectly by Interstate 80. The pass gets its name from the ill-fated Donner Party who overwintered there in 1846.\nToday, the area is home to a recreational community with several alpine lakes and ski resorts (Donner Ski Ranch, Boreal, and Sugar Bowl). The permanent communities in the area include Kingvale and Soda Springs, as well as the larger community below the pass surrounding Donner Lake.",
    "lat": 39.31444444,
    "lon": -120.32694444
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Inspiration Point Bryce Canyon November 2018 panorama.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AInspiration_Point_Bryce_Canyon_November_2018_panorama.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "King of Hearts",
-  "credit": "Own work",
-  "dateTaken": "Taken on 20 November 2018, 08:15",
-  "description": "Four-segment panorama of Inspiration Point, Bryce Canyon National Park.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg/1280px-Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 768,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg/500px-Inspiration_Point_Bryce_Canyon_November_2018_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Bryce Canyon National Park",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park",
-   "extract": "Bryce Canyon National Park () is a national park of the United States located in southwestern Utah. The major feature of the park is Bryce Canyon, which, despite its name, is not a canyon but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau. Bryce is distinctive due to geological structures called hoodoos, formed by frost weathering and stream erosion of the river and lake bed sedimentary rock. The red, orange, and white colors of the rocks provide distinctive views for park visitors. Bryce Canyon National Park is much smaller and sits at a much higher elevation than nearby Zion National Park. The rim at Bryce varies from 8,000 to 9,000 feet (2,400 to 2,700 m).\nThe area is in portions of Garfield County and Kane County. It was settled by Mormon pioneers in the 1850s and was named after Ebenezer Bryce, who homesteaded in the area in 1874. The area was originally designated as a national monument by President Warren G. Harding in 1923 and was redesignated as a national park by Congress in 1928. The park covers 35,835 acres (55.992 sq mi; 14,502 ha; 145.02 km2) and receives substantially fewer visitors than Zion National Park (nearly 4.3 million in 2016) or Grand Canyon National Park (almost 6 million in 2016), largely due to Bryce's more remote location. In 2024, Bryce Canyon received almost 2.5 million visitors.\nThe park spans three life zones, with forests and meadows supporting diverse animal life. The park contains 1000 plant species, 59 mammal species, and at least 100 species of birds.",
-   "lat": 37.64,
-   "lon": -112.17
   }
  },
  {
@@ -1616,30 +1202,6 @@
  },
  {
   "group": "photograph",
-  "commonsFile": "File:Activity in the Santa Fe R.R. yard, Los Angeles, Calif. All switch lights, head lights and lamps have been shaded from above in accordance with blackout regulations. The heavy light streaks LCCN2017878087.tif",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AActivity_in_the_Santa_Fe_R.R._yard%2C_Los_Angeles%2C_Calif._All_switch_lights%2C_head_lights_and_lamps_have_been_shaded_from_above_in_accordance_with_blackout_regulations._The_heavy_light_streaks_LCCN2017878087.tif",
-  "license": "Public domain",
-  "artist": "Delano, Jack, photographer",
-  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017878087\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a34000/1a34700/1a34703u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017878087/",
-  "dateTaken": "1943-03",
-  "description": "Title: Activity in the Santa Fe R.R. yard, Los Angeles, Calif. All switch lights, head lights and lamps have been shaded from above in accordance with blackout regulations. The heavy light streaks are caused by paths of locomotive headlights and the thin lines by lamps of switchmen working in the yard. Santa Fe R.R. trip\nAbstract/medium: 1 transparency : color.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Activity_in_the_Santa_Fe_R.R._yard%2C_Los_Angeles%2C_Calif._All_switch_lights%2C_head_lights_and_lamps_have_been_shaded_from_above_in_accordance_with_blackout_regulations._The_heavy_light_streaks_LCCN2017878087.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 994,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Activity_in_the_Santa_Fe_R.R._yard%2C_Los_Angeles%2C_Calif._All_switch_lights%2C_head_lights_and_lamps_have_been_shaded_from_above_in_accordance_with_blackout_regulations._The_heavy_light_streaks_LCCN2017878087.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Jack Delano",
-   "url": "https://en.wikipedia.org/wiki/Jack_Delano",
-   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.\n\n",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Jack Delano"
- },
- {
-  "group": "photograph",
   "commonsFile": "File:Trucks unloading at the inbound freight house of the Illinois Central Railroad, South Water Street freight terminal, Chicago, Ill. LCCN2017878167.tif",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ATrucks_unloading_at_the_inbound_freight_house_of_the_Illinois_Central_Railroad%2C_South_Water_Street_freight_terminal%2C_Chicago%2C_Ill._LCCN2017878167.tif",
   "license": "Public domain",
@@ -1664,30 +1226,6 @@
  },
  {
   "group": "photograph",
-  "commonsFile": "File:Pennsylvania R.R. ore docks, unloading iron ore from a lake freighter by means of \"Hulett\" unloaders, Cleveland, Ohio LCCN2017878204.tif",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3APennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif",
-  "license": "Public domain",
-  "artist": "Delano, Jack, photographer",
-  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017878204\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a34000/1a34800/1a34834u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017878204/",
-  "dateTaken": "1943-05",
-  "description": "Title: Pennsylvania R.R. ore docks, unloading iron ore from a lake freighter by means of \"Hulett\" unloaders, Cleveland, Ohio\nAbstract/medium: 1 transparency : color.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif/lossy-page1-1280px-Pennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 995,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Pennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif/lossy-page1-1280px-Pennsylvania_R.R._ore_docks%2C_unloading_iron_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878204.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Jack Delano",
-   "url": "https://en.wikipedia.org/wiki/Jack_Delano",
-   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.\n\n",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Jack Delano"
- },
- {
-  "group": "photograph",
   "commonsFile": "File:Flock in Owens Valley.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AFlock_in_Owens_Valley.jpg",
   "license": "Public domain",
@@ -1700,30 +1238,6 @@
    "width": 1280,
    "height": 845,
    "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flock_in_Owens_Valley.jpg/500px-Flock_in_Owens_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Ansel Adams",
-   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
-   "extract": "Ansel Easton Adams (February 20, 1902 – April 22, 1984) was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, an association of photographers advocating \"pure\" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making called the Zone System, a method of achieving a desired final print through a technical understanding of how the tonal range of an image is the result of choices made in exposure, negative development, and printing.\nAdams was a life-long advocate for environmental conservation, and his photographic practice was deeply entwined with this advocacy. At age 14, he was given his first camera during his first visit to Yosemite National Park. He developed his early photographic work as a member of the Sierra Club. He was later contracted with the United States Department of the Interior to make photographs of national parks. For his work and his persistent advocacy, which helped expand the National Park system, he was awarded the Presidential Medal of Freedom in 1980.\nIn the founding and establishment of the photography department at the Museum of Modern Art in New York City, an important landmark in securing photography's institutional legitimacy, Adams was a key advisor. He assisted the staging of that department's first photography exhibition, helped to found the photography magazine Aperture, and co-founded the Center for Creative Photography at the University of Arizona.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Ansel Adams"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Ansel Adams - National Archives 79-AA-L02.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AAnsel_Adams_-_National_Archives_79-AA-L02.jpg",
-  "license": "Public domain",
-  "artist": "Ansel Adams",
-  "credit": "This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
-  "dateTaken": "1941",
-  "description": "\"Flock in Owens Valley, California, 1941.\";\nFrom the series Ansel Adams Photographs of National Parks and Monuments, compiled 1941 - 1942, documenting the period ca. 1933 - 1942.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ansel_Adams_-_National_Archives_79-AA-L02.jpg/1280px-Ansel_Adams_-_National_Archives_79-AA-L02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 820,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ansel_Adams_-_National_Archives_79-AA-L02.jpg/500px-Ansel_Adams_-_National_Archives_79-AA-L02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "article": {
    "title": "Ansel Adams",
@@ -1844,30 +1358,6 @@
    "width": 1280,
    "height": 1601,
    "viewUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Portrait_of_Jimmy_Carter_by_Ansel_Adams_%281979%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  },
-  "article": {
-   "title": "Ansel Adams",
-   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
-   "extract": "Ansel Easton Adams (February 20, 1902 – April 22, 1984) was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, an association of photographers advocating \"pure\" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making called the Zone System, a method of achieving a desired final print through a technical understanding of how the tonal range of an image is the result of choices made in exposure, negative development, and printing.\nAdams was a life-long advocate for environmental conservation, and his photographic practice was deeply entwined with this advocacy. At age 14, he was given his first camera during his first visit to Yosemite National Park. He developed his early photographic work as a member of the Sierra Club. He was later contracted with the United States Department of the Interior to make photographs of national parks. For his work and his persistent advocacy, which helped expand the National Park system, he was awarded the Presidential Medal of Freedom in 1980.\nIn the founding and establishment of the photography department at the Museum of Modern Art in New York City, an important landmark in securing photography's institutional legitimacy, Adams was a key advisor. He assisted the staging of that department's first photography exhibition, helped to found the photography magazine Aperture, and co-founded the Center for Creative Photography at the University of Arizona.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Ansel Adams"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Frozen Lake and Cliffs, Sierra Nevada, California.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AFrozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg",
-  "license": "Public domain",
-  "artist": "Ansel Adams",
-  "credit": "https://www.mutualart.com/Artwork/Frozen-Lake-and-Cliffs--Sierra-Nevada--C/6905685E0420A51653DB8361BF8DE6B5 [1]",
-  "dateTaken": "taken 1927, published 1932",
-  "description": "Frozen Lake and Cliffs, Sierra Nevada, California.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Frozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg/1280px-Frozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 997,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Frozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg/500px-Frozen_Lake_and_Cliffs%2C_Sierra_Nevada%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "article": {
    "title": "Ansel Adams",
@@ -2012,30 +1502,6 @@
    "width": 1280,
    "height": 780,
    "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640368.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Carol M. Highsmith",
-   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
-   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all of which are in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence on her works, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and her donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Carol M. Highsmith"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:View of the Lincoln Memorial, Reflecting Pool, and WWII Memorial, from the Washington Monument, NW, Washington, D.C LCCN2010641584.tif",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AView_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif",
-  "license": "Public domain",
-  "artist": "Carol M. Highsmith",
-  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2010641584\nImage download: https://cdn.loc.gov/master/pnp/highsm/09700/09771a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.09771",
-  "dateTaken": "Taken on 19 September 2010, 10:06 (according to Exif data)",
-  "description": "Title: View of the Lincoln Memorial, Reflecting Pool, and WWII Memorial, from the Washington Monument, NW, Washington, D.C\nPhysical description: 1 photograph : digital, TIFF file, color.\n\nNotes: Title, date, subject note, and keywords provided by the photographer.; Gift; George F. Landegger; 2010; (DLC/PP-2010:176).; Credit line: The George F. Landegger Collection of District of Columbia Photographs in Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.; Forms part of the George F. Landegger Collection of District of Columbia Photographs in Carol M. Highsmith's ",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/View_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif/lossy-page1-1280px-View_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 669,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/View_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif/lossy-page1-1280px-View_of_the_Lincoln_Memorial%2C_Reflecting_Pool%2C_and_WWII_Memorial%2C_from_the_Washington_Monument%2C_NW%2C_Washington%2C_D.C_LCCN2010641584.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "article": {
    "title": "Carol M. Highsmith",
@@ -2288,30 +1754,6 @@
  },
  {
   "group": "photograph",
-  "commonsFile": "File:Stone and William Street, Manhattan (NYPL b13668355-482808).tiff",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AStone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff",
-  "license": "Public domain",
-  "artist": "Berenice Abbott",
-  "credit": "https://digitalcollections.nypl.org/items/510d47d9-4f8b-a3d9-e040-e00a18064a99",
-  "dateTaken": "1936-05-12",
-  "description": "* Looking up at inter-building bridge, buildings in foreground are     dark masses, buildings beyond well lit.\nCitation/Reference: CNY# 116\nCode: I.C.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Stone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff/lossy-page1-1280px-Stone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1633,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Stone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff/lossy-page1-1280px-Stone_and_William_Street%2C_Manhattan_%28NYPL_b13668355-482808%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Berenice Abbott",
-   "url": "https://en.wikipedia.org/wiki/Berenice_Abbott",
-   "extract": "Berenice Alice Abbott (July 17, 1898 – December 9, 1991) was an American photographer best known for her portraits of cultural figures of the interwar period, New York City photographs of architecture and urban design of the 1930s, and science interpretation of the 1940s to the 1960s.\nSuper Sight, also known as the Abbott Process, is a form of macro photography developed in the early 1940s by Berenice Abbott.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Berenice Abbott"
- },
- {
-  "group": "photograph",
   "commonsFile": "File:Boutique, Marché aux Halles, Paris MET DP315551.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ABoutique%2C_March%C3%A9_aux_Halles%2C_Paris_MET_DP315551.jpg",
   "license": "CC0",
@@ -2408,30 +1850,6 @@
  },
  {
   "group": "photograph",
-  "commonsFile": "File:Nightview, Berenice Abbott.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ANightview%2C_Berenice_Abbott.jpg",
-  "license": "Public domain",
-  "artist": "Berenice Abbott",
-  "credit": "https://high.org/collection/nightview-ny-1932/",
-  "dateTaken": "Various sources give dates ranging from 1930 to 1934.",
-  "description": "Nighttime view of Midtown Manhattan from the top of the Empire State Building.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Nightview%2C_Berenice_Abbott.jpg/1280px-Nightview%2C_Berenice_Abbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1669,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Nightview%2C_Berenice_Abbott.jpg/500px-Nightview%2C_Berenice_Abbott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Berenice Abbott",
-   "url": "https://en.wikipedia.org/wiki/Berenice_Abbott",
-   "extract": "Berenice Alice Abbott (July 17, 1898 – December 9, 1991) was an American photographer best known for her portraits of cultural figures of the interwar period, New York City photographs of architecture and urban design of the 1930s, and science interpretation of the 1940s to the 1960s.\nSuper Sight, also known as the Abbott Process, is a form of macro photography developed in the early 1940s by Berenice Abbott.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Berenice Abbott"
- },
- {
-  "group": "photograph",
   "commonsFile": "File:James Joyce in Paris.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AJames_Joyce_in_Paris.jpg",
   "license": "Public domain",
@@ -2453,30 +1871,6 @@
    "lon": null
   },
   "photographer": "Berenice Abbott"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Times Square on a Rainy Day 1943 John Vachon.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ATimes_Square_on_a_Rainy_Day_1943_John_Vachon.jpg",
-  "license": "Public domain",
-  "artist": "John Vachon",
-  "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID fsa.8d26849.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
-  "dateTaken": "1943-03",
-  "description": "Times Square, New York City, on a rainy day, March 1943\n\nBetween March 2 and March 17, per discussion at [1]",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg/1280px-Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1273,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg/500px-Times_Square_on_a_Rainy_Day_1943_John_Vachon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "John Vachon",
-   "url": "https://en.wikipedia.org/wiki/John_Vachon",
-   "extract": "John Felix Vachon (May 19, 1914 – April 20, 1975) was an American photographer. Vachon is remembered most for his photography working for the Farm Security Administration (FSA) as part of the New Deal and for contributions to Look magazine.\n\n",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "John Vachon"
  },
  {
   "group": "photograph",
@@ -2588,30 +1982,6 @@
    "width": 1280,
    "height": 975,
    "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Arthur_Rothstein_-_Chinese_mother_with_children_ppmsca.07798.jpg/500px-Arthur_Rothstein_-_Chinese_mother_with_children_ppmsca.07798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Arthur Rothstein",
-   "url": "https://en.wikipedia.org/wiki/Arthur_Rothstein",
-   "extract": "Arthur Rothstein (July 17, 1915 – November 11, 1985) was an American photographer. His career spanned five decades, and he received recognition as one of America's premier photojournalists.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Arthur Rothstein"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Arthur Rothstein - Chinese junk on river ppmsca.07797.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AArthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg",
-  "license": "Public domain",
-  "artist": "Arthur Rothstein",
-  "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID ppmsca.07797.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
-  "dateTaken": "Taken in 1946",
-  "description": "A boat on a river with rolling hills in the background in the Jiangsu Province or Yunnan Province in China",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg/1280px-Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 993,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg/500px-Arthur_Rothstein_-_Chinese_junk_on_river_ppmsca.07797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "article": {
    "title": "Arthur Rothstein",
@@ -2885,5 +2255,1097 @@
    "lon": null
   },
   "photographer": "Arnold Genthe"
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Gamlehaugen1.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AGamlehaugen1.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Aqwis",
+  "credit": "Own work",
+  "dateTaken": "2008-06-24",
+  "description": "Gamlehaugen in Bergen, Norway.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Gamlehaugen1.jpg/1280px-Gamlehaugen1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 851,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Gamlehaugen1.jpg/500px-Gamlehaugen1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Gamlehaugen",
+   "url": "https://en.wikipedia.org/wiki/Gamlehaugen",
+   "extract": "Gamlehaugen is a Royal Castle in Bergen, Norway, and the residence of the Norwegian royal family in the city. Gamlehaugen has a history that goes as far back as the Middle Ages, and the list of previous owners includes many of the wealthiest men in Bergen. Today owned by the Norwegian state, the most recent private owner was Christian Michelsen, a politician and shipping magnate who later became the first prime minister of Norway after the dissolution of the union between Sweden and Norway. Michelsen commissioned the construction of the current main building at Gamlehaugen, where he would live for most of the rest of his life.\nWhen Michelsen died in 1925, his closest friends and colleagues started a national fund-raising campaign that brought in enough money to allow the Norwegian state to purchase the property. The large English park was opened to the public the same year, and the ground floor of the house was opened as a museum two years later. Gamlehaugen has been the Norwegian royal family's residence in Bergen since 1927.\n\n",
+   "lat": 60.34256111,
+   "lon": 5.33695833
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Kittywakes at Fjortende Julibreen, Krossfjord, Svalbard.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AKittywakes_at_Fjortende_Julibreen%2C_Krossfjord%2C_Svalbard.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "AWeith",
+  "credit": "Own work",
+  "dateTaken": "2015-07-27 12:41:53",
+  "description": "Kittiwakes Rissa tridactyla are common on Svalbard; approximately 270,000 pairs usually breed here in summer. They are often found in front of the glaciers sitting on ice floes taking care for their plumage during their moult.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kittywakes_at_Fjortende_Julibreen%2C_Krossfjord%2C_Svalbard.jpg/1280px-Kittywakes_at_Fjortende_Julibreen%2C_Krossfjord%2C_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 720,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kittywakes_at_Fjortende_Julibreen%2C_Krossfjord%2C_Svalbard.jpg/500px-Kittywakes_at_Fjortende_Julibreen%2C_Krossfjord%2C_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Fjortende Julibreen",
+   "url": "https://en.wikipedia.org/wiki/Fjortende_Julibreen",
+   "extract": "Fjortende Julibreen is a glacier in Haakon VII Land at Spitsbergen, Svalbard. It has a length of about sixteen kilometers, and a total area of about 127 km2. It is located between Reppingen, Løvlandfjellet and Mercantonfjellet to the south, and Casimir-Périerkammen, Forelryggen and Foreltinden to the north, and extends down to Fjortende Julibukta in Krossfjorden. The glacier is named after the National Day of France, the 14 July.",
+   "lat": 79.1233,
+   "lon": 12.1561
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Crystal Mill, Colorado.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ACrystal_Mill%2C_Colorado.jpg",
+  "license": "CC BY 2.0",
+  "artist": "John Fowler from Placitas, NM, USA",
+  "credit": "The Crystal Mill",
+  "dateTaken": "2012-09-19 17:43",
+  "description": "Crystal Mill, an 1892 wooden powerhouse located on an outcrop above the Crystal River in Crystal, Gunnison County, Colorado, United States.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Crystal_Mill%2C_Colorado.jpg/1280px-Crystal_Mill%2C_Colorado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1926,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Crystal_Mill%2C_Colorado.jpg/500px-Crystal_Mill%2C_Colorado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Crystal Mill",
+   "url": "https://en.wikipedia.org/wiki/Crystal_Mill",
+   "extract": "The Crystal Mill, or the Old Mill is an 1892 wooden powerhouse located on an outcrop above the Crystal River in Crystal, Colorado, United States.  It is accessible from Marble, Colorado via four-wheel drive.  Although called a Watermill, it is more correctly denoted as a compressor station, which used a water turbine to drive an air compressor, and was originally built with a horizontal wheel. The compressed air was then used to power other machinery or tools.",
+   "lat": 39.05888889,
+   "lon": -107.10388889
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Zabriskie Point Death Valley December 2013 002.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AZabriskie_Point_Death_Valley_December_2013_002.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "King of Hearts",
+  "credit": "Own work",
+  "dateTaken": "2013-12-24",
+  "description": "Red Cathedral, Zabriskie Point, Death Valley National Park, California.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Zabriskie_Point_Death_Valley_December_2013_002.jpg/1280px-Zabriskie_Point_Death_Valley_December_2013_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 848,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Zabriskie_Point_Death_Valley_December_2013_002.jpg/500px-Zabriskie_Point_Death_Valley_December_2013_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Zabriskie Point",
+   "url": "https://en.wikipedia.org/wiki/Zabriskie_Point",
+   "extract": "Zabriskie Point () is a part of the Amargosa Range located east of Death Valley in Death Valley National Park in California, United States, noted for its erosional landscape. It is composed of sediments from Furnace Creek Lake, which dried up 5 million years ago—long before Death Valley came into existence.",
+   "lat": 36.42,
+   "lon": -116.81111111
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Río Matanuska, Palmer, Alaska, Estados Unidos, 2017-08-22, DD 55-59 PAN.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AR%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "Taken on 23 August 2017, 14:17:29",
+  "description": "Panoramic view of the Matanuska River near Palmer, Alaska, United States.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/R%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg/1280px-R%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 307,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/R%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg/500px-R%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Matanuska River",
+   "url": "https://en.wikipedia.org/wiki/Matanuska_River",
+   "extract": "The Matanuska River (Dena'ina: Ch'atanhtnu; Ahtna: Ts'itonhna’) is a 75-mile (121 km) long river in Southcentral Alaska, United States. The river drains a broad valley south of the Alaska Range eponymously known as the Matanuska Valley.",
+   "lat": 61.49694444,
+   "lon": -149.26972222
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Aerial photographs of The Fullerton Hotel of Singapore at night.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AAerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2018-06-10 19:30:43",
+  "description": "Photographs of The Fullerton Hotel of Singapore at night with colorful lights reflecting in the water (view from the Marina Bay Sands observation deck)",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg/1280px-Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 720,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg/500px-Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "The Fullerton Hotel Singapore",
+   "url": "https://en.wikipedia.org/wiki/The_Fullerton_Hotel_Singapore",
+   "extract": "The Fullerton Hotel Singapore is a five-star luxury hotel located near the mouth of the Singapore River, in the Downtown Core of the Central Area, Singapore. It was originally known as the Fullerton Building, and also as the General Post Office Building. The address is 1 Fullerton Square. The Fullerton Building was named after Robert Fullerton, the first Governor of the Straits Settlements (1826–1829). Commissioned in 1924 as part of the British colony's centennial celebrations, the building was designed as an office building by Major P.H. Keys of Keys & Dowdeswell, a Shanghai firm of architects, which won the project through an architectural design competition. The architectural firm also designed the Capitol Theatre, its adjoined Capitol Building and the Singapore General Hospital. In 2015, it was designated as a national monument of Singapore.",
+   "lat": 1.28611111,
+   "lon": 103.85305556
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Esplanade Theatres on the Bay Singapore at blue hour.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AEsplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2018-06-12 18:35:56",
+  "description": "Esplanade – Theatres on the Bay at blue hour, Singapore",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Esplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg/1280px-Esplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Esplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg/500px-Esplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Esplanade – Theatres on the Bay",
+   "url": "https://en.wikipedia.org/wiki/Esplanade_%E2%80%93_Theatres_on_the_Bay",
+   "extract": "Esplanade – Theatres on the Bay is a performing arts centre located in the Downtown Core of Singapore near the mouth of the Singapore River. Named after the nearby Esplanade Park, it consists of two rounded structures: one housing a concert hall with about 1,600 seats; and the other a theatre with a capacity of about 2,000 for the performing arts. It is nicknamed \"The Durian\".",
+   "lat": 1.28972222,
+   "lon": 103.85527778
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Swissôtel The Stamford reflecting in the water.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASwiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2018-06-08 17:09:07",
+  "description": "Skyscraper Swissôtel The Stamford reflecting in the basin of the roof garden at level 6 of the National Gallery in Singapore",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Swiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg/1280px-Swiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 960,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Swiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg/500px-Swiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Swissôtel The Stamford",
+   "url": "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_The_Stamford",
+   "extract": "Swissôtel The Stamford, formerly known as The Westin Stamford, is a hotel in Singapore managed by Accor. Designed by architect I.M. Pei, at a height of 226 metres (741 ft) it was the tallest hotel in the world when opened in 1986 and remains one of Southeast Asia's tallest hotels. It is part of the Raffles City complex comprising two hotels, the Raffles City Convention Centre, Raffles City shopping centre, and an office tower. Situated at 2 Stamford Road, the hotel sits above City Hall MRT station and Esplanade MRT station.\nThe 5-star hotel is a sister hotel of Fairmont Singapore and has 1,252 rooms and suites, 12 restaurants and bars, Raffles City Convention Centre, and one of Asia's largest spas, Willow Stream Spa. A major renovation of the hotel was completed in 2019.",
+   "lat": 1.293544,
+   "lon": 103.85349
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Interior of the National Gallery Singapore.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AInterior_of_the_National_Gallery_Singapore.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2018-06-08 18:14:31",
+  "description": "Interior of the National Gallery of Singapore with the airy corridors on 4 levels, the staircases and escalators, in the evening. Architect : Jean-Francois Milou",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1280px-Interior_of_the_National_Gallery_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 961,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/500px-Interior_of_the_National_Gallery_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "National Gallery Singapore",
+   "url": "https://en.wikipedia.org/wiki/National_Gallery_Singapore",
+   "extract": "The National Gallery Singapore is a public art museum and national museum located in the Civic District of Singapore. It houses a collection of Singaporean and Southeast Asian art spanning the 19th century to the present, with more than 9,000 artworks. \nThe Gallery aims to provide an understanding and appreciation of art and culture through a variety of media, focusing on Singapore's culture and heritage and its relationship with other Asian cultures and the world. It consists of two national monuments, the former Supreme Court and former City Hall buildings, and has a combined floor area of 64,000 square metres (690,000 sq ft), making it the largest visual arts venue and largest museum in Singapore. A total cost of approximately S$532 million has gone into the National Gallery Singapore's development. \nIn financial year 2024-25, the Gallery recorded 1,979,190 visitors. Singapore citizens and permanent residents receive free general admission.\nThe Gallery also contains several restaurants and cafés, including Odette and National Kitchen by Violet Oon.",
+   "lat": 1.29049,
+   "lon": 103.85186
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:The Arts House during blue hour (2023)-L1003783.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AThe_Arts_House_during_blue_hour_%282023%29-L1003783.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Frank Schulenburg",
+  "credit": "Own work",
+  "dateTaken": "2023-08-18 03:18:53",
+  "description": "Exterior of the Arts House, Singapore, during blue hour on August 18, 2023. The Arts House (formerly the Old Parliament House) opened on 26 March 2004 as an arts and heritage centre. Built in 1827, the Old Parliament House is the oldest government building in Singapore.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Arts_House_during_blue_hour_%282023%29-L1003783.jpg/1280px-The_Arts_House_during_blue_hour_%282023%29-L1003783.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 989,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Arts_House_during_blue_hour_%282023%29-L1003783.jpg/500px-The_Arts_House_during_blue_hour_%282023%29-L1003783.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "The Arts House",
+   "url": "https://en.wikipedia.org/wiki/The_Arts_House",
+   "extract": "The Arts House (formerly the Old Parliament House, Parliament House and the Assembly House), is a multi-disciplinary arts venue in the Civic District of Singapore. The venue plays host to art exhibitions and concerts. Built in 1827, the Old Parliament House is the oldest government building and perhaps the oldest surviving building in Singapore. The building was home to the Parliament of Singapore from 1965 to 1999, when it moved to an adjacent new building.",
+   "lat": 1.28861111,
+   "lon": 103.85111111
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Mount Washington Cog Railway October 2021 015 edit.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AMount_Washington_Cog_Railway_October_2021_015_edit.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "King of Hearts",
+  "credit": "This file was derived from:  Mount Washington Cog Railway October 2021 015.jpg:",
+  "dateTaken": "2021-10-07 14:29:39",
+  "description": "M-7 Kenison (ascending), Mount Washington Cog Railway, New Hampshire.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Mount_Washington_Cog_Railway_October_2021_015_edit.jpg/1280px-Mount_Washington_Cog_Railway_October_2021_015_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1280,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Mount_Washington_Cog_Railway_October_2021_015_edit.jpg/500px-Mount_Washington_Cog_Railway_October_2021_015_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Mount Washington Cog Railway",
+   "url": "https://en.wikipedia.org/wiki/Mount_Washington_Cog_Railway",
+   "extract": "The Mount Washington Cog Railway, also known as the Cog, is the world's first mountain-climbing cog railway (rack-and-pinion railway). The railway climbs Mount Washington in New Hampshire, United States. It uses a Marsh rack system and both steam and biodiesel-powered locomotives to carry tourists to the top of the mountain. Its track is built to a 4 ft 8 in (1,422 mm) gauge, which is technically a narrow gauge, as it is 1⁄2 inch (13 mm) less than a 4 ft 8+1⁄2 in (1,435 mm) standard gauge.\nIt is the second-steepest rack railway in the world, after the Pilatus Railway in Switzerland, with an average grade of over 25% and a maximum grade of 37%. The railway is approximately 3 miles (5 km) long and ascends Mount Washington's western slope, beginning at an elevation of approximately 2,700 feet (820 m) above sea level and ending just short of the mountain's summit peak of 6,288 feet (1,917 m). The train ascends the mountain at 2.8 miles per hour (4.5 km/h) and descends at 4.6 mph (7.4 km/h). Steam locomotives take approximately 65 minutes to ascend and 40 minutes to descend, while the biodiesel engines can go up in as little as 36 minutes.\nMost of the Mount Washington Cog Railway is in Thompson and Meserve's Purchase, with the part of the railway nearest to Mount Washington's summit being in Sargent's Purchase.\n\n",
+   "lat": 44.27388889,
+   "lon": -71.33194444
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Hupao.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AHupao.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Sh1019",
+  "credit": "Own work",
+  "dateTaken": "2007-06-23",
+  "description": "Hupao (\"Dreaming of the Tiger\") Spring (Hupaomengquan) in Hangzhou, China",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Hupao.jpg/1280px-Hupao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 851,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Hupao.jpg/500px-Hupao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Hupao Spring",
+   "url": "https://en.wikipedia.org/wiki/Hupao_Spring",
+   "extract": "Hupao or Hupaomeng Spring, also known by a variety of translated names such as Dreaming of Tiger Spring or Tiger's Run Spring, is a spring and park in southwestern Hangzhou, Zhejiang Province, China.\nThe water from the spring itself seeps out from quartzite and has been regarded as among the finest in China for centuries. The water is popular for brewing teas, such as the local Longjing tea. The spring is now regarded as one of the Ten Scenes of West Lake.\nThe Chinese verb 跑 (páo) normally refers to running, which is used in many translations of the well's name. The actual legend behind the well's name, however, derives from a separate much less common use of the verb to describe the pawing of animals. Supposedly, it was uncovered in the 9th century by wild tigers who pawed the ground to provide water for a sage hermit who lived in the area.\nThe spring provided water for the Dinghui Monastery formerly located nearby and was closely associated with the legendary 13th-century Buddhist monk Ji Gong, whose remains are still enshrined nearby.",
+   "lat": 30.209,
+   "lon": 120.13
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Cloud Forest, Gardens by the Bay, Singapore.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ACloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2018-06-06 13:05:30",
+  "description": "Cloud Forest from the entrance of the site, Gardens by the Bay, Singapore, a sunny day",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1280px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1280,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/500px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Gardens by the Bay",
+   "url": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+   "extract": "The Gardens by the Bay (GBTB) is an urban park spanning 105 hectares (260 acres) in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden in Marina South, Bay East Garden with the Founders' Memorial in Marina East, and Bay Central Garden in the Downtown Core and Kallang. The largest of the gardens at 54 hectares (130 acres) is the Bay South Garden, designed by Grant Associates. Its Flower Dome is the largest glass greenhouse in the world.\nGardens by the Bay was part of the nation's plans to transform its \"Garden City\" to a \"City in a Garden\", with the aim of raising the quality of life by enhancing greenery and flora in the city. First announced by Prime Minister Lee Hsien Loong at Singapore's National Day Rally in 2005, Gardens by the Bay was intended to be Singapore's premier urban outdoor recreation space and one of the country's national icons.\nA popular tourist attraction in Singapore, the park had 6.4 million visitors in 2014, and had had 20 million by November 2015 and over 50 million by 2018. In 2024, TripAdvisor's Traveler's Choice Awards Best of the Best ranked it the eighth-best attraction in the world and the best in Asia.\n\n",
+   "lat": 1.28472222,
+   "lon": 103.865
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Atomium sphere (DSCF1211).jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AAtomium_sphere_%28DSCF1211%29.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Trougnouf (Benoit Brummer)",
+  "credit": "Own work",
+  "dateTaken": "2018-10-05 12:30:22",
+  "description": "The Atomium's central sphere reflecting the base and Osseghem park",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Atomium_sphere_%28DSCF1211%29.jpg/1280px-Atomium_sphere_%28DSCF1211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 867,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Atomium_sphere_%28DSCF1211%29.jpg/500px-Atomium_sphere_%28DSCF1211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Atomium",
+   "url": "https://en.wikipedia.org/wiki/Atomium",
+   "extract": "The Atomium ( ə-TOH-mee-əm, French: [atɔmjɔm], Dutch: [aːˈtoːmijəm]) is a landmark modernist building in Brussels, Belgium, originally constructed as the centrepiece of the 1958 Brussels World's Fair (Expo 58). Designed by the engineer André Waterkeyn and the architects André and Jean Polak as a tribute to scientific progress, as well as to symbolise Belgian engineering skills at the time, it is located on the Heysel/Heizel Plateau in Laeken (northern part of the City of Brussels), where the exhibition took place. It is the city's most popular tourist attraction, and serves as a museum, an art centre and a cultural destination.\nThe Atomium stands 102 metres (335 ft) tall, making it one of the tallest structures in Belgium. Its nine 18-metre-diameter (59 ft), stainless-steel-clad spheres are connected in the shape of a unit cell that could represent an iron (ferrite) crystal magnified 165 billion times. Steel tubes connecting the spheres enclose stairs, escalators and a lift to allow access to the six visitable spheres, which contain exhibit halls and other public spaces. The top sphere includes a restaurant with a panoramic view of Brussels. The building was completely renovated between 2004 and 2006 by the companies Jacques Delens and BESIX.\nThe building is located on the Square de l'Atomium/Atomiumsquare, at the intersection of the Boulevard du Centenaire/Eeuwfeestlaan with the Avenue de l'Atomium/Atomiumlaan and the Avenue de Bouchout/Boechoutlaan, and opposite the Centenary Palace of the Brussels Exhibition Centre (Brussels Expo).\n\n",
+   "lat": 50.89472222,
+   "lon": 4.34111111
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Bergtocht van Guarda via Ardez en Ftan naar Scuol. 20-09-2019. (actm.) 29.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ABergtocht_van_Guarda_via_Ardez_en_Ftan_naar_Scuol._20-09-2019._%28actm.%29_29.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Agnes Monkelbaan",
+  "credit": "Own work",
+  "dateTaken": "2019-09-20 13:46:33",
+  "description": "Ruins of Chanoua in Ardez, along the mountain tour of  Guarda, Switzerland via Ardez and Ftan to Scuol. The ruins are the last remains of a group of buildings built around a sust (hostel and warehouse/storage building) started in the 9th century. The site was inhabited on and off until 1910.[1]",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bergtocht_van_Guarda_via_Ardez_en_Ftan_naar_Scuol._20-09-2019._%28actm.%29_29.jpg/1280px-Bergtocht_van_Guarda_via_Ardez_en_Ftan_naar_Scuol._20-09-2019._%28actm.%29_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 765,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Bergtocht_van_Guarda_via_Ardez_en_Ftan_naar_Scuol._20-09-2019._%28actm.%29_29.jpg/500px-Bergtocht_van_Guarda_via_Ardez_en_Ftan_naar_Scuol._20-09-2019._%28actm.%29_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Ardez",
+   "url": "https://en.wikipedia.org/wiki/Ardez",
+   "extract": "Ardez (Romansh pronunciation: [ɐrˈdɛts] ) is a former municipality in the district of Inn in the canton of Graubünden in eastern Switzerland. The village is located in the Lower Engadin valley.  On 1 January 2015 the former municipalities of Ardez, Guarda, Tarasp, Ftan and Sent merged into the municipality of Scuol.",
+   "lat": 46.76666667,
+   "lon": 10.2
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 49.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AL%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "Taken on 29 July 2015",
+  "description": "Aerial view of the \"Monkey\", one of the most popular geoglyphs of the Nazca Lines, which are located in the Nazca Desert in southern Peru. The geoglyphs of this UNESCO World Heritage Site (since 1994) are spread over a 80 km (50 mi) plateau between the towns of Nazca and Palpa and are, according to some studies, between 500 B.C. and 500 A.D. old.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/1280px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 852,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/500px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Nazca lines",
+   "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+   "extract": "The Nazca lines (, ) are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed.  There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures have been found with the use of drones, and archaeologists believe that there are more to be found.\nMost lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300 km (800 mi), and the group covers an area of about 50 km2 (19 sq mi). The lines are typically 10 to 15 cm (4–6 in) deep. They were made by removing the top layer of reddish-brown ferric oxide–coated pebbles to reveal a yellow-grey subsoil. The width of the lines varies considerably, but more than half are slightly more than 33 cm (13 in) wide.  In some places they may be only 30 cm (12 in) wide, and in others reach 1.8 m (6 ft) wide.\nSome of the Nazca lines form shapes that are best seen from the air (at around 500 m [1,600 ft]), although they are also visible from the surrounding foothills and other high places. The shapes are usually made from one continuous line. The largest ones are about 370 m (400 yd) long.  Because of its isolation and the dry, windless, stable climate of the plateau, the lines have mostly been preserved naturally. Extremely rare changes in weather may temporarily alter the general designs. As of 2012, the lines are said to have been deteriorating because of an influx of squatters inhabiting the lands.\nThe figures vary in complexity. Hundreds are simple lines and geometric shapes; more than 70 are zoomorphic designs, including a hummingbird, arachnid, fish, condor, heron, monkey, lizard, dog, cat, and a human. Other shapes include trees and flowers.  Scholars differ in interpreting the purpose of the designs, but in general, they ascribe religious significance to them. They were designated in 1994 as a UNESCO World Heritage Site.",
+   "lat": -14.6975,
+   "lon": -75.135
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 55.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AL%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2015-07-29",
+  "description": "Aerial view of the \"Condor\", one of the geoglyphs of the Nazca Lines, which are located in the Nazca Desert in southern Peru. The geoglyphs of this UNESCO World Heritage Site (since 1994) are spread over a 80 km (50 mi) plateau between the towns of Nazca and Palpa and are, according to some studies, between 500 B.C. and 500 A.D. old.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG/1280px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 821,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG/500px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Nazca lines",
+   "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+   "extract": "The Nazca lines (, ) are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed.  There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures have been found with the use of drones, and archaeologists believe that there are more to be found.\nMost lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300 km (800 mi), and the group covers an area of about 50 km2 (19 sq mi). The lines are typically 10 to 15 cm (4–6 in) deep. They were made by removing the top layer of reddish-brown ferric oxide–coated pebbles to reveal a yellow-grey subsoil. The width of the lines varies considerably, but more than half are slightly more than 33 cm (13 in) wide.  In some places they may be only 30 cm (12 in) wide, and in others reach 1.8 m (6 ft) wide.\nSome of the Nazca lines form shapes that are best seen from the air (at around 500 m [1,600 ft]), although they are also visible from the surrounding foothills and other high places. The shapes are usually made from one continuous line. The largest ones are about 370 m (400 yd) long.  Because of its isolation and the dry, windless, stable climate of the plateau, the lines have mostly been preserved naturally. Extremely rare changes in weather may temporarily alter the general designs. As of 2012, the lines are said to have been deteriorating because of an influx of squatters inhabiting the lands.\nThe figures vary in complexity. Hundreds are simple lines and geometric shapes; more than 70 are zoomorphic designs, including a hummingbird, arachnid, fish, condor, heron, monkey, lizard, dog, cat, and a human. Other shapes include trees and flowers.  Scholars differ in interpreting the purpose of the designs, but in general, they ascribe religious significance to them. They were designated in 1994 as a UNESCO World Heritage Site.",
+   "lat": -14.6975,
+   "lon": -75.135
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 52.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AL%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Self-photographed",
+  "dateTaken": "Taken on 29 July 2015",
+  "description": "Aerial view of \"The Hummingbird\", one of the most popular geoglyphs of the Nazca Lines, which are located in the Nazca Desert in southern Peru. The geoglyphs of this UNESCO World Heritage Site (since 1994) are spread over a 80 km (50 mi) plateau between the towns of Nazca and Palpa and are, according to some studies, between 500 B.C. and 500 A.D. old.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG/1280px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 777,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG/500px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Nazca lines",
+   "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+   "extract": "The Nazca lines (, ) are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed.  There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures have been found with the use of drones, and archaeologists believe that there are more to be found.\nMost lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300 km (800 mi), and the group covers an area of about 50 km2 (19 sq mi). The lines are typically 10 to 15 cm (4–6 in) deep. They were made by removing the top layer of reddish-brown ferric oxide–coated pebbles to reveal a yellow-grey subsoil. The width of the lines varies considerably, but more than half are slightly more than 33 cm (13 in) wide.  In some places they may be only 30 cm (12 in) wide, and in others reach 1.8 m (6 ft) wide.\nSome of the Nazca lines form shapes that are best seen from the air (at around 500 m [1,600 ft]), although they are also visible from the surrounding foothills and other high places. The shapes are usually made from one continuous line. The largest ones are about 370 m (400 yd) long.  Because of its isolation and the dry, windless, stable climate of the plateau, the lines have mostly been preserved naturally. Extremely rare changes in weather may temporarily alter the general designs. As of 2012, the lines are said to have been deteriorating because of an influx of squatters inhabiting the lands.\nThe figures vary in complexity. Hundreds are simple lines and geometric shapes; more than 70 are zoomorphic designs, including a hummingbird, arachnid, fish, condor, heron, monkey, lizard, dog, cat, and a human. Other shapes include trees and flowers.  Scholars differ in interpreting the purpose of the designs, but in general, they ascribe religious significance to them. They were designated in 1994 as a UNESCO World Heritage Site.",
+   "lat": -14.6975,
+   "lon": -75.135
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 46.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AL%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_46.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2015-07-29",
+  "description": "Aerial view of the \"Owlman\" aka \"Astronaut\", the most enigmatic geoglyph of the Nazca Lines, which are located in the Nazca Desert in southern Peru. The geoglyphs of this UNESCO World Heritage Site (since 1994) are spread over a 80 km (50 mi) plateau between the towns of Nazca and Palpa and are, according to some studies, between 500 B.C. and 500 A.D. old.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_46.JPG/1280px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_46.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1747,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_46.JPG/500px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_46.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Nazca lines",
+   "url": "https://en.wikipedia.org/wiki/Nazca_lines",
+   "extract": "The Nazca lines (, ) are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed.  There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD. In the 21st century, several hundred new figures have been found with the use of drones, and archaeologists believe that there are more to be found.\nMost lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300 km (800 mi), and the group covers an area of about 50 km2 (19 sq mi). The lines are typically 10 to 15 cm (4–6 in) deep. They were made by removing the top layer of reddish-brown ferric oxide–coated pebbles to reveal a yellow-grey subsoil. The width of the lines varies considerably, but more than half are slightly more than 33 cm (13 in) wide.  In some places they may be only 30 cm (12 in) wide, and in others reach 1.8 m (6 ft) wide.\nSome of the Nazca lines form shapes that are best seen from the air (at around 500 m [1,600 ft]), although they are also visible from the surrounding foothills and other high places. The shapes are usually made from one continuous line. The largest ones are about 370 m (400 yd) long.  Because of its isolation and the dry, windless, stable climate of the plateau, the lines have mostly been preserved naturally. Extremely rare changes in weather may temporarily alter the general designs. As of 2012, the lines are said to have been deteriorating because of an influx of squatters inhabiting the lands.\nThe figures vary in complexity. Hundreds are simple lines and geometric shapes; more than 70 are zoomorphic designs, including a hummingbird, arachnid, fish, condor, heron, monkey, lizard, dog, cat, and a human. Other shapes include trees and flowers.  Scholars differ in interpreting the purpose of the designs, but in general, they ascribe religious significance to them. They were designated in 1994 as a UNESCO World Heritage Site.",
+   "lat": -14.6975,
+   "lon": -75.135
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Jamnik 05.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AJamnik_05.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Mihael Grmek",
+  "credit": "Own work",
+  "dateTaken": "2015-08-30 09:29:23",
+  "description": "View towards Church of Saints Primus and Felician in Jamnik.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Jamnik_05.jpg/1280px-Jamnik_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 464,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Jamnik_05.jpg/500px-Jamnik_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Jamnik, Kranj",
+   "url": "https://en.wikipedia.org/wiki/Jamnik,_Kranj",
+   "extract": "Jamnik (pronounced [ˈjaːmnik]) is a settlement on the eastern slopes of the Jelovica Plateau in the Municipality of Kranj in the Upper Carniola region of Slovenia.",
+   "lat": 46.27097222,
+   "lon": 14.20703056
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:20090719 Crkva Gospa od Zdravlja Kotor Bay Montenegro.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "User:Ggia",
+  "credit": "Own work",
+  "dateTaken": "Taken on 19 July 2009 16:58:00",
+  "description": "\"Crkva Gospa od Zdravlja\" (translated in English \"Our Lady of Health\") church, Kotor bay, Montenegro.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg/1280px-20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 852,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg/500px-20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Kotor",
+   "url": "https://en.wikipedia.org/wiki/Kotor",
+   "extract": "Kotor (Montenegrin Cyrillic: Котор, pronounced [kɔ̌tɔr]), historically known as Cattaro (from Italian, pronounced [ˈkattaro]), is a town in Coastal region of Montenegro. It is located in a secluded part of the Bay of Kotor. The city has a population of 13,347 and is the administrative center of Kotor Municipality. \nThe old Mediterranean port of Kotor is surrounded by fortifications built during the Venetian period. It is located on the Bay of Kotor (Boka Kotorska), one of the most indented parts of the Adriatic Sea, which constitutes a ria, meaning a submerged river canyon. Together with the nearly overhanging limestone cliffs of Orjen and Lovćen, Kotor and its surrounding area form the unique landscape.\nSince the early 2000s Kotor has seen an increase in tourists, many of them coming by cruise ship. Visitors are attracted to the natural environment of the Bay of Kotor and the old town of Kotor. Kotor is part of the World Heritage Site dubbed the Natural and Culturo-Historical Region of Kotor.\nThe fortified city of Kotor was also included in UNESCO's World Heritage Site list as part of Venetian Works of Defence between 16th and 17th centuries: Stato da Terra – western Stato da Mar in 2017.",
+   "lat": 42.43,
+   "lon": 18.77
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Petronas Towers at Night - from the base upwards.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APetronas_Towers_at_Night_-_from_the_base_upwards.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Dcubillas",
+  "credit": "Own work",
+  "dateTaken": "2008-11-04",
+  "description": "Petronas Towers, Kuala Lumpur, Malaysia. Photo taken at night from the base of one of the towers looking up towards the other tower. One of the large Malaysian flags on one of the towers is clearly visible and illuminated at the bottom centre of the shot.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Petronas_Towers_at_Night_-_from_the_base_upwards.jpg/1280px-Petronas_Towers_at_Night_-_from_the_base_upwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1927,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Petronas_Towers_at_Night_-_from_the_base_upwards.jpg/500px-Petronas_Towers_at_Night_-_from_the_base_upwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Petronas Towers",
+   "url": "https://en.wikipedia.org/wiki/Petronas_Towers",
+   "extract": "The Petronas Towers (Malay: Menara Berkembar Petronas), also known as the Petronas Twin Towers and colloquially the KLCC Twin Towers, are an interlinked pair of 88-storey supertall skyscrapers in Kuala Lumpur, Malaysia, standing at 451.9 m (1,483 ft). From 1998 to 2004, they were the tallest buildings in the world until they were surpassed by the Taipei 101 skyscraper in Taiwan. The Petronas Towers remain the world's tallest twin skyscrapers, surpassing the original World Trade Center towers in New York City, and were the tallest buildings in Malaysia until 2019, when they were surpassed by The Exchange 106. The Petronas Towers are a major landmark of Kuala Lumpur, along with the nearby Kuala Lumpur Tower and Merdeka 118, and are visible in many places across the city.",
+   "lat": 3.1578,
+   "lon": 101.7117
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Kudat Sabah Fuk-Tek-Kung-Temple-01.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AKudat_Sabah_Fuk-Tek-Kung-Temple-01.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "CEphoto, Uwe Aranas",
+  "credit": "Own work",
+  "dateTaken": "2014-10-14",
+  "description": "Kudat, Sabah, Malaysia: Fuk Tek Kung Temple, one of the few taoism temples in Sabah. It was built in the early 1970's by the nearby Hokkien Association.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Kudat_Sabah_Fuk-Tek-Kung-Temple-01.jpg/1280px-Kudat_Sabah_Fuk-Tek-Kung-Temple-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 869,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Kudat_Sabah_Fuk-Tek-Kung-Temple-01.jpg/500px-Kudat_Sabah_Fuk-Tek-Kung-Temple-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Kudat District",
+   "url": "https://en.wikipedia.org/wiki/Kudat_District",
+   "extract": "The Kudat District (Malay: Daerah Kudat) is an administrative district in the Malaysian state of Sabah, part of the Kudat Division which includes the districts of Kota Marudu, Kudat and Pitas. The capital of the district is in Kudat Town.",
+   "lat": 6.88333333,
+   "lon": 116.83333333
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Kuching Sarawak Dewan-Undangan-Negeri-Sarawak-01.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AKuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "CEphoto, Uwe Aranas",
+  "credit": "Own work",
+  "dateTaken": "2017-07-16",
+  "description": "Kuching, Sarawak, Malaysia: Sarawak State Assembly building (Dewan Undangan Negeri Sarawak)",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg/1280px-Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg/500px-Kuching_Sarawak_Dewan-Undangan-Negeri-Sarawak-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "New Sarawak State Legislative Assembly Building",
+   "url": "https://en.wikipedia.org/wiki/New_Sarawak_State_Legislative_Assembly_Building",
+   "extract": "The New Sarawak Legislative Assembly Building (Malay: Bangunan Dewan Undangan Sarawak Baru) is the current state legislative complex of Sarawak, in Kuching, Malaysia. It houses the Sarawak Legislative Assembly, where state assemblymen from all over Sarawak meet and preside over debates and passing of laws.\nThe complex is at the north bank of the Sarawak River in between The Astana, which is the official residence of the Yang di-Pertua Negeri (Governor) of Sarawak, and Fort Margherita.\nThe building was officially opened by the Yang di-Pertuan Agong (King) of Malaysia, Tuanku Mizan Zainal Abidin of Terengganu, on 27 July 2009, followed by the Rulers' Conference in the building complex.",
+   "lat": 1.56166667,
+   "lon": 110.34777778
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "iMahesh",
+  "credit": "Own work",
+  "dateTaken": "2023-11-07 12:21:35",
+  "description": "Panoramic view of Taj Palace Hotel and Taj Tower with the iconic Gateway of India in the background, overlooking the Arabian Sea in Mumbai",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/1280px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 720,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg/500px-Panoramic_view_of_Taj_Palace_Hotel_and_Taj_Tower_with_the_iconic_Gateway_of_India_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "India",
+   "url": "https://en.wikipedia.org/wiki/India",
+   "extract": "India, officially the Republic of India, is a country in South Asia.  It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.\nModern humans arrived on the Indian subcontinent from Africa by 55,000 years ago. Settled life emerged in the western margins of the Indus river basin 9,000 years ago, evolving into the Indus Valley Civilisation of the third millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, diffused into India from the northwest, its earliest hymns containing elements of what would become Hinduism. The pre-existing Dravidian and other languages were gradually superseded in India's northern plains. Across the central stretch of these plains, rapid urbanisation took place, and after 500 BCE a caste-based, hereditary form of social stratification began to solidify as Hinduism took fuller shape. During this period, Buddhism and Jainism arose, proclaiming social orders unlinked to heredity. The subsequent emergence of the loose-knit Maurya and Gupta Empires gave rise to wide-ranging cultural and scientific creativity. However, these eras saw a steady decline in women's status, alongside the eventual institutionalisation of untouchability. In South India, across the first millennium CE, the Middle kingdoms transmitted Dravidian language scripts and cultural traditions to Southeast Asia. Well before the millennium's end, Judaism, Christianity, Islam, and Zoroastrianism had become established on India's southern and western coasts.\nEarly in the 2nd millennium, Muslim armies from Central Asia intermittently overran India's northern plains, eventually establishing the Delhi Sultanate and drawing India into the cosmopolitan networks of medieval Islam. The Vijayanagara Empire built a powerful military-fiscal state that fostered a flourishing, distinctively South Indian Hindu culture. During this era, Sikhism emerged in the Punjab, promoting an egalitarian devotion that transcended traditional Hindu and Muslim boundaries. The Mughal Empire ushered in two centuries of economic expansion and relative peace, leaving a lasting legacy of administrative centralisation and cultural synthesis. The expanding rule of the British East India Company consolidated territorial control over the subcontinent while transforming India into a colonial economy.  Crown rule, or the British Raj, began in 1858. Although equality before the law promised to Indians was slow to materialise, both British India and, to a lesser extent, the princely states  saw technological changes as modern education and more organised public life took root. A nationalist movement emerged in India, the first in the non-European British Empire. Noted for nonviolent resistance after 1920, it was a major factor in ending British rule. In 1947, the British Indian Empire was partitioned into the independent dominions of a Hindu-majority India and a Muslim-majority Pakistan. The partition brought large-scale loss of life and unprecedented migration.\nThe Constitution of India was adopted in 1950 and declared India to be  a federal republic governed through a democratic parliamentary system; it guarantees freedom of speech, freedom of press, and religious pluralism. Amendments enacted from 1951 onwards strengthened affirmative action programmes to reduce caste inequality.  The reorganization of states in 1956 along linguistic lines institutionalised regional language pride and led to the growth of regional literature and cinema.  During the 1970s, India reversed agricultural stagnation through the Green Revolution, achieving national food security. The country also altered the regional power balance through support for Bangladesh and enacted constitutional reform to end princely privileges. India's population grew from 361 million in 1951 to approximately 1.464 billion in 2025. Economic reforms of the 1990s integrated India's economy with the world's.  By the 2010s, the Indian economy had a stably high rate of growth.  A large middle class and a communications boom gained momentum. However, challenges remain, including widening income gaps, gender inequality and environmental degradation. In recent years, India has seen a political shift toward majoritarianism.  A nuclear-weapon state with high military expenditure, India is among the world's largest economies and a founding member of the United Nations, while its cultural legacy encompasses 45 UNESCO World Heritage Sites. India's megadiverse land features four biodiversity hotspots. Its wildlife is supported in protected habitats and traditionally viewed with cultural tolerance.",
+   "lat": 21,
+   "lon": 78
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Paints of sunrise on Langtang National Park.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APaints_of_sunrise_on_Langtang_National_Park.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Q-lieb-in",
+  "credit": "Own work",
+  "dateTaken": "2014-11-13",
+  "description": "This is a photo of a natural site in Nepal identified by the ID",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Paints_of_sunrise_on_Langtang_National_Park.jpg/1280px-Paints_of_sunrise_on_Langtang_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 824,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Paints_of_sunrise_on_Langtang_National_Park.jpg/500px-Paints_of_sunrise_on_Langtang_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Langtang National Park",
+   "url": "https://en.wikipedia.org/wiki/Langtang_National_Park",
+   "extract": "Langtang National Park is a national park in north-central Nepal. It was established in 1976 as Nepal's first Himalayan national park and the country's fourth protected area. It covers an area of 1,710 km2 (660 sq mi) in the Nuwakot, Rasuwa and Sindhulpalchok Districts of the central Himalayan region. It contains 26 village communities and includes the Langtang valley. In the north and east it is linked with Qomolangma National Nature Preserve in the Tibet Autonomous Region.\nThe eastern and western boundaries follow the Bhote Koshi and the Trishuli river, respectively.\nThe Gosainkunda lake is located at an elevation of 4,300 m (14,100 ft) inside the park. The Dorje Lakpa range at 6,988 m (22,927 ft) bisects the park from west–east to south–east. The summit of Langtang Lirung is the highest point in the park at 7,245 m (23,770 ft).\nLangtang National Park is part of the Sacred Himalayan Landscape.",
+   "lat": 28.1738,
+   "lon": 85.5531
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:NohKaLikai Falls V2 Wiki.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ANohKaLikai_Falls_V2_Wiki.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Vikramjit Kakati",
+  "credit": "Own work",
+  "dateTaken": "2021-04-16",
+  "description": "Nohkalikai Falls is the tallest plunge waterfall in India. Its height is 340 metres (1,115 ft). The waterfall is located in the Indian state of Meghalaya, near Cherrapunji, one of the wettest places on Earth. Nohkalikai Falls are fed by the rainwater collected on the summit of a comparatively small plateau and decrease in power during the dry season, from December to February. Below the falls is a plunge pool with unusual green-colored water. \nCapturing Team- Dr Vikramjit Kakati - Photogrammetry, Mr Arpan Uzir – Navigation & Equipment Support, Mr Himadri Bhuyan – Logistics Support,Mr Dheeman G",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/NohKaLikai_Falls_V2_Wiki.jpg/1280px-NohKaLikai_Falls_V2_Wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 983,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/NohKaLikai_Falls_V2_Wiki.jpg/500px-NohKaLikai_Falls_V2_Wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Nohkalikai Falls",
+   "url": "https://en.wikipedia.org/wiki/Nohkalikai_Falls",
+   "extract": "Nohkalikai Falls, sometimes Ka Likai, is the tallest plunge waterfall in India. The 340 metres (1,115 ft) waterfall is located in the Indian state of Meghalaya, near Cherapunji (now known as Sohra), one of the wettest places on Earth. Nohkalikai Falls are fed by the rainwater collected on the summit of a comparatively small plateau and decrease in power during the dry season, from December to February. Below the falls is a plunge pool with water of an unusual shade of green.",
+   "lat": 25.27555556,
+   "lon": 91.68666667
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Shivaliks Himalayas Aerial Dehaze Himachal Feb20 R16 02827.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AShivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+  "credit": "Own work",
+  "dateTaken": "2020-02-16 10:30:37",
+  "description": "Aerial view of the Shivaliks and the Middle Himalayas, looking east from near Shimla, Himachal Pradesh, India.  Some haze reduction gives a Roerich-like scene.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg/1280px-Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg/500px-Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Himachal Pradesh",
+   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+   "extract": "Himachal Pradesh (Hindi: Himācal Pradeś, pronounced [ɦɪˈmäːtʃəl pɾəˈd̪eːʃ]; lit. 'Snow-laden Mountain Province') is a state in the northern part of India. Situated in the Western Himalayas, it is one of the 13 mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems. Himachal Pradesh is the northernmost state of India and shares borders with the union territories of Jammu and Kashmir and Ladakh to the north, and the states of Punjab to the west, Haryana to the southwest, Uttarakhand to the southeast and a very narrow border with Uttar Pradesh to the south. The state also shares an international border to the east with the Tibet Autonomous Region of China. Himachal Pradesh is also known as Dev Bhoomi, meaning 'Land of Gods' and Veer Bhoomi which means 'Land of the Brave'.\nThe predominantly mountainous region comprising the present-day Himachal Pradesh has been inhabited since pre-historic times, having witnessed multiple waves of human migrations from other areas. Through its history, the region was mostly ruled by local kingdoms, some of which accepted the suzerainty of larger empires. Prior to India's independence from the British, Himachal comprised the hilly regions of the Punjab Province of British India. After independence, many of the hilly territories were organised as the Chief Commissioner's province of Himachal Pradesh, which later became a Union Territory. In 1966, hilly areas of the neighbouring Punjab state were merged into Himachal and it was ultimately granted full statehood in 1971.\nShimla is the summer capital of Himachal Pradesh, while Dharamshala is the winter capital.\nHimachal Pradesh is spread across valleys with many perennial rivers flowing through them. Agriculture, horticulture, hydropower, and tourism are important constituents of the state's economy. The hilly state is almost universally electrified, with 99.5% of households having electricity as of 2016. The state was declared India's second open-defecation-free state in 2016. According to a survey of CMS-India Corruption Study in 2017, Himachal Pradesh is India's least corrupt state. Himachal Pradesh is divided into 12 districts.\nIn 2026, Himachal Pradesh ranked at the 8th position on the earth in World's most welcoming regions followed by Fredericksburg, USA. In India Himachal Pradesh topped in India's most welcoming regions followed by Kerala and Goa, and Himachal's Bir topped as the most welcoming city in India.",
+   "lat": 31.10333333,
+   "lon": 77.17222222
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Darcha Padum Road Below Shinku La Lahaul Oct22 A7C 03533.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ADarcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+  "credit": "Own work",
+  "dateTaken": "2022-10-04 10:05:44",
+  "description": "Darcha-Padum road winding up to Shinku La, Lahaul, Himachal, India.  Elev. 4,975m (16,322'). Peaks about 5,600m (18,375').",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg/1280px-Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg/500px-Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Shinku La",
+   "url": "https://en.wikipedia.org/wiki/Shinku_La",
+   "extract": "Shinku La (or Shingo La) mountain pass on Nimmu-Padum-Darcha road on the state boundary between Ladakh and Himachal Pradesh, connects the Zanskar region of Ladakh with the Lahaul region of Himachal Pradesh. The under-construction Shingo La Tunnel, with target expected completion date of 2028, will reduce the Manali to Kargil distance by 522 km while providing an additional all-weather route to Ladakh as an alternative to the existing Leh–Manali Highway.",
+   "lat": 32.9089,
+   "lon": 77.1997
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Himalayas, Cholatse, Nepal.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AHimalayas%2C_Cholatse%2C_Nepal.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Vyacheslav Argenberg",
+  "credit": "Own work",
+  "dateTaken": "2009-10-18 11:53:41",
+  "description": "View of Cholatse (right, 6,440 metres (21,129 ft)), Ama Dablam (left, 6,810 metres (22,343 ft)) and other Himalayan peaks, along with some glacial lakes, to the south of the Great Himalayan Range in Mahalangur Himal. Shot on a location in Chola Valley at around 5,100 metres (16,732 ft) a. s. l. in good weather conditions with some high cirrus clouds being formed. Nepal, Himalayas.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Himalayas%2C_Cholatse%2C_Nepal.jpg/1280px-Himalayas%2C_Cholatse%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 854,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Himalayas%2C_Cholatse%2C_Nepal.jpg/500px-Himalayas%2C_Cholatse%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Cholatse",
+   "url": "https://en.wikipedia.org/wiki/Cholatse",
+   "extract": "Cholatse (Nepali: चोलात्से), also known as Jobo Lhaptshan, is a mountain in the Khumbu region of the Nepalese Himalaya. Cholatse is connected to Taboche (6,501m) by a long ridge, with the Chola glacier descending from the mountain's east face. The north and east faces of Cholatse can be seen from Dughla, on the trail to Mount Everest base camp.\nThere is a lake just below this pass to the east, and in Tibetan 'cho' is lake, 'la' is pass, and 'tse' is peak so Cholatse means literally \"lake pass peak\".\nCholatse was first climbed via the southwest ridge on 22 April 1982, by Vern Clevenger, Galen Rowell, John Roskelley, Bill O'Connor and Peter Hackett. The mountain's north face was first climbed in 1984.",
+   "lat": 27.92,
+   "lon": 86.7661
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Panorama of Elephant Stables, Hampi.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Elephant_Stables%2C_Hampi.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "iMahesh",
+  "credit": "Own work",
+  "dateTaken": "2024-09-23 16:31:15",
+  "description": "The image presents a panoramic view of the Elephant Stables in Hampi, capturing the full length of this grand structure. The stables consist of a series of interconnected domed chambers, each adorned with intricate Indo-Islamic architectural elements. This wide perspective emphasizes the symmetry and scale of the building, reflecting the importance of housing royal elephants in the Vijayanagara Empire. The combination of detailed stonework and expansive design highlights the stables' significance within the historical landscape of Hampi.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Panorama_of_Elephant_Stables%2C_Hampi.jpg/1280px-Panorama_of_Elephant_Stables%2C_Hampi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 449,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Panorama_of_Elephant_Stables%2C_Hampi.jpg/500px-Panorama_of_Elephant_Stables%2C_Hampi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Hampi",
+   "url": "https://en.wikipedia.org/wiki/Hampi",
+   "extract": "Hampi or Hampe (Kannada: [hɐmpe]), also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the Ramayana and the Puranas of Hinduism as Pampa Devi Tirtha Kshetra. Hampi continues as a religious centre, with the Virupaksha Temple, an active Adi Shankara-linked monastery and various monuments belonging to the old city.\nHampi was the capital of the Vijayanagara (Karnata) Empire from 1336 to 1565 (as Vijayanagara), when it was abandoned. It was a fortified city. Chronicles left by Persian and European travellers, particularly the Portuguese, say that Hampi was a prosperous, wealthy and grand city near the Tungabhadra River, with numerous temples, farms and trading markets. Hampi-Vijayanagara is estimated to be the world's second-largest city by 1500, after Beijing, and probably India's richest at that time, attracting traders from Persia and Portugal. The Vijayanagara Empire was defeated by a coalition of Muslim sultanates; its capital was conquered, pillaged and destroyed by Muslim armies in 1565, after which Hampi remained in ruins.\nSituated in Karnataka, close to the contemporary town of Hampi with the city of Hosapete 13 kilometres (8.1 miles) away, Hampi's ruins are spread over 4,100 hectares (16 sq mi) and it has been described by UNESCO as an \"austere, grandiose site\" of more than 1,600 surviving remains of the last great Hindu kingdom in South India that includes \"forts, riverside features, royal and sacred complexes, temples, shrines, pillared halls, mandapas, memorial structures, water structures and others\".",
+   "lat": 15.33444444,
+   "lon": 76.46222222
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:SW Hullathy Gram Panchayat Villages Nilgiris Nov24 A7CR 05293.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Timothy A. Gonsalves",
+  "credit": "Own work",
+  "dateTaken": "2024-11-29 09:32:44",
+  "description": "Villages in the west part of Hullathy Gram Panchayat, view to the SW from below Melur.   A steep valley in the north face of the Nilgiri Mountains, being in the rain shadow it gets low rainfall. Villagers have created a vibrant agrarian economy, largely vegetables and tea, using terraces and irrigation.  Villages visible: Alagarmalai, Sholada, Mel Kalhatty, Kil Kalhatty, Bikkaty, Akoni, Thattaneri, Karapillu.  Udhagai taluk, The Nilgiris, Tamil Nadu, India.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg/1280px-SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg/500px-SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Hullathy",
+   "url": "https://en.wikipedia.org/wiki/Hullathy",
+   "extract": "Hullathy (also Hullathi) is a Gram Panchayat and village in the Nilgiris district, Tamil Nadu, India.  The Gram Panchayat is responsible for a total of 32 villages with a population of 9,187, covering an area of 2,729.18 ha (6,744.0 acres).  The villages are located on both sides of MDR 700 as it descends steeply down the Sigur Ghat from Ooty to Masinagudi.",
+   "lat": 11.4772108,
+   "lon": 76.6959024
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Baspa Valley at Sangla, Himachal Pradesh, India.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ABaspa_Valley_at_Sangla%2C_Himachal_Pradesh%2C_India.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "UnpetitproleX",
+  "credit": "Own work",
+  "dateTaken": "2025-03-17 08:22:00",
+  "description": "Baspa valley after snowfall, near Sangla, in the Kinnaur district of the northern Indian state of Himachal Pradesh.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Baspa_Valley_at_Sangla%2C_Himachal_Pradesh%2C_India.jpg/1280px-Baspa_Valley_at_Sangla%2C_Himachal_Pradesh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Baspa_Valley_at_Sangla%2C_Himachal_Pradesh%2C_India.jpg/500px-Baspa_Valley_at_Sangla%2C_Himachal_Pradesh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "India",
+   "url": "https://en.wikipedia.org/wiki/India",
+   "extract": "India, officially the Republic of India, is a country in South Asia.  It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.\nModern humans arrived on the Indian subcontinent from Africa by 55,000 years ago. Settled life emerged in the western margins of the Indus river basin 9,000 years ago, evolving into the Indus Valley Civilisation of the third millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, diffused into India from the northwest, its earliest hymns containing elements of what would become Hinduism. The pre-existing Dravidian and other languages were gradually superseded in India's northern plains. Across the central stretch of these plains, rapid urbanisation took place, and after 500 BCE a caste-based, hereditary form of social stratification began to solidify as Hinduism took fuller shape. During this period, Buddhism and Jainism arose, proclaiming social orders unlinked to heredity. The subsequent emergence of the loose-knit Maurya and Gupta Empires gave rise to wide-ranging cultural and scientific creativity. However, these eras saw a steady decline in women's status, alongside the eventual institutionalisation of untouchability. In South India, across the first millennium CE, the Middle kingdoms transmitted Dravidian language scripts and cultural traditions to Southeast Asia. Well before the millennium's end, Judaism, Christianity, Islam, and Zoroastrianism had become established on India's southern and western coasts.\nEarly in the 2nd millennium, Muslim armies from Central Asia intermittently overran India's northern plains, eventually establishing the Delhi Sultanate and drawing India into the cosmopolitan networks of medieval Islam. The Vijayanagara Empire built a powerful military-fiscal state that fostered a flourishing, distinctively South Indian Hindu culture. During this era, Sikhism emerged in the Punjab, promoting an egalitarian devotion that transcended traditional Hindu and Muslim boundaries. The Mughal Empire ushered in two centuries of economic expansion and relative peace, leaving a lasting legacy of administrative centralisation and cultural synthesis. The expanding rule of the British East India Company consolidated territorial control over the subcontinent while transforming India into a colonial economy.  Crown rule, or the British Raj, began in 1858. Although equality before the law promised to Indians was slow to materialise, both British India and, to a lesser extent, the princely states  saw technological changes as modern education and more organised public life took root. A nationalist movement emerged in India, the first in the non-European British Empire. Noted for nonviolent resistance after 1920, it was a major factor in ending British rule. In 1947, the British Indian Empire was partitioned into the independent dominions of a Hindu-majority India and a Muslim-majority Pakistan. The partition brought large-scale loss of life and unprecedented migration.\nThe Constitution of India was adopted in 1950 and declared India to be  a federal republic governed through a democratic parliamentary system; it guarantees freedom of speech, freedom of press, and religious pluralism. Amendments enacted from 1951 onwards strengthened affirmative action programmes to reduce caste inequality.  The reorganization of states in 1956 along linguistic lines institutionalised regional language pride and led to the growth of regional literature and cinema.  During the 1970s, India reversed agricultural stagnation through the Green Revolution, achieving national food security. The country also altered the regional power balance through support for Bangladesh and enacted constitutional reform to end princely privileges. India's population grew from 361 million in 1951 to approximately 1.464 billion in 2025. Economic reforms of the 1990s integrated India's economy with the world's.  By the 2010s, the Indian economy had a stably high rate of growth.  A large middle class and a communications boom gained momentum. However, challenges remain, including widening income gaps, gender inequality and environmental degradation. In recent years, India has seen a political shift toward majoritarianism.  A nuclear-weapon state with high military expenditure, India is among the world's largest economies and a founding member of the United Nations, while its cultural legacy encompasses 45 UNESCO World Heritage Sites. India's megadiverse land features four biodiversity hotspots. Its wildlife is supported in protected habitats and traditionally viewed with cultural tolerance.",
+   "lat": 21,
+   "lon": 78
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Aerial View of Peaks of Khumbu, Ngozumpa Glacier and Gokyo Lakes (crop).jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AAerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Original:  Megaurab09\nDerivative work:  UnpetitproleX",
+  "credit": "This image has been extracted from another file",
+  "dateTaken": "14 June 2025, 11:39:51",
+  "description": "This stunning aerial capture showcases the Ngozumpa Glacier, the Gokyo Lakes including the second lake, and a grand sweep of Himalayan giants like Mount Everest and Makalu. The landscape of Sagarmatha National Park glows under the morning sun, highlighting the fragile beauty of Nepal's high-altitude ecosystem.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg/1280px-Aerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 640,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg/500px-Aerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Ngozumpa glacier",
+   "url": "https://en.wikipedia.org/wiki/Ngozumpa_glacier",
+   "extract": "The Ngozumpa glacier, below the sixth highest mountain in the world Cho Oyu in Nepal, at 36 kilometres (22 mi), is the longest glacier in the Himalayas. Ngozumpa Glacier is a large persistent body of ice. It flows slowly due to stresses induced by its weight.",
+   "lat": 27.9917,
+   "lon": 86.6917
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Namdae stream water reflection of colorful clouds from Wolhwagyo bridge in Gangneung South Korea.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ANamdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2024-06-08 19:30:52",
+  "description": "Namdae stream water reflection of colorful clouds from Wolhwagyo bridge (강릉월화교), during the celebration of Gangneung Danoje in Gangneung, South Korea.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg/1280px-Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 800,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg/500px-Namdae_stream_water_reflection_of_colorful_clouds_from_Wolhwagyo_bridge_in_Gangneung_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Gangneung",
+   "url": "https://en.wikipedia.org/wiki/Gangneung",
+   "extract": "Gangneung (Korean: 강릉; Korean pronunciation: [kaŋ.nɯŋ]) is a municipal city in the South Korean state of Gangwon, located on the east coast of South Korea. It has a population of 213,658 (as of 2017). Gangneung is the economic centre of the Yeongdong region of Gangwon State. It has many tourist attractions, such as Jeongdongjin, a very popular area for watching the sunrise, and Gyeongpo Beach. The city hosted all the ice events for the 2018 Winter Olympics and the 2024 Winter Youth Olympics.",
+   "lat": 37.75277778,
+   "lon": 128.89166667
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Prayer Hall Bou Inania Fez Nov25 A7CR 09148-52 HDR0.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APrayer_Hall_Bou_Inania_Fez_Nov25_A7CR_09148-52_HDR0.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+  "credit": "Own work",
+  "dateTaken": "2025-11-03 15:28:56",
+  "description": "The prayer hall and mihrab, Bou Inania Madrasa, Fez, Morocco.  Constructed during 1350-1355 CE, restorations in the 17th, 18th and 20th centuries.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Prayer_Hall_Bou_Inania_Fez_Nov25_A7CR_09148-52_HDR0.jpg/1280px-Prayer_Hall_Bou_Inania_Fez_Nov25_A7CR_09148-52_HDR0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 960,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Prayer_Hall_Bou_Inania_Fez_Nov25_A7CR_09148-52_HDR0.jpg/500px-Prayer_Hall_Bou_Inania_Fez_Nov25_A7CR_09148-52_HDR0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Bou Inania Madrasa",
+   "url": "https://en.wikipedia.org/wiki/Bou_Inania_Madrasa",
+   "extract": "The Bou Inania Madrasa or Bu 'Inaniya Madrasa (Arabic: المدرسة البوعنانية, romanized: al-madrasa ʾabū ʿinānīya) is a madrasa in Fez, Morocco, built in 1350–55 by the Marinid sultan Abu Inan Faris. It is the only madrasa in Morocco which also functioned as a congregational mosque. It is widely acknowledged as a high point of Marinid architecture and of historic Moroccan architecture generally. \nThe main building, located on the south side of Tala'a Kebira street, consists of a courtyard surrounded by galleries with student quarters built on the second floor above. The courtyard is also flanked by two classroom chambers and precedes a wide prayer hall. Thanks to its hybrid mosque status, it is also one of the only Moroccan madrasas with a prominent minaret. Much of the building is covered with high-quality decoration in carved stucco, zellij (mosaic tilework), and carved wood. Across the street, on the north side of Tala'a Kebira, is an ablutions facility (dar al-wuḍūʾ) as well as the Dar al-Magana, a structure whose street façade is occupied by an elaborate water clock.\n\n",
+   "lat": 34.06194444,
+   "lon": -4.98277778
+  }
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:\"Rock & Roll\" sign at Santa Cruz Beach Boardwalk in Santa Cruz, the county seat and largest city of Santa Cruz County, California LCCN2013630666.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A%22Rock_%26_Roll%22_sign_at_Santa_Cruz_Beach_Boardwalk_in_Santa_Cruz%2C_the_county_seat_and_largest_city_of_Santa_Cruz_County%2C_California_LCCN2013630666.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID highsm.21238.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+  "dateTaken": "Taken on 9 June 2012, 20:19 (according to Exif data)",
+  "description": "Title: \"Rock & Roll\" sign at Santa Cruz Beach Boardwalk in Santa Cruz, the county seat and largest city of Santa Cruz County, California\nPhysical description: 1 photograph : digital, tiff file, color.\n\nNotes: Chartered in 1866 and located on the northern edge of the Monterey Bay, about 72 mi south of San Francisco.; Credit line: The Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.; Gift; The Capital Group Companies Charitable Foundation in memory of Jon B. Lovelace; 2012; (DLC/PP-2012:063).; Form",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%22Rock_%26_Roll%22_sign_at_Santa_Cruz_Beach_Boardwalk_in_Santa_Cruz%2C_the_county_seat_and_largest_city_of_Santa_Cruz_County%2C_California_LCCN2013630666.tif/lossy-page1-1280px-%22Rock_%26_Roll%22_sign_at_Santa_Cruz_Beach_Boardwalk_in_Santa_Cruz%2C_the_county_seat_and_largest_city_of_Santa_Cruz_County%2C_California_LCCN2013630666.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%22Rock_%26_Roll%22_sign_at_Santa_Cruz_Beach_Boardwalk_in_Santa_Cruz%2C_the_county_seat_and_largest_city_of_Santa_Cruz_County%2C_California_LCCN2013630666.tif/lossy-page1-1280px-%22Rock_%26_Roll%22_sign_at_Santa_Cruz_Beach_Boardwalk_in_Santa_Cruz%2C_the_county_seat_and_largest_city_of_Santa_Cruz_County%2C_California_LCCN2013630666.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:\"The Miracle Worker\" play that is actually performed in the back yard of Ivy Green, the home in Tuscumbia, Alabama, where Helen Keller grew up and was born in 1880 LCCN2010640312.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640312.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2010640312\nImage download: https://cdn.loc.gov/master/pnp/highsm/08400/08499a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.08499",
+  "dateTaken": "Taken on 5 June 2010, 19:03 (according to Exif data)",
+  "description": "Title: \"The Miracle Worker\" play that is actually performed in the back yard of Ivy Green, the home in Tuscumbia, Alabama, where Helen Keller grew up and was born in 1880\nPhysical description: 1 photograph : digital, TIFF file, color.\n\nNotes: Title, date, subject note, and keywords provided by the photographer.; Gift; George F. Landegger; 2010; (DLC/PP-2010:090).; Forms part of the George F. Landegger Collection of Alabama Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.; Credit line: The George F. Landegger Collection of Alabama Photographs in Carol M. Hi",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640312.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 690,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640312.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:\"The Miracle Worker\" play that is actually performed in the back yard of Ivy Green, the home in Tuscumbia, Alabama, where Helen Keller grew up and was born in 1880 LCCN2010640357.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640357.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2010640357\nImage download: https://cdn.loc.gov/master/pnp/highsm/08500/08544a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.08544",
+  "dateTaken": "Taken on 5 June 2010, 20:42 (according to Exif data)",
+  "description": "Title: \"The Miracle Worker\" play that is actually performed in the back yard of Ivy Green, the home in Tuscumbia, Alabama, where Helen Keller grew up and was born in 1880\nPhysical description: 1 photograph : digital, TIFF file, color.\n\nNotes: Title, date, subject note, and keywords provided by the photographer.; Gift; George F. Landegger; 2010; (DLC/PP-2010:090).; Forms part of the George F. Landegger Collection of Alabama Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.; Credit line: The George F. Landegger Collection of Alabama Photographs in Carol M. Hi",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640357.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 725,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%22The_Miracle_Worker%22_play_that_is_actually_performed_in_the_back_yard_of_Ivy_Green%2C_the_home_in_Tuscumbia%2C_Alabama%2C_where_Helen_Keller_grew_up_and_was_born_in_1880_LCCN2010640357.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Child in Shack Town by Dorothea Lange, 1936, 8b38490a.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AChild_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.tif",
+  "license": "Public domain",
+  "artist": "Dorothea Lange",
+  "credit": "https://www.loc.gov/pictures/item/2017763116/",
+  "dateTaken": "1936",
+  "description": "Public Domain. Suggested credit: Library of Congress via pingnews. Additional information from source:\nTITLE: Child living in Oklahoma City shacktown\nCALL NUMBER: LC-USF34- 009690-E [P&P]\nREPRODUCTION NUMBER: LC-DIG-fsa-8b38490 (digital file from original neg.)\nMEDIUM: 1 negative : nitrate ; 2 1/4 x 2 1/4 inches or smaller.\nCREATED/PUBLISHED: 1936 Aug.\nCREATOR:Lange, Dorothea, photographer.\nNOTES:\nTitle and other information from caption card.\nLOT 0542 (Location of corresponding print.)\nTransfer; United States. Office of War Information. Overseas Picture Division.\nSUBJECTS:\nUnited States--Okla",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.tif/lossy-page1-1280px-Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1299,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.tif/lossy-page1-1280px-Child_in_Shack_Town_by_Dorothea_Lange%2C_1936%2C_8b38490a.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Dorothea Lange",
+   "url": "https://en.wikipedia.org/wiki/Dorothea_Lange",
+   "extract": "Dorothea Lange (born Dorothea Margaretta Nutzhorn; May 26, 1895 – October 11, 1965) was an American documentary photographer and photojournalist, best known for her Depression-era work for the Farm Security Administration (FSA). Lange's photographs influenced the development of documentary photography and humanized the consequences of the Great Depression. \nLange expressed her photographic image interest as the \"last ditch:\" documenting the poor and dispossessed. Her Migrant Mother image taken in 1936 has become the defining image of the Dust Bowl and is on display at the Art Institute of Chicago. Lange taught fine art photography in her later years at California School of Fine Arts.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Dorothea Lange"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:African American workers during the Great Depression in Mississippi.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AAfrican_American_workers_during_the_Great_Depression_in_Mississippi.tif",
+  "license": "Public domain",
+  "artist": "Dorothea Lange",
+  "credit": "[Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. \"These cotton hoers work from 6 a.m. to 7 p.m. for $1.00 near Clarksdale, Mississippi, June-July 1937.\" New York Public Library Digital Collections. Accessed October 30, 2023. https://digitalcollections.nypl.org/items/510d47de-871d-a3d9-e040-e00a18064a99]",
+  "dateTaken": "June-July 1937",
+  "description": "African American workers during the Great Depression in Mississippi. “These cotton hoers work from 6 a.m. to 7 p.m. for $1.00 near Clarksdale, Mississippi, June-July 1937.”",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/African_American_workers_during_the_Great_Depression_in_Mississippi.tif/lossy-page1-1280px-African_American_workers_during_the_Great_Depression_in_Mississippi.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1540,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/African_American_workers_during_the_Great_Depression_in_Mississippi.tif/lossy-page1-1280px-African_American_workers_during_the_Great_Depression_in_Mississippi.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Dorothea Lange",
+   "url": "https://en.wikipedia.org/wiki/Dorothea_Lange",
+   "extract": "Dorothea Lange (born Dorothea Margaretta Nutzhorn; May 26, 1895 – October 11, 1965) was an American documentary photographer and photojournalist, best known for her Depression-era work for the Farm Security Administration (FSA). Lange's photographs influenced the development of documentary photography and humanized the consequences of the Great Depression. \nLange expressed her photographic image interest as the \"last ditch:\" documenting the poor and dispossessed. Her Migrant Mother image taken in 1936 has become the defining image of the Dust Bowl and is on display at the Art Institute of Chicago. Lange taught fine art photography in her later years at California School of Fine Arts.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Dorothea Lange"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Migrants in Muskogee County, Oklahoma 1938.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AMigrants_in_Muskogee_County%2C_Oklahoma_1938.jpg",
+  "license": "Public domain",
+  "artist": "Dorothea Lange",
+  "credit": "https://www.loc.gov/classroom-materials/dust-bowl-migration/",
+  "dateTaken": "1938-06",
+  "description": "On highway no. 1 of the \"OK\" state near Webbers Falls, Muskogee County, Oklahoma. Seven children and eldest son's family. Father was a blacksmith in Paris, Arkansas. Son was a tenant farmer.",
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Migrants_in_Muskogee_County%2C_Oklahoma_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1280,
+   "height": 1397,
+   "viewUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Migrants_in_Muskogee_County%2C_Oklahoma_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "article": {
+   "title": "Dorothea Lange",
+   "url": "https://en.wikipedia.org/wiki/Dorothea_Lange",
+   "extract": "Dorothea Lange (born Dorothea Margaretta Nutzhorn; May 26, 1895 – October 11, 1965) was an American documentary photographer and photojournalist, best known for her Depression-era work for the Farm Security Administration (FSA). Lange's photographs influenced the development of documentary photography and humanized the consequences of the Great Depression. \nLange expressed her photographic image interest as the \"last ditch:\" documenting the poor and dispossessed. Her Migrant Mother image taken in 1936 has become the defining image of the Dust Bowl and is on display at the Art Institute of Chicago. Lange taught fine art photography in her later years at California School of Fine Arts.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Dorothea Lange"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:C & NW RR (i.e. Chicago and North Western railroad); locomotives in the roundhouse at Proviso yard, Chicago, Ill. LCCN2017878062.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AC_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%3B_locomotives_in_the_roundhouse_at_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878062.tif",
+  "license": "Public domain",
+  "artist": "Delano, Jack, photographer",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017878062\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a34000/1a34600/1a34677u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017878062/",
+  "dateTaken": "1942-12",
+  "description": "Title: C & NW RR [i.e. Chicago and North Western railroad]; locomotives in the roundhouse at Proviso yard, Chicago, Ill.\nAbstract/medium: 1 transparency : color.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/C_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%3B_locomotives_in_the_roundhouse_at_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878062.tif/lossy-page1-1280px-C_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%3B_locomotives_in_the_roundhouse_at_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878062.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1695,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/C_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%3B_locomotives_in_the_roundhouse_at_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878062.tif/lossy-page1-1280px-C_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%3B_locomotives_in_the_roundhouse_at_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878062.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Jack Delano",
+   "url": "https://en.wikipedia.org/wiki/Jack_Delano",
+   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Jack Delano"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Pennsylvania R.R. ore docks, unloading ore from a lake freighter by means of \"Hulett\" unloaders, Cleveland, Ohio LCCN2017878198.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APennsylvania_R.R._ore_docks%2C_unloading_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878198.tif",
+  "license": "Public domain",
+  "artist": "Delano, Jack, photographer",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017878198\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a34000/1a34800/1a34828u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017878198/",
+  "dateTaken": "1943-05",
+  "description": "Title: Pennsylvania R.R. ore docks, unloading ore from a lake freighter by means of \"Hulett\" unloaders, Cleveland, Ohio\nAbstract/medium: 1 transparency : color.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Pennsylvania_R.R._ore_docks%2C_unloading_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878198.tif/lossy-page1-1280px-Pennsylvania_R.R._ore_docks%2C_unloading_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878198.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 994,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Pennsylvania_R.R._ore_docks%2C_unloading_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878198.tif/lossy-page1-1280px-Pennsylvania_R.R._ore_docks%2C_unloading_ore_from_a_lake_freighter_by_means_of_%22Hulett%22_unloaders%2C_Cleveland%2C_Ohio_LCCN2017878198.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Jack Delano",
+   "url": "https://en.wikipedia.org/wiki/Jack_Delano",
+   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Jack Delano"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Working with a small steam drop hammer at the blacksmith shop in the Santa Fe R.R. shops, Topeka, Kansas.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AWorking_with_a_small_steam_drop_hammer_at_the_blacksmith_shop_in_the_Santa_Fe_R.R._shops%2C_Topeka%2C_Kansas.jpg",
+  "license": "Public domain",
+  "artist": "Delano, Jack",
+  "credit": "https://www.flickr.com/photos/library_of_congress/2179199512/",
+  "dateTaken": "1943",
+  "description": "Working with a small steam drop hammer at the blacksmith shop in the Santa Fe R.R. shops, Topeka, Kansas",
+  "image": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Working_with_a_small_steam_drop_hammer_at_the_blacksmith_shop_in_the_Santa_Fe_R.R._shops%2C_Topeka%2C_Kansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "width": 1280,
+   "height": 1636,
+   "viewUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Working_with_a_small_steam_drop_hammer_at_the_blacksmith_shop_in_the_Santa_Fe_R.R._shops%2C_Topeka%2C_Kansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "article": {
+   "title": "Jack Delano",
+   "url": "https://en.wikipedia.org/wiki/Jack_Delano",
+   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Jack Delano"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Roosevelt and Churchill in Quebec, Canada - NARA (cropped).jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ARoosevelt_and_Churchill_in_Quebec%2C_Canada_-_NARA_%28cropped%29.jpg",
+  "license": "Public domain",
+  "artist": "Arthur Rothstein",
+  "credit": "U.S. National Archives and Records Administration",
+  "dateTaken": "12 September 1944date QS:P571,+1944-09-12T00:00:00Z/11",
+  "description": "",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Roosevelt_and_Churchill_in_Quebec%2C_Canada_-_NARA_%28cropped%29.jpg/1280px-Roosevelt_and_Churchill_in_Quebec%2C_Canada_-_NARA_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 976,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Roosevelt_and_Churchill_in_Quebec%2C_Canada_-_NARA_%28cropped%29.jpg/500px-Roosevelt_and_Churchill_in_Quebec%2C_Canada_-_NARA_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Arthur Rothstein",
+   "url": "https://en.wikipedia.org/wiki/Arthur_Rothstein",
+   "extract": "Arthur Rothstein (July 17, 1915 – November 11, 1985) was an American photographer. His career spanned five decades, and he received recognition as one of America's premier photojournalists.\n\n",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Arthur Rothstein"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Arthur Rothstein - marching Chinese troops ppmsca.07799 (4to3).jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AArthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799_%284to3%29.jpg",
+  "license": "Public domain",
+  "artist": "Arthur Rothstein",
+  "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID ppmsca.07799.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+  "dateTaken": "Taken in 1946",
+  "description": "View from above of provincial troops marching along city street in the Jiangsu Province or Yunnan Province in China",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799_%284to3%29.jpg/1280px-Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799_%284to3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 960,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799_%284to3%29.jpg/500px-Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799_%284to3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Arthur Rothstein",
+   "url": "https://en.wikipedia.org/wiki/Arthur_Rothstein",
+   "extract": "Arthur Rothstein (July 17, 1915 – November 11, 1985) was an American photographer. His career spanned five decades, and he received recognition as one of America's premier photojournalists.\n\n",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Arthur Rothstein"
  }
 ]
