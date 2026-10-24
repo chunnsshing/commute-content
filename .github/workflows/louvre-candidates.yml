@@ -1,0 +1,36 @@
+# Refills content/louvre/candidates.json before the nightly Louvre routine (01:00 Asia/Singapore).
+# Wikimedia throttles the routine's cloud sandbox, so the slow lookups run here instead.
+name: Louvre candidates
+
+on:
+  schedule:
+    - cron: "15 16 * * *"   # 00:15 Asia/Singapore
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: louvre-candidates
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Harvest
+        run: python3 tools/harvest.py
+      - name: Commit if changed
+        run: |
+          git add content/louvre/candidates.json
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh Louvre candidates"
+          git pull --rebase origin main
+          git push origin HEAD:main

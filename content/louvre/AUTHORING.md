@@ -23,25 +23,28 @@ Every night, add **one batch of 30 new pictures** to `content/louvre/feed.json`.
   Carol M. Highsmith (Library of Congress), NYPL public-domain releases. At most 3 taken before 1930.
 - At least 8 of the 30 in Asia. Spread the rest across every other continent. Vary the season, time of day and
   weather across the batch, and vary the lens (Light, Composition, Moment, Process, Context, Design).
-- Prefer Wikimedia Commons **Featured Pictures** and **Quality Images**; craft is the point.
+- **Choose from `content/louvre/candidates.json`.** A GitHub job refills it every night at 00:15 with vetted
+  pictures: allowed licence, working image URLs, the English Wikipedia article (intro text, coordinates) for
+  places, and the photographer's article for photographs. Do not browse Commons categories yourself unless the
+  pool cannot cover the mix; Wikimedia throttles this sandbox and browsing is what makes a run take hours.
+  Candidates are raw: some are portraits, details or interiors filed under a place. Skip anything that is not a
+  good picture of a place, and do not use two pictures of the same place or two from the same series.
 
 ## 3. Research each picture
 
-1. Commons API:
-   `https://commons.wikimedia.org/w/api.php?action=query&titles=File:NAME&prop=imageinfo&iiprop=url|size|extmetadata&iiurlwidth=1280&format=json`
-   Take `thumburl` → `image.url`, `thumbwidth`/`thumbheight` → `image.width`/`height`, `LicenseShortName` →
-   `image.license`, `Artist`/`Credit` → photographer.
-   **Licence must be** `Public domain`, `CC0`, `CC BY x.x` or `CC BY-SA x.x`. Nothing else, no exceptions.
-   Skip photos whose main subject is a recent copyrighted artwork or sculpture.
-2. Confirm `image.url` returns HTTP 200.
-   **Every request to Wikimedia and Wikipedia** (curl, scripts) must send the User-Agent
-   `LouvreFeed/0.1 (https://github.com/chunnsshing/commute-content)`. Without a contact Wikimedia's robot policy
-   throttles hard (HTTP 429). Pace requests (about one per second) and, on a 429, wait and retry rather than
-   hammering. WebFetch is a good fallback for reading articles and file pages.
-3. **Look at the picture** before writing about it: download the thumbnail and open it. The `lookAt` must describe
-   what is actually visible in that exact frame. If you cannot view an image, drop that picture.
-4. Read the Wikipedia article for the place (or photographer) and the Commons file page. Use **only facts from
-   pages you actually fetched**, and list them in `sources`. Never invent dates, numbers or names.
+Speed matters: Wikimedia throttles direct requests from this sandbox (HTTP 429), so make as few as possible.
+
+1. From the candidate take `image.url`, `image.width`, `image.height`, `license`, the photographer (`artist`, or
+   `photographer` for photographs) and `filePage`. **Licence must be** `Public domain`, `CC0`, `CC BY x.x` or
+   `CC BY-SA x.x`; nothing else. Skip photos whose main subject is a recent copyrighted artwork or sculpture.
+2. **Look at the picture** before writing about it: download `image.viewUrl` (a small preview) with
+   `curl -s -A "LouvreFeed/0.1 (https://github.com/chunnsshing/commute-content)"`, about one request per second,
+   and open it with Read. On a 429, wait 30 seconds and retry once; if it still fails, skip that candidate. The
+   `lookAt` must describe what is actually visible in that exact frame.
+3. Facts: start from `article.extract` and `description`. For anything more (the photograph's date and
+   conditions, construction history, a commission), use **WebFetch** on `filePage` or `article.url`; WebFetch is
+   not throttled. Use **only facts from text you actually have**, and list the pages in `sources`
+   (`article.url` and `filePage` at least). Never invent dates, numbers or names.
 
 ## 4. Write each item
 
@@ -69,8 +72,11 @@ Copy the exact shape of an existing item in `feed.json` (places have `place`, ph
 ## 6. Validate, then publish
 
 ```
-python3 tools/validate.py content/louvre/feed.json --history content/louvre/history.json --net-batch <batch>
+python3 tools/validate.py content/louvre/feed.json --history content/louvre/history.json
 ```
+
+Leave out `--net-batch` here: the GitHub job has already checked every candidate's image URL, and re-checking
+from this sandbox only runs into the rate limit.
 
 Fix every error. If some pictures cannot be fixed, drop them rather than inventing anything; publish only if at
 least 20 pass. Then commit `Louvre batch <batch>: <n> pictures` and push to `main`.
