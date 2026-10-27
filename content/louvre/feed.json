@@ -6381,6 +6381,1356 @@
       },
       "batch": "2026-10-27",
       "order": 136
+    },
+    {
+      "id": "commons-laguna-miniques",
+      "kind": "place",
+      "title": "Laguna Miñiques",
+      "maker": "Diego Delso",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_33-38_PAN.JPG/1280px-Laguna_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_33-38_PAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 340,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Antofagasta Region",
+        "lat": -23.765,
+        "lon": -67.7925,
+        "facts": [
+          [
+            "Region",
+            "Antofagasta Region, Chile"
+          ],
+          [
+            "Elevation",
+            "About 4,120 metres"
+          ],
+          [
+            "Protected area",
+            "Los Flamencos National Reserve"
+          ],
+          [
+            "Coordinates",
+            "23.77° S, 67.79° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Miñiques is a lake and a volcano in northern Chile, south of Laguna Miscanti and at the foot of the Cerro Miscanti volcano. The lake sits at about 4,120 metres and covers roughly 1.6 square kilometres. It is fed by seepage from Miscanti, with a lava flow separating the two, and its waters are brackish. The lake lies within Los Flamencos National Reserve, where the dry Atacama climate brings about 180 millimetres of precipitation a year and an average temperature of 2 °C. Diego Delso made this panorama on 8 February 2016, stitching several frames into one very wide view of the water and the volcanic slopes.",
+      "lookAt": "A very wide panorama lays a thin band of dark water between tawny slopes, with a reddish volcano at left under a sky of scattered cloud. The long horizontal format gives the lake room to breathe. Keep the water as the central stripe and let the land and sky frame it evenly.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Laguna_Mi%C3%B1iques",
+        "https://commons.wikimedia.org/wiki/File%3ALaguna_Mi%C3%B1iques%2C_Chile%2C_2016-02-08%2C_DD_33-38_PAN.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Laguna Miñiques",
+        "line2": "Diego Delso · Antofagasta Region"
+      },
+      "batch": "2026-10-28",
+      "order": 137
+    },
+    {
+      "id": "commons-wulingyuan-huangshizhai",
+      "kind": "place",
+      "title": "Wulingyuan",
+      "maker": "chensiyuan",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg/1280px-1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 647,
+        "license": "CC BY-SA 4.0",
+        "credit": "chensiyuan, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Hunan",
+        "lat": 29.33333333,
+        "lon": 110.5,
+        "facts": [
+          [
+            "Province",
+            "Hunan"
+          ],
+          [
+            "Nearest city",
+            "Zhangjiajie, about 270 km northwest of Changsha"
+          ],
+          [
+            "Area",
+            "690 square kilometres"
+          ],
+          [
+            "Coordinates",
+            "29.33° N, 110.50° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Wulingyuan is a scenic and historical site in the Wulingyuan District of Hunan Province in south central China. It is noted for more than 3,000 quartzite sandstone pillars and peaks, many over 200 metres in height, along with ravines, gorges, streams, pools, lakes and waterfalls. The site lies in Zhangjiajie City, about 270 kilometres northwest of Changsha, and also shelters vulnerable species such as the dhole, the Asiatic black bear and the Chinese water deer. This panorama, made in 2012, looks across the Huangshizhai area, where the pillars rise out of a thick green forest.",
+      "lookAt": "Rock pillars crowned with trees stand in a row above a dense forest, with paler ridges fading behind them under flat grey cloud. The overcast sky keeps the greens soft. Look for layers: dark foreground, mid-ground towers and misty distance, so the depth reads without any strong light.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wulingyuan",
+        "https://commons.wikimedia.org/wiki/File%3A1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Wulingyuan",
+        "line2": "chensiyuan · Hunan"
+      },
+      "batch": "2026-10-28",
+      "order": 138
+    },
+    {
+      "id": "commons-adams-clearing-winter-storm",
+      "kind": "photograph",
+      "title": "Clearing Winter Storm, Yosemite Valley",
+      "maker": "Ansel Adams",
+      "year": "1937",
+      "collection": "Saint Louis Art Museum",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Clearing_Winter_Storm%2C_Yosemite_Valley.jpg/1280px-Clearing_Winter_Storm%2C_Yosemite_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1015,
+        "license": "Public domain",
+        "credit": "Ansel Adams, Saint Louis Art Museum, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ansel Adams (1902 to 1984) was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, whose members favoured sharp focus and the full tonal range of a photograph, and with Fred Archer he developed the Zone System for controlling that range. He received his first camera at age 14, during his first visit to Yosemite National Park. This print of Clearing Winter Storm, Yosemite Valley, dated 1937 and printed in 1976 or 1977, measures 26.7 by 33.7 centimetres. Cloud drifts through the valley, with snow on the trees and a thin waterfall on the right.",
+      "lookAt": "Mist wraps pale cliffs and dark pines while a bright patch of snow-lit rock glows at the centre. The photograph is built from darks and lights. Look for weather in transition, expose for the highlights, and let heavy shadows frame the one place where light breaks through.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File%3AClearing_Winter_Storm%2C_Yosemite_Valley.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1937",
+        "title": "Clearing Winter Storm, Yosemite Valley",
+        "line2": "Ansel Adams · Saint Louis Art Museum"
+      },
+      "batch": "2026-10-28",
+      "order": 139
+    },
+    {
+      "id": "commons-ngozumpa-glacier-gokyo",
+      "kind": "place",
+      "title": "Ngozumpa Glacier and the Gokyo Lakes",
+      "maker": "Megaurab09 and UnpetitproleX",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg/1280px-Aerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 640,
+        "license": "CC BY-SA 4.0",
+        "credit": "Megaurab09 and UnpetitproleX, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Nepal",
+        "region": "Sagarmatha National Park",
+        "lat": 27.9917,
+        "lon": 86.6917,
+        "facts": [
+          [
+            "Glacier length",
+            "36 kilometres"
+          ],
+          [
+            "Rank",
+            "Longest glacier in the Himalayas"
+          ],
+          [
+            "Beneath",
+            "Cho Oyu, sixth highest mountain in the world"
+          ],
+          [
+            "Coordinates",
+            "27.99° N, 86.69° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Ngozumpa glacier, below Cho Oyu in Nepal, is the longest glacier in the Himalayas at 36 kilometres. Cho Oyu is the sixth highest mountain in the world. The glacier is a large persistent body of ice that flows slowly under the stresses of its own weight. This aerial view, cropped from a larger file, shows the glacier, the Gokyo Lakes including the second lake, and a sweep of Himalayan giants such as Mount Everest and Makalu. The Commons description says Sagarmatha National Park glows under the morning sun, and the file was extracted from a larger image in June 2025.",
+      "lookAt": "From above, a grey rubble-covered glacier runs like a river toward the camera, with turquoise lakes at its edges and snowy peaks lining the horizon. Shooting from height reveals the glacier's shape. Use the lakes as colour accents against the muted rock and let the peaks close the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ngozumpa_glacier",
+        "https://commons.wikimedia.org/wiki/File%3AAerial_View_of_Peaks_of_Khumbu%2C_Ngozumpa_Glacier_and_Gokyo_Lakes_%28crop%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEPAL",
+        "title": "Ngozumpa Glacier and the Gokyo Lakes",
+        "line2": "Megaurab09 and UnpetitproleX · Sagarmatha National Park"
+      },
+      "batch": "2026-10-28",
+      "order": 140
+    },
+    {
+      "id": "commons-ngauruhoe-ruapehu-from-tongariro",
+      "kind": "place",
+      "title": "Mount Ngauruhoe and Mount Ruapehu",
+      "maker": "Eusebius",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Le_Ngauruhoe_et_le_Ruapehu_vus_du_sommet_du_Tongariro.jpg/1280px-Le_Ngauruhoe_et_le_Ruapehu_vus_du_sommet_du_Tongariro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY 3.0",
+        "credit": "Eusebius, CC BY 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Central Plateau, North Island",
+        "lat": -39.15683333,
+        "lon": 175.63216667,
+        "facts": [
+          [
+            "Type",
+            "Volcanic cone"
+          ],
+          [
+            "First erupted",
+            "About 2,500 years ago"
+          ],
+          [
+            "Position",
+            "25 km south of Lake Taupō"
+          ],
+          [
+            "Coordinates",
+            "39.16° S, 175.63° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Mount Ngauruhoe is a volcanic cone in New Zealand and the youngest vent in the Tongariro stratovolcano complex on the Central Plateau of the North Island. It first erupted about 2,500 years ago. Although often regarded as a separate mountain, it is geologically a secondary cone of Mount Tongariro. The volcano lies between the active volcanoes of Mount Tongariro to the north and Mount Ruapehu to the south, 25 kilometres south of the southern shore of Lake Taupō. Eusebius took this photograph on 7 March 2014 from the summit of Mount Tongariro, looking across to Ngauruhoe with Ruapehu behind it.",
+      "lookAt": "A red-brown cone fills the middle of the frame, with a snow-capped second volcano behind it and broken rocks in the foreground. Clear blue sky lets the colour of the slope carry the picture. Climb to a ridge, put loose rocks in front for scale, and let the cone sit off-centre.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Ngauruhoe",
+        "https://commons.wikimedia.org/wiki/File%3ALe_Ngauruhoe_et_le_Ruapehu_vus_du_sommet_du_Tongariro.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Mount Ngauruhoe and Mount Ruapehu",
+        "line2": "Eusebius · Central Plateau, North Island"
+      },
+      "batch": "2026-10-28",
+      "order": 141
+    },
+    {
+      "id": "loc-delano-victory-garden-proviso-yard",
+      "kind": "photograph",
+      "title": "Victory garden in the Proviso yard, Chicago",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/C_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%2C_railroad_worker_cultivating_the_small_Victory_garden_in_the_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878068.tif/lossy-page1-1280px-C_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%2C_railroad_worker_cultivating_the_small_Victory_garden_in_the_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878068.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1666,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Jack Delano (1914 to 1997) was born Yakov Ovcharov in the Russian Empire and became a photographer, filmmaker and composer who spent much of his life in Puerto Rico. In the United States he worked for the Farm Security Administration. This colour transparency, made in April 1943 and held by the Library of Congress, is titled C & NW RR railroad worker cultivating the small Victory garden in the Proviso yard, Chicago, Ill. Seen from a high vantage point, two small figures work a patch of dark earth beside a rail line, while steam rises from the yard and a coaling tower stands against a cloudy sky.",
+      "lookAt": "From a high window, a tiny pair of workers digs a garden patch in front of a rail yard, with steam, a coaling tower and distant houses beyond. Height lets small details show scale. Shoot from above and place the human figures low and small so the industrial space around them speaks.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File%3AC_%26_NW_RR_%28i.e._Chicago_and_North_Western_railroad%29%2C_railroad_worker_cultivating_the_small_Victory_garden_in_the_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878068.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Victory garden in the Proviso yard, Chicago",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 142
+    },
+    {
+      "id": "commons-pahalgam-valley-lidder",
+      "kind": "place",
+      "title": "Pahalgam Valley",
+      "maker": "KennyOMG",
+      "year": "2011",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/1280px-Pahalgam_Valley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 714,
+        "license": "CC BY-SA 3.0",
+        "credit": "KennyOMG, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Jammu and Kashmir",
+        "lat": 33.77638889,
+        "lon": 75.21333333,
+        "facts": [
+          [
+            "Valley",
+            "Lidder Valley, a sub-valley of the Kashmir Valley"
+          ],
+          [
+            "District",
+            "Anantnag"
+          ],
+          [
+            "Length",
+            "About 40 km, average width 3 km"
+          ],
+          [
+            "Coordinates",
+            "33.78° N, 75.21° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "The Lidder Valley is a Himalayan sub-valley of the Kashmir Valley, in the Anantnag district of Jammu and Kashmir, India. The Lidder River flows down the valley. Its entrance lies 7 kilometres northeast of Anantnag town and 62 kilometres southeast of Srinagar, the summer capital of the region. It is a gorge valley about 40 kilometres long with an average width of 3 kilometres. KennyOMG took this view of the Pahalgam Valley on 4 June 2011, with the river winding between forested slopes and large white clouds building above snow-capped peaks in the distance.",
+      "lookAt": "A pale river snakes through a dark forested valley toward distant snow peaks, while towering white clouds fill the sky. The cloud is the subject as much as the mountain. Wait for the clouds to stack up above the far ridge and expose for the highlights so they keep their shape.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lidder_Valley",
+        "https://commons.wikimedia.org/wiki/File%3APahalgam_Valley.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Pahalgam Valley",
+        "line2": "KennyOMG · Jammu and Kashmir"
+      },
+      "batch": "2026-10-28",
+      "order": 143
+    },
+    {
+      "id": "commons-matanuska-river-palmer",
+      "kind": "place",
+      "title": "Matanuska River near Palmer",
+      "maker": "Diego Delso",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/R%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg/1280px-R%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 307,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Alaska",
+        "lat": 61.49694444,
+        "lon": -149.26972222,
+        "facts": [
+          [
+            "Length",
+            "75 miles (121 km)"
+          ],
+          [
+            "Region",
+            "Southcentral Alaska"
+          ],
+          [
+            "Valley",
+            "Matanuska Valley, south of the Alaska Range"
+          ],
+          [
+            "Coordinates",
+            "61.50° N, 149.27° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Matanuska River is 75 miles (121 kilometres) long and runs through Southcentral Alaska in the United States. It drains a broad valley south of the Alaska Range that is known as the Matanuska Valley. Its Dena'ina name is Ch'atanhtnu and its Ahtna name is Ts'itonhna'. This is a panoramic view of the river near Palmer, made by Diego Delso on 23 August 2017. The river spreads in pale braided channels between gravel bars and dark conifers, with low cloud hanging on the mountains beyond and a forested hill closing the left side of the picture.",
+      "lookAt": "A wide, pale river bends through dark conifers toward cloud-covered mountains, in a very long and thin panorama. The bend leads the eye across the whole width. Stand where the water curves, include the dark trees in front for depth, and keep the horizon level.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Matanuska_River",
+        "https://commons.wikimedia.org/wiki/File%3AR%C3%ADo_Matanuska%2C_Palmer%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_55-59_PAN.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Matanuska River near Palmer",
+        "line2": "Diego Delso · Alaska"
+      },
+      "batch": "2026-10-28",
+      "order": 144
+    },
+    {
+      "id": "loc-genthe-travel-views-cuba-guatemala",
+      "kind": "photograph",
+      "title": "Travel views of Cuba and Guatemala",
+      "maker": "Arnold Genthe",
+      "year": "1899–1926",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Travel_views_of_Cuba_and_Guatemala_LOC_agc.7a03796.jpg/1280px-Travel_views_of_Cuba_and_Guatemala_LOC_agc.7a03796.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1659,
+        "license": "Public domain",
+        "credit": "Arnold Genthe, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Arnold Genthe (1869 to 1942) was a German-American photographer, best known for his photographs of Northern California, San Francisco's Chinatown and the 1906 San Francisco earthquake. This negative is titled Travel views of Cuba and Guatemala and is held by the Library of Congress, which dates it between 1899 and 1926. In the picture, thick stone columns of an arcade fill the foreground, and beyond them a horse-drawn cart with a white parasol crosses a cobbled square toward an ornate stone church front with carved doors. The long shadows on the paving suggest low sun, and the dark edge of the negative frames the scene.",
+      "lookAt": "Heavy columns in the foreground frame a distant carved church front, while a small horse cart with a pale parasol crosses the sunlit square. The arcade makes a frame within the frame. Shoot from inside the shade, include the columns, and wait for a figure to cross the bright ground.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arnold_Genthe",
+        "https://commons.wikimedia.org/wiki/File%3ATravel_views_of_Cuba_and_Guatemala_LOC_agc.7a03796.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1899–1926",
+        "title": "Travel views of Cuba and Guatemala",
+        "line2": "Arnold Genthe · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 145
+    },
+    {
+      "id": "commons-gangabal-lake-shiva-shrine",
+      "kind": "place",
+      "title": "Shiva shrine at Gangabal Lake",
+      "maker": "UnpetitproleX",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Shiva_shrine%2C_Gangabal_Lake.jpg/1280px-Shiva_shrine%2C_Gangabal_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "credit": "UnpetitproleX, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Jammu and Kashmir",
+        "lat": 34.43194444,
+        "lon": 74.92583333,
+        "facts": [
+          [
+            "Lake",
+            "Gangabal, 'place of Ganga'"
+          ],
+          [
+            "Size",
+            "2.5 km long, 1 km wide"
+          ],
+          [
+            "Mountain",
+            "Foot of Mount Harmukh"
+          ],
+          [
+            "Coordinates",
+            "34.43° N, 74.93° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Gangabal Lake, also called Haramukh Ganga, is a high-altitude glacial lake at the foot of Mount Harmukh in the Himalayas of Jammu and Kashmir, India. It is up to 2.5 kilometres long and 1 kilometre wide, and is fed by precipitation, glaciers and springs. The lake is considered sacred in Hinduism as one of the abodes of Shiva, and Kashmiri Hindus use it for ancestral and death rites. This photograph, made on 11 August 2024, shows a small shrine to Shiva carved into a boulder beside the water, its red-painted niche standing out against the grey stone and green meadow.",
+      "lookAt": "A red-painted shrine on a boulder is the only strong colour in a scene of grey rock, green meadow and cold turquoise water, with cloudy mountains behind. Small, saturated details stand out against muted land. Put the boulder on a third and let the lake and peaks provide the context.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gangabal_Lake",
+        "https://commons.wikimedia.org/wiki/File%3AShiva_shrine%2C_Gangabal_Lake.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Shiva shrine at Gangabal Lake",
+        "line2": "UnpetitproleX · Jammu and Kashmir"
+      },
+      "batch": "2026-10-28",
+      "order": 146
+    },
+    {
+      "id": "commons-julian-alps-vrsic-pass",
+      "kind": "place",
+      "title": "Julian Alps from Vršič Pass",
+      "maker": "Krzysztof Golik",
+      "year": "2021",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Julian_Alps_from_Vrsic_Pass_%283%29.jpg/1280px-Julian_Alps_from_Vrsic_Pass_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 421,
+        "license": "CC BY-SA 4.0",
+        "credit": "Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Slovenia",
+        "region": "Upper Carniola",
+        "lat": 46.349509,
+        "lon": 13.437852,
+        "facts": [
+          [
+            "Range",
+            "Julian Alps, Southern Limestone Alps"
+          ],
+          [
+            "Highest peak",
+            "Triglav, 2,864 m"
+          ],
+          [
+            "Vršič Pass",
+            "1,611 m, connecting the Sava and Soča valleys"
+          ],
+          [
+            "Coordinates",
+            "46.35° N, 13.44° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Julian Alps are a mountain range in the Southern Limestone Alps, spanning northeastern Italy and Slovenia. Their highest peak is Triglav, at 2,864 metres, and a large part of the range lies in Triglav National Park. The name goes back to antiquity, when the range was called Alpes Iuliae, in honour of Julius Caesar. Vršič Pass, at 1,611 metres, connects the Sava and Soča valleys and is described as the highest mountain road pass in Slovenia. Krzysztof Golik made this view from the pass on 13 October 2021, looking over conifers toward snow-dusted limestone peaks.",
+      "lookAt": "Pale limestone summits with fresh snow rise above golden-green larches under bright cumulus clouds, in a wide, short crop. The sunlit rock separates cleanly from the shaded forest. Use a longer lens from the pass to compress the peaks and keep only the best ridge.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italian_Julian_Alps",
+        "https://commons.wikimedia.org/wiki/File%3AJulian_Alps_from_Vrsic_Pass_%283%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SLOVENIA",
+        "title": "Julian Alps from Vršič Pass",
+        "line2": "Krzysztof Golik · Upper Carniola"
+      },
+      "batch": "2026-10-28",
+      "order": 147
+    },
+    {
+      "id": "loc-adams-monolith-face-of-half-dome",
+      "kind": "photograph",
+      "title": "Monolith, the Face of Half Dome",
+      "maker": "Ansel Adams",
+      "year": "1927",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ansel-adams-monolith-the-face-of-half-dome_-_edit1.jpg/1280px-Ansel-adams-monolith-the-face-of-half-dome_-_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1657,
+        "license": "Public domain",
+        "credit": "Ansel Adams, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ansel Adams (1902 to 1984) was an American landscape photographer and environmentalist who developed his early work as a member of the Sierra Club. This gelatin silver print, titled Monolith, the Face of Half Dome, Yosemite National Park, California, is dated 1927 and is in the collection of the Library of Congress. It shows the vertical granite face of Half Dome rising against a nearly black sky, with snow in the foreground and a few small trees at the base. Adams made the picture with sharp focus and a wide tonal range, the qualities he later championed as a founder of Group f/64.",
+      "lookAt": "A great wall of granite fills the right side of the frame against a nearly black sky, with sunlit snow at its foot. The dark sky is a deliberate choice. Look for a strong subject with a big tonal gap and expose so the shadows stay dark and the snow keeps its detail.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File%3AAnsel-adams-monolith-the-face-of-half-dome_-_edit1.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1927",
+        "title": "Monolith, the Face of Half Dome",
+        "line2": "Ansel Adams · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 148
+    },
+    {
+      "id": "commons-nogueira-valley-madeira",
+      "kind": "place",
+      "title": "Nogueira valley from Balcões",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Nogueira_valley_view_from_Balc%C3%B5es%2C_S%C3%A3o_Roque_do_Faial%2C_Santana%2C_Madeira%2C_2023_May.jpg/1280px-Nogueira_valley_view_from_Balc%C3%B5es%2C_S%C3%A3o_Roque_do_Faial%2C_Santana%2C_Madeira%2C_2023_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 745,
+        "license": "CC BY-SA 4.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Portugal",
+        "region": "Madeira",
+        "lat": 32.75,
+        "lon": -17,
+        "facts": [
+          [
+            "Archipelago",
+            "Madeira, North Atlantic Ocean"
+          ],
+          [
+            "Distance",
+            "About 805 km southwest of mainland Portugal"
+          ],
+          [
+            "Population",
+            "251,060 in 2021"
+          ],
+          [
+            "Coordinates",
+            "32.75° N, 17.00° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Madeira, officially the Autonomous Region of Madeira, is an autonomous region of Portugal in the Atlantic Ocean, about 805 kilometres southwest of the mainland. Together with the Azores it is one of the two autonomous regions of Portugal. It is an archipelago just under 400 kilometres north of the Canary Islands and sits on the African tectonic plate, though it is culturally and politically associated with Europe. Its population was 251,060 in 2021, and its capital is Funchal. Ximonic made this photograph on 27 May 2023 from Balcões in São Roque do Faial, Santana, looking over the green Nogueira valley.",
+      "lookAt": "Steep, forest-covered ridges fold back into the distance under low cloud, with dark rock outcrops in the lower left corner. Each ridge is a slightly different green. Look for overlapping slopes that stack like stage flats, and use the foreground rock to give the valley a sense of height.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madeira",
+        "https://commons.wikimedia.org/wiki/File%3ANogueira_valley_view_from_Balc%C3%B5es%2C_S%C3%A3o_Roque_do_Faial%2C_Santana%2C_Madeira%2C_2023_May.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · PORTUGAL",
+        "title": "Nogueira valley from Balcões",
+        "line2": "Ximonic (Simo Räsänen) · Madeira"
+      },
+      "batch": "2026-10-28",
+      "order": 149
+    },
+    {
+      "id": "commons-fv55-road-sognefjellet",
+      "kind": "place",
+      "title": "Fv55 road at Sognefjellet",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Fv55_road_at_Sognefjellet%2C_2013_June.jpg/1280px-Fv55_road_at_Sognefjellet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 848,
+        "license": "CC BY-SA 3.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Sogn og Fjordane",
+        "lat": 61.57444444,
+        "lon": 8.03333333,
+        "facts": [
+          [
+            "Road",
+            "Norwegian County Road 55, 248.1 km"
+          ],
+          [
+            "Highest point",
+            "1,434 m, the highest on Norway's public road network"
+          ],
+          [
+            "Snow wall",
+            "A little under 4 metres"
+          ],
+          [
+            "Coordinates",
+            "61.57° N, 8.03° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "County Road 55 is a 248.1-kilometre highway between Lom and Høyanger in Norway. The 108-kilometre section across Sognefjellet, known as Sognefjellsvegen, is a National Tourist Route. The road reaches 1,434 metres, the highest elevation on the public road network in Norway, and is closed every winter. Ximonic photographed it on 18 June 2013, heading east on the highlands at Sognefjellet in Luster municipality. The snow wall beside the road was a little under 4 metres tall. Patches of bare ground show through, while snow still covers the plateau and mountains beyond.",
+      "lookAt": "A grey road narrows toward a snowy horizon between a tall snow wall on the right and a grassy bank on the left. The road is a leading line, and the white wall gives it scale. Stand on the centre line, keep the camera low, and let the road's vanishing point set the composition.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Norwegian_County_Road_55",
+        "https://commons.wikimedia.org/wiki/File%3AFv55_road_at_Sognefjellet%2C_2013_June.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Fv55 road at Sognefjellet",
+        "line2": "Ximonic (Simo Räsänen) · Sogn og Fjordane"
+      },
+      "batch": "2026-10-28",
+      "order": 150
+    },
+    {
+      "id": "loc-lange-broke-baby-sick-tracy",
+      "kind": "photograph",
+      "title": "Broke, baby sick, and car trouble!",
+      "maker": "Dorothea Lange",
+      "year": "1937",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg/1280px-Broke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1348,
+        "license": "Public domain",
+        "credit": "Dorothea Lange, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Dorothea Lange (1895 to 1965) was an American documentary photographer and photojournalist, best known for her Depression-era work for the Farm Security Administration. Her work, including Migrant Mother of 1936, humanized the consequences of the Great Depression. This photograph was made in February 1937 near Tracy, California, on U.S. Highway 99, and the Library of Congress describes it as showing a Missouri family of five who were seven months from the drought area. Its caption reads Broke, baby sick, and car trouble! A woman kneels by the road tending a baby on a cloth, beside an old car loaded with a mattress and household goods.",
+      "lookAt": "A woman tends a baby on a cloth beside a heavily loaded car, with an empty road and telephone poles running away to a flat horizon. The loaded car tells the story at a glance. Keep the horizon low, let the road lead the eye, and photograph the moment when attention is on the child.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dorothea_Lange",
+        "https://commons.wikimedia.org/wiki/File%3ABroke%2C_baby_sick%2C_and_car_trouble%21_-_Dorothea_Langes_photo_of_a_Missouri_family_of_five_in_the_vicinity_of_Tracy%2C_California.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1937",
+        "title": "Broke, baby sick, and car trouble!",
+        "line2": "Dorothea Lange · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 151
+    },
+    {
+      "id": "commons-kagbeni-mustang",
+      "kind": "place",
+      "title": "Kagbeni, Upper Mustang",
+      "maker": "Bijay Chaurasia",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kagbeni_Mustang-WLV-0741.jpg/1280px-Kagbeni_Mustang-WLV-0741.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Bijay Chaurasia, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Nepal",
+        "region": "Mustang District",
+        "lat": 28.83666667,
+        "lon": 83.78305556,
+        "facts": [
+          [
+            "District",
+            "Mustang District (Upper Mustang)"
+          ],
+          [
+            "River valley",
+            "Kali Gandaki"
+          ],
+          [
+            "Population",
+            "555 (2011 census)"
+          ],
+          [
+            "Coordinates",
+            "28.84° N, 83.78° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Kagbeni is a village in the Baragung Muktikshetra rural municipality of Mustang District, in the Upper Mustang region of the Himalayas in Nepal. It sits in the valley of the Kali Gandaki River, between two sacred rivers, Muktinath and Kali Gandaki. At the 2011 census it had 555 residents. The village lies on the trail from Jomsom to the royal capital Lo Manthang, near the junction with the trail to Muktinath, and it is regarded as one of the oldest villages in the Himalayas. Bijay Chaurasia photographed it on 14 December 2017, at about 08:50, with a snow-covered peak above the flat-roofed buildings.",
+      "lookAt": "Flat-roofed mud and stone houses sit in the foreground, with a long, snow-covered ridge rising behind them in a pale blue sky. Layers of warm earth, blue shadow and white snow separate cleanly. Shoot early, when low light can warm the walls while the snow stays bright.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kagbeni",
+        "https://commons.wikimedia.org/wiki/File%3AKagbeni_Mustang-WLV-0741.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEPAL",
+        "title": "Kagbeni, Upper Mustang",
+        "line2": "Bijay Chaurasia · Mustang District"
+      },
+      "batch": "2026-10-28",
+      "order": 152
+    },
+    {
+      "id": "commons-the-arts-house-blue-hour",
+      "kind": "place",
+      "title": "The Arts House at blue hour",
+      "maker": "Frank Schulenburg",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Arts_House_during_blue_hour_%282023%29-L1003783.jpg/1280px-The_Arts_House_during_blue_hour_%282023%29-L1003783.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 989,
+        "license": "CC BY-SA 4.0",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Civic District",
+        "lat": 1.28861111,
+        "lon": 103.85111111,
+        "facts": [
+          [
+            "Built",
+            "1827"
+          ],
+          [
+            "Former name",
+            "Old Parliament House"
+          ],
+          [
+            "Opened as arts centre",
+            "26 March 2004"
+          ],
+          [
+            "Coordinates",
+            "1.29° N, 103.85° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Arts House, formerly the Old Parliament House, is a multi-disciplinary arts venue in the Civic District of Singapore. Built in 1827, it is the oldest government building and perhaps the oldest surviving building in Singapore. It housed the Parliament of Singapore from 1965 to 1999, when Parliament moved to an adjacent new building, and it opened as an arts and heritage centre on 26 March 2004. Frank Schulenburg photographed the exterior during blue hour on 18 August 2023. The warm, floodlit facade, with its columns and pediment, glows against a deep blue sky.",
+      "lookAt": "A cream-coloured colonnaded building is lit from below in warm and pink tones, with a green dome peeking above the right side and a dark blue evening sky overhead. Blue hour balances sky and artificial light. Arrive twenty minutes after sunset and use the lawn to hold the camera low and steady.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Arts_House",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Arts_House_during_blue_hour_%282023%29-L1003783.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "The Arts House at blue hour",
+        "line2": "Frank Schulenburg · Civic District"
+      },
+      "batch": "2026-10-28",
+      "order": 153
+    },
+    {
+      "id": "loc-rothstein-marching-troops-china",
+      "kind": "photograph",
+      "title": "Marching troops, China",
+      "maker": "Arthur Rothstein",
+      "year": "1946",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799.jpg/1280px-Arthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1165,
+        "license": "Public domain",
+        "credit": "Arthur Rothstein, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Arthur Rothstein (1915 to 1985) was an American photographer whose career spanned five decades and who received recognition as one of America's premier photojournalists. This photograph, taken in 1946 and held by the Library of Congress, is described as a view from above of provincial troops marching along a city street in the Jiangsu Province or Yunnan Province in China. The description does not settle which province it is. From the high vantage point, rows of soldiers fill the cobbled street, a rider on horseback follows, and crowds line the sides in front of low tiled-roof buildings.",
+      "lookAt": "Seen from a high window, ranks of marching soldiers fill a cobbled street while crowds press along its edge beneath the tiled roofs. Height turns a crowd into a pattern. Find an elevated spot, wait until the diagonal of the column is complete, and include one mounted figure as the accent.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arthur_Rothstein",
+        "https://commons.wikimedia.org/wiki/File%3AArthur_Rothstein_-_marching_Chinese_troops_ppmsca.07799.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1946",
+        "title": "Marching troops, China",
+        "line2": "Arthur Rothstein · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 154
+    },
+    {
+      "id": "commons-kinnauri-house-sangla",
+      "kind": "place",
+      "title": "Traditional Kinnauri house, Sangla",
+      "maker": "UnpetitproleX",
+      "year": "2025",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Traditional_Kinnauri_house%2C_Sangla%2C_Himachal_Pradesh%2C_India.jpg/1280px-Traditional_Kinnauri_house%2C_Sangla%2C_Himachal_Pradesh%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1280,
+        "license": "CC BY-SA 4.0",
+        "credit": "UnpetitproleX, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Himachal Pradesh",
+        "lat": 31.42638889,
+        "lon": 78.265,
+        "facts": [
+          [
+            "Town",
+            "Sangla, Baspa Valley"
+          ],
+          [
+            "District",
+            "Kinnaur District"
+          ],
+          [
+            "Style",
+            "Kinnauri vernacular architecture"
+          ],
+          [
+            "Coordinates",
+            "31.43° N, 78.27° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Sangla is a town in the Baspa Valley, in the Kinnaur District of Himachal Pradesh, India, close to the border with Tibet. It is the administrative headquarters of the Sangla tehsil and the primary town in the valley, which is also called the Sangla Valley. This photograph, taken on 14 March 2025, shows a traditional house built in the Kinnauri vernacular architectural style. The southern face of the Kinner Kailash massif is visible in the background, as are several modern concrete buildings. The old house is built of dark timber and stone, with a steep, layered roof and stacked firewood beneath the upper floor.",
+      "lookAt": "A dark timber house with a steep stepped roof fills the centre, stacked firewood under the porch and snowy peaks behind it against a deep blue sky. Symmetry and a square crop emphasise the house's shape. Stand square-on, keep the verticals straight, and let the peaks provide the backdrop.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sangla,_India",
+        "https://commons.wikimedia.org/wiki/File%3ATraditional_Kinnauri_house%2C_Sangla%2C_Himachal_Pradesh%2C_India.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Traditional Kinnauri house, Sangla",
+        "line2": "UnpetitproleX · Himachal Pradesh"
+      },
+      "batch": "2026-10-28",
+      "order": 155
+    },
+    {
+      "id": "commons-tarasp-castle-scuol",
+      "kind": "place",
+      "title": "Tarasp Castle",
+      "maker": "Agnes Monkelbaan",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kasteel_Tarasp_%28Tarasp_Castle%29_Scuol%2C_18-09-2023._%28actm.%29_15.jpg/1280px-Kasteel_Tarasp_%28Tarasp_Castle%29_Scuol%2C_18-09-2023._%28actm.%29_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 862,
+        "license": "CC BY-SA 4.0",
+        "credit": "Agnes Monkelbaan, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Switzerland",
+        "region": "Graubünden",
+        "lat": 46.77888889,
+        "lon": 10.26166667,
+        "facts": [
+          [
+            "Elevation",
+            "1,499 m above sea level"
+          ],
+          [
+            "Named by",
+            "1089, when Ulrich von Tarasp appeared in a papal mandate"
+          ],
+          [
+            "Museum since",
+            "1919"
+          ],
+          [
+            "Coordinates",
+            "46.78° N, 10.26° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Tarasp Castle stands near Scuol, in the Lower Engadin in the Swiss canton of Graubünden, at 1,499 metres above sea level. It was probably built in the 11th century and had taken its name by 1089, when Ulrich von Tarasp appeared in a papal mandate. Owners have included the Bishop of Chur, the Counts of Tyrol, the Matsch family and the House of Dietrichstein. Karl Lingner bought it in 1900 and restored it between 1906 and 1916, and it became a museum in 1919. Agnes Monkelbaan photographed it on 18 September 2023, under grey cloud, with the castle crowning a wooded rock.",
+      "lookAt": "A pale castle with a green-roofed tower sits on a wooded rock above a grassy slope, with a dark mountain behind it and a grey, overcast sky. The cloud acts like a giant softbox. Let the green slope lead toward the castle and shoot from below to emphasise its height.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tarasp_Castle",
+        "https://commons.wikimedia.org/wiki/File%3AKasteel_Tarasp_%28Tarasp_Castle%29_Scuol%2C_18-09-2023._%28actm.%29_15.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SWITZERLAND",
+        "title": "Tarasp Castle",
+        "line2": "Agnes Monkelbaan · Graubünden"
+      },
+      "batch": "2026-10-28",
+      "order": 156
+    },
+    {
+      "id": "loc-delano-brockton-enterprise-christmas-eve",
+      "kind": "photograph",
+      "title": "Reading the headlines, Brockton, Massachusetts",
+      "maker": "Jack Delano",
+      "year": "1940",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Men_and_a_woman_reading_headlines_posted_in_street-corner_window_of_Brockton_Enterprise_newspaper_office_on_Christmas_Eve%2C_Brockton%2C_Mass._LCCN2017877372.jpg/1280px-Men_and_a_woman_reading_headlines_posted_in_street-corner_window_of_Brockton_Enterprise_newspaper_office_on_Christmas_Eve%2C_Brockton%2C_Mass._LCCN2017877372.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1796,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Jack Delano (1914 to 1997) was a photographer, filmmaker and composer who worked for the Farm Security Administration. This colour slide, made in December 1940 and held by the Library of Congress, is titled Men and a woman reading headlines posted in street-corner window of Brockton Enterprise newspaper office on Christmas Eve, Brockton, Mass. Handwritten headlines fill a window beneath the dark blue Brockton Enterprise sign, and passers-by in overcoats and hats stand with their backs to the camera, reading. A street lamp rises at the right, and the brick wall runs around the window.",
+      "lookAt": "Passers-by in dark coats stand with their backs to us reading hand-lettered headlines in a lit shop window, under a bold blue sign. The backs of the readers pull us into the scene. Shoot from behind, include the sign for context and wait until the figures separate from each other.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File%3AMen_and_a_woman_reading_headlines_posted_in_street-corner_window_of_Brockton_Enterprise_newspaper_office_on_Christmas_Eve%2C_Brockton%2C_Mass._LCCN2017877372.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1940",
+        "title": "Reading the headlines, Brockton, Massachusetts",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 157
+    },
+    {
+      "id": "commons-luxembourg-city-hall",
+      "kind": "place",
+      "title": "Luxembourg City Hall",
+      "maker": "Pierre Blaché",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Luxembourg_City_Hall_%2854540726309%29.jpg/1280px-Luxembourg_City_Hall_%2854540726309%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 804,
+        "license": "CC0",
+        "credit": "Pierre Blaché, CC0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Luxembourg",
+        "region": "Luxembourg City",
+        "lat": 49.61020556,
+        "lon": 6.13045556,
+        "facts": [
+          [
+            "Location",
+            "Place Guillaume II (Knuedler)"
+          ],
+          [
+            "Style",
+            "Neoclassical, two storeys"
+          ],
+          [
+            "Function",
+            "City hall and mayor's office"
+          ],
+          [
+            "Coordinates",
+            "49.61° N, 6.13° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Luxembourg City Hall is the seat of local government for Luxembourg City, in southern Luxembourg. It is used as the private office of the Mayor of Luxembourg City and regularly hosts foreign dignitaries. The building stands on the southwestern part of Place Guillaume II, the main square in the centre of the city, which is nicknamed Knuedler. It is a two-storey building in neoclassical style. Pierre Blaché photographed it on 16 September 2024 at about 19:51, in the evening, with the lamps lit under a darkening blue sky and the cobbled square nearly empty.",
+      "lookAt": "A symmetrical cream facade with a low dark roof is lit by warm lamps in the evening, with two ornate street lanterns framing it left and right. The balance of warm light and cool blue sky is the point. Shoot from the centre, wait for the lamps to switch on and keep the square empty.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Luxembourg_City_Hall",
+        "https://commons.wikimedia.org/wiki/File%3ALuxembourg_City_Hall_%2854540726309%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · LUXEMBOURG",
+        "title": "Luxembourg City Hall",
+        "line2": "Pierre Blaché · Luxembourg City"
+      },
+      "batch": "2026-10-28",
+      "order": 158
+    },
+    {
+      "id": "commons-aqueduct-of-luynes",
+      "kind": "place",
+      "title": "Aqueduct of Luynes",
+      "maker": "Myrabella",
+      "year": "2011",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Aqueduc_Luynes.jpg/1280px-Aqueduc_Luynes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 768,
+        "license": "CC BY-SA 3.0",
+        "credit": "Myrabella, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "France",
+        "region": "Indre-et-Loire",
+        "lat": 47.39722222,
+        "lon": 0.56833333,
+        "facts": [
+          [
+            "Built",
+            "Probably 2nd or 3rd century AD"
+          ],
+          [
+            "Original length",
+            "1,825 metres"
+          ],
+          [
+            "Surviving piers",
+            "44 of 99"
+          ],
+          [
+            "Coordinates",
+            "47.40° N, 0.57° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Aqueduct of Luynes is a former Gallo-Roman bridge aqueduct in Luynes, in the Indre-et-Loire department of France. It was probably built in the 2nd or 3rd century AD, though its date is uncertain. It was originally 1,825 metres long, with 525 metres of raised causeway, and now has 44 of its original 99 piers, rising to 8.90 metres. It was used until the 12th or 13th century and was listed as a historical monument in 1862. Myrabella photographed the remains on 31 October 2011, in autumn colour, with the stone arches standing against a blue sky.",
+      "lookAt": "A long line of weathered stone arches steps away to the right, with yellow autumn trees at the far end and a blue sky behind. The repeated arches create rhythm. Step back and shoot slightly off-axis so the arches shrink in a diagonal and show the full length.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aqueduct_of_Luynes",
+        "https://commons.wikimedia.org/wiki/File%3AAqueduc_Luynes.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · FRANCE",
+        "title": "Aqueduct of Luynes",
+        "line2": "Myrabella · Indre-et-Loire"
+      },
+      "batch": "2026-10-28",
+      "order": 159
+    },
+    {
+      "id": "nara-lange-children-camp-weedpatch-lamont",
+      "kind": "photograph",
+      "title": "Children in a camp near Weedpatch, California",
+      "maker": "Dorothea Lange",
+      "year": "1940",
+      "collection": "U.S. National Archives",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Children_Living_in_a_Camp_Between_Weedpatch_and_Lamont%2C_Kern_County%2C_California_%283679502846%29.jpg/1280px-Children_Living_in_a_Camp_Between_Weedpatch_and_Lamont%2C_Kern_County%2C_California_%283679502846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1018,
+        "license": "Public domain",
+        "credit": "Dorothea Lange, U.S. National Archives, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Dorothea Lange (1895 to 1965) was an American documentary photographer who made much of her best-known work documenting the poor and dispossessed. This photograph is dated 12 April 1940 and was made between Weedpatch and Lamont in Kern County, California. The original caption reads Children living in camp, rent $2.75 plus electricity. It is held by the U.S. National Archives, in a series of photographic prints documenting programs and activities of the Bureau of Agricultural Economics. Two children look out through a hole in a weathered board door, their faces close together, while the planks, a small window above and a rusted hinge fill the rest of the frame.",
+      "lookAt": "Two small faces peer through a gap in a weathered plank door, with a window above and a latch at the right. The door's boards form a natural frame. Move close, fill the frame with texture and let the single gap hold your subject so the eye goes straight to it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dorothea_Lange",
+        "https://commons.wikimedia.org/wiki/File%3AChildren_Living_in_a_Camp_Between_Weedpatch_and_Lamont%2C_Kern_County%2C_California_%283679502846%29.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1940",
+        "title": "Children in a camp near Weedpatch, California",
+        "line2": "Dorothea Lange · U.S. National Archives"
+      },
+      "batch": "2026-10-28",
+      "order": 160
+    },
+    {
+      "id": "commons-fullerton-hotel-night-aerial",
+      "kind": "place",
+      "title": "The Fullerton Hotel at night",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg/1280px-Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 720,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Downtown Core",
+        "lat": 1.28611111,
+        "lon": 103.85305556,
+        "facts": [
+          [
+            "Built",
+            "Commissioned in 1924"
+          ],
+          [
+            "Architect",
+            "Major P.H. Keys of Keys & Dowdeswell"
+          ],
+          [
+            "National monument",
+            "Designated in 2015"
+          ],
+          [
+            "Coordinates",
+            "1.29° N, 103.85° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "The Fullerton Hotel Singapore stands near the mouth of the Singapore River, in the Downtown Core. It was originally known as the Fullerton Building and as the General Post Office Building, and it was named after Robert Fullerton, the first Governor of the Straits Settlements. Commissioned in 1924 as part of the British colony's centennial celebrations, it was designed by Major P.H. Keys of the Shanghai firm Keys & Dowdeswell, and it became a national monument in 2015. Basile Morin photographed it on 10 June 2018 from the Marina Bay Sands observation deck, with colourful lights reflecting in the water behind it.",
+      "lookAt": "From high above, a long lit hotel with a column-lined front stands out in a dark cityscape, with reflections shimmering on the water behind it. Height flattens perspective into patterns. Use a long lens from an observation deck, steady the camera and expose for the lights.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Fullerton_Hotel_Singapore",
+        "https://commons.wikimedia.org/wiki/File%3AAerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "The Fullerton Hotel at night",
+        "line2": "Basile Morin · Downtown Core"
+      },
+      "batch": "2026-10-28",
+      "order": 161
+    },
+    {
+      "id": "commons-cloud-forest-gardens-by-the-bay",
+      "kind": "place",
+      "title": "Cloud Forest, Gardens by the Bay",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg/1280px-Cloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1280,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Central Region",
+        "lat": 1.28472222,
+        "lon": 103.865,
+        "facts": [
+          [
+            "Park size",
+            "105 hectares"
+          ],
+          [
+            "Announced",
+            "2005 National Day Rally"
+          ],
+          [
+            "Largest garden",
+            "Bay South, 54 hectares, by Grant Associates"
+          ],
+          [
+            "Coordinates",
+            "1.28° N, 103.86° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Gardens by the Bay is an urban park of 105 hectares in the Central Region of Singapore, next to Marina Reservoir. It has three waterfront gardens, and the largest, Bay South at 54 hectares, was designed by Grant Associates. Its Flower Dome is the largest glass greenhouse in the world. The park was announced by Prime Minister Lee Hsien Loong at the National Day Rally in 2005, as part of plans to turn the Garden City into a City in a Garden. Basile Morin photographed the Cloud Forest from the entrance on 6 June 2018, on a sunny day.",
+      "lookAt": "A tall green mountain of plants with thin waterfalls stands inside a curved glass dome, whose steel grid arcs overhead. Shadows from the dome's frame fall across the floor. Look up and centre the structure to use the dome's lines as a frame, and include the floor shadows.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+        "https://commons.wikimedia.org/wiki/File%3ACloud_Forest%2C_Gardens_by_the_Bay%2C_Singapore.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "Cloud Forest, Gardens by the Bay",
+        "line2": "Basile Morin · Central Region"
+      },
+      "batch": "2026-10-28",
+      "order": 162
+    },
+    {
+      "id": "loc-highsmith-selma-march-anniversary",
+      "kind": "photograph",
+      "title": "45th Anniversary of the Selma to Montgomery march",
+      "maker": "Carol M. Highsmith",
+      "year": "2010",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/45th_Anniversary_of_the_Civil_Rights_March_from_Selma%2C_Alabama_to_Montgomery%2C_Alabama_LCCN2010637777.tif/lossy-page1-1280px-45th_Anniversary_of_the_Civil_Rights_March_from_Selma%2C_Alabama_to_Montgomery%2C_Alabama_LCCN2010637777.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Carol M. Highsmith (born 1946) is an American photographer and author whose work documents the landscapes, architecture and people of the United States in a nationwide study in progress since the 1980s. She has donated her photographs to the Library of Congress since 1992, and all of them are in the public domain. This picture is titled 45th Anniversary of the Civil Rights March from Selma, Alabama to Montgomery, Alabama. The notes say people came to walk across the Edmund Pettus Bridge to recreate the 1965 event. The file is dated 7 March 2010. A line of marchers holds a rope across the roadway, with signs raised behind them under a pale blue sky.",
+      "lookAt": "A line of marchers holds a rope across the road, with signs raised behind them and a bare tree and thin contrails above. The rope connects the people and makes a single line. Shoot at eye level from the front, wait for faces turned toward the camera, and keep the sky as open space above them.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://commons.wikimedia.org/wiki/File%3A45th_Anniversary_of_the_Civil_Rights_March_from_Selma%2C_Alabama_to_Montgomery%2C_Alabama_LCCN2010637777.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2010",
+        "title": "45th Anniversary of the Selma to Montgomery march",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "batch": "2026-10-28",
+      "order": 163
+    },
+    {
+      "id": "commons-zappeion-courtyard-athens",
+      "kind": "place",
+      "title": "Courtyard of the Zappeion",
+      "maker": "Jebulon",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Courtyard_Zappeion_Athens%2C_Greece.jpg/1280px-Courtyard_Zappeion_Athens%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 893,
+        "license": "CC0",
+        "credit": "Jebulon, CC0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Greece",
+        "region": "Athens",
+        "lat": 37.97138889,
+        "lon": 23.73638889,
+        "facts": [
+          [
+            "Location",
+            "Next to the National Gardens of Athens"
+          ],
+          [
+            "Use",
+            "Meetings and ceremonies"
+          ],
+          [
+            "Photographed",
+            "23 April 2016"
+          ],
+          [
+            "Coordinates",
+            "37.97° N, 23.74° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Zappeion is a large, palatial building next to the National Gardens of Athens, in the heart of Athens, Greece. It is generally used for meetings and ceremonies, both official and private, and is one of the city's most renowned modern landmarks. Jebulon photographed its circular courtyard on 23 April 2016 and released the picture into the public domain under a CC0 dedication. The photograph shows a ring of white columns around a chequered marble floor, with red walls behind them, a balcony above and a small fountain surrounded by red flowers at the centre of the court.",
+      "lookAt": "A circular arcade of white columns surrounds a chequered floor, with a red wall behind them and a ring of red flowers around a fountain at the centre. Repetition and symmetry organise the scene. Stand on the axis, look straight across, and keep the horizon level so the circle holds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zappeion",
+        "https://commons.wikimedia.org/wiki/File%3ACourtyard_Zappeion_Athens%2C_Greece.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · GREECE",
+        "title": "Courtyard of the Zappeion",
+        "line2": "Jebulon · Athens"
+      },
+      "batch": "2026-10-28",
+      "order": 164
+    },
+    {
+      "id": "commons-estacao-das-docas-belem",
+      "kind": "place",
+      "title": "Estação das Docas, Belém",
+      "maker": "Cayambe",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Brazil_Bel%C3%A9m_Las_Docas_02.jpg/1280px-Brazil_Bel%C3%A9m_Las_Docas_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 859,
+        "license": "CC BY-SA 3.0",
+        "credit": "Cayambe, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Brazil",
+        "region": "Pará",
+        "lat": -1.44861111,
+        "lon": -48.50027778,
+        "facts": [
+          [
+            "City",
+            "Belém, capital of Pará"
+          ],
+          [
+            "Neighbourhood",
+            "Campina"
+          ],
+          [
+            "Created",
+            "2000"
+          ],
+          [
+            "Coordinates",
+            "1.45° S, 48.50° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "The Estação das Docas, or Docks Station, is a Brazilian tourist and cultural complex created in 2000. It stands in the Campina neighborhood of Belém, the capital of Pará, and was originally built as part of the city's port. It is managed today by the Pará 2000 Social Organization. The Commons description says the former docks have been restored and now hold bars, restaurants and shops on the banks of the bay of the Guajará river. Cayambe photographed the covered walkway on 4 August 2009, with café tables set along the railing, palm trees, and old yellow dock cranes against the water.",
+      "lookAt": "A long covered terrace with empty café tables runs toward the right, while palms and yellow dock cranes stand against a bright river and a pale sky. The old machines tell the story of the place. Include the tables as leading lines and wait for a person to walk through.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_das_Docas",
+        "https://commons.wikimedia.org/wiki/File%3ABrazil_Bel%C3%A9m_Las_Docas_02.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · BRAZIL",
+        "title": "Estação das Docas, Belém",
+        "line2": "Cayambe · Pará"
+      },
+      "batch": "2026-10-28",
+      "order": 165
     }
   ]
 }
