@@ -7731,6 +7731,1266 @@
       },
       "batch": "2026-10-28",
       "order": 165
+    },
+    {
+      "id": "commons-strokkur-haukadalur",
+      "kind": "place",
+      "title": "Strokkur geyser, Haukadalur",
+      "maker": "Diego Delso",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_083.JPG/1280px-Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_083.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1920,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Iceland",
+        "region": "Haukadalur, Suðurland",
+        "lat": 64.31305556,
+        "lon": -20.30055556,
+        "facts": [
+          [
+            "Type",
+            "Fountain-type geyser"
+          ],
+          [
+            "Eruption interval",
+            "Typically every 6–10 minutes"
+          ],
+          [
+            "Usual height",
+            "15–20 metres"
+          ],
+          [
+            "Coordinates",
+            "64.31° N, 20.30° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Strokkur, Icelandic for \"churn\", is a fountain-type geyser in a geothermal area beside the Hvítá River in the southwest of Iceland, east of Reykjavík. It typically erupts every 6–10 minutes. Its usual height is 15–20 metres, although it can sometimes erupt up to 40 metres high. Diego Delso photographed it on 16 August 2014 at 13:21, in hard midday light. The Commons description places the frame in the Haukadalur geothermal area. In this tall vertical, a small group of visitors in bright jackets stands on the pale ground at the lower right, with the turquoise water of the basin domed in front of them.",
+      "lookAt": "Almost the whole tall frame is empty blue sky with one white cloud, while a few figures in bright jackets sit tiny at the bottom beside the domed pool. The people give scale and the sky gives calm. Shoot vertically, keep the horizon low, and compose before the water rises.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Strokkur",
+        "https://commons.wikimedia.org/wiki/File%3AStrokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_083.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · ICELAND",
+        "title": "Strokkur geyser, Haukadalur",
+        "line2": "Diego Delso · Haukadalur"
+      },
+      "batch": "2026-10-29",
+      "order": 166
+    },
+    {
+      "id": "commons-jintai-temple-zhuhai",
+      "kind": "place",
+      "title": "Jintai Temple, Zhuhai",
+      "maker": "Dllu",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Remote_view_of_Jintai_Temple_dllu.jpg/1280px-Remote_view_of_Jintai_Temple_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 960,
+        "license": "CC BY-SA 4.0",
+        "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Doumen District, Zhuhai, Guangdong",
+        "lat": 22.22463,
+        "lon": 113.2239631,
+        "facts": [
+          [
+            "Temple",
+            "Jintai Temple (金臺寺)"
+          ],
+          [
+            "Location",
+            "Southern slopes of the second peak of Huangyang Mountain"
+          ],
+          [
+            "District",
+            "Doumen District, Zhuhai"
+          ],
+          [
+            "Coordinates",
+            "22.22° N, 113.22° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Jintai Temple, written 金臺寺 in traditional characters and pronounced Jīn Tái Sì, is a temple complex on the southern slopes of the second peak of Huangyang Mountain in Doumen District, Zhuhai City, Guangdong Province. Dllu photographed it on 8 January 2024 at about 17:17 from across the water, and the Commons title calls it a remote view. Orange tiled roofs and yellow halls sit high on a forested hillside, while a long bridge runs through the trees below and a band of turquoise water fills the bottom of the frame.",
+      "lookAt": "From across the water, the orange roofs and yellow halls look small against a huge green hillside. A distant view lets you show a building in its setting. Use a longer lens to compress the slope, and let the dark trees and the turquoise water frame the bright roofs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jintai_Temple",
+        "https://commons.wikimedia.org/wiki/File%3ARemote_view_of_Jintai_Temple_dllu.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Jintai Temple, Zhuhai",
+        "line2": "Dllu · Guangdong"
+      },
+      "batch": "2026-10-29",
+      "order": 167
+    },
+    {
+      "id": "loc-lange-unemployed-lumber-worker",
+      "kind": "photograph",
+      "title": "Unemployed lumber worker, Oregon",
+      "maker": "Dorothea Lange",
+      "year": "1939",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Dorothea_Lange_-_Unemployed_lumber_01.jpg/1280px-Dorothea_Lange_-_Unemployed_lumber_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 980,
+        "license": "Public domain",
+        "credit": "Dorothea Lange, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Dorothea Lange (1895–1965) was an American documentary photographer best known for her Depression-era work for the Farm Security Administration. Her photographs, the article says, humanized the consequences of the Great Depression. The caption for this August 1939 picture reads: unemployed lumber worker goes with his wife to the bean harvest, with a social security number tattooed on his arm, in Oregon. It is held by the Library of Congress under the digital ID fsa.8b15572. The man sits shirtless on a block of wood with a pipe in his mouth, facing the camera, while his wife sits behind him at the left inside a tent of hanging cloth.",
+      "lookAt": "A man sits close to the camera and looks at it, and his wife sits farther back, turned away inside a tent of cloth. Putting two people at different distances tells the story of the place without a word. Come in at eye level, ask for the stare, and let the background stay simple.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dorothea_Lange",
+        "https://commons.wikimedia.org/wiki/File%3ADorothea_Lange_-_Unemployed_lumber_01.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1939",
+        "title": "Unemployed lumber worker, Oregon",
+        "line2": "Dorothea Lange · Library of Congress"
+      },
+      "batch": "2026-10-29",
+      "order": 168
+    },
+    {
+      "id": "commons-kaikoura-ranges-mt-fyffe",
+      "kind": "place",
+      "title": "Kaikōura Ranges from Mt Fyffe trail",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/View_of_Kaikoura_Ranges%2C_New_Zealand.jpg/1280px-View_of_Kaikoura_Ranges%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 522,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Canterbury",
+        "lat": -42,
+        "lon": 173.66666667,
+        "facts": [
+          [
+            "Range",
+            "Two parallel ranges"
+          ],
+          [
+            "Region",
+            "Canterbury, northeast South Island"
+          ],
+          [
+            "Visibility",
+            "Seen from a great distance, including the North Island's southern coast"
+          ],
+          [
+            "Coordinates",
+            "42.00° S, 173.67° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Kaikōura Ranges are two parallel ranges of mountains in the Canterbury Region, in the northeast of New Zealand's South Island. The two ranges are visible from a great distance, including from the southern coast of the North Island. Michal Klajban took this picture on 20 October 2019 at about 10:20 in the morning, from the trail to Mt Fyffe. The Commons description says it shows the Kowhai River at the bottom, with the ranges west of Mt Fyffe beyond it. In the wide frame, steep green slopes drop toward a pale strip of riverbed, and snow lies along the high ridgeline under thin streaks of cloud.",
+      "lookAt": "Dark scrub frames the left and right edges, and the eye slides down the green slopes to a pale ribbon of riverbed before climbing to the snowy ridge. Stand where the foreground can act as a frame, and use a wide crop so the ranges feel long and layered.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kaik%C5%8Dura_Ranges",
+        "https://commons.wikimedia.org/wiki/File%3AView_of_Kaikoura_Ranges%2C_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Kaikōura Ranges from Mt Fyffe trail",
+        "line2": "Michal Klajban · Canterbury"
+      },
+      "batch": "2026-10-29",
+      "order": 169
+    },
+    {
+      "id": "commons-phayao-city-pillar-shrine",
+      "kind": "place",
+      "title": "City pillar shrine, Phayao",
+      "maker": "BigDom",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Phayao_-_City_pillar_shrine_and_walkway_Jan_2024.jpg/1280px-Phayao_-_City_pillar_shrine_and_walkway_Jan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "BigDom, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Thailand",
+        "region": "Phayao Province",
+        "lat": 19.16527778,
+        "lon": 99.90361111,
+        "facts": [
+          [
+            "City",
+            "Phayao, capital of Phayao Province"
+          ],
+          [
+            "Setting",
+            "On the shore of Phayao Lake"
+          ],
+          [
+            "Founded",
+            "As a city-state about 900–1,000 years ago"
+          ],
+          [
+            "Coordinates",
+            "19.17° N, 99.90° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Phayao is a city in northern Thailand and the capital of Phayao Province. The town lies on the shore of Phayao Lake, and the Wikipedia article says it dates back to a semi-independent city-state founded between 900 and 1,000 years ago. It lies 726 km north of Bangkok. BigDom photographed the tree-lined walkway leading to the north facade of the city pillar, or lak mueang, shrine on 24 January 2024 at about 16:54. A small white shrine with a stepped spire stands at the end of a paved path, framed by tall trees with orange garlands at its steps.",
+      "lookAt": "A paved path runs between two trees to a small white shrine, and the branches arch overhead like a frame. Stand on the centre line to make the scene symmetrical. Keep the shrine small and leave space around it so the trees and sky do the framing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phayao",
+        "https://commons.wikimedia.org/wiki/File%3APhayao_-_City_pillar_shrine_and_walkway_Jan_2024.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · THAILAND",
+        "title": "City pillar shrine, Phayao",
+        "line2": "BigDom · Northern Thailand"
+      },
+      "batch": "2026-10-29",
+      "order": 170
+    },
+    {
+      "id": "loc-delano-freight-train-laguna",
+      "kind": "photograph",
+      "title": "Freight train near Laguna, New Mexico",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/A_freight_train_stopping_for_coal_and_water_at_a_siding_enroute_to_Gallup%2C_New_Mexico%2C_near_Laguna%2C_N.M._LCCN2017878126.tif/lossy-page1-1280px-A_freight_train_stopping_for_coal_and_water_at_a_siding_enroute_to_Gallup%2C_New_Mexico%2C_near_Laguna%2C_N.M._LCCN2017878126.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 984,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Jack Delano (1914–1997) was a Russian Empire-born photographer, filmmaker and composer who worked for the Farm Security Administration. The Library of Congress catalogues this colour transparency, dated March 1943, as a freight train stopping for coal and water at a siding en route to Gallup, New Mexico, near Laguna. Delano shot it from above the cars, looking along the roofs of the train toward the front. Beyond the tracks, a coaling tower sends up a trail of dark smoke below scattered white clouds, and a long flat-topped mesa runs across the horizon above a plain of low scrub, fences and telegraph poles.",
+      "lookAt": "Standing above the train roofs, the two rails and the row of poles converge on a coaling tower, and the mesa runs across the back. A vantage on top of a moving subject gives you the leading lines. Use a wide lens and keep the sky large, because the clouds add scale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File%3AA_freight_train_stopping_for_coal_and_water_at_a_siding_enroute_to_Gallup%2C_New_Mexico%2C_near_Laguna%2C_N.M._LCCN2017878126.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Freight train near Laguna, New Mexico",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "batch": "2026-10-29",
+      "order": 171
+    },
+    {
+      "id": "commons-craigieburn-range-baldy-hill",
+      "kind": "place",
+      "title": "Baldy Hill, Craigieburn Range",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Baldy_Hill_from_Snowslide_Valley%2C_Craigieburn_Range%2C_Canterbury%2C_New_Zealand.jpg/1280px-Baldy_Hill_from_Snowslide_Valley%2C_Craigieburn_Range%2C_Canterbury%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 551,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Canterbury",
+        "lat": -43.2,
+        "lon": 171.63333333,
+        "facts": [
+          [
+            "Range",
+            "Craigieburn Range, Southern Alps"
+          ],
+          [
+            "Island",
+            "South Island"
+          ],
+          [
+            "Location",
+            "South of the Waimakariri River"
+          ],
+          [
+            "Coordinates",
+            "43.20° S, 171.63° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Craigieburn Range forms part of the Southern Alps in New Zealand's South Island. It lies on the south banks of the Waimakariri River, south of Arthur's Pass and west of State Highway 73, next to the Craigieburn Forest Park. Michal Klajban photographed Baldy Hill from Snowslide Valley on 9 June 2019 at about 15:45, in winter light. The picture shows a snow-covered summit lit by a low gold glow while a dark shadow cuts across the bare rock below it, and conifers fill the lower right corner under a grey sky.",
+      "lookAt": "A strip of low gold light touches the snowy summit while shadow swallows the slope beneath it, and the grey sky makes the lit peak glow. Look for the moment when cloud gaps spotlight one feature, and expose for the bright snow so the shadows stay deep.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Craigieburn_Range",
+        "https://commons.wikimedia.org/wiki/File%3ABaldy_Hill_from_Snowslide_Valley%2C_Craigieburn_Range%2C_Canterbury%2C_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Baldy Hill, Craigieburn Range",
+        "line2": "Michal Klajban · Southern Alps"
+      },
+      "batch": "2026-10-29",
+      "order": 172
+    },
+    {
+      "id": "commons-constanta-casino-blue-hour",
+      "kind": "place",
+      "title": "Constanța Casino at blue hour",
+      "maker": "Diego Delso",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Casino_de_Constanza%2C_Constanza%2C_Rumania%2C_2016-05-27%2C_DD_01-03_HDR.jpg/1280px-Casino_de_Constanza%2C_Constanza%2C_Rumania%2C_2016-05-27%2C_DD_01-03_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 612,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Romania",
+        "region": "Constanța",
+        "lat": 44.1705,
+        "lon": 28.6635,
+        "facts": [
+          [
+            "Style",
+            "Art Nouveau, designed by Daniel Renard"
+          ],
+          [
+            "Inaugurated",
+            "August 1910"
+          ],
+          [
+            "Setting",
+            "Black Sea seafront, Peninsulă District"
+          ],
+          [
+            "Coordinates",
+            "44.17° N, 28.66° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Constanța Casino stands on the Black Sea seafront in the historic Peninsulă District of Constanța, Romania. Three buildings were constructed in the district to house a casino, the first a wooden structure in 1880. The current building is in Art Nouveau style, designed and built to the plans of Daniel Renard and inaugurated in August 1910. It is considered a symbol of the city and is listed as a historic monument. Diego Delso made this HDR view on 27 May 2016 at about 20:25, at blue hour, with the facade lit against a deep blue sky.",
+      "lookAt": "The lit facade glows warm against a deep blue sky at blue hour, and the sea behind it is almost black. Arrive in the twenty minutes after sunset, when sky and building lights balance, and use a tripod and a low ISO to keep the carved detail clean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Constan%C8%9Ba_Casino",
+        "https://commons.wikimedia.org/wiki/File%3ACasino_de_Constanza%2C_Constanza%2C_Rumania%2C_2016-05-27%2C_DD_01-03_HDR.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · ROMANIA",
+        "title": "Constanța Casino at blue hour",
+        "line2": "Diego Delso · Black Sea"
+      },
+      "batch": "2026-10-29",
+      "order": 173
+    },
+    {
+      "id": "loc-delano-belt-railway-clearing-yard",
+      "kind": "photograph",
+      "title": "Belt Railway clearing yard, Chicago",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Belt_Railway%2C_looking_toward_the_west_yard_of_clearing_yard%2C_taken_from_bridge_of_hump%2C_Chicago%2C_Ill._LCCN2017878080.tif/lossy-page1-1280px-Belt_Railway%2C_looking_toward_the_west_yard_of_clearing_yard%2C_taken_from_bridge_of_hump%2C_Chicago%2C_Ill._LCCN2017878080.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 995,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "Jack Delano (1914–1997) worked for the Farm Security Administration after emigrating from the Russian Empire, and he later spent much of his life in Puerto Rico. The Library of Congress gives this colour transparency, dated January 1943, the title Belt Railway, looking toward the west yard of the clearing yard, taken from the bridge of the hump, Chicago, Illinois. Snow lies over a wide yard of crossing tracks, with white steam rising at the upper left and a floodlight tower on the right. A single worker stands at the lower right beside a boxcar, and long shadows from the poles lie across the snow.",
+      "lookAt": "Snow-covered tracks cross in curves below a high bridge, steam billows at the upper left, and one small worker at the lower right gives the whole yard its scale. Shoot from above to turn infrastructure into a pattern. Wait for steam and a person to enter the frame together.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File%3ABelt_Railway%2C_looking_toward_the_west_yard_of_clearing_yard%2C_taken_from_bridge_of_hump%2C_Chicago%2C_Ill._LCCN2017878080.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Belt Railway clearing yard, Chicago",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "batch": "2026-10-29",
+      "order": 174
+    },
+    {
+      "id": "commons-nigeen-lake-srinagar",
+      "kind": "place",
+      "title": "Nigeen Lake, Srinagar",
+      "maker": "KennyOMG (edit by UnpetitproleX)",
+      "year": "2010",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Nigeen_Lake_pano_%28edited%29.jpg/1280px-Nigeen_Lake_pano_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 123,
+        "license": "CC BY-SA 4.0",
+        "credit": "KennyOMG (edit by UnpetitproleX), CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Srinagar, Jammu and Kashmir",
+        "lat": 34.11388889,
+        "lon": 74.83222222,
+        "facts": [
+          [
+            "Lake",
+            "Nigeen Lake, also spelled Nageen Lake"
+          ],
+          [
+            "City",
+            "Srinagar, Jammu and Kashmir"
+          ],
+          [
+            "Connection",
+            "Linked to Dal Lake by a narrow strait"
+          ],
+          [
+            "Coordinates",
+            "34.11° N, 74.83° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Nigeen Lake, also spelled Nageen Lake, lies in Srinagar, Jammu and Kashmir, India. It is sometimes considered a part of Dal Lake and is connected to it by a narrow strait. It is also joined to the Khushal Sar and Gil Sar lakes by a channel known as Nallah Amir Khan. The article calls it mildly eutrophic, meaning rich in nutrients. This panorama, taken on 19 April 2010 and later edited, shows the west bank with the distant Pir Panjal mountain range behind it. A long band of houses and trees sits on the shoreline and doubles in the still water.",
+      "lookAt": "The panorama is a thin horizontal band, with trees and houses mirrored in flat water and mountains faint behind them. A wide strip suits a long, quiet subject. Wait for calm air so the reflection stays crisp, and leave the sky and water almost empty.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nigeen_Lake",
+        "https://commons.wikimedia.org/wiki/File%3ANigeen_Lake_pano_%28edited%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Nigeen Lake, Srinagar",
+        "line2": "KennyOMG (edit by UnpetitproleX) · Kashmir"
+      },
+      "batch": "2026-10-29",
+      "order": 175
+    },
+    {
+      "id": "commons-palau-de-les-arts-valencia",
+      "kind": "place",
+      "title": "Palau de les Arts, Valencia",
+      "maker": "Diliff",
+      "year": "2007",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/El_Palau_de_les_Arts_Reina_Sof%C3%ADa%2C_Valencia_-_Jan_2007.jpg/1280px-El_Palau_de_les_Arts_Reina_Sof%C3%ADa%2C_Valencia_-_Jan_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 736,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Spain",
+        "region": "Valencia",
+        "lat": 39.45777778,
+        "lon": -0.35555556,
+        "facts": [
+          [
+            "Architect",
+            "Santiago Calatrava"
+          ],
+          [
+            "Opened",
+            "8 October 2005"
+          ],
+          [
+            "First opera staged",
+            "Beethoven's Fidelio, 25 October 2006"
+          ],
+          [
+            "Coordinates",
+            "39.46° N, 0.36° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Palau de les Arts Reina Sofía is an opera house, performing arts centre and urban landmark designed by Santiago Calatrava to anchor the northwest end of the City of Arts and Sciences in Valencia, Spain. It opened on 8 October 2005, and its first opera staging was Beethoven's Fidelio on 25 October 2006. Diliff made this image in January 2007 as a 3×5 segment panorama with a Canon 5D and a 24–105mm f/4L IS lens, according to the Commons description. The white shell arches over the glass frontage at night, and its shape repeats in the still water of the pool below.",
+      "lookAt": "At night the white shell curves over the lit glass front, and its shape repeats in the still pool below. Look for symmetry between a building and its reflection. Shoot from a low, wide position beside the water and wait for the surface to settle.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Palau_de_les_Arts_Reina_Sof%C3%ADa",
+        "https://commons.wikimedia.org/wiki/File%3AEl_Palau_de_les_Arts_Reina_Sof%C3%ADa%2C_Valencia_-_Jan_2007.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SPAIN",
+        "title": "Palau de les Arts, Valencia",
+        "line2": "Diliff · City of Arts and Sciences"
+      },
+      "batch": "2026-10-29",
+      "order": 176
+    },
+    {
+      "id": "loc-highsmith-jefferson-general-store",
+      "kind": "photograph",
+      "title": "Jefferson General Store, Texas",
+      "maker": "Carol M. Highsmith",
+      "year": "2014",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_1950s-vintage_truck_outside_a_general_store_in_Jefferson%2C_a_town_in_Marion_County_in_East_Texas_on_whose_main_street_almost_every_commercial_building%2C_and_many_nearby_homes%2C_have_a_historic_marker_LCCN2014633196.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1610,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Carol M. Highsmith (born 1946) is an American photographer whose work documents the landscapes, architecture and people of the United States in a nationwide study in progress since the 1980s. She has donated her photographs to the Library of Congress since 1992, and all of them are in the public domain. This one was taken on 20 May 2014 and is titled a 1950s-vintage truck outside a general store in Jefferson, a town in Marion County in East Texas on whose main street almost every commercial building has a historic marker. A pale blue pickup sits at the kerb in front of a two-storey brick store with red, white and blue bunting.",
+      "lookAt": "A pale blue truck sits at the kerb in front of a two-storey brick store, and its colour matches the sky above the building. Match one object to the sky to tie a frame together. Shoot square to the facade, and use the bunting's repeating curves as a line that runs across the bottom.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://commons.wikimedia.org/wiki/File%3AA_1950s-vintage_truck_outside_a_general_store_in_Jefferson%2C_a_town_in_Marion_County_in_East_Texas_on_whose_main_street_almost_every_commercial_building%2C_and_many_nearby_homes%2C_have_a_historic_marker_LCCN2014633196.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2014",
+        "title": "Jefferson General Store, Texas",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "batch": "2026-10-29",
+      "order": 177
+    },
+    {
+      "id": "commons-zanskar-range-padum-road",
+      "kind": "place",
+      "title": "Padum road below the Zanskar Range",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg/1280px-Road_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Zanskar, Ladakh",
+        "lat": 33.8,
+        "lon": 77.2,
+        "facts": [
+          [
+            "Range",
+            "Zanskar Range, Ladakh and Himachal Pradesh"
+          ],
+          [
+            "Rise above Padum",
+            "About 2,400 m (8,000 ft)"
+          ],
+          [
+            "Padum elevation",
+            "3,500 m (11,500 ft)"
+          ],
+          [
+            "Coordinates",
+            "33.80° N, 77.20° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Zanskar Range is a mountain range in northern India, spanning Ladakh and Himachal Pradesh, that separates the Zanskar valley from the Indus valley. It lies parallel to the Great Himalayas and the Ladakh Range, and is geologically part of the Tethys Himalaya. Timothy A. Gonsalves took this picture on 6 June 2024 at about 09:45 on the Padum–Pibiting road from Karsha to Padum. The file description says the range towers 2,400 m above Padum, which sits at 3,500 m. A narrow road runs straight toward snowy peaks and a single tiny vehicle can be seen far ahead.",
+      "lookAt": "A straight road runs to the middle of the frame and ends below white peaks, with a speck of a vehicle far ahead for scale. Roads make strong leading lines in big landscapes. Stand on the centre line, use a lens that keeps the peaks large, and wait for a vehicle.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zanskar_Range",
+        "https://commons.wikimedia.org/wiki/File%3ARoad_Padum_Zanskar_Range_Jun24_A7CR_00818.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Padum road below the Zanskar Range",
+        "line2": "Timothy A. Gonsalves · Ladakh"
+      },
+      "batch": "2026-10-29",
+      "order": 178
+    },
+    {
+      "id": "commons-correios-building-sao-paulo",
+      "kind": "place",
+      "title": "Correios Building, São Paulo",
+      "maker": "Wilfredor",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Correios_Building%2C_S%C3%A3o_Paulo%2C_Brazil.jpg/1280px-Correios_Building%2C_S%C3%A3o_Paulo%2C_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 867,
+        "license": "CC BY-SA 4.0",
+        "credit": "Wilfredor, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Brazil",
+        "region": "São Paulo",
+        "lat": -23.54361111,
+        "lon": -46.64194444,
+        "facts": [
+          [
+            "Building",
+            "Correios Building"
+          ],
+          [
+            "District",
+            "República, São Paulo"
+          ],
+          [
+            "District population",
+            "60,720 (2022 census)"
+          ],
+          [
+            "Coordinates",
+            "23.54° S, 46.64° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Correios Building stands in República, one of 96 districts of the city of São Paulo, Brazil. The Wikipedia article for the district reports a population of 60,720 in the 2022 census. Wilfredor photographed the building on 12 October 2016 at about 14:13, and the file is titled simply Correios Building, São Paulo, Brazil. In the frame, a pale classical facade with a clock tower on its roof is lit from below against a deep blue sky, with warm light in its tall windows and a cobbled square in the foreground.",
+      "lookAt": "The facade glows warm from lights below while the sky stays a deep, saturated blue. A clock face on the roof adds a point of interest. Shoot just after dusk so the sky still holds colour, and keep the camera level so the vertical lines stay straight.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rep%C3%BAblica_(district_of_S%C3%A3o_Paulo)",
+        "https://commons.wikimedia.org/wiki/File%3ACorreios_Building%2C_S%C3%A3o_Paulo%2C_Brazil.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · BRAZIL",
+        "title": "Correios Building, São Paulo",
+        "line2": "Wilfredor · República"
+      },
+      "batch": "2026-10-29",
+      "order": 179
+    },
+    {
+      "id": "nypl-lange-cotton-hoers-clarksdale",
+      "kind": "photograph",
+      "title": "Cotton hoers near Clarksdale, Mississippi",
+      "maker": "Dorothea Lange",
+      "year": "1937",
+      "collection": "New York Public Library",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/African_American_workers_during_the_Great_Depression_in_Mississippi.tif/lossy-page1-1280px-African_American_workers_during_the_Great_Depression_in_Mississippi.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1540,
+        "license": "Public domain",
+        "credit": "Dorothea Lange, New York Public Library, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Dorothea Lange (1895–1965) was an American documentary photographer, best known for her Depression-era work for the Farm Security Administration. Her photographs, the article says, humanized the consequences of the Great Depression. This one comes from the Schomburg Center for Research in Black Culture at the New York Public Library, with the caption: these cotton hoers work from 6 a.m. to 7 p.m. for $1.00 near Clarksdale, Mississippi, June–July 1937. Lange stands behind a line of workers walking along a field path with hoes over their shoulders, their backs to the camera, and the figures grow smaller toward the distance.",
+      "lookAt": "The camera follows the workers from behind, and a line of hoes over their shoulders makes a rhythm that leads away along the path. Shooting from behind lets the viewer walk with the subjects. Use a low angle, and wait for the strides to line up.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dorothea_Lange",
+        "https://commons.wikimedia.org/wiki/File%3AAfrican_American_workers_during_the_Great_Depression_in_Mississippi.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1937",
+        "title": "Cotton hoers near Clarksdale, Mississippi",
+        "line2": "Dorothea Lange · New York Public Library"
+      },
+      "batch": "2026-10-29",
+      "order": 180
+    },
+    {
+      "id": "commons-khrang-suri-waterfall-meghalaya",
+      "kind": "place",
+      "title": "Khrang Suri waterfall, Meghalaya",
+      "maker": "Chirnzb (edit by UnpetitproleX)",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Khrangsuri_waterfall%2C_Meghalaya_01_%28edit%29.jpg/1280px-Khrangsuri_waterfall%2C_Meghalaya_01_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Chirnzb (edit by UnpetitproleX), CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "West Jaintia Hills, Meghalaya",
+        "lat": 25.57,
+        "lon": 91.88,
+        "facts": [
+          [
+            "Waterfall",
+            "Khrang Suri"
+          ],
+          [
+            "District",
+            "West Jaintia Hills, Meghalaya"
+          ],
+          [
+            "Nearest town",
+            "Jowai"
+          ],
+          [
+            "Coordinates",
+            "25.57° N, 91.88° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Khrang Suri waterfall lies in the West Jaintia Hills district of Meghalaya, India, and the nearest town is Jowai. Meghalaya, whose name means \"the abode of clouds\", became a state on 21 January 1972, and the article says it is the wettest region of India. The picture was taken from the hilltop on 12 February 2017, as the file description records. Two thin falls drop over a rock ledge into a bright turquoise pool, with a dense green forest on both sides and a pale river bending away at the top of the frame.",
+      "lookAt": "Seen from above, two pale ribbons of water fall into a turquoise pool that stands out against the dark green forest. Climb to a high viewpoint to flatten the scene into shapes and colour. Let the pool sit low in the frame and use the river's bend to lead the eye upward.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meghalaya",
+        "https://commons.wikimedia.org/wiki/File%3AKhrangsuri_waterfall%2C_Meghalaya_01_%28edit%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Khrang Suri waterfall, Meghalaya",
+        "line2": "Chirnzb (edit by UnpetitproleX) · Meghalaya"
+      },
+      "batch": "2026-10-29",
+      "order": 181
+    },
+    {
+      "id": "commons-el-atazar-dam-madrid",
+      "kind": "place",
+      "title": "El Atazar Dam, Madrid",
+      "maker": "Carlos Delgado",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Presa_de_El_Atazar_-_01.jpg/1280px-Presa_de_El_Atazar_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 3.0",
+        "credit": "Carlos Delgado, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Spain",
+        "region": "Community of Madrid",
+        "lat": 40.91222222,
+        "lon": -3.47333333,
+        "facts": [
+          [
+            "Type",
+            "Arch dam on the Lozoya River"
+          ],
+          [
+            "Height",
+            "134 m"
+          ],
+          [
+            "Construction",
+            "Started 1968, finished 1972"
+          ],
+          [
+            "Coordinates",
+            "40.91° N, 3.47° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "El Atazar Dam is an arch dam built near Madrid, Spain, on the Lozoya River, very close to where the Lozoya joins the Jarama. The curved design is optimum for the narrow gorge in which it was built, and arch dams are thin and need less material than other dam types. Construction started in 1968 and finished in 1972. The dam is 134 m high and was built to store and regulate water only, not to provide energy. Carlos Delgado photographed it on 2 May 2014 at about 14:09 from a high viewpoint above the road, with the reservoir stretching behind it.",
+      "lookAt": "From high on the hillside, the curved wall, the road and the gorge all fit in one view, with the reservoir stretching to blue hills. A high vantage turns a structure into a diagram of how it works. Include the road for scale, and keep the horizon in the top third.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Atazar_Dam",
+        "https://commons.wikimedia.org/wiki/File%3APresa_de_El_Atazar_-_01.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SPAIN",
+        "title": "El Atazar Dam, Madrid",
+        "line2": "Carlos Delgado · Lozoya valley"
+      },
+      "batch": "2026-10-29",
+      "order": 182
+    },
+    {
+      "id": "commons-adams-roots-foster-garden-hawaii",
+      "kind": "photograph",
+      "title": "Roots, Foster Garden, Hawaii",
+      "maker": "Ansel Adams",
+      "year": "1948",
+      "collection": "Honolulu Museum of Art",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Roots%2C_Foster_Garden%2C_Hawaii_by_Ansel_Adams%2C_1948%2C_Honolulu_Museum_of_Art.jpg/1280px-Roots%2C_Foster_Garden%2C_Hawaii_by_Ansel_Adams%2C_1948%2C_Honolulu_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1584,
+        "license": "Public domain",
+        "credit": "Ansel Adams, Honolulu Museum of Art, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Ansel Adams (1902–1984) was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, whose members advocated pure photography with sharp focus and the full tonal range of a print. This picture is Roots, Foster Garden, Hawaii, made in 1948. The Commons description identifies it as a gelatin silver print held by the Honolulu Museum of Art, accession 20558. Thick buttress roots spread across the ground like ribbons, curving through the frame with small round leaves scattered between them, and the print is signed at the lower right.",
+      "lookAt": "Thick roots curve across the frame like ribbons, and small round leaves scatter between them. There is no horizon, so the picture is all line and tone. Look straight down, fill the frame with the pattern, and use side light so the ridges of the roots carry the shape.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File%3ARoots%2C_Foster_Garden%2C_Hawaii_by_Ansel_Adams%2C_1948%2C_Honolulu_Museum_of_Art.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1948",
+        "title": "Roots, Foster Garden, Hawaii",
+        "line2": "Ansel Adams · Honolulu Museum of Art"
+      },
+      "batch": "2026-10-29",
+      "order": 183
+    },
+    {
+      "id": "commons-everest-khumbu-icefall-west",
+      "kind": "place",
+      "title": "Everest and the Khumbu Icefall from the west",
+      "maker": "Vyacheslav Argenberg",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Everest%2C_Nuptse%2C_Khumbu_Glacier%2C_Nepal%2C_Himalayas.jpg/1280px-Everest%2C_Nuptse%2C_Khumbu_Glacier%2C_Nepal%2C_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 904,
+        "license": "CC BY 4.0",
+        "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Nepal",
+        "region": "Khumbu, Himalayas",
+        "lat": 27.99222222,
+        "lon": 86.87722222,
+        "facts": [
+          [
+            "Mountain",
+            "Mount Everest"
+          ],
+          [
+            "Also in view",
+            "West face of Lhotse-Nuptse massif, Khumbu Glacier"
+          ],
+          [
+            "Icefall",
+            "Khumbu Icefall, on Everest's western spur"
+          ],
+          [
+            "Coordinates",
+            "27.99° N, 86.88° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Mount Everest is the highest mountain in the world. This picture, taken by Vyacheslav Argenberg on 19 October 2009 at about 15:27, shows Everest, the Everest West Shoulder, the west face of the Lhotse-Nuptse massif, the Khumbu Glacier and the Khumbu Icefall, seen from the west in late afternoon sun, according to the Commons description. The icefall later became known for the ice avalanche of 18 April 2014, when seracs on the western spur of Everest failed and killed sixteen climbing Sherpas. In the frame, snow and ice fill the middle ground under a deep blue sky, and the dark summit sits beyond them.",
+      "lookAt": "Late sun picks out the ridges of snow and leaves the rock faces dark, and the very blue sky makes the white shapes stand out. Shoot with the sun to the side to get texture. Underexpose slightly to protect the snow, and let the dark summit anchor the pale foreground.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2014_Mount_Everest_ice_avalanche",
+        "https://commons.wikimedia.org/wiki/File%3AEverest%2C_Nuptse%2C_Khumbu_Glacier%2C_Nepal%2C_Himalayas.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEPAL",
+        "title": "Everest and the Khumbu Icefall from the west",
+        "line2": "Vyacheslav Argenberg · Himalayas"
+      },
+      "batch": "2026-10-29",
+      "order": 184
+    },
+    {
+      "id": "commons-preah-pithu-monks-angkor",
+      "kind": "place",
+      "title": "Monks at Preah Pithu, Angkor",
+      "maker": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Preah_Pithu_T_Monks_-_Siem_Reap.jpg/1280px-Preah_Pithu_T_Monks_-_Siem_Reap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 3.0",
+        "credit": "JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Cambodia",
+        "region": "Siem Reap",
+        "lat": 13.44888889,
+        "lon": 103.86138889,
+        "facts": [
+          [
+            "Site",
+            "Preah Pithu, a group of five temples at Angkor"
+          ],
+          [
+            "Photographed temple",
+            "Preah Pithu U"
+          ],
+          [
+            "Setting",
+            "Semi-wooded and ruined"
+          ],
+          [
+            "Coordinates",
+            "13.45° N, 103.86° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Preah Pithu is a group of five temples at Angkor, Cambodia. The Wikipedia article says they were in all probability not designed as a group, and that despite their ruined state the remains have good decorative carving and a semi-wooded setting that is attractive and peaceful. JJ Harrison photographed a group of monks at Preah Pithu U on 27 April 2013 at about 07:45, according to the Commons description. In the picture, four monks in bright orange robes stand and sit in a doorway of grey moss-covered stone, with carved panels around them.",
+      "lookAt": "Four orange robes stand out against grey, moss-streaked stone, and the doorway frames them. When a person's colour is the opposite of the setting, a small figure carries the whole picture. Wait until each person has a different pose, then press the shutter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Preah_Pithu",
+        "https://commons.wikimedia.org/wiki/File%3APreah_Pithu_T_Monks_-_Siem_Reap.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CAMBODIA",
+        "title": "Monks at Preah Pithu, Angkor",
+        "line2": "JJ Harrison (https://www.jjharrison.com.au/) · Angkor"
+      },
+      "batch": "2026-10-29",
+      "order": 185
+    },
+    {
+      "id": "commons-cathedral-cove-coromandel",
+      "kind": "place",
+      "title": "Cathedral Cove, Coromandel",
+      "maker": "Krzysztof Golik",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Cathedral_Cove_06.jpg/1280px-Cathedral_Cove_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 828,
+        "license": "CC BY-SA 4.0",
+        "credit": "Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Coromandel Peninsula, Waikato",
+        "lat": -36.82833333,
+        "lon": 175.79,
+        "facts": [
+          [
+            "Reserve",
+            "Te Whanganui-o-Hei (Cathedral Cove) Marine Reserve"
+          ],
+          [
+            "Area",
+            "840 hectares (2,100 acres)"
+          ],
+          [
+            "Visitors",
+            "Around 150,000 per year"
+          ],
+          [
+            "Coordinates",
+            "36.83° S, 175.79° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Te Whanganui-o-Hei, or Cathedral Cove, Marine Reserve lies in the southern part of Mercury Bay on the Coromandel Peninsula in New Zealand and covers 840 hectares. Part of it lies off the Cathedral Cove Recreation Reserve, and with attractions such as a natural rock archway and neighbouring beaches, the area receives around 150,000 visitors a year. Krzysztof Golik photographed the cove on 17 March 2019 at about 15:36. A small wave rolls onto pale sand, a handful of people stand near the arch, and green trees cling to the rock above the dark opening.",
+      "lookAt": "A small wave curls in the foreground, a few distant people give the arch its scale, and trees crown the pale cliff above the dark opening. Place the wave in the lower left to lead toward the arch. Time the shutter to when the white water is at its widest.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Whanganui_A_Hei_(Cathedral_Cove)_Marine_Reserve",
+        "https://commons.wikimedia.org/wiki/File%3ACathedral_Cove_06.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Cathedral Cove, Coromandel",
+        "line2": "Krzysztof Golik · Coromandel"
+      },
+      "batch": "2026-10-29",
+      "order": 186
+    },
+    {
+      "id": "commons-swissotel-stamford-reflection",
+      "kind": "place",
+      "title": "Swissôtel The Stamford reflected, Singapore",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Swiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg/1280px-Swiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 960,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "City Hall, Singapore",
+        "lat": 1.293544,
+        "lon": 103.85349,
+        "facts": [
+          [
+            "Architect",
+            "I. M. Pei"
+          ],
+          [
+            "Height",
+            "226 metres (741 ft)"
+          ],
+          [
+            "Opened",
+            "1986, then the tallest hotel in the world"
+          ],
+          [
+            "Coordinates",
+            "1.29° N, 103.85° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Swissôtel The Stamford, formerly The Westin Stamford, is a hotel in Singapore, designed by architect I. M. Pei. At 226 metres it was the tallest hotel in the world when it opened in 1986, and it remains one of Southeast Asia's tallest. It is part of the Raffles City complex and sits above City Hall MRT station and Esplanade MRT station. Basile Morin took this picture on 8 June 2018 at about 17:09 from the roof garden at level 6 of the National Gallery Singapore, where the tower is reflected in a basin of water set among low roofs, with other towers and a streaked evening sky behind.",
+      "lookAt": "The round tower stands tall in the centre while its reflection sits in a flat basin at the bottom, and low horizontal roofs divide the two. Look for water set into a building to find a second view of a landmark. Stand square to the tower and keep the verticals straight.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Swiss%C3%B4tel_The_Stamford",
+        "https://commons.wikimedia.org/wiki/File%3ASwiss%C3%B4tel_The_Stamford_reflecting_in_the_water.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "Swissôtel The Stamford reflected, Singapore",
+        "line2": "Basile Morin · Raffles City"
+      },
+      "batch": "2026-10-29",
+      "order": 187
+    },
+    {
+      "id": "commons-maroon-bells-maroon-lake",
+      "kind": "place",
+      "title": "Maroon Bells and Maroon Lake",
+      "maker": "Rhododendrites",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Maroon_Bells_%2811553%29a.jpg/1280px-Maroon_Bells_%2811553%29a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 739,
+        "license": "CC BY-SA 4.0",
+        "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Aspen, Colorado",
+        "lat": 39.0708492,
+        "lon": -106.9889921,
+        "facts": [
+          [
+            "Peaks",
+            "Maroon Peak and North Maroon Peak"
+          ],
+          [
+            "Maroon Peak",
+            "14,163 ft (4,317 m)"
+          ],
+          [
+            "Range",
+            "Elk Mountains, Colorado"
+          ],
+          [
+            "Coordinates",
+            "39.07° N, 106.99° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Maroon Bells are two peaks in the Elk Mountains, Maroon Peak and North Maroon Peak, separated by about 0.3 miles. They lie about 19 kilometres southwest of Aspen, Colorado, and both are fourteeners; Maroon Peak is 14,163 feet high. The Wikipedia article says the view of the Bells from the Maroon Creek valley is very heavily photographed. Rhododendrites shot this version on 1 August 2017 at about 12:24, with Maroon Lake in the foreground. A meadow of wildflowers fills the bottom of the frame, dark forest climbs both sides, and snow still lies in the gullies of the peaks.",
+      "lookAt": "A meadow of flowers anchors the bottom, a pale lake sits at the left, and the peaks rise in the distance with snow in their gullies. On a heavily photographed subject, look for what is yours: a low angle on the flowers, or a tighter crop of the bells and their snow.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maroon_Bells",
+        "https://commons.wikimedia.org/wiki/File%3AMaroon_Bells_%2811553%29a.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Maroon Bells and Maroon Lake",
+        "line2": "Rhododendrites · Elk Mountains"
+      },
+      "batch": "2026-10-29",
+      "order": 188
+    },
+    {
+      "id": "commons-banteay-kdei-dvarapala",
+      "kind": "place",
+      "title": "Dvarapala bas-relief, Banteay Kdei",
+      "maker": "Diego Delso",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Banteay_Kdei%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_15.JPG/1280px-Banteay_Kdei%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 2328,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diego Delso, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Cambodia",
+        "region": "Angkor, Siem Reap",
+        "lat": 13.42972222,
+        "lon": 103.89833333,
+        "facts": [
+          [
+            "Temple",
+            "Banteay Kdei, a Buddhist temple at Angkor"
+          ],
+          [
+            "Built",
+            "Mid-12th to early 13th century, under Jayavarman VII"
+          ],
+          [
+            "Style",
+            "Bayon"
+          ],
+          [
+            "Coordinates",
+            "13.43° N, 103.90° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Banteay Kdei is a Buddhist temple in Angkor, Cambodia, built in the mid-12th to early 13th centuries during the reign of Jayavarman VII. It is in the Bayon architectural style, similar in plan to Ta Prohm and Preah Khan but less complex and smaller. The article says its structures are contained within two successive enclosure walls. The complex is dilapidated because of faulty construction and the poor quality of its sandstone, and renovation is under way. Diego Delso photographed this bas-relief of a dvarapala, a guardian figure, on 16 August 2013 at about 14:34. The figure stands in a recess holding a sword, with green lichen around it.",
+      "lookAt": "A calm guardian figure stands in a carved recess, and green lichen frames the weathered stone around him. Soft, even light brings out the carving without harsh shadows. Take a straight-on view with a vertical crop, and fill the frame so the figure's surface texture is the subject.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banteay_Kdei",
+        "https://commons.wikimedia.org/wiki/File%3ABanteay_Kdei%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_15.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CAMBODIA",
+        "title": "Dvarapala bas-relief, Banteay Kdei",
+        "line2": "Diego Delso · Angkor"
+      },
+      "batch": "2026-10-29",
+      "order": 189
+    },
+    {
+      "id": "commons-monument-valley-forrest-gump-point",
+      "kind": "place",
+      "title": "Monument Valley from Forrest Gump Point",
+      "maker": "King of Hearts",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg/1280px-Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Utah",
+        "lat": 36.98333333,
+        "lon": -110.1,
+        "facts": [
+          [
+            "Landform",
+            "Sandstone buttes, Colorado Plateau"
+          ],
+          [
+            "Tallest buttes",
+            "Up to 1,000 ft (300 m) above the valley floor"
+          ],
+          [
+            "Navajo name",
+            "Tsé Biiʼ Ndzisgaii, \"valley of the rocks\""
+          ],
+          [
+            "Coordinates",
+            "36.98° N, 110.10° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Monument Valley is a region of the Colorado Plateau characterized by a cluster of sandstone buttes, the largest reaching 1,000 feet above the valley floor. Its Navajo name, Tsé Biiʼ Ndzisgaii, means \"valley of the rocks\", and the valley is considered sacred by the Navajo Nation. The article notes that director John Ford used it for several Westerns. King of Hearts photographed this view from Forrest Gump Point on U.S. Route 163 on 21 November 2018 at 06:55, shortly after dawn. The road runs straight toward distant buttes, with a pink and lilac sky above and red rock on both sides.",
+      "lookAt": "At dawn the sky turns pink and lilac while the buttes stay a flat violet silhouette at the end of a straight road. The centre line is a strong leading line. Arrive before sunrise, use a longer lens to stack the buttes, and keep the road's yellow dashes in the lower third.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monument_Valley",
+        "https://commons.wikimedia.org/wiki/File%3AForrest_Gump_Point_Monument_Valley_November_2018_001.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Monument Valley from Forrest Gump Point",
+        "line2": "King of Hearts · Colorado Plateau"
+      },
+      "batch": "2026-10-29",
+      "order": 190
+    },
+    {
+      "id": "commons-prague-astronomical-clock-dial",
+      "kind": "place",
+      "title": "Prague astronomical clock dial",
+      "maker": "Godot13",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Czech-2013-Prague-Astronomical_clock_face.jpg/1280px-Czech-2013-Prague-Astronomical_clock_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 963,
+        "license": "CC BY-SA 4.0",
+        "credit": "Godot13, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Czech Republic",
+        "region": "Prague",
+        "lat": 50.08700833,
+        "lon": 14.42091667,
+        "facts": [
+          [
+            "Location",
+            "Old Town Hall, Prague"
+          ],
+          [
+            "Oldest part",
+            "Mechanical clock and astronomical dial, 1410"
+          ],
+          [
+            "Creators",
+            "Mikuláš of Kadaň and Jan Šindel"
+          ],
+          [
+            "Coordinates",
+            "50.09° N, 14.42° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Prague astronomical clock, or Prague Orloj, is a medieval astronomical clock attached to the Old Town Hall in Prague. Its oldest part, the mechanical clock and astronomical dial, dates to 1410 and was created by the horologist Mikuláš of Kadaň and the Charles University professor Jan Šindel. The calendar dial and the Gothic sculptures were added around 1490. The dial shows the positions of the Sun and Moon, the zodiac and several kinds of time. Godot13 photographed the clock face on 28 July 2013 at about 09:56. The blue and gold dial fills the frame, with carved figures standing on both sides of it.",
+      "lookAt": "The round dial fills the frame, with a ring of gold numerals, a gold sun pointer at the centre, and carved figures standing at both sides. A tight crop turns a landmark into a pattern. Photograph it straight on from a distance with a longer lens, so the circle stays round and the lines stay square.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prague_astronomical_clock",
+        "https://commons.wikimedia.org/wiki/File%3ACzech-2013-Prague-Astronomical_clock_face.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CZECH REPUBLIC",
+        "title": "Prague astronomical clock dial",
+        "line2": "Godot13 · Old Town"
+      },
+      "batch": "2026-10-29",
+      "order": 191
     }
   ]
 }
