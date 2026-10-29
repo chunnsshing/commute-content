@@ -8991,6 +8991,1176 @@
       },
       "batch": "2026-10-29",
       "order": 191
+    },
+    {
+      "id": "commons-cu-de-river-fishing-nets",
+      "kind": "place",
+      "title": "Cu Đê River",
+      "maker": "Christopher Crouzet",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cu_%C4%90%C3%AA_River%2C_Da_Nang.jpg/1280px-Cu_%C4%90%C3%AA_River%2C_Da_Nang.jpg",
+        "width": 1280,
+        "height": 473,
+        "license": "CC BY-SA 4.0",
+        "credit": "Christopher Crouzet, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Vietnam",
+        "region": "Da Nang",
+        "lat": 16.1195,
+        "lon": 108.06226,
+        "facts": [
+          [
+            "Country",
+            "Vietnam"
+          ],
+          [
+            "City",
+            "Da Nang"
+          ],
+          [
+            "Also known as",
+            "Trường Định River"
+          ],
+          [
+            "Coordinates",
+            "16.12° N, 108.06° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Cu Đê River, also called the Trường Định River, is a river of Da Nang, Vietnam. This view shows it just before it merges with Da Nang Bay, with fishing nets hanging over the water. Christopher Crouzet made the photograph on 22 March 2015 at 17:57, in the last hours of daylight, when the sky over the hills on the far shore turns to soft pink and the water repeats it. The frame is an extreme panorama, much wider than it is tall, so the calm river and the low ridge of hills can run across it without interruption.",
+      "lookAt": "Crop wide when the subject is a horizon. Here the water takes the lower half and the pink sky the upper, and the nets hanging at left and right act as counterweights. Soft pink in the water ties the foreground to the sky.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cu_%C4%90%C3%AA_River",
+        "https://commons.wikimedia.org/wiki/File%3ACu_%C4%90%C3%AA_River%2C_Da_Nang.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · VIETNAM",
+        "title": "Cu Đê River",
+        "line2": "Christopher Crouzet · Da Nang"
+      },
+      "order": 192,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-stongdey-zanskar-village",
+      "kind": "place",
+      "title": "Stongdey",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NE_View_Stongdey_Zanskar_Jun24_A7CR_00966.jpg/1280px-NE_View_Stongdey_Zanskar_Jun24_A7CR_00966.jpg",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Ladakh",
+        "lat": 33.51777778,
+        "lon": 76.97361111,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "Region",
+            "Zanskar valley, Ladakh"
+          ],
+          [
+            "River",
+            "Zanskar, right bank"
+          ],
+          [
+            "Coordinates",
+            "33.52° N, 76.97° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Stongdey, also spelled Stongde, Stongday, Tongde, Tongdey or Tangday, is a small village in the Zanskar valley of Ladakh, India. It sits on the right bank of the Zanskar River about 18 km northeast of Padum, on the Padum–Nimmu highway. The article on it also covers the neighbouring village of Kumik (Khumi). Timothy A. Gonsalves photographed it from the northeast on 7 June 2024 at 10:11, with the snow-capped Zanskar Range as the backdrop. A small white structure stands in the foreground, with green fields and the village below the ridge.",
+      "lookAt": "Scale is the lesson. The village is a few small roofs and a green patch, yet the range behind it fills most of the frame, and that contrast tells you how big the valley is. The small white structure in the foreground gives a second reference point. Keep a human-sized object in a mountain frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Stongdey",
+        "https://commons.wikimedia.org/wiki/File%3ANE_View_Stongdey_Zanskar_Jun24_A7CR_00966.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Stongdey",
+        "line2": "Timothy A. Gonsalves · Ladakh"
+      },
+      "order": 193,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "loc-genthe-service-wings-architect-row",
+      "kind": "photograph",
+      "title": "Service Wings, New Orleans",
+      "maker": "Arnold Genthe",
+      "year": "1920–1926",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Service_Wings_with_Goats_New_Orleans_Architect_Street_Row.jpg/1280px-Service_Wings_with_Goats_New_Orleans_Architect_Street_Row.jpg",
+        "width": 1280,
+        "height": 961,
+        "license": "Public domain",
+        "credit": "Arnold Genthe, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Arnold Genthe was a German-American photographer, best known for his photographs of Northern California, San Francisco's Chinatown and the 1906 San Francisco earthquake, and for portraits of politicians, socialites and entertainers. This picture, titled Service Wings (Slave Quarters), New Orleans, shows Architect Row, row houses built in 1832 along Architect Street, as they looked between 1920 and 1926. The Library of Congress notes that the back portions of such houses were originally quarters for household slaves, and by the early twentieth century were often cheap apartments. The neighbourhood is run down, and two goats roam the open ground in the foreground.",
+      "lookAt": "Genthe stood far enough back to show the whole row, with balconies and brick chimneys on the horizon. The two goats in the foreground are small but decisive: they place the scene in time and say something about neglect. A flat, grey light keeps every texture visible.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arnold_Genthe",
+        "https://commons.wikimedia.org/wiki/File%3AService_Wings_with_Goats_New_Orleans_Architect_Street_Row.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1920–1926",
+        "title": "Service Wings, New Orleans",
+        "line2": "Arnold Genthe · Library of Congress"
+      },
+      "order": 194,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-shinku-la-darcha-padum-road",
+      "kind": "place",
+      "title": "Shinku La",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2022",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg/1280px-Darcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Lahaul, Himachal Pradesh",
+        "lat": 32.9089,
+        "lon": 77.1997,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "Elevation",
+            "4,975 m"
+          ],
+          [
+            "Peaks nearby",
+            "about 5,600 m"
+          ],
+          [
+            "Coordinates",
+            "32.91° N, 77.20° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Shinku La, also called Shingo La, is a mountain pass on the Nimmu–Padum–Darcha road, on the state boundary between Ladakh and Himachal Pradesh. It connects the Zanskar region of Ladakh with the Lahaul region of Himachal Pradesh. A Shingo La Tunnel is under construction, with a target completion date of 2028; it is expected to cut the Manali to Kargil distance by 522 km. Timothy A. Gonsalves photographed the road winding up to the pass on 4 October 2022 at 10:05. His note gives the elevation as 4,975 m and the peaks as about 5,600 m.",
+      "lookAt": "A road is a ready-made leading line. Here it zigzags across the slope and carries the eye from the lower left up toward the pass, while the snowy peaks and a hard blue sky fill the top. Look for a path that folds back on itself; each switchback adds depth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shinku_La",
+        "https://commons.wikimedia.org/wiki/File%3ADarcha_Padum_Road_Below_Shinku_La_Lahaul_Oct22_A7C_03533.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Shinku La",
+        "line2": "Timothy A. Gonsalves · Lahaul, Himachal Pradesh"
+      },
+      "order": 195,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-spiti-river-kaza",
+      "kind": "place",
+      "title": "Spiti River",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg/1280px-Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Spiti, Himachal Pradesh",
+        "lat": 32.24694444,
+        "lon": 78.05222222,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "Elevation",
+            "3,600 m"
+          ],
+          [
+            "Name meaning",
+            "The middle land"
+          ],
+          [
+            "Coordinates",
+            "32.25° N, 78.05° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Spiti is a high-altitude region of the Himalayas in the north-east of Himachal Pradesh, India. Its name means the middle land, the land between Tibet and India. It has a cold desert environment and is among the least populated regions of India. Timothy A. Gonsalves photographed the Spiti River above Kaza on 20 June 2018 at 15:29, at an elevation of 3,600 m. His note says the river bed is several hundred metres wide, while the river itself is much narrower and meanders along it, braided into pale threads across the gravel.",
+      "lookAt": "The river is the smallest thing here and still the main subject. Pale braided channels cut through a wide, dull gravel bed and lead you back toward the mountains. When you shoot from high above, look for a line of water that carries the eye through the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spiti",
+        "https://commons.wikimedia.org/wiki/File%3ASpiti_River_Kaza_Himachal_Jun18_D72_7232.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Spiti River",
+        "line2": "Timothy A. Gonsalves · Spiti, Himachal Pradesh"
+      },
+      "order": 196,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "loc-highsmith-17-mile-drive-monterey",
+      "kind": "photograph",
+      "title": "17-Mile Drive, Monterey",
+      "maker": "Carol M. Highsmith",
+      "year": "2012",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/17-Mile_Drive%2C_scenic_road_through_Monterey%2C_California_LCCN2013630699.tif/lossy-page1-1280px-17-Mile_Drive%2C_scenic_road_through_Monterey%2C_California_LCCN2013630699.tif.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Carol M. Highsmith is an American photographer whose work documents the landscapes, architecture and people of the United States. She has donated her photographs to the Library of Congress since 1992, a collection of nearly 100,000 images, all in the public domain. She began her nationwide project after photographing the Willard Hotel in the early 1980s for its restoration. This picture, titled 17-Mile Drive, scenic road through Monterey, California, has its title, date and keywords provided by the photographer; the file's Exif data records 10 June 2012. It belongs to the Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project.",
+      "lookAt": "A breaking wave is a matter of timing. The photographer caught the spray just as it burst against the dark rocks, so the white shape holds its form against the blue. Use a fast shutter, pick a rock for the wave to hit, and wait for the next set.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://commons.wikimedia.org/wiki/File%3A17-Mile_Drive%2C_scenic_road_through_Monterey%2C_California_LCCN2013630699.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2012",
+        "title": "17-Mile Drive, Monterey",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "order": 197,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-kimono-forest-arashiyama",
+      "kind": "place",
+      "title": "Kimono Forest",
+      "maker": "Basile Morin",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kimono_Forest_at_night%2C_Arashiyama_Station%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg/1280px-Kimono_Forest_at_night%2C_Arashiyama_Station%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Japan",
+        "region": "Kyoto",
+        "lat": 35.015214,
+        "lon": 135.677694,
+        "facts": [
+          [
+            "Country",
+            "Japan"
+          ],
+          [
+            "Location",
+            "Arashiyama Station (Keifuku), Kyoto"
+          ],
+          [
+            "Poles",
+            "nearly 600, about 2 m tall"
+          ],
+          [
+            "Coordinates",
+            "35.02° N, 135.68° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The Kimono Forest is a decoration project at Arashiyama Station, the western terminus of the Randen Arashiyama Line in Kyoto, Japan. It is a collection of nearly 600 kimono gowns wrapped around poles with LED lighting inside, developed by the designer Yasumichi Morita. The textile is dyed in the Kyo-yuzen style, covered and sealed with acrylic fibre and shaped into cylindrical poles about 2 metres tall, installed around the station and the railway tracks. Basile Morin photographed it at night on 10 June 2019, with the stone-paved walkway running between the glowing poles.",
+      "lookAt": "Repetition makes pattern. The poles shrink toward a vanishing point at the end of the paved path, and each one is lit from inside, so the colour comes from the subject, not the sky. Stand centred, level the camera, and let the symmetry do the work.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arashiyama_Station_(Keifuku)",
+        "https://commons.wikimedia.org/wiki/File%3AKimono_Forest_at_night%2C_Arashiyama_Station%2C_Arashiyama%2C_Kyoto%2C_Japan.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · JAPAN",
+        "title": "Kimono Forest",
+        "line2": "Basile Morin · Kyoto"
+      },
+      "order": 198,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-chah-zanskar-fields",
+      "kind": "place",
+      "title": "Chah",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fields_Mountain_Chah_Zanskar_Jun24_A7CR_00671.jpg/1280px-Fields_Mountain_Chah_Zanskar_Jun24_A7CR_00671.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Zanskar, Ladakh",
+        "lat": 33.24395833,
+        "lon": 77.12608889,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "Region",
+            "Lungnak valley, Zanskar, Ladakh"
+          ],
+          [
+            "River",
+            "Tsarap, right bank"
+          ],
+          [
+            "Distance",
+            "47 km south of Padum"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Chah, also called Cha, is a small village and one of the tehsils in the Lungnak valley of Zanskar district, Ladakh, India. It lies at the base of a mountain range on the right bank of the Tsarap River, on the Padum–Darcha road, 47 km south of Padum. Timothy A. Gonsalves photographed the village from that road on 5 June 2024 at 11:16. His caption describes newly sown fields with a mountain backdrop, and the small patches of field below the village are visible as pale and green terraces against the bare slope.",
+      "lookAt": "Texture can be the subject. The pale and green field patches make a patchwork against the bare grey slope, and the village shrinks to a few white dots on the ridge. Put the horizon high, give the foreground its space, and let the land fill most of the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chah,_Zanskar",
+        "https://commons.wikimedia.org/wiki/File%3AFields_Mountain_Chah_Zanskar_Jun24_A7CR_00671.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Chah",
+        "line2": "Timothy A. Gonsalves · Zanskar, Ladakh"
+      },
+      "order": 199,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "loc-highsmith-15-belgo-road-lakeville",
+      "kind": "photograph",
+      "title": "15 Belgo Road, Lakeville",
+      "maker": "Carol M. Highsmith",
+      "year": "2011",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/15_Belgo_Road%2C_Lakeville%2C_Connecticut_LCCN2012631646.tif/lossy-page1-1280px-15_Belgo_Road%2C_Lakeville%2C_Connecticut_LCCN2012631646.tif.jpg",
+        "width": 1280,
+        "height": 1920,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Carol M. Highsmith is an American photographer who has documented the landscapes, architecture and people of the United States in a nationwide study in progress since the 1980s. Her work is donated to the Library of Congress and is in the public domain. This picture is titled 15 Belgo Road, Lakeville, Connecticut. The Library's notes say the building was designed by architect Alfredo De Vito and built in 1985, and that the photographer provided the title and date; the file's Exif data records 11 October 2011. It is part of the George F. Landegger Collection of Connecticut Photographs in Carol M. Highsmith's America.",
+      "lookAt": "The low vantage turns a house into a monument. Standing at the foot of the lawn, the photographer lets the white volumes rise against a sky full of streaked cloud, and the grass becomes a large green foreground. A vertical frame suits the height; autumn trees add warm contrast.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://commons.wikimedia.org/wiki/File%3A15_Belgo_Road%2C_Lakeville%2C_Connecticut_LCCN2012631646.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2011",
+        "title": "15 Belgo Road, Lakeville",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "order": 200,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-trunkol-meadow-horses",
+      "kind": "place",
+      "title": "Trunkol Meadow",
+      "maker": "UnpetitproleX",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg/1280px-Horses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY 4.0",
+        "credit": "UnpetitproleX, CC BY 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Jammu and Kashmir",
+        "lat": 34.5,
+        "lon": 76.5,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "Region",
+            "Kashmir"
+          ],
+          [
+            "Meadow",
+            "Trunkol"
+          ],
+          [
+            "On the way to",
+            "Gangabal lake"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Kashmir is the northernmost geographical region of the Indian subcontinent. Until the mid-19th century the name meant only the Kashmir Valley, between the Great Himalayas and the Pir Panjal Range. In the first millennium the region became an important centre of Buddhism. This photograph, taken on 10 August 2024 at 15:16, shows horses grazing at Trunkol meadow on the way to Gangabal lake in the Indian territory of Jammu and Kashmir. A chestnut horse grazes in the foreground, a second stands further up the slope, and forested ridges fade into the haze behind.",
+      "lookAt": "Two animals, two distances. The chestnut horse is in the foreground and the white-and-brown one higher on the slope sits in the same frame, so the eye moves between them and then out to the layered ridges behind. Wait for the head to lower or the leg to move.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kashmir",
+        "https://commons.wikimedia.org/wiki/File%3AHorses_grazing_at_Trunkol_meadow%2C_Jammu_and_Kashmir%2C_India_%28crop%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Trunkol Meadow",
+        "line2": "UnpetitproleX · Jammu and Kashmir"
+      },
+      "order": 201,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-shivaliks-himalayas-shimla",
+      "kind": "place",
+      "title": "Shivaliks and the Middle Himalayas",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg/1280px-Shivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Himachal Pradesh",
+        "lat": 31.10333333,
+        "lon": 77.17222222,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "State",
+            "Himachal Pradesh"
+          ],
+          [
+            "State name",
+            "Snow-laden Mountain Province"
+          ],
+          [
+            "Coordinates",
+            "31.10° N, 77.17° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Himachal Pradesh, whose name means the Snow-laden Mountain Province, is a state in the north of India in the Western Himalayas. This aerial view looks east from near Shimla across the Shivaliks and the Middle Himalayas. Timothy A. Gonsalves took it on 16 February 2020 at 10:30 and notes that some haze reduction gives a Roerich-like scene. Ridge after ridge stacks up in progressively paler blue, and a long band of snow-capped peaks closes the horizon, beneath a thin layer of cloud that fills the upper part of the sky.",
+      "lookAt": "Haze is a depth tool. Each ridge is paler than the one in front, so distance reads as colour, not detail. Shoot from height, let the layers stack, and keep the snow line as the final steady band at the top.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+        "https://commons.wikimedia.org/wiki/File%3AShivaliks_Himalayas_Aerial_Dehaze_Himachal_Feb20_R16_02827.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Shivaliks and the Middle Himalayas",
+        "line2": "Timothy A. Gonsalves · Himachal Pradesh"
+      },
+      "order": 202,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-gullfoss-winter",
+      "kind": "place",
+      "title": "Gullfoss",
+      "maker": "Pierre-Selim Huard",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg/1280px-Iceland_-_2017-02-22_-_Gullfoss_-_3684.jpg",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY 4.0",
+        "credit": "Pierre-Selim Huard, CC BY 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Iceland",
+        "region": "Southwest Iceland",
+        "lat": 64.32611111,
+        "lon": -20.12111111,
+        "facts": [
+          [
+            "Name meaning",
+            "Golden Falls"
+          ],
+          [
+            "Canyon",
+            "Hvítá river"
+          ],
+          [
+            "Region",
+            "Southwest Iceland"
+          ],
+          [
+            "Coordinates",
+            "64.33° N, 20.12° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Gullfoss, meaning Golden Falls, is a waterfall in the canyon of the Hvítá river in southwest Iceland, between the municipalities of Bláskógabyggð and Hrunamannahreppur. It is one of the most popular tourist attractions in the country and is included in Golden Circle tours of the countryside near Reykjavík. Pierre-Selim Huard photographed it under snow on 22 February 2017 at 16:27. Snow covers both rims of the gorge and the ledges below, while the water is a deep blue-green where it leaves the pool and a pale mist rises out of the canyon.",
+      "lookAt": "Winter strips colour out and leaves shape. The falls are the only moving, saturated thing in a white and grey frame, so the teal water pulls the eye at once. Overcast light keeps the snow from clipping; expose to keep its texture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gullfoss",
+        "https://commons.wikimedia.org/wiki/File%3AIceland_-_2017-02-22_-_Gullfoss_-_3684.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · ICELAND",
+        "title": "Gullfoss",
+        "line2": "Pierre-Selim Huard · Southwest Iceland"
+      },
+      "order": 203,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-lake-clearwater-mt-potts",
+      "kind": "place",
+      "title": "Lake Clearwater",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lake_Clearwater%2C_Canterbury%2C_New_Zealand_02.jpg/1280px-Lake_Clearwater%2C_Canterbury%2C_New_Zealand_02.jpg",
+        "width": 1280,
+        "height": 720,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Canterbury",
+        "lat": -43.6033,
+        "lon": 171.0437,
+        "facts": [
+          [
+            "Māori name",
+            "Te Puna-a-Taka"
+          ],
+          [
+            "Surface area",
+            "197 ha"
+          ],
+          [
+            "Elevation",
+            "667 m"
+          ],
+          [
+            "Coordinates",
+            "43.60° S, 171.04° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Lake Clearwater, in Māori Te Puna-a-Taka, is a high country lake in the Ashburton District of the South Island of New Zealand. It has a surface area of 197 hectares and sits at 667 metres. The lake lies among rugged mountain country, tussocklands, beech forest and wetlands between the Rakaia and Rangitata Rivers, and is a protected wildlife refuge managed by the Department of Conservation. Michal Klajban photographed it on 22 September 2019 at 06:35, with snowy Mt Potts (2,184 m) behind. Bare shrubs frame the foreground and the still water repeats the peaks.",
+      "lookAt": "Be early. At 06:35 the peaks catch the first warm light while the lake stays in cool shadow and holds a clean reflection. Bare branches in the foreground make a natural frame; place them at both sides and let the mountain sit between them.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Clearwater",
+        "https://commons.wikimedia.org/wiki/File%3ALake_Clearwater%2C_Canterbury%2C_New_Zealand_02.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Lake Clearwater",
+        "line2": "Michal Klajban · Canterbury"
+      },
+      "order": 204,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-digermulen-boat-autumn",
+      "kind": "place",
+      "title": "Digermulen",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Boat_with_autumny_mountains_at_Digermulen%2C_Hinn%C3%B8ya%2C_Norway%2C_Norway%2C_2015_September.jpg/1280px-Boat_with_autumny_mountains_at_Digermulen%2C_Hinn%C3%B8ya%2C_Norway%2C_Norway%2C_2015_September.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 3.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Nordland",
+        "lat": 68.3132,
+        "lon": 14.9872,
+        "facts": [
+          [
+            "Country",
+            "Norway"
+          ],
+          [
+            "County",
+            "Nordland"
+          ],
+          [
+            "Municipality",
+            "Vågan"
+          ],
+          [
+            "Coordinates",
+            "68.31° N, 14.99° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Digermulen is a village in Vågan Municipality, Nordland county, Norway, on the southwestern tip of the large island of Hinnøya. There is a ferry connection to the nearby island of Stormolla. This photograph, taken on 21 September 2015, shows a small white boat at Digermulen port, afloat on the water. The mountains Litlkorsnestinden and Korsnestinden in the background are on the island of Austvågøya. The water is so still that the peaks are mirrored almost exactly, and a strip of yellow autumn trees on the near shore separates the real mountain from its reflection.",
+      "lookAt": "A mirror gives you two pictures in one. The reflection repeats the ridge, so the centre of the frame is the shoreline where they meet. The small boat in the lower left supplies scale and a point of interest. Shoot when the wind drops.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Digermulen",
+        "https://commons.wikimedia.org/wiki/File%3ABoat_with_autumny_mountains_at_Digermulen%2C_Hinn%C3%B8ya%2C_Norway%2C_Norway%2C_2015_September.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Digermulen",
+        "line2": "Ximonic (Simo Räsänen) · Nordland"
+      },
+      "order": 205,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-kathleen-lake-evening",
+      "kind": "place",
+      "title": "Kathleen Lake",
+      "maker": "Jakub Fryš",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Evening_on_Kathleen_Lake.jpg/1280px-Evening_on_Kathleen_Lake.jpg",
+        "width": 1280,
+        "height": 848,
+        "license": "CC BY-SA 4.0",
+        "credit": "Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Canada",
+        "region": "Yukon",
+        "lat": 60.5802,
+        "lon": -137.3019,
+        "facts": [
+          [
+            "Elevation",
+            "731 m"
+          ],
+          [
+            "Area",
+            "3,376 ha"
+          ],
+          [
+            "Maximum depth",
+            "111 m"
+          ],
+          [
+            "Coordinates",
+            "60.58° N, 137.30° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Kathleen Lake is in Yukon, Canada, south of Haines Junction within Kluane National Park and Reserve. It is the largest lake wholly within the park, with an area of 3,376 hectares and a maximum depth of 111 metres. The water is exceptionally clear, and kokanee salmon live and reproduce in it. The lake was named for a girl from Berwickshire, Scotland, left behind by William Scotty Hume, a North-West Mounted Police constable stationed on the Dalton Trail from 1900 to 1902. Jakub Fryš photographed it in the evening, at 22:25 on 25 May.",
+      "lookAt": "The photograph catches a wave just as it breaks. The white crest repeats the snow on the mountain, and the stones at lower left lead to a driftwood stump. Use a fast shutter to freeze foam, and shoot in the low evening light that warms the peaks.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kathleen_Lake",
+        "https://commons.wikimedia.org/wiki/File%3AEvening_on_Kathleen_Lake.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CANADA",
+        "title": "Kathleen Lake",
+        "line2": "Jakub Fryš · Yukon"
+      },
+      "order": 206,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-huacachina-oasis",
+      "kind": "place",
+      "title": "Huacachina",
+      "maker": "Diego Delso",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG/1280px-Oasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG",
+        "width": 1280,
+        "height": 680,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Peru",
+        "region": "Ica Region",
+        "lat": -14.0875,
+        "lon": -75.76333333,
+        "facts": [
+          [
+            "Country",
+            "Peru"
+          ],
+          [
+            "Population",
+            "about 100"
+          ],
+          [
+            "Distance from Ica",
+            "about 5 km"
+          ],
+          [
+            "Coordinates",
+            "14.09° S, 75.76° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Huacachina is a village built in a small oasis about five kilometres from the city of Ica in southwestern Peru. It has a permanent population of around 100 people, although many tourists visit each year, and the oasis was featured on the back of the 50 nuevo sol note in 1991. The name comes from Quechua, wakachina, meaning guard or conceal, possibly shortened from wakachina qucha, hidden lagoon. Diego Delso photographed it on 29 July 2015. A green lagoon and a cluster of palms sit in a bowl of pale dunes, with small figures walking the ridge.",
+      "lookAt": "Contrast of colour and scale. A small patch of green water and trees sits inside a huge, uniform bowl of sand, and that tells the story in one look. Notice the tiny figures on the dune; they give the dunes their size.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Huacachina",
+        "https://commons.wikimedia.org/wiki/File%3AOasis_de_Huacachina%2C_Ica%2C_Per%C3%BA%2C_2015-07-29%2C_DD_18.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · PERU",
+        "title": "Huacachina",
+        "line2": "Diego Delso · Ica Region"
+      },
+      "order": 207,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-umbracle-valencia",
+      "kind": "place",
+      "title": "L'Umbracle",
+      "maker": "Diliff",
+      "year": "2007",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg/1280px-L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg",
+        "width": 1280,
+        "height": 812,
+        "license": "CC BY-SA 3.0",
+        "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Spain",
+        "region": "Valencia",
+        "lat": 39.45555556,
+        "lon": -0.35388889,
+        "facts": [
+          [
+            "Architect",
+            "Santiago Calatrava"
+          ],
+          [
+            "Completed",
+            "2001"
+          ],
+          [
+            "Part of",
+            "City of Arts and Sciences"
+          ],
+          [
+            "Coordinates",
+            "39.46° N, 0.35° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "L'Umbracle is part of the City of Arts and Sciences complex in Valencia, Spain, a sculpture garden and landscaped walk. Santiago Calatrava designed it as an entrance along the southwestern edge of the complex and as a cover over its car park, and it was completed in 2001. Its plantings use species native to Valencia, such as rockrose, lentisca, rosemary, honeysuckle, bougainvillea and palm trees. The photograph is an ultrawide panoramic view from inside, taken by Diliff in January 2007. White arches curve up from both sides and meet overhead above a straight walkway.",
+      "lookAt": "An ultrawide lens turns a repeating structure into a tunnel. Stand on the centre line of the walkway, so the arches curve evenly from both sides and meet overhead. Palms break the rigid geometry, and the two walkers give the whole scale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/L%27Umbracle",
+        "https://commons.wikimedia.org/wiki/File%3AL%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SPAIN",
+        "title": "L'Umbracle",
+        "line2": "Diliff · Valencia"
+      },
+      "order": 208,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-portas-da-cidade-ponta-delgada",
+      "kind": "place",
+      "title": "Portas da Cidade",
+      "maker": "Diego Delso",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Portas_da_Cidade%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_123-125_HDR.jpg/1280px-Portas_da_Cidade%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_123-125_HDR.jpg",
+        "width": 1280,
+        "height": 764,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Portugal",
+        "region": "Azores",
+        "lat": 37.74111111,
+        "lon": -25.68055556,
+        "facts": [
+          [
+            "Island",
+            "São Miguel, Azores"
+          ],
+          [
+            "Population",
+            "67,287 (2021)"
+          ],
+          [
+            "Name meaning",
+            "Thin Cape"
+          ],
+          [
+            "Coordinates",
+            "37.74° N, 25.68° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Ponta Delgada, meaning Thin Cape, is the largest municipality and the executive capital of the Autonomous Region of the Azores in Portugal. It is on São Miguel, the largest and most populous island of the archipelago, and had 67,287 inhabitants in 2021. The Portas da Cidade, the City Gates, are shown here in a photograph made by Diego Delso on 29 July 2020, combined from several frames in HDR. The three arches glow violet under artificial lighting against a deep blue evening sky, with street lamps and a monument standing in the square beyond.",
+      "lookAt": "Shoot in blue hour, not at night. The sky still has depth and colour, and the lamps and coloured floodlights are balanced against it. Placing the camera on the central axis makes the arches symmetrical and frames the monument beyond them.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ponta_Delgada",
+        "https://commons.wikimedia.org/wiki/File%3APortas_da_Cidade%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_123-125_HDR.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · PORTUGAL",
+        "title": "Portas da Cidade",
+        "line2": "Diego Delso · Azores"
+      },
+      "order": 209,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-jamnik-church-primus-felician",
+      "kind": "place",
+      "title": "Jamnik",
+      "maker": "Mihael Grmek",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jamnik_05.jpg/1280px-Jamnik_05.jpg",
+        "width": 1280,
+        "height": 464,
+        "license": "CC BY-SA 4.0",
+        "credit": "Mihael Grmek, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Slovenia",
+        "region": "Upper Carniola",
+        "lat": 46.27097222,
+        "lon": 14.20703056,
+        "facts": [
+          [
+            "Country",
+            "Slovenia"
+          ],
+          [
+            "Municipality",
+            "Kranj"
+          ],
+          [
+            "Region",
+            "Upper Carniola"
+          ],
+          [
+            "Coordinates",
+            "46.27° N, 14.21° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Jamnik is a settlement on the eastern slopes of the Jelovica Plateau in the Municipality of Kranj, in the Upper Carniola region of Slovenia. The photograph looks toward the Church of Saints Primus and Felician, which stands on a small green hill. Mihael Grmek took it on 30 August 2015 at 09:29, in morning light. The slope is mowed meadow dotted with trees; beyond the church the land drops away, and several layers of blue mountains rise in the haze. The frame is a wide panorama, so the whole scene is held at once.",
+      "lookAt": "The tiny church is the whole composition. It sits off-centre on the crest of the hill, small against ridge after ridge, and the diagonal of the meadow slopes toward it. In morning haze, the distant peaks fade, which makes the nearer slope read as bright.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jamnik,_Kranj",
+        "https://commons.wikimedia.org/wiki/File%3AJamnik_05.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SLOVENIA",
+        "title": "Jamnik",
+        "line2": "Mihael Grmek · Upper Carniola"
+      },
+      "order": 210,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-iquique-dragon-dune",
+      "kind": "place",
+      "title": "Dragon Dune, Iquique",
+      "maker": "Diego Delso",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Vista_de_Iquique%2C_Chile%2C_2016-02-11%2C_DD_20.JPG/1280px-Vista_de_Iquique%2C_Chile%2C_2016-02-11%2C_DD_20.JPG",
+        "width": 1280,
+        "height": 664,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Tarapacá",
+        "lat": -20.21388889,
+        "lon": -70.1525,
+        "facts": [
+          [
+            "Country",
+            "Chile"
+          ],
+          [
+            "Dune age",
+            "about 20,000 years"
+          ],
+          [
+            "Dune size",
+            "6.4 km long, 320 m high"
+          ],
+          [
+            "Coordinates",
+            "20.21° S, 70.15° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Iquique is the capital of Iquique Province, a port city in the northern Chilean region of Tarapacá. This view shows the Dragon Dune in the foreground and the city behind it. The dune is about 20,000 years old and was formed by coastal winds when the sea level was 100 metres further inland. It is 6.4 kilometres long and 320 metres high, and it is stable, though it looks menacing from the bottom. It became a Natural Sanctuary in 2005, but earlier part of its west wing was removed to allow the city to grow. Diego Delso took the photograph on 11 February 2016.",
+      "lookAt": "The sand ridge acts like a giant diagonal. It starts in the lower right, a clean smooth line, and cuts the frame in two. On the left, a dense city meets a bright sea. Take a high vantage so the foreground and city sit in one frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iquique_Province",
+        "https://commons.wikimedia.org/wiki/File%3AVista_de_Iquique%2C_Chile%2C_2016-02-11%2C_DD_20.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Dragon Dune, Iquique",
+        "line2": "Diego Delso · Tarapacá"
+      },
+      "order": 211,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-etang-de-thau-sete-dawn",
+      "kind": "place",
+      "title": "Étang de Thau",
+      "maker": "Christian Ferrer",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dawn_on_S%C3%A8te_and_the_%C3%89tang_de_Thau.jpg/1280px-Dawn_on_S%C3%A8te_and_the_%C3%89tang_de_Thau.jpg",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY-SA 3.0",
+        "credit": "Christian Ferrer, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "France",
+        "region": "Hérault",
+        "lat": 43.41,
+        "lon": 3.62416667,
+        "facts": [
+          [
+            "Country",
+            "France"
+          ],
+          [
+            "Department",
+            "Hérault"
+          ],
+          [
+            "Type",
+            "Coastal lagoon (étang)"
+          ],
+          [
+            "Coordinates",
+            "43.41° N, 3.62° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Étang de Thau, or Bassin de Thau, is the largest of a string of lagoons that stretch along the French coast from the Rhône river to the foothills of the Pyrenees and the border with Spain. Although it has a high salinity, it is considered the third largest lake in France. Christian Ferrer photographed dawn over part of Sète and the lagoon on 17 May 2014 at 05:31. The sky is orange at the horizon and cool blue above, the water reflects it, and pink flowers on the slope fill the foreground in front of the town.",
+      "lookAt": "Dawn gives a gradient: warm at the horizon, cool above. Use flowers or a tree in the foreground as a frame, and keep them in shadow so the town stays the lighter, smaller shape beyond. Arrive before sunrise, because the best colour is short.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C3%89tang_de_Thau",
+        "https://commons.wikimedia.org/wiki/File%3ADawn_on_S%C3%A8te_and_the_%C3%89tang_de_Thau.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · FRANCE",
+        "title": "Étang de Thau",
+        "line2": "Christian Ferrer · Hérault"
+      },
+      "order": 212,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-heimaey-vestmannaeyjar-harbour",
+      "kind": "place",
+      "title": "Heimaey Harbour",
+      "maker": "Diego Delso",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Puerto_de_Vestmannaeyjar%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_017-019_PAN.JPG/1280px-Puerto_de_Vestmannaeyjar%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_017-019_PAN.JPG",
+        "width": 1280,
+        "height": 378,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Iceland",
+        "region": "Westman Islands",
+        "lat": 63.43333333,
+        "lon": -20.26666667,
+        "facts": [
+          [
+            "Island",
+            "Heimaey, Westman Islands"
+          ],
+          [
+            "Area",
+            "13.4 km²"
+          ],
+          [
+            "Population",
+            "4,414 (2022)"
+          ],
+          [
+            "Coordinates",
+            "63.43° N, 20.27° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Heimaey is the largest and most populated island off the Icelandic coast, and the largest of the Vestmannaeyjar archipelago, at 13.4 square kilometres. It lies 4 nautical miles off the south coast of Iceland and had a population of 4,414 in 2022. In January 1973 lava flow from nearby Eldfell destroyed half the town and threatened to close its harbour, the town's main income source; an operation to cool the advancing lava with sea water saved the harbour. Diego Delso photographed the harbour in a panorama on 17 August 2014 at 10:31, with moored boats and green hills.",
+      "lookAt": "A panorama needs an anchor. Here the steep green headland sits at the right with red boats at its base, and calm water doubles the scene. Keep the horizon level and the camera steady between frames, and let the long, narrow crop emphasise the line of the harbour.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heimaey",
+        "https://commons.wikimedia.org/wiki/File%3APuerto_de_Vestmannaeyjar%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_017-019_PAN.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · ICELAND",
+        "title": "Heimaey Harbour",
+        "line2": "Diego Delso · Westman Islands"
+      },
+      "order": 213,
+      "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-kafjorden-troms-winter",
+      "kind": "place",
+      "title": "Kåfjorden",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_view_from_the_northeast_coast_of_K%C3%A5fjorden%2C_2012_March.jpg/1280px-A_view_from_the_northeast_coast_of_K%C3%A5fjorden%2C_2012_March.jpg",
+        "width": 1280,
+        "height": 626,
+        "license": "CC BY-SA 3.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Troms",
+        "lat": 69.51746,
+        "lon": 20.72914,
+        "facts": [
+          [
+            "Country",
+            "Norway"
+          ],
+          [
+            "County",
+            "Troms"
+          ],
+          [
+            "Length",
+            "20 km"
+          ],
+          [
+            "Coordinates",
+            "69.52° N, 20.73° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Kåfjorden, Gáivuotna in Northern Sami and Kaivuono in Kven, is a fjord in Gáivuotna Municipality (also known as Kåfjord Municipality) in Troms county, Norway. The fjord is 20 kilometres long and is a branch off the main Lyngen fjord, stretching further inland to the village of Birtavarre. The European route E06 highway runs around the entire fjord. Ximonic took this photograph in March 2012, looking west and northwest from the northeast coast. A red boat and a small wooden shed sit on the snowy shore, with snow-covered mountains across the blue water.",
+      "lookAt": "Snow and a low sun make colour pop. The red boat is the only warm spot in a blue and white scene, so the eye goes straight to it. Place it away from the centre, leave room for the mountains, and watch the exposure so the snow keeps its texture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/K%C3%A5fjorden_(Troms)",
+        "https://commons.wikimedia.org/wiki/File%3AA_view_from_the_northeast_coast_of_K%C3%A5fjorden%2C_2012_March.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Kåfjorden",
+        "line2": "Ximonic (Simo Räsänen) · Troms"
+      },
+      "order": 214,
+      "batch": "2026-10-30"
     }
   ]
 }
