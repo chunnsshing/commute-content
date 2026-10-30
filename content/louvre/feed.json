@@ -10161,6 +10161,1208 @@
       },
       "order": 214,
       "batch": "2026-10-30"
+    },
+    {
+      "id": "commons-salar-de-ascotan-train",
+      "kind": "place",
+      "title": "Salar de Ascotán",
+      "maker": "Kabelleger / David Gubler",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/FCAB_EMD_GR12_and_two_Clyde_GL26C-2_crossing_Salar_de_Ascotan%2C_Chile.jpg/1280px-FCAB_EMD_GR12_and_two_Clyde_GL26C-2_crossing_Salar_de_Ascotan%2C_Chile.jpg",
+        "width": 1280,
+        "height": 790,
+        "license": "CC BY-SA 3.0",
+        "credit": "Kabelleger / David Gubler, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Antofagasta Region",
+        "lat": -21.58333333,
+        "lon": -68.25,
+        "facts": [
+          [
+            "Country",
+            "Chile"
+          ],
+          [
+            "Surface area",
+            "246 km²"
+          ],
+          [
+            "Rail line",
+            "Runs over 35 km along the west side"
+          ],
+          [
+            "Coordinates",
+            "21.58° S, 68.25° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Salar de Ascotán, also known as Salar de Cebollar, is a salt flat in northern Chile. It has a surface area of 246 square kilometres, and its drainage basin of 1,455 square kilometres is shared with Bolivia. The salt pan was once filled by a lake of about 270 square kilometres. Today the FCAB railway runs along the west side of the flat for more than 35 kilometres. David Gubler photographed three FCAB locomotives pulling a train of ore buckets across it in April 2012, on the journey from Calama to Ollagüe at the Bolivian border. The 5,846 metre stratovolcano Cerro del Azufre stands behind.",
+      "lookAt": "The train gives the empty salt flat a scale you can read at once. Its bright orange and yellow engines are the only strong colour against pale ground and a snow-capped volcano. Wait for a moving subject to enter an otherwise still landscape, and let its smoke point toward the mountain.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salar_de_Ascot%C3%A1n",
+        "https://commons.wikimedia.org/wiki/File%3AFCAB_EMD_GR12_and_two_Clyde_GL26C-2_crossing_Salar_de_Ascotan%2C_Chile.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Salar de Ascotán",
+        "line2": "Kabelleger / David Gubler · Antofagasta Region"
+      },
+      "order": 215,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-juntan-reservoir",
+      "kind": "place",
+      "title": "Juntan Reservoir",
+      "maker": "Zhangzhugang",
+      "year": "2010",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Juntan_4501.JPG/1280px-Juntan_4501.JPG",
+        "width": 1280,
+        "height": 1920,
+        "license": "CC BY-SA 4.0",
+        "credit": "Zhangzhugang, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "China",
+        "region": "Jiangxi",
+        "lat": 28.254035,
+        "lon": 118.273997,
+        "facts": [
+          [
+            "Country",
+            "China"
+          ],
+          [
+            "Province",
+            "Jiangxi"
+          ],
+          [
+            "Surface area",
+            "350 km²"
+          ],
+          [
+            "Coordinates",
+            "28.25° N, 118.27° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Juntan Reservoir, also known as Jiuxian Lake, is a vast reservoir in Guangfeng District of Shangrao, Jiangxi, China. It is one of the largest man-made lakes in Shangrao city. The article gives its surface area as 350 square kilometres and its storage capacity as some 52,700,000 cubic metres of water. Zhangzhugang photographed it on 4 September 2010. In this upright frame a tall rock outcrop topped with dense green forest rises from the shore, and a small boat sits on the dark green water below a sky of broken cloud.",
+      "lookAt": "A vertical frame suits a tall outcrop. The rock tower sits high in the picture while the curve of the shoreline leads the eye down to the small boat, which sets the scale. Look for a tiny human element that tells viewers how large the landscape really is.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juntan_Reservoir",
+        "https://commons.wikimedia.org/wiki/File%3AJuntan_4501.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHINA",
+        "title": "Juntan Reservoir",
+        "line2": "Zhangzhugang · Jiangxi"
+      },
+      "order": 216,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "loc-highsmith-edmund-pettus-bridge-march",
+      "kind": "photograph",
+      "title": "Edmund Pettus Bridge, Selma",
+      "maker": "Carol M. Highsmith",
+      "year": "2010",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/45th_Anniversary_of_the_Civil_Rights_March_from_Selma%2C_Alabama_to_Montgomery%2C_Alabama_LCCN2010637778.tif/lossy-page1-1280px-45th_Anniversary_of_the_Civil_Rights_March_from_Selma%2C_Alabama_to_Montgomery%2C_Alabama_LCCN2010637778.tif.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "Public domain",
+        "credit": "Carol M. Highsmith, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Edmund Pettus Bridge carries U.S. Route 80 Business over the Alabama River in Selma, Alabama. It is a steel through arch bridge, 1,248 feet long, built in 1939–1940 and opened on 25 May 1940. On 7 March 1965 police attacked civil rights marchers as they tried to cross it on their way to Montgomery. Carol M. Highsmith photographed people crossing the bridge on 7 March 2010, the 45th anniversary, to recreate that march. The bridge is named for Edmund Pettus, a Confederate brigadier general and U.S. senator. The Library of Congress says the title, date and subject note came from the photographer.",
+      "lookAt": "Standing on the roadway, the photographer lets the white arches repeat and shrink toward the far bank, with the bridge's name across the top. People walking make small figures that give the span its scale. Use repeating structure as a frame, and let a few people show what the place means.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+        "https://en.wikipedia.org/wiki/Edmund_Pettus_Bridge",
+        "https://commons.wikimedia.org/wiki/File%3A45th_Anniversary_of_the_Civil_Rights_March_from_Selma%2C_Alabama_to_Montgomery%2C_Alabama_LCCN2010637778.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 2010",
+        "title": "Edmund Pettus Bridge, Selma",
+        "line2": "Carol M. Highsmith · Library of Congress"
+      },
+      "order": 217,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-dobson-stream-moon",
+      "kind": "place",
+      "title": "Dobson River",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dobson_Stream_by_Wharfedale_hut_with_the_moon%2C_Mt_Oxford_area%2C_Canterbury%2C_New_Zealand.jpg/1280px-Dobson_Stream_by_Wharfedale_hut_with_the_moon%2C_Mt_Oxford_area%2C_Canterbury%2C_New_Zealand.jpg",
+        "width": 1280,
+        "height": 1780,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Canterbury",
+        "lat": -44.08333333,
+        "lon": 169.86666667,
+        "facts": [
+          [
+            "Country",
+            "New Zealand"
+          ],
+          [
+            "Length",
+            "45 km"
+          ],
+          [
+            "Named for",
+            "Edward Dobson, by Julius von Haast"
+          ],
+          [
+            "Coordinates",
+            "44.08° S, 169.87° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "The Dobson River (Māori: Ōtaao) is a river in the South Island of New Zealand. It flows south for 45 kilometres from its source on the west slope of Mount Edgar Thomson in the Southern Alps before joining the Hopkins River near Lake Ōhau. It was named by Julius von Haast in the 1860s for his father-in-law, Edward Dobson, the Canterbury Provincial Engineer. The Department of Conservation maintains a tramping track and several backcountry huts in the valley. Michal Klajban made this picture of Dobson Stream by Wharfedale hut on 14 June 2019, during the blue hour, with a tripod in the water.",
+      "lookAt": "A long exposure turns the stream into silk while the rocks stay sharp. The curve of the water leads upward to a pale moon in the dusk sky. Use a tripod, a small aperture and the blue hour, when sky and water are close in brightness, to keep detail in both.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dobson_River_(New_Zealand)",
+        "https://commons.wikimedia.org/wiki/File%3ADobson_Stream_by_Wharfedale_hut_with_the_moon%2C_Mt_Oxford_area%2C_Canterbury%2C_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Dobson River",
+        "line2": "Michal Klajban · Canterbury"
+      },
+      "order": 218,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-golden-gate-canyon-yellowstone",
+      "kind": "place",
+      "title": "Golden Gate Canyon",
+      "maker": "Acroterion",
+      "year": "2010",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Golden_Gate_YNP1.jpg/1280px-Golden_Gate_YNP1.jpg",
+        "width": 1280,
+        "height": 861,
+        "license": "CC BY-SA 4.0",
+        "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Yellowstone National Park, Wyoming",
+        "lat": 44.93666667,
+        "lon": -110.7225,
+        "facts": [
+          [
+            "Country",
+            "United States"
+          ],
+          [
+            "Creek",
+            "Glen Creek, flowing north"
+          ],
+          [
+            "Road first built",
+            "1884–85"
+          ],
+          [
+            "Coordinates",
+            "44.94° N, 110.72° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Golden Gate Canyon lies in the northwestern region of Yellowstone National Park in Wyoming. Glen Creek flows north through it, descending from 7,400 feet at Kingman Pass to just under 6,000 feet in less than three miles. A road was first built through the Golden Gate in 1884–85, directed by Lieutenant Dan Christie Kingman, who recorded the name that visitors gave the canyon for the yellow hue of its rocks. A wooden trestle was replaced by a concrete viaduct in 1900, and that was replaced in turn in 1930–34. Acroterion photographed it on 17 September 2010.",
+      "lookAt": "The road sweeps across the yellow cliff on its viaduct and gives the frame a strong diagonal. Dark conifers on the right balance the pale rock on the left, and clouds fill the open sky. When a man-made line crosses a landscape, use it to lead the eye through the picture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Golden_Gate_Canyon",
+        "https://commons.wikimedia.org/wiki/File%3AGolden_Gate_YNP1.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Golden Gate Canyon",
+        "line2": "Acroterion · Yellowstone National Park, Wyoming"
+      },
+      "order": 219,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-atget-boutique-marche-aux-halles",
+      "kind": "photograph",
+      "title": "Boutique, Marché aux Halles, Paris",
+      "maker": "Eugène Atget",
+      "year": "1925",
+      "collection": "Metropolitan Museum of Art",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Boutique%2C_March%C3%A9_aux_Halles%2C_Paris_MET_DP315551.jpg/1280px-Boutique%2C_March%C3%A9_aux_Halles%2C_Paris_MET_DP315551.jpg",
+        "width": 1280,
+        "height": 1731,
+        "license": "CC0",
+        "credit": "Eugène Atget, Metropolitan Museum of Art, CC0, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Eugène Atget (1857–1927) photographed Paris, and this gelatin silver print shows a shop at the Marché aux Halles. The Metropolitan Museum of Art dates the picture to 1925 and notes that it was printed around 1929, two years after Atget died. Berenice Abbott, the American photographer, is also listed as an artist on the file, which suggests her connection to the later print. The print measures 23.1 by 17 centimetres, and the Met released it into the public domain under CC0. The file page gives no further description of the shop.",
+      "lookAt": "A dark shop opening becomes a frame inside the frame. A single bulb and a cluster of small objects sit in the middle of the black space, while the pale border of the print sets it off. Look for doorways and windows that isolate a small scene, and let shadow do the framing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Berenice_Abbott",
+        "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Atget",
+        "https://commons.wikimedia.org/wiki/File%3ABoutique%2C_March%C3%A9_aux_Halles%2C_Paris_MET_DP315551.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1925",
+        "title": "Boutique, Marché aux Halles, Paris",
+        "line2": "Eugène Atget · Metropolitan Museum of Art"
+      },
+      "order": 220,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-merriman-falls-quinault",
+      "kind": "place",
+      "title": "Quinault Rain Forest",
+      "maker": "King of Hearts",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Quinault_Rain_Forest_June_2018_011.jpg/1280px-Quinault_Rain_Forest_June_2018_011.jpg",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 4.0",
+        "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Olympic National Park, Washington",
+        "lat": 47.50513889,
+        "lon": -123.82138889,
+        "facts": [
+          [
+            "Country",
+            "United States"
+          ],
+          [
+            "State",
+            "Washington"
+          ],
+          [
+            "Annual rain",
+            "About 17 feet (5.2 m)"
+          ],
+          [
+            "Coordinates",
+            "47.51° N, 123.82° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Quinault Rain Forest is a temperate rain forest in Olympic National Park and the Olympic National Forest in Washington. It lies in the valley formed by the Quinault River and Lake Quinault, called the Valley of the Rain Forest Giants because of the record-size trees found there, including Western Red Cedar, Sitka Spruce and Douglas fir. The forest receives an average of 17 feet of rain a year. King of Hearts photographed Merriman Falls here on 10 June 2018, where a thin stream drops down mossy boulders beneath tall trunks.",
+      "lookAt": "Green dominates this frame, from moss on the boulders to ferns and the canopy. Soft, overcast light keeps contrast low, which lets the white thread of the falls stand out. Look for water that cascades in steps, and use a slow shutter to blur it while the moss stays crisp.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quinault_Rain_Forest",
+        "https://commons.wikimedia.org/wiki/File%3AQuinault_Rain_Forest_June_2018_011.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Quinault Rain Forest",
+        "line2": "King of Hearts · Olympic National Park, Washington"
+      },
+      "order": 221,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-cirque-de-gavarnie",
+      "kind": "place",
+      "title": "Cirque de Gavarnie",
+      "maker": "Benh Lieu Song",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cirque_de_Gavarnie%2C_Haute-Pyr%C3%A9n%C3%A9es%2C_France.jpg/1280px-Cirque_de_Gavarnie%2C_Haute-Pyr%C3%A9n%C3%A9es%2C_France.jpg",
+        "width": 1280,
+        "height": 640,
+        "license": "CC BY-SA 2.0",
+        "credit": "Benh Lieu Song, CC BY-SA 2.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "France",
+        "region": "Hautes-Pyrénées",
+        "lat": 42.69694444,
+        "lon": -0.00805556,
+        "facts": [
+          [
+            "Country",
+            "France"
+          ],
+          [
+            "Width at the top",
+            "About 3,000 m"
+          ],
+          [
+            "World Heritage",
+            "Inscribed 1997"
+          ],
+          [
+            "Coordinates",
+            "42.70° N, 0.01° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Cirque de Gavarnie is a vast cirque in the central Pyrenees, in southwestern France near the Spanish border. Its rock walls rise up to 1,500 metres above the floor, which is 800 metres wide at the deepest point and about 3,000 metres wide at the top. Victor Hugo described it as the Colosseum of nature. Gavarnie Falls, the second-highest waterfall in Europe, drops 422 metres. The cirque was inscribed on the UNESCO World Heritage List in 1997. Benh Lieu Song photographed the valley on 22 June 2009 from a high vantage point.",
+      "lookAt": "From a high viewpoint the valley floor becomes a green foreground that leads toward the wall of rock. Layers of ridge fade from dark to pale, and patches of snow mark the distance. Include a sweep of foreground to give a mountain scene depth and a sense of the journey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cirque_de_Gavarnie",
+        "https://commons.wikimedia.org/wiki/File%3ACirque_de_Gavarnie%2C_Haute-Pyr%C3%A9n%C3%A9es%2C_France.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · FRANCE",
+        "title": "Cirque de Gavarnie",
+        "line2": "Benh Lieu Song · Hautes-Pyrénées"
+      },
+      "order": 222,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "loc-rothstein-junk-on-river-china",
+      "kind": "photograph",
+      "title": "A boat on a river in China",
+      "maker": "Arthur Rothstein",
+      "year": "1946",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/A_boat_on_a_river_with_rolling_hills_in_the_background_in_China%2C_07797u.tif/lossy-page1-1280px-A_boat_on_a_river_with_rolling_hills_in_the_background_in_China%2C_07797u.tif.jpg",
+        "width": 1280,
+        "height": 1000,
+        "license": "Public domain",
+        "credit": "Arthur Rothstein, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Arthur Rothstein (1915–1985) was an American photographer whose career spanned five decades and who was recognised as one of America's premier photojournalists. This 1946 photograph from the Library of Congress shows a boat on a river with rolling hills behind. The description places it in Kiangsu Province or Yunnan Province in China, so the exact place is uncertain. The Library of Congress holds the original under digital ID ppmsca.07797, and a restored version also exists on Commons. Wikimedia Commons categorises it as 1946 in China and Junks of China. The library knows of no copyright restrictions on it.",
+      "lookAt": "The junk sits on still water with its sails and reflection joined. Dark hills close the frame above a low horizon, and the pale sky stays plain. Wait for calm water to double a subject, and keep the horizon low so reflection and subject have room.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arthur_Rothstein",
+        "https://commons.wikimedia.org/wiki/File%3AA_boat_on_a_river_with_rolling_hills_in_the_background_in_China%2C_07797u.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1946",
+        "title": "A boat on a river in China",
+        "line2": "Arthur Rothstein · Library of Congress"
+      },
+      "order": 223,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-rainier-aerial-west",
+      "kind": "place",
+      "title": "Mount Rainier",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg/1280px-Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Washington",
+        "lat": 46.8517,
+        "lon": -121.7603,
+        "facts": [
+          [
+            "Country",
+            "United States"
+          ],
+          [
+            "Height",
+            "14,406 ft (4,391 m)"
+          ],
+          [
+            "Type",
+            "Stratovolcano, Cascade Range"
+          ],
+          [
+            "Coordinates",
+            "46.85° N, 121.76° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Mount Rainier, also known as Tahoma, is a large, active stratovolcano in the Cascade Range of the Pacific Northwest. It stands in Mount Rainier National Park about 59 miles south-southeast of Seattle. At 14,406 feet it is the highest mountain in Washington and the most topographically prominent in the contiguous United States. Because of its glacial ice and proximity to a major urban area, it is considered one of the most dangerous volcanoes in the world. Timothy A. Gonsalves photographed it from the west on 11 March 2023, from a flight between Seattle and Los Angeles.",
+      "lookAt": "The snowy summit rises out of a flat layer of cloud like an island. Shooting from a plane window gives you this view for only moments, so keep the camera ready and the settings set. Expose for the bright snow, and let the blue sky above and the cloud below frame the peak.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Rainier",
+        "https://commons.wikimedia.org/wiki/File%3ARainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Mount Rainier",
+        "line2": "Timothy A. Gonsalves · Washington"
+      },
+      "order": 224,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-hullathy-nilgiris-valley",
+      "kind": "place",
+      "title": "Hullathy",
+      "maker": "Timothy A. Gonsalves",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg/1280px-SW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Nilgiris district, Tamil Nadu",
+        "lat": 11.4772108,
+        "lon": 76.6959024,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "District",
+            "Nilgiris, Tamil Nadu"
+          ],
+          [
+            "Villages",
+            "32 under the Gram Panchayat"
+          ],
+          [
+            "Coordinates",
+            "11.48° N, 76.70° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Hullathy is a Gram Panchayat and village in the Nilgiris district of Tamil Nadu, India. The panchayat is responsible for 32 villages with a population of 9,187, covering 2,729 hectares along both sides of a road that descends steeply down the Sigur Ghat from Ooty to Masinagudi. Timothy A. Gonsalves photographed the western villages on 29 November 2024, looking southwest from below Melur. His description calls it a steep valley in the north face of the Nilgiri Mountains, in the rain shadow, where villagers grow vegetables and tea on terraces with irrigation.",
+      "lookAt": "Terraces, small villages and two hills with cloud on the summits make layered planes in this frame. The light stripes of fields lead the eye across the slope. From a high viewpoint, look for patterns in farmland, and let a hill with cloud on top close the picture.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hullathy",
+        "https://commons.wikimedia.org/wiki/File%3ASW_Hullathy_Gram_Panchayat_Villages_Nilgiris_Nov24_A7CR_05293.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Hullathy",
+        "line2": "Timothy A. Gonsalves · Nilgiris district, Tamil Nadu"
+      },
+      "order": 225,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "loc-delano-north-western-roundhouse-chicago",
+      "kind": "photograph",
+      "title": "A Chicago and North Western railroad roundhouse",
+      "maker": "Jack Delano",
+      "year": "1942",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/A_Chicago_and_Northwestern_%28i.e._North_Western%29_railroad_roundhouse%2C_Chicago%2C_Ill._LCCN2017878006.tif/lossy-page1-1280px-A_Chicago_and_Northwestern_%28i.e._North_Western%29_railroad_roundhouse%2C_Chicago%2C_Ill._LCCN2017878006.tif.jpg",
+        "width": 1280,
+        "height": 996,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Jack Delano (1914–1997) was a Ukrainian-born photographer who worked for the Farm Security Administration. This colour transparency, titled A Chicago and North Western railroad roundhouse, was made in December 1942 for the FSA and Office of War Information. The Library of Congress notes give the location as Proviso Yards, and the title comes from the agency caption. The transparency was transferred from the Office of War Information in 1944. Subject headings list railroad roundhouses, railroad shops and yards, and the Chicago and North Western Railway Company. Delano later spent much of his life in Puerto Rico, where he also worked as a composer and filmmaker.",
+      "lookAt": "A low curved roundhouse stretches across the width of the frame, with smoke from a chimney drifting in cold air. Snow and a clear winter sky give the picture a pale blue tone. Use a long, flat horizon and one plume of smoke to show a working place in winter light.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File%3AA_Chicago_and_Northwestern_%28i.e._North_Western%29_railroad_roundhouse%2C_Chicago%2C_Ill._LCCN2017878006.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1942",
+        "title": "A Chicago and North Western railroad roundhouse",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "order": 226,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-raiwada-reservoir-tree",
+      "kind": "place",
+      "title": "Raiwada Reservoir",
+      "maker": "Saiphani02",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/A_tree_in_a_reservoir.jpg/1280px-A_tree_in_a_reservoir.jpg",
+        "width": 1280,
+        "height": 787,
+        "license": "CC BY-SA 4.0",
+        "credit": "Saiphani02, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Anakapalli district, Andhra Pradesh",
+        "lat": 18.019092,
+        "lon": 82.983007,
+        "facts": [
+          [
+            "Country",
+            "India"
+          ],
+          [
+            "River",
+            "Sarada River"
+          ],
+          [
+            "Capacity",
+            "2,360 tcm"
+          ],
+          [
+            "Coordinates",
+            "18.02° N, 82.98° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Sri Varada Narayana Murty Raiwada Reservoir, usually called Raiwada Reservoir, was built across the Sarada River near Raiwada village in Devarapalli mandal, Anakapalli district, 58 kilometres from Visakhapatnam. It is one of the main water sources for the city, with a capacity of 2,360 tcm, and the Irrigation and CAD Department maintains it. Saiphani02 photographed it on 11 August 2024. The description notes a tree on a small island, a duckling swimming, buffaloes grazing, boats standing by and cranes fishing, with a large mountain behind. Many small bodies of land can be seen over the waterbody.",
+      "lookAt": "A single tree on a small green island becomes the focus because everything else is low and flat. Its reflection doubles the shape in calm water, and the hill behind closes the frame. Look for one isolated subject in a wide scene and place it off centre.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Raiwada_Reservoir",
+        "https://commons.wikimedia.org/wiki/File%3AA_tree_in_a_reservoir.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Raiwada Reservoir",
+        "line2": "Saiphani02 · Anakapalli district, Andhra Pradesh"
+      },
+      "order": 227,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-lyngen-fjord-shed",
+      "kind": "place",
+      "title": "Lyngen",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Shed_with_green_roof_at_Lyngen_fjord%2C_2012_June.jpg/1280px-Shed_with_green_roof_at_Lyngen_fjord%2C_2012_June.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 3.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Troms",
+        "lat": 69.7797,
+        "lon": 20.3827,
+        "facts": [
+          [
+            "Country",
+            "Norway"
+          ],
+          [
+            "County",
+            "Troms"
+          ],
+          [
+            "Length",
+            "82 km"
+          ],
+          [
+            "Coordinates",
+            "69.78° N, 20.38° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Lyngen, in Northern Sami Ivguvuotna, is a fjord in Troms county, Norway. At 82 kilometres it is the longest fjord in Troms and is often used as the dividing line between northern and southern Troms. The Lyngen Alps lie on the Lyngen Peninsula along its western shore, and the European route E06 runs along the eastern shore. Ximonic (Simo Räsänen) photographed a shed with a green roof on the east coast on 28 June 2012, in the late afternoon, with the mountains of the Lyngen Alps across the water. The fjord passes through five municipalities, including Skjervøy and Storfjord.",
+      "lookAt": "The turf-roofed shed anchors the foreground, and snow on the far mountains shows the distance across the fjord. Flowers in the long grass lead toward it. Get low, let a small human-made subject sit in the foreground, and use it to give a big landscape a story.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lyngen_(fjord)",
+        "https://commons.wikimedia.org/wiki/File%3AShed_with_green_roof_at_Lyngen_fjord%2C_2012_June.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Lyngen",
+        "line2": "Ximonic (Simo Räsänen) · Troms"
+      },
+      "order": 228,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-prasat-sikhoraphum",
+      "kind": "place",
+      "title": "Prasat Sikhoraphum",
+      "maker": "JJ Harrison",
+      "year": "2012",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prasat_Sikhoraphum_-_Sikhoraphum_edit1.jpg/1280px-Prasat_Sikhoraphum_-_Sikhoraphum_edit1.jpg",
+        "width": 1280,
+        "height": 658,
+        "license": "CC BY 3.0",
+        "credit": "JJ Harrison, CC BY 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Thailand",
+        "region": "Surin Province",
+        "lat": 14.94555556,
+        "lon": 103.79888889,
+        "facts": [
+          [
+            "Country",
+            "Thailand"
+          ],
+          [
+            "Built",
+            "12th century"
+          ],
+          [
+            "Builder",
+            "King Suryavararas"
+          ],
+          [
+            "Coordinates",
+            "14.95° N, 103.80° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Prasat Sikhoraphum is a Khmer temple in Thailand, located between the cities of Surin and Sisaket. It was built in the 12th century, and the article names King Suryavararas in connection with its builders. The temple was converted for use by Buddhists in the 16th century. Architectural contributions influenced by Laos are evident on the tower roofs. The name comes from the Sanskrit word shikhara, meaning tower sanctuary. JJ Harrison photographed it on 8 December 2012 from the central path, under a clear blue sky. The Exif data gives the time as 11:33 in the morning.",
+      "lookAt": "The path runs straight to the central tower and makes a symmetrical frame. Three brick towers on a low base repeat a rhythm, and green lawn and blue sky set off the warm stone. Stand on the axis of a symmetrical building and keep the camera level so the lines stay straight.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prasat_Sikhoraphum",
+        "https://commons.wikimedia.org/wiki/File%3APrasat_Sikhoraphum_-_Sikhoraphum_edit1.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · THAILAND",
+        "title": "Prasat Sikhoraphum",
+        "line2": "JJ Harrison · Surin Province"
+      },
+      "order": 229,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-sari-temple-bendan",
+      "kind": "place",
+      "title": "Sari Temple",
+      "maker": "Crisco 1492",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sari_Temple%2C_2014-04-10%2C_from_52_images.jpg/1280px-Sari_Temple%2C_2014-04-10%2C_from_52_images.jpg",
+        "width": 1280,
+        "height": 889,
+        "license": "CC BY-SA 3.0",
+        "credit": "Crisco 1492, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Indonesia",
+        "region": "Sleman Regency, Yogyakarta",
+        "lat": -7.761525,
+        "lon": 110.47416667,
+        "facts": [
+          [
+            "Country",
+            "Indonesia"
+          ],
+          [
+            "Region",
+            "Special Region of Yogyakarta"
+          ],
+          [
+            "Date",
+            "8th century"
+          ],
+          [
+            "Coordinates",
+            "7.76° S, 110.47° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "The Sari Temple, also known as Candi Bendan, is an 8th-century Buddhist temple at Dusun Bendan, Tirtomartani village, Kalasan, Sleman Regency, Special Region of Yogyakarta, Indonesia. It lies about 130 metres northeast of the Kalasan temple. The temple was a two-story building with wooden beams, floors and stairs, with windows and doors, all of organic materials now decayed. It is suggested that it was a vihara, a dwelling place for monks. Crisco 1492 made this panorama on 10 April 2014 from 52 images. The name Sari, or Saré, translates as to sleep in Javanese, which fits its use as a dwelling.",
+      "lookAt": "A panorama stitched from many frames can keep a building's lines true while showing the whole of it. Here the stone temple stands against bright cloud, and the palm at left frames it. Shoot with overlap, keep the camera level, and rotate around the lens for clean joins.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sari_temple",
+        "https://commons.wikimedia.org/wiki/File%3ASari_Temple%2C_2014-04-10%2C_from_52_images.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDONESIA",
+        "title": "Sari Temple",
+        "line2": "Crisco 1492 · Sleman Regency, Yogyakarta"
+      },
+      "order": 230,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-nara-park-autumn",
+      "kind": "place",
+      "title": "Nara Park",
+      "maker": "Martin Falbisoner",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nara_Park%2C_November_2016.jpg/1280px-Nara_Park%2C_November_2016.jpg",
+        "width": 1280,
+        "height": 1706,
+        "license": "CC BY-SA 4.0",
+        "credit": "Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Japan",
+        "region": "Nara Prefecture",
+        "lat": 34.685,
+        "lon": 135.85,
+        "facts": [
+          [
+            "Country",
+            "Japan"
+          ],
+          [
+            "City",
+            "Nara"
+          ],
+          [
+            "Established",
+            "1880"
+          ],
+          [
+            "Coordinates",
+            "34.69° N, 135.85° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Nara Park is a public park in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan and is designated a Place of Scenic Beauty. Over 1,200 wild sika deer roam freely in the park and are designated a natural treasure. The official size is about 502 hectares, and the area including the grounds of Tōdai-ji, Kōfuku-ji, Kasuga Grand Shrine and the Nara National Museum is about 660 hectares. Martin Falbisoner photographed this path on 15 November 2016.",
+      "lookAt": "Fallen red leaves cover the path and glow against the yellow maple overhead, so the whole picture is warm. Stone lanterns and a curved fence lead the eye along the bend. In autumn, shoot in soft light and use the path as a leading line.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nara_Park",
+        "https://commons.wikimedia.org/wiki/File%3ANara_Park%2C_November_2016.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · JAPAN",
+        "title": "Nara Park",
+        "line2": "Martin Falbisoner · Nara Prefecture"
+      },
+      "order": 231,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-don-khon-floating-bungalows",
+      "kind": "place",
+      "title": "Don Khon",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Colorful_floating_bungalows_in_Don_Khon%2C_Laos.jpg/1280px-Colorful_floating_bungalows_in_Don_Khon%2C_Laos.jpg",
+        "width": 1280,
+        "height": 512,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Laos",
+        "region": "Champasak Province",
+        "lat": 13.95518,
+        "lon": 105.92601,
+        "facts": [
+          [
+            "Country",
+            "Laos"
+          ],
+          [
+            "Province",
+            "Champasak"
+          ],
+          [
+            "River",
+            "Mekong"
+          ],
+          [
+            "Coordinates",
+            "13.96° N, 105.93° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Don Khon is an island in the Mekong River in the Si Phan Don archipelago, whose name means Four Thousand Islands, in Champasak Province of southern Laos. Basile Morin photographed it on 27 May 2018 in the late afternoon, from Don Det island. His description names the colourful floating bungalows of the Sala Don Khone Hotel on the Mekong bank, in front of tall palm trees. The wide, low frame follows the line of the bank, with palms rising behind the bungalows and a band of calm brown water in front.",
+      "lookAt": "A wide, low frame suits a long, horizontal bank. The bungalows' bright colours stand out against the palms, and the calm river reflects them. Use late afternoon light for warm colour, and look for repeating shapes that make a rhythm across a panorama.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Don_Khon",
+        "https://commons.wikimedia.org/wiki/File%3AColorful_floating_bungalows_in_Don_Khon%2C_Laos.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · LAOS",
+        "title": "Don Khon",
+        "line2": "Basile Morin · Champasak Province"
+      },
+      "order": 232,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-kasbah-amridil",
+      "kind": "place",
+      "title": "Kasbah Amridil",
+      "maker": "Petar Milošević",
+      "year": "2024",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kasbah_Amridil%2C_Marocco_%28%D9%82%D8%B5%D8%A8%D8%A9_%D8%A7%D9%85%D8%B1%D9%8A%D8%AF%D9%8A%D9%84%29.jpg/1280px-Kasbah_Amridil%2C_Marocco_%28%D9%82%D8%B5%D8%A8%D8%A9_%D8%A7%D9%85%D8%B1%D9%8A%D8%AF%D9%8A%D9%84%29.jpg",
+        "width": 1280,
+        "height": 695,
+        "license": "CC BY-SA 4.0",
+        "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Morocco",
+        "region": "Skoura oasis",
+        "lat": 31.04636111,
+        "lon": -6.58125,
+        "facts": [
+          [
+            "Country",
+            "Morocco"
+          ],
+          [
+            "Location",
+            "Oasis of Skoura"
+          ],
+          [
+            "Type",
+            "Fortified residence (tighremt)"
+          ],
+          [
+            "Coordinates",
+            "31.05° N, 6.58° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Kasbah Amridil is a historic fortified residence, or kasbah, known as a tighremt in Amazigh, in the oasis of Skoura, in Morocco. It is considered among the most impressive kasbahs of its kind in Morocco and was formerly featured on the Moroccan 50 dirham note. Petar Milošević photographed it on 20 March 2024. He stands across a dry, stony riverbed, so the mud-brick walls and towers appear as a low band on the horizon beneath a clear blue sky. The file gives the time as 10:40 in the morning, and the description also gives the Arabic name قصبة امريديل.",
+      "lookAt": "The kasbah is small in the frame, yet it reads clearly because everything around it is bare ground and open sky. The rocky foreground gives scale to the distance. Leave plenty of empty space around a landmark to show how isolated and imposing it is.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kasbah_Amridil",
+        "https://commons.wikimedia.org/wiki/File%3AKasbah_Amridil%2C_Marocco_%28%D9%82%D8%B5%D8%A8%D8%A9_%D8%A7%D9%85%D8%B1%D9%8A%D8%AF%D9%8A%D9%84%29.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · MOROCCO",
+        "title": "Kasbah Amridil",
+        "line2": "Petar Milošević · Skoura oasis"
+      },
+      "order": 233,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-osvor-maritime-museum",
+      "kind": "place",
+      "title": "Bolungarvík",
+      "maker": "Diego Delso",
+      "year": "2014",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Museo_mar%C3%ADtimo_%C3%93sv%C3%B6r%2C_Bolungarv%C3%ADk%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-15%2C_DD_066.JPG/1280px-Museo_mar%C3%ADtimo_%C3%93sv%C3%B6r%2C_Bolungarv%C3%ADk%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-15%2C_DD_066.JPG",
+        "width": 1280,
+        "height": 832,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Iceland",
+        "region": "Westfjords",
+        "lat": 66.1575,
+        "lon": -23.25083333,
+        "facts": [
+          [
+            "Country",
+            "Iceland"
+          ],
+          [
+            "Region",
+            "Westfjords"
+          ],
+          [
+            "Distance from Reykjavík",
+            "473 km"
+          ],
+          [
+            "Coordinates",
+            "66.16° N, 23.25° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Bolungarvík is a small town in the northwest of Iceland, on the Westfjords peninsula, about 14 kilometres from Ísafjörður and 473 kilometres from Reykjavík. It has been used as a fishing outpost since the 17th century. The village was not accessible by road until 1950, and a tunnel opened in 2010 to bypass the avalanche-prone old road. Tourist sites include the Ósvör Maritime Museum, a restored 19th-century fishing station. Diego Delso photographed it on 15 August 2014, with low cloud over the mountain and a boat beside the turf huts.",
+      "lookAt": "Low cloud hides the mountain top and softens the whole scene into grey and green. The turf huts and boat bring warm detail to the foreground. Overcast, misty weather can suit a place with a history of hard work, so shoot it as it is and keep the horizon calm.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bolungarv%C3%ADk",
+        "https://commons.wikimedia.org/wiki/File%3AMuseo_mar%C3%ADtimo_%C3%93sv%C3%B6r%2C_Bolungarv%C3%ADk%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-15%2C_DD_066.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · ICELAND",
+        "title": "Bolungarvík",
+        "line2": "Diego Delso · Westfjords"
+      },
+      "order": 234,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-regietow-bell-tower",
+      "kind": "place",
+      "title": "Regietów",
+      "maker": "Pudelek",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regiet%C3%B3w_Wy%C5%BCny_%28%D0%A0e%D2%91%D1%94%D1%82i%D0%B2%29_-_dzwonnica_01.jpg/1280px-Regiet%C3%B3w_Wy%C5%BCny_%28%D0%A0e%D2%91%D1%94%D1%82i%D0%B2%29_-_dzwonnica_01.jpg",
+        "width": 1280,
+        "height": 870,
+        "license": "CC BY-SA 4.0",
+        "credit": "Pudelek, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Poland",
+        "region": "Lesser Poland Voivodeship",
+        "lat": 49.47944444,
+        "lon": 21.21666667,
+        "facts": [
+          [
+            "Country",
+            "Poland"
+          ],
+          [
+            "Voivodeship",
+            "Lesser Poland"
+          ],
+          [
+            "District",
+            "Gorlice County"
+          ],
+          [
+            "Coordinates",
+            "49.48° N, 21.22° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Regietów is a village in the administrative district of Gmina Uście Gorlickie, within Gorlice County, Lesser Poland Voivodeship, in southern Poland, close to the border with Slovakia. Its name is written Регетів in Rusyn. Pudelek photographed a wooden bell tower at Regietów Wyżny on 15 July 2016. The small tower, with a shingled base and a cross on its roof, stands alone in a green meadow in front of a forested hill under heavy summer cloud. The photograph was taken at 18:40 in the evening, and the village name romanises from Rusyn as Rehetiv.",
+      "lookAt": "A single small structure stands alone in a green meadow, so the eye goes straight to it. The cross on top points toward dark clouds, and the forested hill closes the frame behind it. Place a lone building low in the picture and let sky and land fill the rest.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Regiet%C3%B3w",
+        "https://commons.wikimedia.org/wiki/File%3ARegiet%C3%B3w_Wy%C5%BCny_%28%D0%A0e%D2%91%D1%94%D1%82i%D0%B2%29_-_dzwonnica_01.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · POLAND",
+        "title": "Regietów",
+        "line2": "Pudelek · Lesser Poland Voivodeship"
+      },
+      "order": 235,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-artscience-museum-marina-bay",
+      "kind": "place",
+      "title": "Marina Bay",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg/1280px-ArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Central Area",
+        "lat": 1.28444444,
+        "lon": 103.85583333,
+        "facts": [
+          [
+            "Country",
+            "Singapore"
+          ],
+          [
+            "Area",
+            "360 hectares (extension to the CBD)"
+          ],
+          [
+            "Architect of the museum",
+            "Moshe Safdie"
+          ],
+          [
+            "Coordinates",
+            "1.28° N, 103.86° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Marina Bay is a bay in the Central Area of Singapore. The surrounding area, also called Marina Bay, is a 360 hectare extension to the adjacent Central Business District and the new downtown of Singapore, built on reclaimed land. Buildings include Gardens by the Bay, Marina Bay Sands and Marina Bay Financial Centre. The list continues with Asia Square, The Sail @ Marina Bay and Marina One. Basile Morin photographed the ArtScience Museum, designed by Moshe Safdie, on 5 June 2018 in the late afternoon, with the towers of the Central Business District behind it across the water.",
+      "lookAt": "The petal-shaped roof is the clear subject, and the skyline stays smaller behind it. Walkway and railing lines lead along the water toward it. Pick a vantage that separates a landmark from its background, and use soft, overcast light to keep the white forms clean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marina_Bay,_Singapore",
+        "https://commons.wikimedia.org/wiki/File%3AArtScience_Museum%2C_Marina_Bay_Sands%2C_Singapore.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "Marina Bay",
+        "line2": "Basile Morin · Central Area"
+      },
+      "order": 236,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-catoctin-mountain-farm",
+      "kind": "place",
+      "title": "Catoctin Mountain",
+      "maker": "Acroterion",
+      "year": "2023",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Catoctin_Mountain_and_farm_MD1.jpg/1280px-Catoctin_Mountain_and_farm_MD1.jpg",
+        "width": 1280,
+        "height": 756,
+        "license": "CC BY-SA 4.0",
+        "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Maryland",
+        "lat": 39.64777778,
+        "lon": -77.46638889,
+        "facts": [
+          [
+            "Country",
+            "United States"
+          ],
+          [
+            "State",
+            "Maryland"
+          ],
+          [
+            "Ridge length",
+            "About 50 miles (80 km)"
+          ],
+          [
+            "Coordinates",
+            "39.65° N, 77.47° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Catoctin Mountain, with the geologically associated Bull Run Mountains, forms the easternmost mountain ridge of the Blue Ridge Mountains, part of the Appalachian Mountains. The ridge runs northeast to southwest for about 50 miles, from South Mountain near Emmitsburg, Maryland, to the Piedmont near New Baltimore, Virginia. Acroterion photographed a farm in sunlight at the base of the mountain, between Thurmont and Emmitsburg, on 26 January 2023. There is snow on the higher mountain behind, and Camp David is on the summit. The ridge forms the eastern rampart of the Loudoun and Middletown valleys.",
+      "lookAt": "A patch of sun picks out the farm while the hill behind stays dark. That contrast makes the buildings glow. In winter, wait for a break in the cloud, expose for the lit area and let the shadows fall away, so one spot becomes the whole story.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Catoctin_Mountain",
+        "https://commons.wikimedia.org/wiki/File%3ACatoctin_Mountain_and_farm_MD1.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Catoctin Mountain",
+        "line2": "Acroterion · Maryland"
+      },
+      "order": 237,
+      "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-reine-lofoten",
+      "kind": "place",
+      "title": "Reine",
+      "maker": "Ximonic (Simo Räsänen)",
+      "year": "2010",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reine_at_Reinefjorden%2C_2010_September.jpg/1280px-Reine_at_Reinefjorden%2C_2010_September.jpg",
+        "width": 1280,
+        "height": 445,
+        "license": "CC BY-SA 3.0",
+        "credit": "Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Norway",
+        "region": "Lofoten, Nordland",
+        "lat": 67.9324,
+        "lon": 13.0887,
+        "facts": [
+          [
+            "Country",
+            "Norway"
+          ],
+          [
+            "Island",
+            "Moskenesøya, Lofoten"
+          ],
+          [
+            "Population (2023)",
+            "297"
+          ],
+          [
+            "Coordinates",
+            "67.93° N, 13.09° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Reine is the administrative centre of Moskenes Municipality in Nordland county, Norway. The fishing village is on the island of Moskenesøya in the Lofoten archipelago, above the Arctic Circle, about 300 kilometres southwest of Tromsø. Reine Church is located in the village, and the 0.28 square kilometre village had a population of 297 in 2023. The village has a population density of 1,061 inhabitants per square kilometre. Ximonic (Simo Räsänen) photographed an autumn view of the village at Reinefjorden on 27 September 2010, with rocky peaks rising behind the water and autumn colour in the shrubs of the foreground.",
+      "lookAt": "A wide panorama lets the village sit small between two sets of peaks. Autumn shrubs in the foreground add colour and depth, and the calm fjord mirrors the cloud. Use a foreground of seasonal colour to lead the eye into a distant landmark.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reine,_Norway",
+        "https://commons.wikimedia.org/wiki/File%3AReine_at_Reinefjorden%2C_2010_September.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NORWAY",
+        "title": "Reine",
+        "line2": "Ximonic (Simo Räsänen) · Lofoten, Nordland"
+      },
+      "order": 238,
+      "batch": "2026-10-31"
     }
   ]
 }
