@@ -116,52 +116,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Brooklyn Botanic Garden New York May 2015 003.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ABrooklyn_Botanic_Garden_New_York_May_2015_003.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "King of Hearts",
-  "credit": "Own work",
-  "dateTaken": "Taken on 2 May 2015",
-  "description": "Deck above Visitor Center, Brooklyn Botanic Garden, Brooklyn, New York City.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg/1280px-Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 848,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg/500px-Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Brooklyn Botanic Garden",
-   "url": "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden",
-   "extract": "Brooklyn Botanic Garden (BBG) is a botanical garden in the borough of Brooklyn in New York City. The botanical garden occupies 52 acres (21 ha) in central Brooklyn, close to Mount Prospect Park, Prospect Park, and the Brooklyn Museum. Designed by the Olmsted Brothers, BBG holds over 14,000 taxa of plants and has over 800,000 visitors each year. It includes a number of specialty gardens, plant collections, and structures. BBG hosts numerous educational programs, plant-science and conservation, and community horticulture initiatives, in addition to a herbarium collection.\nThe site of Brooklyn Botanic Garden was first designated in 1897, following three proposals for botanic gardens in Brooklyn in the 19th century. BBG opened in May 1911, on the site of an ash dump, and was initially operated by the Brooklyn Institute. Most of BBG's expansions were carried out over the next three decades under the tenure of its first director, C. Stuart Gager. BBG began operating three additional sites in the New York metropolitan area in the 1950s and 1960s, while its main garden in Brooklyn fell into decline. The original Brooklyn Botanic Garden was expanded and restored substantially starting in the 1980s, and additional structures were built through the 2010s.\nBBG's landscape includes many specialty gardens and a group of buildings on its eastern boundary, accessed from three entrances. A brook flows from the Japanese Hill-and-Pond Garden in the north to the Water Garden in the south. BBG's other specialty gardens include rose, native flora, Shakespeare, fragrance, and children's gardens. There are also more formal landscape features such as an overlook, a celebrity path, the Osborne Garden, and a cherry esplanade. The structures include the 1980s-era Steinhardt Conservatory, the Laboratory Administration Building (which contains a library), and a palm house dating from the 1910s.",
-   "lat": 40.67,
-   "lon": -73.9625
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Gröna Lund June 2015.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGr%C3%B6na_Lund_June_2015.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Arild Vågen",
-  "credit": "Own work",
-  "dateTaken": "2015-06-03 22:55:55",
-  "description": "Amusement park Gröna Lund in Stockholm, Sweden.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Gr%C3%B6na_Lund_June_2015.jpg/1280px-Gr%C3%B6na_Lund_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 866,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Gr%C3%B6na_Lund_June_2015.jpg/500px-Gr%C3%B6na_Lund_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Gröna Lund",
-   "url": "https://en.wikipedia.org/wiki/Gr%C3%B6na_Lund",
-   "extract": "Gröna Lund (Swedish: [ˈɡrø̂ːna ˈlɵnːd, ɡrøːnaˈlɵnːd], lit. 'Green Grove'), or colloquially Grönan (Swedish: [ˈɡrø̂ːnan]), is an amusement park in Stockholm, Sweden. Located on the seaward side of Djurgården, it is 3.8 ha (9.4 acres) in size, relatively small compared to other amusement parks, mainly because of its central location, which limits expansion. The park has over 30 attractions and is a popular venue for concerts in the summer with its three event venues. It was founded in 1883 by Jacob Schultheis and is the first and oldest amusement park in the country.\n\n",
-   "lat": 59.32333333,
-   "lon": 18.09666667
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Interior of The Shoppes at Marina Bay Sands, Singapore.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AInterior_of_The_Shoppes_at_Marina_Bay_Sands%2C_Singapore.jpg",
   "license": "CC BY-SA 4.0",
@@ -227,29 +181,6 @@
    "extract": "The Christchurch Art Gallery (Māori: Te Puna o Waiwhetū) is the public art gallery of the city of Christchurch, New Zealand. It has its own substantial art collection and also presents a programme of New Zealand and international exhibitions. It is funded by Christchurch City Council. The gallery opened on 10 May 2003, replacing the city's previous public art gallery, the Robert McDougall Art Gallery, which had opened in 1932.\n\n",
    "lat": -43.53055556,
    "lon": 172.63111111
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Indus Valley near Leh.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AIndus_Valley_near_Leh.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "KennyOMG",
-  "credit": "Own work",
-  "dateTaken": "2009-09-15",
-  "description": "Indus Viewpoint, on Srinagar-Leh Highway (NH1), near Leh - The Indus River near Leh, Ladakh, India",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Indus_Valley_near_Leh.jpg/1280px-Indus_Valley_near_Leh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 340,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Indus_Valley_near_Leh.jpg/500px-Indus_Valley_near_Leh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Indus River",
-   "url": "https://en.wikipedia.org/wiki/Indus_River",
-   "extract": "The Indus ( IN-dəs) is a transboundary river of Asia and a trans-Himalayan river of South and Central Asia. The 3,180 km (1,980 mi) river rises in the Tibet Autonomous Region of China where it is known as Sengge Zangbo, flows northwest through the disputed Kashmir region, first through the Indian-administered Ladakh, and then the Pakistani-administered Gilgit-Baltistan, bends sharply to the left after the Nanga Parbat massif, and flows south-by-southwest through several provinces of Pakistan, before bifurcating and emptying into the Arabian Sea, its main stem located near the port city of Karachi.\nThe Indus River has a total drainage area of circa 1,120,000 km2 (430,000 mi2). Its estimated annual flow is around 175 km3/a (5,500 m3/s), making it one of the 50 largest rivers in the world in terms of average annual flow. Its left-bank tributary in Ladakh is the Zanskar River, and its left-bank tributary in the plains is the Panjnad River which is formed by the successive confluences of the five Punjab rivers, namely the Chenab, Jhelum, Ravi, Beas, and Sutlej rivers. Its principal right-bank tributaries are the Shyok, Gilgit, Kabul, Kurram, and Gomal rivers. Beginning in a mountain spring and fed with glaciers and rivers in the Himalayan, Karakoram, and Hindu Kush ranges, the river supports the ecosystems of temperate forests, plains, and arid countryside.\nGeologically, the headwaters of the Indus and to their east those of the Yarlung Tsangpo (later in its course, the Brahmaputra) flow along the Indus-Yarlung suture zone, which defines the boundary along which the Indian plate collided with the Eurasian plate in the Early Eocene (approximately 50 Million years ago). These two Eurasian rivers, whose courses were continually diverted by the rising Himalayas, define the western and eastern limits, respectively, of the mountain range.   After the Indus debouches from its narrow Himalayan valley, it forms, along with its tributaries, the Punjab region of South Asia. The lower course of the river ends in a large delta.  \nHistorically, the Indus was important to many cultures. The 3rd millennium BC saw the rise of Indus Valley Civilisation, a major urban civilization of the Bronze Age. During the 2nd millennium BC, the Punjab region was mentioned in the Rigveda hymns as Sapta Sindhu and in the Avesta religious texts as Hapta Həndu (both terms mean \"seven rivers\"). Early historical kingdoms that arose in the Indus Valley include Gandhāra and Sindhu-Sauvīra. The Indus River came into the knowledge of the Western world early in the classical period, when King Darius of Persia sent his Greek subject Scylax of Caryanda to explore the river, c. 515 BC.",
-   "lat": 23.995,
-   "lon": 67.435
   }
  },
  {
@@ -322,30 +253,6 @@
    "lon": null
   },
   "photographer": "Jack Delano"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Ansel Adams - National Archives 79-AA-L01.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AAnsel_Adams_-_National_Archives_79-AA-L01.jpg",
-  "license": "Public domain",
-  "artist": "Ansel Adams",
-  "credit": "This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
-  "dateTaken": "1941",
-  "description": "Sheep \"Flock in Owens Valley, 1941.\";\nFrom the series Ansel Adams Photographs of National Parks and Monuments, compiled 1941 - 1942, documenting the period ca. 1933 - 1942.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ansel_Adams_-_National_Archives_79-AA-L01.jpg/1280px-Ansel_Adams_-_National_Archives_79-AA-L01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 850,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ansel_Adams_-_National_Archives_79-AA-L01.jpg/500px-Ansel_Adams_-_National_Archives_79-AA-L01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Ansel Adams",
-   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
-   "extract": "Ansel Easton Adams (February 20, 1902 – April 22, 1984) was an American landscape photographer and environmentalist known for his black-and-white images of the American West. He helped found Group f/64, an association of photographers advocating \"pure\" photography which favored sharp focus and the use of the full tonal range of a photograph. He and Fred Archer developed a system of image-making called the Zone System, a method of achieving a desired final print through a technical understanding of how the tonal range of an image is the result of choices made in exposure, negative development, and printing.\nAdams was a life-long advocate for environmental conservation, and his photographic practice was deeply entwined with this advocacy. At age 14, he was given his first camera during his first visit to Yosemite National Park. He developed his early photographic work as a member of the Sierra Club. He was later contracted with the United States Department of the Interior to make photographs of national parks. For his work and his persistent advocacy, which helped expand the National Park system, he was awarded the Presidential Medal of Freedom in 1980.\nIn the founding and establishment of the photography department at the Museum of Modern Art in New York City, an important landmark in securing photography's institutional legitimacy, Adams was a key advisor. He assisted the staging of that department's first photography exhibition, helped to found the photography magazine Aperture, and co-founded the Center for Creative Photography at the University of Arizona.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Ansel Adams"
  },
  {
   "group": "photograph",
@@ -577,30 +484,6 @@
    "width": 1280,
    "height": 980,
    "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Dorothea_Lange_-_Unemployed_lumber_02.tif/lossy-page1-1280px-Dorothea_Lange_-_Unemployed_lumber_02.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Dorothea Lange",
-   "url": "https://en.wikipedia.org/wiki/Dorothea_Lange",
-   "extract": "Dorothea Lange (born Dorothea Margaretta Nutzhorn; May 26, 1895 – October 11, 1965) was an American documentary photographer and photojournalist, best known for her Depression-era work for the Farm Security Administration (FSA). Lange's photographs influenced the development of documentary photography and humanized the consequences of the Great Depression. \nLange expressed her photographic image interest as the \"last ditch:\" documenting the poor and dispossessed. Her Migrant Mother image taken in 1936 has become the defining image of the Dust Bowl and is on display at the Art Institute of Chicago. Lange taught fine art photography in her later years at California School of Fine Arts.\n\n",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Dorothea Lange"
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Dorothea Lange \"These cotton hoers work from 6 a.m. to 7 p.m. for $1.00 near Clarksdale, Mississippi, June-July 1937.\".jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ADorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg",
-  "license": "Public domain",
-  "artist": "Dorothea Lange",
-  "credit": "[Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. \"These cotton hoers work from 6 a.m. to 7 p.m. for $1.00 near Clarksdale, Mississippi, June-July 1937.\" New York Public Library Digital Collections. Accessed October 30, 2023. https://digitalcollections.nypl.org/items/510d47de-871d-a3d9-e040-e00a18064a99]",
-  "dateTaken": "June-July 1937",
-  "description": "African American workers during the Great Depression in Mississippi. “These cotton hoers work from 6 a.m. to 7 p.m. for $1.00 near Clarksdale, Mississippi, June-July 1937.”",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg/1280px-Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 1254,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg/500px-Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "article": {
    "title": "Dorothea Lange",
@@ -997,29 +880,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Interior of the National Gallery Singapore.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AInterior_of_the_National_Gallery_Singapore.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Basile Morin",
-  "credit": "Own work",
-  "dateTaken": "2018-06-08 18:14:31",
-  "description": "Interior of the National Gallery of Singapore with the airy corridors on 4 levels, the staircases and escalators, in the evening. Architect : Jean-Francois Milou",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1280px-Interior_of_the_National_Gallery_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 961,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/500px-Interior_of_the_National_Gallery_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "National Gallery Singapore",
-   "url": "https://en.wikipedia.org/wiki/National_Gallery_Singapore",
-   "extract": "The National Gallery Singapore is a public art museum and national museum located in the Civic District of Singapore. It houses a collection of Singaporean and Southeast Asian art spanning the 19th century to the present, with more than 9,000 artworks. \nThe Gallery aims to provide an understanding and appreciation of art and culture through a variety of media, focusing on Singapore's culture and heritage and its relationship with other Asian cultures and the world. It consists of two national monuments, the former Supreme Court and former City Hall buildings, and has a combined floor area of 64,000 square metres (690,000 sq ft), making it the largest visual arts venue and largest museum in Singapore. A total cost of approximately S$532 million has gone into the National Gallery Singapore's development. \nIn financial year 2024-25, the Gallery recorded 1,979,190 visitors. Singapore citizens and permanent residents receive free general admission.\nThe Gallery also contains several restaurants and cafés, including Odette and National Kitchen by Violet Oon.",
-   "lat": 1.29049,
-   "lon": 103.85186
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Hupao.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AHupao.jpg",
   "license": "CC BY-SA 3.0",
@@ -1326,52 +1186,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Porters Pass with Big Ben Range, Torlesse Range, New Zealand.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3APorters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Michal Klajban",
-  "credit": "Own work",
-  "dateTaken": "2019-07-18 11:46:05",
-  "description": "Porters Pass with Big Ben Range in the background. Roughly in the middle of the highway, Porters carpark can be seen. In the background, snowy Ben More (1655m) sticks its top above everything else. Ben More is the highest named summit of Big Ben Range. Picture taken from the ridges of Foggy Peak. Canterbury, New Zealand",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg/1280px-Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 326,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg/500px-Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Porters Pass",
-   "url": "https://en.wikipedia.org/wiki/Porters_Pass",
-   "extract": "Porters Pass (elevation 939 metres) is a mountain pass in the Canterbury region of New Zealand's South Island.\nIt is near Lake Lyndon and is located within Korowai/Torlesse Tussocklands Park. State Highway 73 travels through the pass on its route from Springfield to Cass, and it is the last mountain pass on the route eastwards from Westland to Christchurch. It is also the third-highest point on the South Island's state highway network, after the Lindis Pass and the Milford Road (though it is just one metre lower). Although Arthur's Pass is better known, Porters Pass is a few metres higher, and it affords views of the Canterbury Plains. The Porter brothers, who were farming nearby, named the pass in 1858.",
-   "lat": -43.29666667,
-   "lon": 171.74194444
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Maniniaro - Angelus Peak, Nelson Lakes National Park, New Zealand.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AManiniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Michal Klajban",
-  "credit": "Own work",
-  "dateTaken": "2019-07-27 09:37:20",
-  "description": "Maniniaro / Angelus Peak, Nelson Lakes National Park, New Zealand",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg/1280px-Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 331,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg/500px-Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Maniniaro / Angelus Peak",
-   "url": "https://en.wikipedia.org/wiki/Maniniaro_/_Angelus_Peak",
-   "extract": "Maniniaro / Angelus Peak is a mountain in Nelson Lakes National Park, near the northwestern extent of New Zealand's main divide. Although it is not the tallest peak in the Angelus Ridge or the wider Travers Range, Maniniaro remains a popular tramping destination and is significant to the Ngāti Apa ki te Rā Tō iwi, who claim mana whenua (regional authority) within the area. According to Ngāti Apa ki te Rā Tō beliefs, the mountain is intrinsically linked with nearby Rotomaninitua / Lake Angelus, with the two both said to represent the footprints of the iwi's ancestors as they embarked on their journey back to Hawaiki. It is also near both major lakes of the national park, being roughly 6 kilometres (3.7 mi) from the southern ends of both Lakes Rotoiti and Rotoroa.\nBeing situated near the intersection of several walking tracks, Maniniaro / Angelus Peak is a popular destination for trampers. The popular Angelus Hut is situated on the shore of nearby Rotomaninitua / Lake Angelus, which provides a launching point for those wishing to climb the summit of Maniniaro as the route from the hut to the summit requires no specialist equipment when there is no snow. Routes to near the summit are among the most important in Nelson Lakes National Park, and are an active part of the park's management plan. The Department of Conservation also noted the potential for ski touring in the alpine areas around the peak, recommending that this be managed through concessions to prevent overcrowding of facilities. \nManiniaro / Angelus Peak is one of many places in New Zealand to have a dual place name, consisting of the Māori name and the European name. The mountain's Māori name highlights the connection which it is to nearby Rotomaninitua in the beliefs of the local Ngāti Apa ki te Rā Tō iwi, who see both as markers and resting places for their ancestors on their return journey to their ancestral homeland of Hawaiki. The mountain was subsequently named as Angelus Peak by the climbers L.J. Dumbleton and D.J. Stanton, who ascended the mountain on an evening during Easter 1947. The latter of these was the official name until 2014, when a Treaty of Waitangi settlement with multiple iwi from the upper South Island included a provision to alter the official name to a dual form. This was done in part to recognise the significance of the peak to local Māori.",
-   "lat": -41.908,
-   "lon": 172.744
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Orchards in snow, Sangla, Himachal Pradesh, India.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3AOrchards_in_snow%2C_Sangla%2C_Himachal_Pradesh%2C_India.jpg",
   "license": "CC BY-SA 4.0",
@@ -1391,29 +1205,6 @@
    "extract": "Sangla is a town in the Baspa Valley, in the Kinnaur District of Himachal Pradesh, India, close to the border with Tibet. It is the administrative headquarter of the eponymous Sangla tehsil, and the primary town in the Baspa Valley which is also referred to as the Sangla Valley.",
    "lat": 31.42638889,
    "lon": 78.265
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Panorama of Himalayas from Ranikhet, Uttarakhand, India.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3APanorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Original:  Harshit SR\nDerivative work:  UnpetitproleX",
-  "credit": "This file was derived from:  Panorama of Himalayas.jpg",
-  "dateTaken": "14 December 2020, 11:01:17",
-  "description": "Photograph taken from Ranikhet, Almora, Uttarakhand, India. Showing, from left to right: Nanda Ghunti (6,309 metres (20,699 ft)), Trisul (7,120 metres (23,360 ft)), Mrigthuni (6,855 metres (22,490 ft)), Devtoli (6,788 metres (22,270 ft)), Nanda Devi (7,817 metres (25,646 ft)), Sunanda Devi (7,434 metres (24,390 ft)), Panwali Dwar (6,683 metres (21,926 ft)), Nanda Khat (6,611 metres (21,690 ft)), Changuch (6,322 metres (20,741 ft)), Nanda Kot 6,861 metres (22,510 ft)), Dangthal (6,050 metres (19,850 ft)), Rajrambha (6,537 metres (21,447 ft), and Panchachuli 6,904 metres (22,651 ft)) (highest pe",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/1280px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 372,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/500px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "India",
-   "url": "https://en.wikipedia.org/wiki/India",
-   "extract": "India, officially the Republic of India, is a country in South Asia.  It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.\nModern humans arrived on the Indian subcontinent from Africa by 55,000 years ago. Settled life emerged in the western margins of the Indus river basin 9,000 years ago, evolving into the Indus Valley Civilisation of the third millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, diffused into India from the northwest, its earliest hymns containing elements of what would become Hinduism. The pre-existing Dravidian and other languages were gradually superseded in India's northern plains. Across the central stretch of these plains, rapid urbanisation took place, and after 500 BCE a caste-based, hereditary form of social stratification began to solidify as Hinduism took fuller shape. During this period, Buddhism and Jainism arose, proclaiming social orders unlinked to heredity. The subsequent emergence of the loose-knit Maurya and Gupta Empires gave rise to wide-ranging cultural and scientific creativity. However, these eras saw a steady decline in women's status, alongside the eventual institutionalisation of untouchability. In South India, across the first millennium CE, the Middle kingdoms transmitted Dravidian language scripts and cultural traditions to Southeast Asia. Well before the millennium's end, Judaism, Christianity, Islam, and Zoroastrianism had become established on India's southern and western coasts.\nEarly in the 2nd millennium, Muslim armies from Central Asia intermittently overran India's northern plains, eventually establishing the Delhi Sultanate and drawing India into the cosmopolitan networks of medieval Islam. The Vijayanagara Empire built a powerful military-fiscal state that fostered a flourishing, distinctively South Indian Hindu culture. During this era, Sikhism emerged in the Punjab, promoting an egalitarian devotion that transcended traditional Hindu and Muslim boundaries. The Mughal Empire ushered in two centuries of economic expansion and relative peace, leaving a lasting legacy of administrative centralisation and cultural synthesis. The expanding rule of the British East India Company consolidated territorial control over the subcontinent while transforming India into a colonial economy.  Crown rule, or the British Raj, began in 1858. Although equality before the law promised to Indians was slow to materialise, both British India and, to a lesser extent, the princely states  saw technological changes as modern education and more organised public life took root. A nationalist movement emerged in India, the first in the non-European British Empire. Noted for nonviolent resistance after 1920, it was a major factor in ending British rule. In 1947, the British Indian Empire was partitioned into the independent dominions of a Hindu-majority India and a Muslim-majority Pakistan. The partition brought large-scale loss of life and unprecedented migration.\nThe Constitution of India was adopted in 1950 and declared India to be  a federal republic governed through a democratic parliamentary system; it guarantees freedom of speech, freedom of press, and religious pluralism. Amendments enacted from 1951 onwards strengthened affirmative action programmes to reduce caste inequality.  The reorganization of states in 1956 along linguistic lines institutionalised regional language pride and led to the growth of regional literature and cinema.  During the 1970s, India reversed agricultural stagnation through the Green Revolution, achieving national food security. The country also altered the regional power balance through support for Bangladesh and enacted constitutional reform to end princely privileges. India's population grew from 361 million in 1951 to approximately 1.464 billion in 2025. Economic reforms of the 1990s integrated India's economy with the world's.  By the 2010s, the Indian economy had a stably high rate of growth.  A large middle class and a communications boom gained momentum. However, challenges remain, including widening income gaps, gender inequality and environmental degradation. In recent years, India has seen a political shift toward majoritarianism.  A nuclear-weapon state with high military expenditure, India is among the world's largest economies and a founding member of the United Nations, while its cultural legacy encompasses 45 UNESCO World Heritage Sites. India's megadiverse land features four biodiversity hotspots. Its wildlife is supported in protected habitats and traditionally viewed with cultural tolerance.",
-   "lat": 21,
-   "lon": 78
   }
  },
  {
@@ -2054,29 +1845,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Hidden Peak Fire Lookout at sunset, with smokey haze from nearby fires.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AHidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Nick Archibald",
-  "credit": "Own work",
-  "dateTaken": "2018-08-12 20:05:19",
-  "description": "Built in 1932, and perched just outside the North Cascades National Park in northern Washington State, the Hidden Lake Lookout was used until decommissioned by the Forest Service sometime around 1953, and has now stood as a historic monument longer than it served its original function as a fire lookout. In 1987, it was added to the National Register of Historic Places.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg/1280px-Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 639,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg/500px-Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Hidden Lake Peaks",
-   "url": "https://en.wikipedia.org/wiki/Hidden_Lake_Peaks",
-   "extract": "Hidden Lake Peaks is series of peaks with a maximum elevation of 7,088 feet (2,160 meters) that are located in the North Cascades, in Skagit County of Washington state. The peaks extend three miles southwest from the nearest higher peak called The Triad. Situated on the western boundary of North Cascades National Park, Hidden Lake Peaks are positioned west of the crest of the Cascade Range, approximately ten miles east of the town of Marblemount. The popular subsidiary peak, Hidden Lake Lookout (6890 ft), lies a half mile to the southwest of the highest summit. The mountain's name is taken from its proximity to Hidden Lake which lies in a cirque below the east aspect of these two main peaks. Precipitation runoff from Hidden Lake Peaks drains into Cascade River which is a tributary of the Skagit River.",
-   "lat": 48.500743,
-   "lon": -121.197603
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Nepali woman, Ghyaru (crop).jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ANepali_woman%2C_Ghyaru_%28crop%29.jpg",
   "license": "CC BY-SA 2.0",
@@ -2123,52 +1891,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:New York Botanical Garden October 2016 010.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ANew_York_Botanical_Garden_October_2016_010.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "King of Hearts",
-  "credit": "Own work",
-  "dateTaken": "Taken on 23 October 2016, 15:48:12",
-  "description": "A waterfall on the Bronx River, New York Botanical Garden, The Bronx, New York City.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/New_York_Botanical_Garden_October_2016_010.jpg/1280px-New_York_Botanical_Garden_October_2016_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 854,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/New_York_Botanical_Garden_October_2016_010.jpg/500px-New_York_Botanical_Garden_October_2016_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "New York Botanical Garden",
-   "url": "https://en.wikipedia.org/wiki/New_York_Botanical_Garden",
-   "extract": "The New York Botanical Garden (NYBG) is a botanical garden at Bronx Park in the Bronx, New York City. Established in 1891, it is located on a 250-acre (100 ha) site that contains a landscape with over one million living plants; the Enid A. Haupt Conservatory, a greenhouse containing several habitats; and the LuEsther T. Mertz Library, which contains one of the world's largest collections of botany-related texts. As of 2016, over a million people visit the New York Botanical Garden annually.\nNYBG is also a major educational institution, teaching visitors about plant science, ecology, and healthful eating through NYBG's interactive programming. Nearly 90,000 of the annual visitors are children from underserved neighboring communities. An additional 3,000 are teachers from New York City's public school system participating in professional development programs that train them to teach science courses at all grade levels. NYBG operates one of the world's largest plant research and conservation programs.\nNYBG was established in 1891 and the first structures on the grounds opened at the end of that decade. Since 1967, the garden has been listed as a National Historic Landmark, and several buildings have been designated as official New York City landmarks.\n\n",
-   "lat": 40.86361111,
-   "lon": -73.87833333
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Glaciar Hubbard, Alaska, Estados Unidos, 2017-08-20, DD 16-21 PAN.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGlaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Diego Delso",
-  "credit": "Own work",
-  "dateTaken": "Taken on 20 August 2017, 09:13:20",
-  "description": "Panoramic view of Hubbard Glacier, Alaska, United States. The longest source for Hubbard Glacier originates 122 kilometres (76 mi) from its snout and it takes about 400 years for ice to traverse the length of the glacier. As the glacier is advancing it eventually blocked the outlet of Russell Fjord in 1986.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg/1280px-Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 232,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg/500px-Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Hubbard Glacier",
-   "url": "https://en.wikipedia.org/wiki/Hubbard_Glacier",
-   "extract": "Hubbard Glacier (Lingít: Sít' Tlein) is a glacier located in Wrangell–St. Elias National Park and Preserve in eastern Alaska and Kluane National Park and Reserve in Yukon, Canada, and named after Gardiner Hubbard.",
-   "lat": 60.31388889,
-   "lon": -139.37083333
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Skyline of the Central Business District of Singapore with Esplanade Bridge in the evening.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ASkyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge_in_the_evening.jpg",
   "license": "CC BY-SA 4.0",
@@ -2188,29 +1910,6 @@
    "extract": "The Esplanade Bridge is a 261-metre-long (850 ft.) road bridge that spans across the mouth of the Singapore River in Singapore with the Esplanade - Theatres on the Bay on its northern abutment and the Merlion on the southern. The 70 metre-wide (230 ft.) low-level concrete arched bridge has seven spans and supports two four-lane carriageways and walkways along both sides.\nThe bridge was built to provide faster vehicular access between Marina Centre and the financial district of Shenton Way and to displace traffic from St Andrew's Road and Connaught Drive. Construction of the bridge began in early 1994 and was completed in March 1997. Service 501 is the first bus route to pass by the Esplanade Bridge. On 10 July 1999, the right turn from Hill Street to Bras Basah Road is prohibited, and motorists had to use High Street and Parliament Place, together with the St Andrew's Road. The main contractor was Obayashi Corporation while the street lamps were designed by Light Cibles. The bridge then blocked views of the Merlion statue from the Marina Bay waterfront, raising a need for the original Merlion statue to be relocated from the back to the front of the bridge.",
    "lat": 1.28777778,
    "lon": 103.85388889
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Sun getting through fog in the New Zealand bush, Bryant Range.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ASun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Michal Klajban",
-  "credit": "Own work",
-  "dateTaken": "Taken on 25 April 2019, 10:03:52",
-  "description": "Sun getting through fog in the New Zealand bush, Bryant Range. The picture was taken on the trail between Rocks Hut and Middle Creek Hut. This section is part of Te Araroa Trail",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg/1280px-Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 853,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg/500px-Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Bryant Range",
-   "url": "https://en.wikipedia.org/wiki/Bryant_Range",
-   "extract": "The Bryant Range is a range of low mountains in the northern South Island of New Zealand. They form part of the boundary of the Nelson and Tasman Districts with Marlborough Region, as well as forming the western boundary of Mount Richmond Forest Park The range is traversed by State Highway 6 at the Rai Saddle close to its northern end.\nThe Bryant Range runs roughly northeast to southwest for some 35 kilometres, starting south of Delaware Bay and extending to its junction with the larger Richmond Range south of the town of Richmond. It is bounded in the east by the valleys of the Pelorus, Rai, and Ronga Rivers, and in the west by the Whangamoa River, Roding, and Teal Rivers. The range has several peaks over 1000 metres in height, notably Saddle Hill (1215m) and Mount Duppa (1133m).",
-   "lat": -41.33333333,
-   "lon": 173.38333333
   }
  },
  {
@@ -2309,52 +2008,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Mueller Hut with Mt Sefton and Aoraki (Mt Cook) during the sunrise.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AMueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Michal Klajban",
-  "credit": "Own work",
-  "dateTaken": "2020-01-16 05:45:35",
-  "description": "Mueller Hut with Mt Sefton and Aoraki / Mt Cook during the sunrise. Aoraki / Mt Cook National Park, New Zealand.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg/1280px-Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 311,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg/500px-Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Mount Sefton",
-   "url": "https://en.wikipedia.org/wiki/Mount_Sefton",
-   "extract": "Mount Sefton (Māori: Maukatua) is a mountain in the Aroarokaehe Range of the Southern Alps of New Zealand, just 12 kilometres (7.5 mi) south of Aoraki / Mount Cook.  To the south lies Mount Brunner, and to the north The Footstool, both more than 400 metres (1,300 ft) shorter.\nThe mountain is prominently visible from Mount Cook Village in the Hooker Valley, with Tuckett Glacier flowing down the south-eastern side of the mountain and Mueller Glacier in the valley below it. With a height of 3,151 metres (10,338 ft), Mount Sefton is the 13th-highest peak in the Southern Alps, and the 4th-highest mountain in New Zealand when excluding peaks of little prominence that are closer than a kilometre to a higher peak.\nThe Douglas River (formerly known as the Twain River) begins on Mount Sefton.\nAn early resident, Charles French Pemberton, named the area, whilst the geologist Julius von Haast named the mountain after William Sefton Moorhouse, the second Superintendent of Canterbury Province. The Māori name of the mountain is Maukatua, which translates as 'mountain of the gods'.\nEdward FitzGerald, with Matthias Zurbriggen as his guide, completed the first recorded climb to the summit shortly after Christmas 1894.",
-   "lat": -43.68222222,
-   "lon": 170.04222222
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Lascar summit.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ALascar_summit.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Alexandre Buisse (Nattfodd)",
-  "credit": "Own work",
-  "dateTaken": "2007-09-28",
-  "description": "360° view from (almost) the summit of the Lascar volcano, the most active volcano of the northern Chilean Andes. It has several eruptions per year, and smoke from the crater can be seen. This was taken at an altitude of 5500m. It's a downscaled version made from 11 photos.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lascar_summit.jpg/1280px-Lascar_summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 148,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lascar_summit.jpg/500px-Lascar_summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Lascar (volcano)",
-   "url": "https://en.wikipedia.org/wiki/Lascar_(volcano)",
-   "extract": "Lascar is a stratovolcano in Chile within the Central Volcanic Zone of the Andes, a volcanic arc that spans Peru, Bolivia, Argentina and Chile. It is the most active volcano in the region, with records of eruptions going back to 1848. It is composed of two separate cones with several summit craters. The westernmost crater of the eastern cone is presently active. Volcanic activity is characterized by constant release of volcanic gas and occasional vulcanian eruptions.\nLascar has been active for at least 56,000 years; some argue for activity beginning 220,000 years ago. The first known activity occurred at the eastern cone and was characterized by lava flows, before shifting to the western cone where lava domes were emplaced. An eruption event known as Piedras Grandes was followed by the large Soncor eruption. A new western edifice was constructed on top of the Soncor vent, during the Holocene activity then shifted again to the eastern edifice and continues there to this day. The magma supplied to the volcano ultimately comes from the subduction of the Nazca Plate beneath the South America Plate. A number of other volcanoes are found in the region, such as Aguas Calientes, Cordon de Puntas Negras and the giant La Pacana caldera.\nThe volcano experienced at least three major eruptions throughout its history: One is the Soncor eruption about 26,450 ± 500 years ago, another in 7,250 BCE and the third in 1993. The first of these eruptions released 10–15 cubic kilometres (2.4–3.6 cu mi) of material and is known as the Soncor eruption. The largest eruption of Lascar known to recorded history occurred in April 1993 and caused ash fall as far away as Buenos Aires. Because Lascar is located in a remote area, it is monitored primarily by remote sensing. Explosive eruptions are the greatest hazard at Lascar.\n\n",
-   "lat": -23.36666667,
-   "lon": -67.73333333
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Nagasaki 1945 - Before and after (adjusted).jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ANagasaki_1945_-_Before_and_after_%28adjusted%29.jpg",
   "license": "Public domain",
@@ -2401,29 +2054,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Grand Canyon Hopi Point Evening Light 2013.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGrand_Canyon_Hopi_Point_Evening_Light_2013.jpg",
-  "license": "CC BY-SA 3.0",
-  "artist": "Tuxyso",
-  "credit": "Own work",
-  "dateTaken": "2013-09-08 17:55:18",
-  "description": "Grand Canyon South Rim photographed from Hopi Point with warm evening light",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg/1280px-Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 848,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg/500px-Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Shiva Temple (Grand Canyon)",
-   "url": "https://en.wikipedia.org/wiki/Shiva_Temple_(Grand_Canyon)",
-   "extract": "Shiva Temple is a 7,646-foot-elevation (2,331-meter) summit located in the Grand Canyon, in Coconino County of Arizona, US. It is situated six miles north of Hopi Point overlook of the canyon's South Rim, about 2.5 miles southwest of North Rim's Tiyo Point, and two miles northwest of Isis Temple, where it towers 5,200 feet (1,600 meters) above the Colorado River. Shiva Temple is named for Shiva, the Hindu deity, destroyer of the universe. This name was applied by Clarence Dutton who began the tradition of naming geographical features in the Grand Canyon after mythological deities. Dutton believed Shiva Temple was the largest, grandest, and most majestic of the Grand Canyon buttes, with a broad, level, forested top. This mountain's name was officially adopted in 1906 by the U.S. Board on Geographic Names.\nIn 1937, the American Museum of Natural History led explorations to Shiva Temple and Wotans Throne in the belief that these buttes, isolated for 100,000 years from the plateau, may have evolved new species. The scientists discovered Ancestral Puebloan dwellings, deer antlers, and an empty Kodak film box that had been left behind a month earlier by pioneer Emery Kolb, his daughter Edith, Ruth Stephens Baker, Gordon Berger, and Ralph White, but no new species.\nAccording to the Köppen climate classification system, Shiva Temple has a Cold semi-arid climate.",
-   "lat": 36.1678508,
-   "lon": -112.1635251
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Ngaben di Nusa Penida.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3ANgaben_di_Nusa_Penida.jpg",
   "license": "CC BY-SA 4.0",
@@ -2444,30 +2074,6 @@
    "lat": -8.73333333,
    "lon": 115.53333333
   }
- },
- {
-  "group": "photograph",
-  "commonsFile": "File:Automatic dumper at the co-op orange packing plant, Redlands, Calif. Santa Fe trip LCCN2017878147.tif",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AAutomatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif",
-  "license": "Public domain",
-  "artist": "Delano, Jack, photographer",
-  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017878147\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a34000/1a34700/1a34764u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017878147/",
-  "dateTaken": "1943-03",
-  "description": "Title: Automatic dumper at the co-op orange packing plant, Redlands, Calif. Santa Fe trip\nAbstract/medium: 1 transparency : color.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif/lossy-page1-1280px-Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 994,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif/lossy-page1-1280px-Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Jack Delano",
-   "url": "https://en.wikipedia.org/wiki/Jack_Delano",
-   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.",
-   "lat": null,
-   "lon": null
-  },
-  "photographer": "Jack Delano"
  },
  {
   "group": "photograph",
@@ -2541,29 +2147,6 @@
  },
  {
   "group": "place",
-  "commonsFile": "File:Dunes, Désert du Thar.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ADunes%2C_D%C3%A9sert_du_Thar.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Clément Bardot",
-  "credit": "Own work",
-  "dateTaken": "2016-02-15 14:07:42",
-  "description": "Dunes in the Thar Desert (Great Indian Desert)",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Dunes%2C_D%C3%A9sert_du_Thar.jpg/1280px-Dunes%2C_D%C3%A9sert_du_Thar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 825,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Dunes%2C_D%C3%A9sert_du_Thar.jpg/500px-Dunes%2C_D%C3%A9sert_du_Thar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Thar Desert",
-   "url": "https://en.wikipedia.org/wiki/Thar_Desert",
-   "extract": "The Thar Desert (Rajasthani pronunciation: [t̪ʰaːɾ]), also known as the Great Indian Desert, is an arid region in the north-western part of the Indian subcontinent stretching across India and Pakistan. Covering an area of 264,091 km2 (101,966 sq mi), it is one of the largest subtropical deserts in Asia by area. About two-thirds of the desert area lies in India, with the remainder in Pakistan. It forms about six percent of the geographical area of India, with the majority of the desert lying in the state of Rajasthan, with portions extending into Gujarat, Haryana, and Punjab. Towards the west, it extends into the provinces of Sindh and Punjab in Pakistan. It is bordered by the Indo-Gangetic Plain to the north, west and northeast, Rann of Kutch to the south, and the Aravalli Range to the east.\nDuring the Last Glacial Maximum, an ice sheet covered the Tibetan Plateau, which reflected more solar radiation into space, resulting in cooling the overlying atmosphere during that period. Without the thermal low pressure caused by the heating, there was no monsoon over the Indian subcontinent, which led to the deposition of dust and the desertification of the region. The upliftment of the Aravallis brought about changes in the hydrography of the region, and the Ghaggar-Hakra River system that fed the region dried up, and the region became increasingly arid. Over the years, wind blown sediments and sand from the alluvial plains and the coast accumulated in the region.\nThe topography consists of sandy plains intercepted by eroded hills of low elevation. The region has a tropical desert climate with extremely hot summers and cooler winters. Majority of the rainfall is received from the southwest monsoon, which on average is less than 500 mm (20 in) annually. The rainfall varies over the years, often with large spells of drought. There are very few sources of water, with the inland Luni River system being the only major river system in the region. Rain water is often stored in natural and man-made reservoirs for use in the dry season.\nThe natural vegetation of the region is composed of trees, thorny scrubs and scattered grasslands. The desert is home to several animal and bird species. The Thar Desert is one of the most widely populated deserts in the world, with the Thar people inhabiting the area. The population is clustered into small villages, with majority of them nomadic in nature. Limited agriculture, herding of animals, and ecotourism drive the economy of the region.\n\n",
-   "lat": 27,
-   "lon": 71
-  }
- },
- {
-  "group": "place",
   "commonsFile": "File:Padum Road Shingo La Zanskar Oct22 A7C 03574.jpg",
   "filePage": "https://commons.wikimedia.org/wiki/File%3APadum_Road_Shingo_La_Zanskar_Oct22_A7C_03574.jpg",
   "license": "CC BY-SA 4.0",
@@ -2629,52 +2212,6 @@
    "extract": "The Bromo (Javanese: ꦧꦿꦩ), or Mount Bromo (Javanese: ꦒꦸꦤꦸꦁ​ꦧꦿꦩ, Indonesian: Gunung Bromo), is an active somma volcano, a Hindu pilgrimage site, and part of the Tengger mountains, in East Java, Indonesia.  At 2,329 meters (7,641 ft), it is not the highest peak of the massif, but is the most active and famous. The area is one of the most visited tourist destinations in East Java, and the volcano is included in the Bromo Tengger Semeru National Park. The name Bromo comes from the Javanese pronunciation of Brahma, the Hindu god of creation. At the mouth of the crater, there is an idol of Ganesha, the Hindu god of wisdom, which is worshipped by Javanese Hindus. Mount Bromo is located in the middle of a plain called \"Sea of Sand\" (Javanese: Segara Wedi or Indonesian: Lautan Pasir), a nature reserve that has been protected since 1919.\nA typical way to visit Mount Bromo is from the nearby mountain village of Cemoro Lawang. From there it is possible to walk to the volcano in about 45 minutes, but it is also possible to take an organized jeep tour, including stops at the viewpoint of Mount Penanjakan (2,770 m (9,090 ft)) (Indonesian: Gunung Penanjakan). The sights on Mount Penanjakan can also be reached on foot in about two hours. Depending on the level of volcanic activity, the Indonesian Center for Volcanology and Disaster Mitigation sometimes issues a warning not to visit Mount Bromo.\nThe neighboring Mount Batok is often mistaken as Mount Bromo due to its prominence in the caldera, and its position in front of the more flat Bromo crater as viewed from their most popular viewpoints along the northern rim.",
    "lat": -7.94166667,
    "lon": 112.95
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Green karst peaks seen from the top of Mount Nam Xay a sunny morning during the monsoon Vang Vieng Laos.jpg",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AGreen_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg",
-  "license": "CC BY-SA 4.0",
-  "artist": "Basile Morin",
-  "credit": "Own work",
-  "dateTaken": "2020-06-22 06:19:37",
-  "description": "Green karst peaks seen from the top of Mount Nam Xay (Northern view), a sunny morning at 6:19 am during the monsoon, in Vang Vieng, Vientiane Province, Laos.",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg/1280px-Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 800,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg/500px-Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Vang Vieng",
-   "url": "https://en.wikipedia.org/wiki/Vang_Vieng",
-   "extract": "Vang Vieng (Lao: ວັງວຽງ, pronounced [wáŋ wíaŋ]) is a city in the Vientiane Province of Laos. It is popular with tourists, specifically backpackers, seeking adventure sports as well as its karst topography. It is on the Nam Song River, 130km north of Vientiane (2 hours by car or bus).\n\n",
-   "lat": 18.92666667,
-   "lon": 102.44944444
-  }
- },
- {
-  "group": "place",
-  "commonsFile": "File:Mina de Chuquicamata, Calama, Chile, 2016-02-01, DD 110-112 PAN.JPG",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3AMina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG",
-  "license": "CC BY-SA 4.0",
-  "artist": "Diego Delso",
-  "credit": "Own work",
-  "dateTaken": "2016-02-01 19:37:44",
-  "description": "Panoramic view of Chuquicamata, a state-owned copper mine located at 2,850 metres (9,350 ft) above sea level just outside Calama, north of Chile. It is by excavated volume the largest open pit copper mine in the world. The huge hole was started in 1882 as a mine to extract gold and copper. It is 4.5 kilometres (2.8 mi) long, 3.5 kilometres (2.2 mi) wide and with a depth of 850 metres (2,790 ft) it is the second deepest open-pit mine in the world (after Bingham Canyon Mine in Utah, USA). Note: to get a feeling of the scale spot out a haul truck, which is 9.5 metres (31 ft) long and 4.5 metres (",
-  "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG/1280px-Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 1280,
-   "height": 638,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG/500px-Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  "article": {
-   "title": "Calama, Chile",
-   "url": "https://en.wikipedia.org/wiki/Calama,_Chile",
-   "extract": "Calama is a city and commune in the Atacama Desert in northern Chile. It is the capital of El Loa Province, part of the Antofagasta Region. Calama is one of the driest cities in the world with average annual precipitation of just 5 mm (0.20 in). The River Loa, Chile's longest, flows through the city. With a population of 166,334, it is the 2nd-largest city in the region.\nThe commune also encompasses the Quechua communities of Estación San Pedro, Toconce and Cupo; and the Lickan-antay communities of Taira, Conchi Viejo, Lasana, San Francisco de Chiu Chiu, Aiquina-Turi, and Caspana.\nIn 2003 the nearby town of Chuquicamata, once the largest open-pit copper mine in the world, was dismantled citing environmental reasons and encroachment from the mine's expansion. Residents of Chuquicamata then moved to Calama, away from company-owned residences, to find housing on their own.",
-   "lat": -22.46666667,
-   "lon": -68.93333333
   }
  },
  {
@@ -2750,24 +2287,372 @@
   "photographer": "Carol M. Highsmith"
  },
  {
+  "group": "place",
+  "commonsFile": "File:Baobab (Adansonia digitata), parque nacional Makgadikgadi Pans, Botsuana, 2018-07-30, DD 03-08 PAN.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ABaobab_%28Adansonia_digitata%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_03-08_PAN.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2018-07-30 07:43:47",
+  "description": "Baobab (Adansonia digitata) in a typical landscape of the Makgadikgadi Pans National Park, Botswana.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Baobab_%28Adansonia_digitata%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_03-08_PAN.jpg/1280px-Baobab_%28Adansonia_digitata%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_03-08_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 514,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Baobab_%28Adansonia_digitata%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_03-08_PAN.jpg/500px-Baobab_%28Adansonia_digitata%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_03-08_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Makgadikgadi Pan",
+   "url": "https://en.wikipedia.org/wiki/Makgadikgadi_Pan",
+   "extract": "The Makgadikgadi Pan  (Tswana pronunciation [makχʰadiˈkχʰaːdi]) is a salt pan situated in the middle of the dry savanna of north-eastern Botswana, is one of the largest salt flats in the world. The pan is all that remains of the formerly enormous Lake Makgadikgadi, which once covered an area larger than Switzerland, but dried up tens of thousands of years ago. Recent studies of human mitochondrial DNA suggest that modern Homo sapiens first began to evolve in this region some 200,000 years ago, when it was a vast, exceptionally fertile area of lakes, rivers, marshes, woodlands and grasslands especially favorable for habitation by evolving hominins and other mammals.",
+   "lat": -20.8,
+   "lon": 25.33333333
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Glacier Point at Sunset, Yosemite NP, CA, US - Diliff.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AGlacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Diliff",
+  "credit": "Own work",
+  "dateTaken": "2013-05-16",
+  "description": "A panoramic view from Glacier Point in Yosemite National Park in California, United States. The view extends from roughly north (on the left side to east (on the right).",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/1280px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 566,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg/500px-Glacier_Point_at_Sunset%2C_Yosemite_NP%2C_CA%2C_US_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Glacier Point",
+   "url": "https://en.wikipedia.org/wiki/Glacier_Point",
+   "extract": "Glacier Point is a viewpoint above Yosemite Valley in the U.S. state of California. It is located on the south wall of Yosemite Valley at an elevation of 7,214 feet (2,199 m), 3,200 feet (980 m) above Curry Village. The point offers a superb view of several of Yosemite National Park's well-known landmarks, including Yosemite Valley, Yosemite Falls, Half Dome, Vernal Fall, Nevada Fall, and Clouds Rest. Between 1872 and 1968, it was the site of the Yosemite Firefall.\n\n",
+   "lat": 37.7304,
+   "lon": -119.5736
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:NH505 Spiti Kaza Losar Jun18 D72 7797.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ANH505_Spiti_Kaza_Losar_Jun18_D72_7797.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+  "credit": "Own work",
+  "dateTaken": "2018-06-23 09:15:02",
+  "description": "View from left bank:  NH505 visible on the right bank of the Spiti River in a narrow valley about 15 km above Kaza, Spiti, Himachal, India.  The river has cut a gorge about 100m (330') deep in the floor of the valley.  River bed elev. 3,820m (12,533').  23 Jun 2018.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/NH505_Spiti_Kaza_Losar_Jun18_D72_7797.jpg/1280px-NH505_Spiti_Kaza_Losar_Jun18_D72_7797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 800,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/NH505_Spiti_Kaza_Losar_Jun18_D72_7797.jpg/500px-NH505_Spiti_Kaza_Losar_Jun18_D72_7797.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Spiti",
+   "url": "https://en.wikipedia.org/wiki/Spiti",
+   "extract": "Spiti (pronounced as piti in Bhoti language) is a high-altitude region of the Himalayas, located in the north-eastern part of the northern Indian state of Himachal Pradesh. The name \"Spiti\" means \"The middle land\", i.e. the land between Tibet in China and India. Spiti incorporates mainly the valley of the Spiti River, and the valleys of several rivers that feed into the Spiti River. Some of the prominent side-valleys in Spiti are the Pin valley and the Lingti valley. Spiti is bordered on the east by Tibet, on the north by Ladakh, on the west and southwest by Lahaul, on the south by Kullu, and on the southeast by Kinnaur. Spiti has a cold desert environment. The valley and its surrounding regions are among the least populated regions of India. The Bhoti-speaking local population follows Tibetan Buddhism.\nTraditionally, agriculture was for subsistence, but has shifted to cash crops in the past few decades. Spiti is a popular destination for photography, snow leopard spotting, and adventure tourism of various kinds, including winter sports.",
+   "lat": 32.24694444,
+   "lon": 78.05222222
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Fields Yugar Tsarap Zanskar Jun24 A7CR 00581.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AFields_Yugar_Tsarap_Zanskar_Jun24_A7CR_00581.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+  "credit": "Own work",
+  "dateTaken": "2024-06-04 15:24:24",
+  "description": "Fields below Yugar (elevation 3,850 m (12,630 ft)), on the left bank of the Tsarap (elev. 3,820 m (12,530 ft)), opposite Phuktal.  Zanskar, Ladakh, India",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fields_Yugar_Tsarap_Zanskar_Jun24_A7CR_00581.jpg/1280px-Fields_Yugar_Tsarap_Zanskar_Jun24_A7CR_00581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fields_Yugar_Tsarap_Zanskar_Jun24_A7CR_00581.jpg/500px-Fields_Yugar_Tsarap_Zanskar_Jun24_A7CR_00581.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Tsarap River",
+   "url": "https://en.wikipedia.org/wiki/Tsarap_River",
+   "extract": "Tsarap River, also known as Tsarap Chu, forms the eastern part of the Zanskar valley, in the Ladakh union territory of India. The 182 km (113 mi) long river is used for irrigation in riparian villages, and for adventure sports by tourists.",
+   "lat": 32.69796,
+   "lon": 77.890177
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Litang Ge'nyen 2014.09.16 09-11-25.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ALitang_Ge%27nyen_2014.09.16_09-11-25.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Zhangzhugang",
+  "credit": "Own work",
+  "dateTaken": "2014-09-16 09:11:25",
+  "description": "理塘格聂",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Litang_Ge%27nyen_2014.09.16_09-11-25.jpg/1280px-Litang_Ge%27nyen_2014.09.16_09-11-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 196,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Litang_Ge%27nyen_2014.09.16_09-11-25.jpg/500px-Litang_Ge%27nyen_2014.09.16_09-11-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Ge'nyen Massif",
+   "url": "https://en.wikipedia.org/wiki/Ge%27nyen_Massif",
+   "extract": "The Ge'nyen Massif (simplified Chinese: 格聂峰; traditional Chinese: 格聶峰; pinyin: Géniè Fēng; Tibetan: སྐར་མ་རི་བོ་, Wylie: skar ma ri bo), is a mountain in the Shaluli Mountains of western Sichuan province, China. With an elevation of 6,204 metres (20,354 ft), it is the third highest peak in the province. It was first climbed in 1988 by a Japanese team.\nThe Ge'nyen massif is regarded as the 13th most holy mountain among the 24 holy mountains of Tibetan Buddhism.  Lenggu Monastery is located in a steep valley at the base of the mountain's eastern flank.",
+   "lat": 29.84,
+   "lon": 99.7
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Dusky lory (Pseudeos fuscata), Gembira Loka Zoo, Yogyakarta, 2015-03-15 03.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ADusky_lory_%28Pseudeos_fuscata%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta%2C_2015-03-15_03.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Crisco 1492",
+  "credit": "Own work",
+  "dateTaken": "2015-03-15 11:43:13",
+  "description": "Dusky lory (Pseudeos fuscata), Gembira Loka Zoo, Yogyakarta, 2015-03-15",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Dusky_lory_%28Pseudeos_fuscata%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta%2C_2015-03-15_03.jpg/1280px-Dusky_lory_%28Pseudeos_fuscata%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta%2C_2015-03-15_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1748,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Dusky_lory_%28Pseudeos_fuscata%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta%2C_2015-03-15_03.jpg/500px-Dusky_lory_%28Pseudeos_fuscata%29%2C_Gembira_Loka_Zoo%2C_Yogyakarta%2C_2015-03-15_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Gembira Loka Zoo",
+   "url": "https://en.wikipedia.org/wiki/Gembira_Loka_Zoo",
+   "extract": "Gembira Loka Zoo (Indonesian: Kebun Binatang Gembira Loka; Javanese: ꦏꦼꦧꦺꦴꦤ꧀ꦫꦗꦒꦼꦩ꧀ꦧꦶꦫꦭꦺꦴꦏ, romanized: Kêbon Raja Gêmbira Loka) is a zoological garden located in Yogyakarta, Special Region of Yogyakarta, Indonesia.  Gembira Loka Zoo was opened in 1956 and comprises a botanical garden, orchid nursery, (artificial) lake, children's park, numerous scenic bridges across the Gajahwong River, and a collection of approximately 470 animals, most notable of which are its native Indonesian tigers, leopards, Komodo dragons, saltwater crocodiles, orangutans, and gibbons, as well as African animals such as lions, camels and hippopotamus. The park is 54 acres (21.8 hectares) in size.\nIn 2019, an area called Zona Cakar (\"Scratch Zone\") was opened, focusing on mammalian carnivores, especially cats.\nGembira Loka Zoo has received many animals from various countries, through trade and gifts, such as the six African penguins from Singapore Zoo, and eight lesser flamingos from Tanzania.",
+   "lat": -7.803968,
+   "lon": 110.3978733
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Strokkur, Área geotérmica de Geysir, Suðurland, Islandia, 2014-08-16, DD 084.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AStrokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_084.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "Taken on 16 August 2014, 13:21:35",
+  "description": "Eruption of Strokkur (Icelandic for \"churn\") a fountain geyser located in the Haukadalur geothermal area, southwest of Iceland.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_084.JPG/1280px-Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_084.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1920,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_084.JPG/500px-Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_084.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Strokkur",
+   "url": "https://en.wikipedia.org/wiki/Strokkur",
+   "extract": "Strokkur (Icelandic [ˈstrɔhkʏr̥], \"churn\") is a fountain-type geyser located in a geothermal area beside the Hvítá River in Iceland in the southwest part of the country, east of Reykjavík. It typically erupts every 6–10 minutes. Its usual height is 15–20 metres (49–66 ft), although it can sometimes erupt up to 40 metres (130 ft) high.\n\n",
+   "lat": 64.31305556,
+   "lon": -20.30055556
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Strokkur, Área geotérmica de Geysir, Suðurland, Islandia, 2014-08-16, DD 085.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AStrokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_085.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "Taken on 16 August 2014, 13:21:35",
+  "description": "Eruption of Strokkur (Icelandic for \"churn\") a fountain geyser located in the Haukadalur geothermal area, southwest of Iceland.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_085.JPG/1280px-Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_085.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1920,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_085.JPG/500px-Strokkur%2C_%C3%81rea_geot%C3%A9rmica_de_Geysir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_085.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Strokkur",
+   "url": "https://en.wikipedia.org/wiki/Strokkur",
+   "extract": "Strokkur (Icelandic [ˈstrɔhkʏr̥], \"churn\") is a fountain-type geyser located in a geothermal area beside the Hvítá River in Iceland in the southwest part of the country, east of Reykjavík. It typically erupts every 6–10 minutes. Its usual height is 15–20 metres (49–66 ft), although it can sometimes erupt up to 40 metres (130 ft) high.\n\n",
+   "lat": 64.31305556,
+   "lon": -20.30055556
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Sossusvlei south view.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASossusvlei_south_view.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Hans Hillewaert",
+  "credit": "Own work",
+  "dateTaken": "2007-06-14",
+  "description": "Panorama looking South at Sossusvlei, Namib desert, Namibia.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Sossusvlei_south_view.jpg/1280px-Sossusvlei_south_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 298,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Sossusvlei_south_view.jpg/500px-Sossusvlei_south_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Sossusvlei",
+   "url": "https://en.wikipedia.org/wiki/Sossusvlei",
+   "extract": "Sossusvlei (sometimes written Sossus Vlei) is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia. The name \"Sossusvlei\" is often used in an extended meaning to refer to the surrounding area (including other neighbouring vleis such as Deadvlei and other high dunes). These landmarks are some of the major visitor attractions of Namibia.\nThe name \"Sossusvlei\" is of mixed origin and roughly means \"dead-end marsh\". Vlei is the Afrikaans word for \"marsh\", while \"sossus\" is Nama for \"no return\" or \"dead end\". Sossusvlei owes this name to the fact that it is an endorheic drainage basin (i.e., a drainage basin without outflows) for the ephemeral Tsauchab River.\n\n",
+   "lat": -24.73983,
+   "lon": 15.28765
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Summitting Island Peak.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASummitting_Island_Peak.jpg",
+  "license": "CC BY 3.0",
+  "artist": "Mountaineer",
+  "credit": "Own work",
+  "dateTaken": "2004-10-27",
+  "description": "Climber taking the final few steps onto the 20,305 ft. (6,189 m) summit of Imja Tse (Island Peak) in Nepal.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Summitting_Island_Peak.jpg/1280px-Summitting_Island_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1707,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Summitting_Island_Peak.jpg/500px-Summitting_Island_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Island Peak",
+   "url": "https://en.wikipedia.org/wiki/Island_Peak",
+   "extract": "Island Peak (Nepali: इम्जा छे, Imja Tse) is a mountain in Sagarmatha National Park in the Himalayas of eastern Nepal. The peak was named Island Peak in 1953 by members of the British Mount Everest expedition because it appears as an island in a sea of ice when viewed from Dingboche. The peak was later renamed in 1983 to Imja Tse but Island Peak remains the popular choice. The peak is actually an extension of the ridge coming down off the south end of Lhotse Shar.\nThe southwest summit of Imja Tse was first climbed in 1953 as part of a training exercise by a British expedition that went on to summit Mount Everest. The team that climbed Imja Tse comprised Tenzing Norgay, Charles Evans, Alfred Gregory, Charles Wylie and seven other Sherpas. The main summit was first climbed in 1956 by Hans-Rudolf Von Gunten and two unknown Sherpas, members of a Swiss team that went on to make the second ascent of Everest and the first ascent of Lhotse.",
+   "lat": 27.92079,
+   "lon": 86.93516
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Amazing Sunset of Pheriche.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AAmazing_Sunset_of_Pheriche.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Babin Dulal",
+  "credit": "Own work",
+  "dateTaken": "2019-03-18 17:32:50",
+  "description": "Pheriche is a village in the Khumbu region of eastern Nepal. Situated at an altitude of about 4,371 m above the Tsola River, Pheriche is a popular stop for trekkers and climbers.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Amazing_Sunset_of_Pheriche.jpg/1280px-Amazing_Sunset_of_Pheriche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Amazing_Sunset_of_Pheriche.jpg/500px-Amazing_Sunset_of_Pheriche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Pheriche",
+   "url": "https://en.wikipedia.org/wiki/Pheriche",
+   "extract": "Pheriche (Nepali: फेरिचे) is a village in the Khumbu region of eastern Nepal. Situated at an altitude of about 4,371 m (14,340 ft), above the Tsola River, Pheriche is a popular stop for trekkers and climbers. There is a rudimentary hospital in Pheriche managed by the Himalayan Rescue Association.  The Pheriche hospital is open only during the two trekking/climbing seasons (March–May and October–December).  Although the hospital was built with Japanese support in 1975, it is staffed by Nepalis and volunteer physicians who are mostly from the US, Europe, Canada and Australia. \nPheriche was primarily a farming village raising potatoes and buckwheat, and keeping yaks. However, now in the summer, many of its men are employed by trekkers as guides and porters. There are also many lodges where trekkers and climbers on their way to the Mt. Everest Base Camp can stay. It is an important acclimatization stopover. There are over 25 local guest houses, that are called tea houses in America. The population of local Sherpas is 150 as per the latest Census of Nepal and all of them are followers of Tibetan Buddhism. \nIt was heavily damaged in the devastating April 2015 Nepal earthquake, but only one local dweller was wounded, partly due to people being outside their dwellings during the day. The area is a relief and treatment center and an evacuation point.",
+   "lat": 27.89356111,
+   "lon": 86.81987778
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Mountains in snow, Mountain lake, Chola Valley, Nepal, Himalayas.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AMountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Vyacheslav Argenberg",
+  "credit": "Own work",
+  "dateTaken": "2009-10-18 11:49:26",
+  "description": "Mountains in snow. Mountain lake. View to the east on descending from Cho La Pass into Chola Valley, 5,200 metres (17,100 ft) a. s. l. Glacial lake, rocks covered with snow, Ama Dablam (6,810 metres (22,343 ft)) and other Himalayan peaks to the south of the Great Himalayan Range in Mahalangur Himal. Nepal, Himalayas.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg/1280px-Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg/500px-Mountains_in_snow%2C_Mountain_lake%2C_Chola_Valley%2C_Nepal%2C_Himalayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Cho La (Nepal)",
+   "url": "https://en.wikipedia.org/wiki/Cho_La_(Nepal)",
+   "extract": "Cho La is a summit pass located 5,420 metres (17,782 ft) above sea level in the Solukhumbu District in northeastern Nepal. It connects the village of Dzongla (4,830 metres (15,850 ft)) to the east and the village of Thagnak (4,700 metres (15,400 ft)) to the west.",
+   "lat": 27.962122,
+   "lon": 86.751923
+  }
+ },
+ {
   "group": "photograph",
-  "commonsFile": "File:Side shows at the Vermont state fair, Rutland LCCN2017877386.tif",
-  "filePage": "https://commons.wikimedia.org/wiki/File%3ASide_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif",
+  "commonsFile": "File:\"Twenty mule team\" borax wagons and the Harmony Borax Works in California's Death Valley LCCN2013631066.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A%22Twenty_mule_team%22_borax_wagons_and_the_Harmony_Borax_Works_in_California%27s_Death_Valley_LCCN2013631066.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2013631066\nImage download: https://cdn.loc.gov/master/pnp/highsm/23800/23888a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.23888",
+  "dateTaken": "Taken on 20 December 2012, 12:28 (according to Exif data)",
+  "description": "Title: \"Twenty mule team\" borax wagons and the Harmony Borax Works in California's Death Valley\nPhysical description: 1 photograph : digital, tiff file, color.\n\nNotes: Title, date, and keywords provided by the photographer.; Credit line: The Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.; Gift; The Capital Group Companies Charitable Foundation in memory of Jon B. Lovelace; 2012; (DLC/PP-2012:063).; Forms part of: Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's Ameri",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%22Twenty_mule_team%22_borax_wagons_and_the_Harmony_Borax_Works_in_California%27s_Death_Valley_LCCN2013631066.tif/lossy-page1-1280px-%22Twenty_mule_team%22_borax_wagons_and_the_Harmony_Borax_Works_in_California%27s_Death_Valley_LCCN2013631066.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 854,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/%22Twenty_mule_team%22_borax_wagons_and_the_Harmony_Borax_Works_in_California%27s_Death_Valley_LCCN2013631066.tif/lossy-page1-1280px-%22Twenty_mule_team%22_borax_wagons_and_the_Harmony_Borax_Works_in_California%27s_Death_Valley_LCCN2013631066.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:A boy enjoys a lovely pond and fountain away from the animals at the Houston, Texas, zoo LCCN2014633251.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AA_boy_enjoys_a_lovely_pond_and_fountain_away_from_the_animals_at_the_Houston%2C_Texas%2C_zoo_LCCN2014633251.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2014633251\nImage download: https://cdn.loc.gov/master/pnp/highsm/29000/29051a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.29051",
+  "dateTaken": "Taken on 2 May 2014, 12:13 (according to Exif data)",
+  "description": "Title: A boy enjoys a lovely pond and fountain away from the animals at the Houston, Texas, zoo\nPhysical description: 1 photograph : digital, tiff file, color.\n\nNotes: Title, date, and keywords based on information provided by the photographer.; Gift; The Lyda Hill Foundation; 2014; (DLC/PP-2014:054).; Forms part of: Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.; Credit line: The Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/A_boy_enjoys_a_lovely_pond_and_fountain_away_from_the_animals_at_the_Houston%2C_Texas%2C_zoo_LCCN2014633251.tif/lossy-page1-1280px-A_boy_enjoys_a_lovely_pond_and_fountain_away_from_the_animals_at_the_Houston%2C_Texas%2C_zoo_LCCN2014633251.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 869,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/A_boy_enjoys_a_lovely_pond_and_fountain_away_from_the_animals_at_the_Houston%2C_Texas%2C_zoo_LCCN2014633251.tif/lossy-page1-1280px-A_boy_enjoys_a_lovely_pond_and_fountain_away_from_the_animals_at_the_Houston%2C_Texas%2C_zoo_LCCN2014633251.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:A 19-story-high cross, erected by the nonprofit Cross Ministries along U.S. 40 (the old U.S. Route 66) near Groom in the Texas Panhandle LCCN2014633749.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AA_19-story-high_cross%2C_erected_by_the_nonprofit_Cross_Ministries_along_U.S._40_%28the_old_U.S._Route_66%29_near_Groom_in_the_Texas_Panhandle_LCCN2014633749.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2014633749\nImage download: https://cdn.loc.gov/master/pnp/highsm/29500/29549a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.29549",
+  "dateTaken": "Taken on 1 June 2014, 19:43 (according to Exif data)",
+  "description": "Title: A 19-story-high cross, erected by the nonprofit Cross Ministries along U.S. 40 (the old U.S. Route 66) near Groom in the Texas Panhandle\nPhysical description: 1 photograph : digital, tiff file, color.\n\nNotes: Title, date, and keywords based on information provided by the photographer.; Credit line: The Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.; Forms part of: Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.; Gift; The Lyda Hil",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/A_19-story-high_cross%2C_erected_by_the_nonprofit_Cross_Ministries_along_U.S._40_%28the_old_U.S._Route_66%29_near_Groom_in_the_Texas_Panhandle_LCCN2014633749.tif/lossy-page1-1280px-A_19-story-high_cross%2C_erected_by_the_nonprofit_Cross_Ministries_along_U.S._40_%28the_old_U.S._Route_66%29_near_Groom_in_the_Texas_Panhandle_LCCN2014633749.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1918,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/A_19-story-high_cross%2C_erected_by_the_nonprofit_Cross_Ministries_along_U.S._40_%28the_old_U.S._Route_66%29_near_Groom_in_the_Texas_Panhandle_LCCN2014633749.tif/lossy-page1-1280px-A_19-story-high_cross%2C_erected_by_the_nonprofit_Cross_Ministries_along_U.S._40_%28the_old_U.S._Route_66%29_near_Groom_in_the_Texas_Panhandle_LCCN2014633749.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:Caboose on the caboose track at C & NW RR's (i.e. Chicago and North Western railroad's) Proviso yard, Chicago, Ill. LCCN2017878050.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ACaboose_on_the_caboose_track_at_C_%26_NW_RR%27s_%28i.e._Chicago_and_North_Western_railroad%27s%29_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878050.tif",
   "license": "Public domain",
   "artist": "Delano, Jack, photographer",
-  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017877386\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a33000/1a33900/1a33907u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017877386/",
-  "dateTaken": "1941-09",
-  "description": "Title: Side shows at the Vermont state fair, Rutland\nAbstract/medium: 1 slide : color.",
+  "credit": "Library of Congress\n\nCatalog: https://lccn.loc.gov/2017878050\nImage download: https://cdn.loc.gov/master/pnp/fsac/1a34000/1a34600/1a34665u.tif\nOriginal url: https://www.loc.gov/pictures/item/2017878050/",
+  "dateTaken": "1943-04",
+  "description": "Title: Caboose on the caboose track at C & NW RR's [i.e. Chicago and North Western railroad's] Proviso yard, Chicago, Ill.\nAbstract/medium: 1 transparency : color.",
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif/lossy-page1-1280px-Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Caboose_on_the_caboose_track_at_C_%26_NW_RR%27s_%28i.e._Chicago_and_North_Western_railroad%27s%29_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878050.tif/lossy-page1-1280px-Caboose_on_the_caboose_track_at_C_%26_NW_RR%27s_%28i.e._Chicago_and_North_Western_railroad%27s%29_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878050.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "width": 1280,
-   "height": 904,
-   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif/lossy-page1-1280px-Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "height": 991,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Caboose_on_the_caboose_track_at_C_%26_NW_RR%27s_%28i.e._Chicago_and_North_Western_railroad%27s%29_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878050.tif/lossy-page1-1280px-Caboose_on_the_caboose_track_at_C_%26_NW_RR%27s_%28i.e._Chicago_and_North_Western_railroad%27s%29_Proviso_yard%2C_Chicago%2C_Ill._LCCN2017878050.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "article": {
    "title": "Jack Delano",
    "url": "https://en.wikipedia.org/wiki/Jack_Delano",
-   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.\n\n",
+   "extract": "Jack Delano (born Yakov Ovcharov, Ukrainian: Яков Овчаров, romanized: Yakov Ovcharov; August 1, 1914 – August 14, 1997) was a Russian Empire-born Ukrainian photographer, filmmaker, and composer, who spent much of his life in Puerto Rico. In the United States, he worked for the Works Progress Administration, United Fund, and most notably, the Farm Security Administration (FSA). He wore many hats as he also was a composer known for his use of Puerto Rican folk material, started a television production company, and was a cartoonist, poet, professor, and architectural designer.",
    "lat": null,
    "lon": null
   },
