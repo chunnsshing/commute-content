@@ -11363,6 +11363,1046 @@
       },
       "order": 238,
       "batch": "2026-10-31"
+    },
+    {
+      "id": "commons-indus-leh",
+      "kind": "place",
+      "title": "Indus Valley near Leh",
+      "maker": "KennyOMG",
+      "year": "2009",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Indus_Valley_near_Leh.jpg/1280px-Indus_Valley_near_Leh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 340,
+        "license": "CC BY-SA 3.0",
+        "credit": "KennyOMG, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Ladakh",
+        "lat": 34.153,
+        "lon": 77.577,
+        "facts": [
+          [
+            "Length",
+            "3,180 km"
+          ],
+          [
+            "Source",
+            "Tibet, as Sengge Zangbo"
+          ],
+          [
+            "Mouth",
+            "Arabian Sea, near Karachi"
+          ],
+          [
+            "Coordinates",
+            "34.15° N, 77.58° E (Leh)"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "The Indus rises in the Tibet Autonomous Region, where it is called Sengge Zangbo, and runs 3,180 kilometres to the Arabian Sea near Karachi. It flows northwest through the Kashmir region, first through Ladakh and then Gilgit-Baltistan, before bending sharply after the Nanga Parbat massif and heading south through Pakistan. Its drainage basin covers about 1,120,000 square kilometres, and its glacier-fed flow makes it one of the fifty largest rivers on Earth. This panorama was made on 15 September 2009 from the Indus Viewpoint on the Srinagar–Leh Highway, near Leh, which stands on the river's bank at about 3,500 metres.",
+      "lookAt": "A panorama this wide lets one long diagonal do the work: the river braids through the tree-green valley floor and carries the eye from the dark foreground slope to the far snow peaks. Brown ridges on both sides frame it. Wait for clouds, as here, so the light patterns the valley.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indus_River",
+        "https://en.wikipedia.org/wiki/Leh",
+        "https://commons.wikimedia.org/wiki/File:Indus_Valley_near_Leh.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Indus Valley near Leh",
+        "line2": "KennyOMG · Ladakh"
+      },
+      "order": 239,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-himalaya-ranikhet",
+      "kind": "place",
+      "title": "Himalayas from Ranikhet",
+      "maker": "Harshit SR / UnpetitproleX",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg/1280px-Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 372,
+        "license": "CC BY-SA 4.0",
+        "credit": "Harshit SR / UnpetitproleX, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Uttarakhand",
+        "lat": 29.65,
+        "lon": 79.42,
+        "facts": [
+          [
+            "Town elevation",
+            "1,869 m"
+          ],
+          [
+            "Nanda Devi",
+            "7,817 m"
+          ],
+          [
+            "Trisul",
+            "7,120 m"
+          ],
+          [
+            "Coordinates",
+            "29.65° N, 79.42° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Ranikhet is a hill station and cantonment in Almora district, Uttarakhand, about 1,869 metres above sea level. The British took Kumaon from the Gorkhas after the conquest of Almora in 1815, bought land here in 1868 and formed a cantonment the following year, when the Kumaon Regiment set up its headquarters. The town lies within sight of the western Himalayas, and this panorama, taken on 14 December 2020, lines up a chain of summits including Trisul at 7,120 metres, Nanda Devi at 7,817 metres, Nanda Kot at 6,861 metres and Panchachuli at 6,904 metres, the highest peak of its group.",
+      "lookAt": "A long, thin panorama suits a mountain chain. The white summits sit on a single horizontal band under blue sky, while the dark foothills fill the bottom half and give the ice its contrast. Notice how the winter air holds detail all the way to the farthest peak.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ranikhet",
+        "https://commons.wikimedia.org/wiki/File:Panorama_of_Himalayas_from_Ranikhet%2C_Uttarakhand%2C_India.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Himalayas from Ranikhet",
+        "line2": "Harshit SR / UnpetitproleX · Uttarakhand"
+      },
+      "order": 240,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "loc-delano-vermont-fair",
+      "kind": "photograph",
+      "title": "Side shows at the Vermont state fair, Rutland",
+      "maker": "Jack Delano",
+      "year": "1941",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif/lossy-page1-1280px-Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 904,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Jack Delano made this colour slide at the Vermont state fair in Rutland in September 1941. Born Yakov Ovcharov in the Russian Empire in 1914, he worked for the Farm Security Administration, the federal programme that sent photographers across the United States, and later settled in Puerto Rico, where he also composed music and made films. Here he looked down onto the midway from above: a Ferris wheel stands against a hillside of trees, a round tent topped by a flag sits in the centre, and signs for trick riders, a thrill show and a lion act line the far right, while a few visitors cross the dirt ground.",
+      "lookAt": "Delano shot from a raised vantage so tents, wheel and crowd stack in layers instead of overlapping. The big round roof anchors the centre, and the Ferris wheel's thin geometry fills the left. Climb a few metres when you shoot a busy scene and the clutter sorts itself.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File:Side_shows_at_the_Vermont_state_fair%2C_Rutland_LCCN2017877386.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1941",
+        "title": "Side shows at the Vermont state fair, Rutland",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "order": 241,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-vang-vieng-karst",
+      "kind": "place",
+      "title": "Karst peaks of Vang Vieng",
+      "maker": "Basile Morin",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg/1280px-Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 800,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Laos",
+        "region": "Vientiane Province",
+        "lat": 18.927,
+        "lon": 102.449,
+        "facts": [
+          [
+            "Town",
+            "Vang Vieng"
+          ],
+          [
+            "River",
+            "Nam Song"
+          ],
+          [
+            "Distance",
+            "130 km north of Vientiane"
+          ],
+          [
+            "Coordinates",
+            "18.93° N, 102.45° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Vang Vieng is a city in Vientiane Province, Laos, on the Nam Song River, 130 kilometres north of the capital Vientiane. It was first settled around 1353 as a staging post between Luang Prabang and Vientiane, and was renamed Vang Vieng during French colonial rule in the 1890s. When Laos opened to tourism in the late 1990s, backpackers arrived for the limestone karst landscape and for tubing and kayaking on the river. This view looks north from the top of Mount Nam Xay at 6:19 on a sunny morning in the monsoon, on 22 June 2020, with mist still settled between the green peaks.",
+      "lookAt": "Low sun rakes across the karst and gives each tower a bright edge and a shadowed flank, so the peaks stack into layers. The mist in the valley adds a pale band between them. Shoot early in the monsoon season, when morning clearings give you both light and haze.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vang_Vieng",
+        "https://commons.wikimedia.org/wiki/File:Green_karst_peaks_seen_from_the_top_of_Mount_Nam_Xay_a_sunny_morning_during_the_monsoon_Vang_Vieng_Laos.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · LAOS",
+        "title": "Karst peaks of Vang Vieng",
+        "line2": "Basile Morin · Vientiane Province"
+      },
+      "order": 242,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-angelus-peak",
+      "kind": "place",
+      "title": "Maniniaro / Angelus Peak",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg/1280px-Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 331,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Nelson Lakes National Park",
+        "lat": -41.908,
+        "lon": 172.744,
+        "facts": [
+          [
+            "Park",
+            "Nelson Lakes National Park"
+          ],
+          [
+            "Range",
+            "Travers Range"
+          ],
+          [
+            "Nearest lake",
+            "Rotomaninitua / Lake Angelus"
+          ],
+          [
+            "Coordinates",
+            "41.91° S, 172.74° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "Maniniaro, also called Angelus Peak, is a mountain in Nelson Lakes National Park, near the northwestern end of New Zealand's main divide. It is not the tallest peak in the Angelus Ridge or the wider Travers Range, but it is a popular tramping destination and is significant to the Ngāti Apa ki te Rā Tō iwi, whose beliefs link it with the nearby Rotomaninitua / Lake Angelus as the footprints of their ancestors. Angelus Hut stands on the lake shore and is the usual base for the summit. This panorama was made on 27 July 2019, in winter, when snow covers the basin.",
+      "lookAt": "Snow turns the basin into a clean white floor, so the dark rock ridges become a rhythm of triangles across the frame. A wide panorama keeps the mountain's scale honest. The heavy cloud on the right shades the slope and balances the bright peaks on the left.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maniniaro_/_Angelus_Peak",
+        "https://commons.wikimedia.org/wiki/File:Maniniaro_-_Angelus_Peak%2C_Nelson_Lakes_National_Park%2C_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Maniniaro / Angelus Peak",
+        "line2": "Michal Klajban · Nelson Lakes National Park"
+      },
+      "order": 243,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "nara-adams-owens-valley-flock",
+      "kind": "photograph",
+      "title": "Flock in Owens Valley",
+      "maker": "Ansel Adams",
+      "year": "1941",
+      "collection": "U.S. National Archives",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ansel_Adams_-_National_Archives_79-AA-L01.jpg/1280px-Ansel_Adams_-_National_Archives_79-AA-L01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 850,
+        "license": "Public domain",
+        "credit": "Ansel Adams, U.S. National Archives, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Ansel Adams made this photograph of a flock of sheep in Owens Valley in 1941. It belongs to the series Photographs of National Parks and Monuments, compiled in 1941 and 1942 and documenting the period from about 1933 to 1942. Adams was a landscape photographer and environmentalist who helped found Group f/64, which favoured sharp focus and the full tonal range, and he developed the Zone System with Fred Archer to control exposure and development. He was later contracted by the Department of the Interior to photograph national parks. Here the sheep fill most of the frame, with a dark animal at the back and distant mountains on the horizon.",
+      "lookAt": "The sheep cover the frame edge to edge, so the pattern of wool does the work, and a thin strip of mountains and sky sits at the top for place. The one darker animal near the back breaks the repeat. Wait for a gap in the crowd to make a focal point.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ansel_Adams",
+        "https://commons.wikimedia.org/wiki/File:Ansel_Adams_-_National_Archives_79-AA-L01.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1941",
+        "title": "Flock in Owens Valley",
+        "line2": "Ansel Adams · National Archives"
+      },
+      "order": 244,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-hubbard-glacier",
+      "kind": "place",
+      "title": "Hubbard Glacier",
+      "maker": "Diego Delso",
+      "year": "2017",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg/1280px-Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 232,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Alaska",
+        "lat": 60.314,
+        "lon": -139.371,
+        "facts": [
+          [
+            "Park",
+            "Wrangell–St. Elias National Park"
+          ],
+          [
+            "Source distance",
+            "122 km from the snout"
+          ],
+          [
+            "Ice travel time",
+            "About 400 years"
+          ],
+          [
+            "Coordinates",
+            "60.31° N, 139.37° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Hubbard Glacier lies in Wrangell–St. Elias National Park and Preserve in eastern Alaska and extends into Kluane National Park and Reserve in Yukon, Canada. It is named for Gardiner Hubbard. Its longest source begins 122 kilometres from its snout, and ice takes about 400 years to travel the full length of the glacier. Because the glacier is advancing, it blocked the outlet of Russell Fjord in 1986. Diego Delso made this panorama on 20 August 2017, looking across the water at the ice front under a lid of grey cloud, with snowy mountains rising behind it.",
+      "lookAt": "Overcast sky flattens the light, which suits ice: the blue-white wall keeps its detail instead of blowing out. The still water doubles it as a pale band. Put the horizon low and let the cloud and mountains weigh down the top of a long, thin frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hubbard_Glacier",
+        "https://commons.wikimedia.org/wiki/File:Glaciar_Hubbard%2C_Alaska%2C_Estados_Unidos%2C_2017-08-20%2C_DD_16-21_PAN.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Hubbard Glacier",
+        "line2": "Diego Delso · Alaska"
+      },
+      "order": 245,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-bryant-range-fog",
+      "kind": "place",
+      "title": "Sunbeams in the Bryant Range",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg/1280px-Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 853,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Nelson, Tasman",
+        "lat": -41.333,
+        "lon": 173.383,
+        "facts": [
+          [
+            "Range",
+            "Bryant Range"
+          ],
+          [
+            "Length",
+            "About 35 km"
+          ],
+          [
+            "Highest named peak",
+            "Saddle Hill, 1,215 m"
+          ],
+          [
+            "Coordinates",
+            "41.33° S, 173.38° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "The Bryant Range is a range of low mountains in the northern South Island of New Zealand. It runs northeast to southwest for about 35 kilometres and forms part of the boundary between the Nelson and Tasman Districts and the Marlborough Region. Several peaks exceed 1,000 metres, notably Saddle Hill at 1,215 metres and Mount Duppa at 1,133 metres. This photograph was taken on 25 April 2019 at 10:03 on the trail between Rocks Hut and Middle Creek Hut, a section of the Te Araroa Trail, as the sun broke through morning fog in the bush.",
+      "lookAt": "Fog is what makes the light visible: the sunbeams only show because mist hangs in the trees. Point toward the sun, keep the brightest rays off a dark trunk so they read, and let the fallen log in the foreground anchor the lower left of the frame.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bryant_Range",
+        "https://commons.wikimedia.org/wiki/File:Sun_getting_through_fog_in_the_New_Zealand_bush%2C_Bryant_Range.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Sunbeams in the Bryant Range",
+        "line2": "Michal Klajban · Nelson, Tasman"
+      },
+      "order": 246,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "loc-lange-cotton-hoers",
+      "kind": "photograph",
+      "title": "Cotton hoers near Clarksdale, Mississippi",
+      "maker": "Dorothea Lange",
+      "year": "1937",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg/1280px-Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 1254,
+        "license": "Public domain",
+        "credit": "Dorothea Lange, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Dorothea Lange made this photograph in June or July 1937 near Clarksdale, Mississippi, and captioned it: These cotton hoers work from 6 a.m. to 7 p.m. for $1.00. Born Dorothea Margaretta Nutzhorn in 1895, she became a documentary photographer best known for her Depression-era work for the Farm Security Administration, and her images humanized the consequences of the Great Depression. Her Migrant Mother of 1936 became the defining image of the Dust Bowl. Here a line of African American workers walks away from the camera along a field path, hoes over their shoulders, under a bright summer sky.",
+      "lookAt": "Lange stood behind the workers and let them walk away, which turns individuals into a line and gives the scene its weight. The hoes make a rhythm of diagonals. Shooting from behind keeps faces private while telling the story through posture, tools and clothing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dorothea_Lange",
+        "https://commons.wikimedia.org/wiki/File:Dorothea_Lange_%22These_cotton_hoers_work_from_6_a.m._to_7_p.m._for_%241.00_near_Clarksdale%2C_Mississippi%2C_June-July_1937.%22.jpg"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1937",
+        "title": "Cotton hoers near Clarksdale, Mississippi",
+        "line2": "Dorothea Lange · Library of Congress"
+      },
+      "order": 247,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-mueller-hut-sefton",
+      "kind": "place",
+      "title": "Mueller Hut and Mount Sefton at sunrise",
+      "maker": "Michal Klajban",
+      "year": "2020",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg/1280px-Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 311,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Aoraki / Mount Cook National Park",
+        "lat": -43.682,
+        "lon": 170.042,
+        "facts": [
+          [
+            "Height",
+            "3,151 m"
+          ],
+          [
+            "Range",
+            "Southern Alps"
+          ],
+          [
+            "Name (Māori)",
+            "Maukatua"
+          ],
+          [
+            "Coordinates",
+            "43.68° S, 170.04° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Mount Sefton, Maukatua in Māori, is a mountain in the Aroarokaehe Range of the Southern Alps, just 12 kilometres south of Aoraki / Mount Cook. At 3,151 metres it is the thirteenth-highest peak in the Southern Alps. Tuckett Glacier flows down its south-eastern side and Mueller Glacier lies in the valley below. Julius von Haast named it for William Sefton Moorhouse, and Edward FitzGerald, guided by Matthias Zurbriggen, made the first recorded climb shortly after Christmas 1894. Michal Klajban made this panorama at 5:45 on 16 January 2020, at sunrise, with Mueller Hut in the frame.",
+      "lookAt": "At first light the highest rock catches the sun while the snowfield below stays cool and blue. That temperature split is the picture. The small red hut at the right edge gives the peaks a scale, and the pale sky leaves room for the long summit ridge.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Sefton",
+        "https://en.wikipedia.org/wiki/Aoraki_/_Mount_Cook",
+        "https://commons.wikimedia.org/wiki/File:Mueller_Hut_with_Mt_Sefton_and_Aoraki_%28Mt_Cook%29_during_the_sunrise.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Mueller Hut and Mount Sefton at sunrise",
+        "line2": "Michal Klajban · Aoraki / Mount Cook National Park"
+      },
+      "order": 248,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-grand-canyon-hopi",
+      "kind": "place",
+      "title": "Grand Canyon from Hopi Point",
+      "maker": "Tuxyso",
+      "year": "2013",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg/1280px-Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 848,
+        "license": "CC BY-SA 3.0",
+        "credit": "Tuxyso, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Arizona",
+        "lat": 36.168,
+        "lon": -112.164,
+        "facts": [
+          [
+            "Viewpoint",
+            "Hopi Point, South Rim"
+          ],
+          [
+            "Shiva Temple",
+            "2,331 m"
+          ],
+          [
+            "Shiva Temple height above river",
+            "1,600 m"
+          ],
+          [
+            "Coordinates",
+            "36.17° N, 112.16° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "This view of the Grand Canyon's South Rim was made from Hopi Point in warm evening light on 8 September 2013. Across the canyon stands Shiva Temple, a 2,331-metre summit about six miles north of Hopi Point that towers 1,600 metres above the Colorado River. Clarence Dutton, who began the tradition of naming Grand Canyon features after mythological deities, named it for the Hindu deity Shiva, and the name was adopted in 1906. In 1937 the American Museum of Natural History explored its isolated top hoping to find new species; the scientists found Ancestral Puebloan dwellings and an empty Kodak film box.",
+      "lookAt": "Evening light does the modelling here: each butte has a bright face and a dark one, so the layers read as separate steps. Low cloud sits like a band between the foreground ridges and the distant temples. Shoot long and let haze stack the depth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shiva_Temple_(Grand_Canyon)",
+        "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_Evening_Light_2013.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Grand Canyon from Hopi Point",
+        "line2": "Tuxyso · Arizona"
+      },
+      "order": 249,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "loc-delano-orange-dumper",
+      "kind": "photograph",
+      "title": "Automatic dumper at an orange packing plant, Redlands",
+      "maker": "Jack Delano",
+      "year": "1943",
+      "collection": "Library of Congress",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif/lossy-page1-1280px-Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 994,
+        "license": "Public domain",
+        "credit": "Jack Delano, Library of Congress, via Wikimedia Commons"
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Jack Delano made this colour transparency in March 1943 at a co-operative orange packing plant in Redlands, California, as part of what the Library of Congress titles his Santa Fe trip. Born in the Russian Empire in 1914, he worked for the Farm Security Administration, and later settled in Puerto Rico. The picture shows an automatic dumper at work: a crate of oranges tips over a rail while oranges tumble across a wooden chute, some blurred by their motion, and another full crate waits at the top right. Dark green wood and a metal pipe cut across the frame.",
+      "lookAt": "The shutter was fast enough to freeze most of the oranges but slow enough to blur the ones still falling, and that blur tells you it is moving. The orange against dark green is a strong colour pair. Look for a repeat, then catch the single odd moment.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Delano",
+        "https://commons.wikimedia.org/wiki/File:Automatic_dumper_at_the_co-op_orange_packing_plant%2C_Redlands%2C_Calif._Santa_Fe_trip_LCCN2017878147.tif"
+      ],
+      "caption": {
+        "kind": "PHOTOGRAPH · 1943",
+        "title": "Automatic dumper at an orange packing plant, Redlands",
+        "line2": "Jack Delano · Library of Congress"
+      },
+      "order": 250,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-thar-dunes",
+      "kind": "place",
+      "title": "Dunes in the Thar Desert",
+      "maker": "Clément Bardot",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Dunes%2C_D%C3%A9sert_du_Thar.jpg/1280px-Dunes%2C_D%C3%A9sert_du_Thar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 825,
+        "license": "CC BY-SA 4.0",
+        "credit": "Clément Bardot, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "India",
+        "region": "Rajasthan",
+        "lat": 27.0,
+        "lon": 71.0,
+        "facts": [
+          [
+            "Area",
+            "264,091 km²"
+          ],
+          [
+            "Countries",
+            "India and Pakistan"
+          ],
+          [
+            "Share in India",
+            "About two-thirds"
+          ],
+          [
+            "Coordinates",
+            "27° N, 71° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Composition",
+      "story": "The Thar Desert, also called the Great Indian Desert, is an arid region in the north-west of the Indian subcontinent and one of the largest subtropical deserts in Asia, covering 264,091 square kilometres. About two-thirds lies in India, mainly in Rajasthan, with the rest in Pakistan. Its sand was built up by wind-blown sediment from the alluvial plains and the coast, after the Ghaggar-Hakra river system dried up and the Aravalli uplift changed the region's drainage. Clément Bardot photographed this dune at 14:07 on 15 February 2016, under a clear blue sky.",
+      "lookAt": "Sand ripples turn a plain slope into pattern: the wavy lines run toward the crest and lead the eye to the one smooth curve of the dune against the sky. Keep the horizon low and the frame simple, and let the blue sky act as a clean backdrop.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thar_Desert",
+        "https://commons.wikimedia.org/wiki/File:Dunes%2C_D%C3%A9sert_du_Thar.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · INDIA",
+        "title": "Dunes in the Thar Desert",
+        "line2": "Clément Bardot · Rajasthan"
+      },
+      "order": 251,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-hidden-lake-lookout",
+      "kind": "place",
+      "title": "Hidden Lake Lookout at sunset",
+      "maker": "Nick Archibald",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg/1280px-Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 639,
+        "license": "CC BY-SA 4.0",
+        "credit": "Nick Archibald, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "Washington",
+        "lat": 48.501,
+        "lon": -121.198,
+        "facts": [
+          [
+            "Peaks' maximum elevation",
+            "2,160 m"
+          ],
+          [
+            "Lookout elevation",
+            "6,890 ft"
+          ],
+          [
+            "Built",
+            "1932"
+          ],
+          [
+            "Coordinates",
+            "48.50° N, 121.20° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Moment",
+      "story": "Hidden Lake Lookout is a small fire lookout built in 1932 on a subsidiary peak of the Hidden Lake Peaks, in the North Cascades of Washington state, just outside North Cascades National Park. The peaks reach a maximum of 2,160 metres, ten miles east of Marblemount. The Forest Service used the lookout until it was decommissioned around 1953, and it has now stood longer as a historic monument than it served as a fire lookout; it joined the National Register of Historic Places in 1987. Nick Archibald photographed it at 20:05 on 12 August 2018, as the sun set through smoky haze from nearby fires.",
+      "lookAt": "Smoke from distant fires turns the sky amber and flattens the far ridges into layers. The little hut gives the scene a human scale against that haze, and the low sun at the right edge adds a point of light. Arrive early and wait for the last ten minutes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hidden_Lake_Peaks",
+        "https://commons.wikimedia.org/wiki/File:Hidden_Peak_Fire_Lookout_at_sunset%2C_with_smokey_haze_from_nearby_fires.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Hidden Lake Lookout at sunset",
+        "line2": "Nick Archibald · Washington"
+      },
+      "order": 252,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-porters-pass",
+      "kind": "place",
+      "title": "Porters Pass",
+      "maker": "Michal Klajban",
+      "year": "2019",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg/1280px-Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 326,
+        "license": "CC BY-SA 4.0",
+        "credit": "Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "New Zealand",
+        "region": "Canterbury",
+        "lat": -43.297,
+        "lon": 171.742,
+        "facts": [
+          [
+            "Pass elevation",
+            "939 m"
+          ],
+          [
+            "Highway",
+            "State Highway 73"
+          ],
+          [
+            "Named",
+            "1858, by the Porter brothers"
+          ],
+          [
+            "Coordinates",
+            "43.30° S, 171.74° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Porters Pass, at 939 metres, is a mountain pass in the Canterbury region of New Zealand's South Island, near Lake Lyndon in Korowai/Torlesse Tussocklands Park. State Highway 73 crosses it on the way from Springfield to Cass, and it is the last pass on the road east from Westland to Christchurch. It is a few metres higher than the better-known Arthur's Pass. The Porter brothers, who farmed nearby, named it in 1858. Michal Klajban took this panorama on 18 July 2019 from the ridges of Foggy Peak, with snowy Ben More, the highest named summit of the Big Ben Range, behind.",
+      "lookAt": "From a ridge above, the highway becomes a drawn line that winds through the tussock slopes and tells you the pass's shape. The pale scree scar mid-frame acts as a bright anchor. A panorama crop keeps the road and the distant snow in one band.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Porters_Pass",
+        "https://commons.wikimedia.org/wiki/File:Porters_Pass_with_Big_Ben_Range%2C_Torlesse_Range%2C_New_Zealand.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · NEW ZEALAND",
+        "title": "Porters Pass",
+        "line2": "Michal Klajban · Canterbury"
+      },
+      "order": 253,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-lascar-summit",
+      "kind": "place",
+      "title": "Summit view of Lascar volcano",
+      "maker": "Alexandre Buisse (Nattfodd)",
+      "year": "2007",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lascar_summit.jpg/1280px-Lascar_summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 148,
+        "license": "CC BY-SA 3.0",
+        "credit": "Alexandre Buisse (Nattfodd), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Antofagasta",
+        "lat": -23.367,
+        "lon": -67.733,
+        "facts": [
+          [
+            "Type",
+            "Stratovolcano"
+          ],
+          [
+            "Photo altitude",
+            "5,500 m"
+          ],
+          [
+            "First known activity",
+            "At least 56,000 years ago"
+          ],
+          [
+            "Coordinates",
+            "23.37° S, 67.73° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Lascar is a stratovolcano in Chile, in the Central Volcanic Zone of the Andes, and the most active volcano in the region, with eruption records going back to 1848. It consists of two cones with several summit craters, and the westernmost crater of the eastern cone is presently active, releasing gas and occasional explosions. The volcano has been active for at least 56,000 years, fed by the subduction of the Nazca Plate beneath the South America Plate. Alexandre Buisse made this 360° view from almost the summit, at an altitude of 5,500 metres, on 28 September 2007; it is a downscaled stitch of eleven photographs, with smoke visible from the crater.",
+      "lookAt": "A 360° stitch flattens into a thin strip, but the single hiker gives it scale: a tiny dark figure against rubble slopes and a steaming crater. Include a person when you shoot in a place with no other size cues, and keep them small.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lascar_(volcano)",
+        "https://commons.wikimedia.org/wiki/File:Lascar_summit.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Summit view of Lascar volcano",
+        "line2": "Alexandre Buisse (Nattfodd) · Antofagasta"
+      },
+      "order": 254,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-nybg-bronx-river-falls",
+      "kind": "place",
+      "title": "Waterfall at the New York Botanical Garden",
+      "maker": "King of Hearts",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/New_York_Botanical_Garden_October_2016_010.jpg/1280px-New_York_Botanical_Garden_October_2016_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 854,
+        "license": "CC BY-SA 4.0",
+        "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "New York",
+        "lat": 40.864,
+        "lon": -73.878,
+        "facts": [
+          [
+            "Established",
+            "1891"
+          ],
+          [
+            "Site area",
+            "250 acres"
+          ],
+          [
+            "Plants",
+            "Over one million"
+          ],
+          [
+            "Coordinates",
+            "40.86° N, 73.88° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Process",
+      "story": "The New York Botanical Garden is a botanical garden at Bronx Park in the Bronx, New York City, established in 1891 on a 250-acre site that holds over one million living plants. The first structures opened at the end of that decade, and the garden has been a National Historic Landmark since 1967. It also includes the Enid A. Haupt Conservatory and a major plant research and conservation programme. This photograph shows a waterfall on the Bronx River within the grounds, made on 23 October 2016 at 15:48, in autumn, when the leaves along the bank turn yellow and orange.",
+      "lookAt": "A slow shutter smooths the falling water into silk while rocks and leaves stay sharp. The weir's diagonal leads from the lower left into the dark pool, where autumn colour reflects. Use a tripod or a rock and a small aperture on a gray afternoon.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/New_York_Botanical_Garden",
+        "https://commons.wikimedia.org/wiki/File:New_York_Botanical_Garden_October_2016_010.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Waterfall at the New York Botanical Garden",
+        "line2": "King of Hearts · New York"
+      },
+      "order": 255,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-national-gallery-singapore-atrium",
+      "kind": "place",
+      "title": "National Gallery Singapore atrium",
+      "maker": "Basile Morin",
+      "year": "2018",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1280px-Interior_of_the_National_Gallery_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 961,
+        "license": "CC BY-SA 4.0",
+        "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Singapore",
+        "region": "Civic District",
+        "lat": 1.29049,
+        "lon": 103.85186,
+        "facts": [
+          [
+            "Floor area",
+            "64,000 m²"
+          ],
+          [
+            "Collection",
+            "More than 9,000 artworks"
+          ],
+          [
+            "Cost",
+            "About S$532 million"
+          ],
+          [
+            "Coordinates",
+            "1.29° N, 103.85° E"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "The National Gallery Singapore is a public art museum in the Civic District of Singapore, housing Singaporean and Southeast Asian art from the nineteenth century to the present, with more than 9,000 artworks. It occupies two national monuments, the former Supreme Court and former City Hall, with a combined floor area of 64,000 square metres, making it the largest visual arts venue in the country. The development cost approximately S$532 million. Basile Morin made this photograph at 18:14 on 8 June 2018, in the evening, showing the airy corridors on four levels, the staircases and the escalators; the architect was Jean-François Milou.",
+      "lookAt": "Four floors of identical balustrades repeat like a stack, and the central void draws the eye down to the escalators. Photograph from the centre line so the symmetry holds, and wait for evening, when warm interior lights balance the cool glass roof.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Gallery_Singapore",
+        "https://commons.wikimedia.org/wiki/File:Interior_of_the_National_Gallery_Singapore.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SINGAPORE",
+        "title": "National Gallery Singapore atrium",
+        "line2": "Basile Morin · Civic District"
+      },
+      "order": 256,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-chuquicamata-pit",
+      "kind": "place",
+      "title": "Chuquicamata open-pit mine",
+      "maker": "Diego Delso",
+      "year": "2016",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG/1280px-Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 638,
+        "license": "CC BY-SA 4.0",
+        "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Chile",
+        "region": "Antofagasta",
+        "lat": -22.467,
+        "lon": -68.933,
+        "facts": [
+          [
+            "Elevation",
+            "2,850 m"
+          ],
+          [
+            "Pit size",
+            "4.5 km long, 3.5 km wide"
+          ],
+          [
+            "Depth",
+            "850 m"
+          ],
+          [
+            "Coordinates",
+            "22.47° S, 68.93° W"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Context",
+      "story": "Chuquicamata is a state-owned copper mine at 2,850 metres above sea level just outside Calama, in northern Chile. By excavated volume it is the largest open-pit copper mine in the world. The pit was started in 1882 as a mine for gold and copper; it is 4.5 kilometres long, 3.5 kilometres wide and 850 metres deep, making it the second deepest open-pit mine after Bingham Canyon in Utah. In 2003 the nearby town of Chuquicamata was dismantled because of environmental concerns and the mine's expansion. Diego Delso made this panorama at 19:37 on 1 February 2016 in the Atacama Desert.",
+      "lookAt": "Scale is the hard part, and the photographer's tip is to spot the haul truck, 9.5 metres long, on the benches far below. Terraces make a repeating pattern that draws the eye to the pit floor. Stand on the rim, keep the horizon level, and include a sliver of sky.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Calama,_Chile",
+        "https://commons.wikimedia.org/wiki/File:Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_110-112_PAN.JPG"
+      ],
+      "caption": {
+        "kind": "PLACE · CHILE",
+        "title": "Chuquicamata open-pit mine",
+        "line2": "Diego Delso · Antofagasta"
+      },
+      "order": 257,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-gronalund-night",
+      "kind": "place",
+      "title": "Gröna Lund at dusk",
+      "maker": "Arild Vågen",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Gr%C3%B6na_Lund_June_2015.jpg/1280px-Gr%C3%B6na_Lund_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 866,
+        "license": "CC BY-SA 4.0",
+        "credit": "Arild Vågen, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "Sweden",
+        "region": "Stockholm",
+        "lat": 59.323,
+        "lon": 18.097,
+        "facts": [
+          [
+            "Founded",
+            "1883"
+          ],
+          [
+            "Founder",
+            "Jacob Schultheis"
+          ],
+          [
+            "Area",
+            "3.8 ha"
+          ],
+          [
+            "Attractions",
+            "Over 30"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Light",
+      "story": "Gröna Lund, whose name means Green Grove, is an amusement park on the seaward side of Djurgården in Stockholm, Sweden. It was founded in 1883 by Jacob Schultheis and is the first and oldest amusement park in the country. At 3.8 hectares it is relatively small, mainly because its central location limits expansion, but it has over thirty attractions and hosts concerts in summer with its three event venues. Arild Vågen made this photograph at 22:55 on 3 June 2015, at dusk, looking across the water at the roller coaster on the left, the tall towers, and the lit swing ride on the right.",
+      "lookAt": "Blue hour is the sweet spot: the sky is deep blue while the rides' lights are already bright enough to glow. The still water repeats every light as a streak, doubling the colour. Use a tripod and expose for the lights, not the sky.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gr%C3%B6na_Lund",
+        "https://commons.wikimedia.org/wiki/File:Gr%C3%B6na_Lund_June_2015.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · SWEDEN",
+        "title": "Gröna Lund at dusk",
+        "line2": "Arild Vågen · Stockholm"
+      },
+      "order": 258,
+      "batch": "2026-11-01"
+    },
+    {
+      "id": "commons-brooklyn-botanic-visitor-deck",
+      "kind": "place",
+      "title": "Visitor Center deck, Brooklyn Botanic Garden",
+      "maker": "King of Hearts",
+      "year": "2015",
+      "collection": "Wikimedia Commons",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg/1280px-Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1280,
+        "height": 848,
+        "license": "CC BY-SA 3.0",
+        "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      "place": {
+        "country": "United States",
+        "region": "New York",
+        "lat": 40.67,
+        "lon": -73.9625,
+        "facts": [
+          [
+            "Area",
+            "52 acres"
+          ],
+          [
+            "Opened",
+            "May 1911"
+          ],
+          [
+            "Designers",
+            "Olmsted Brothers"
+          ],
+          [
+            "Visitors",
+            "Over 800,000 a year"
+          ]
+        ]
+      },
+      "hasStory": true,
+      "lens": "Design",
+      "story": "Brooklyn Botanic Garden is a botanical garden in the borough of Brooklyn, New York City, occupying 52 acres in central Brooklyn, close to Prospect Park and the Brooklyn Museum. The site was first designated in 1897, and the garden opened in May 1911 on the site of an ash dump, with its landscape designed by the Olmsted Brothers. It holds over 14,000 taxa of plants and has over 800,000 visitors each year. King of Hearts photographed the deck above the Visitor Center on 2 May 2015, from an angle that lines up a glass wall and slatted roof against spring greenery and a distant building.",
+      "lookAt": "A wide lens close to the glass roof makes its slats rush toward the vanishing point, while green foliage fills the right third. Reflections in the wall double the trees. Stand low and tilt slightly down to keep the edges converging cleanly toward the horizon.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brooklyn_Botanic_Garden",
+        "https://commons.wikimedia.org/wiki/File:Brooklyn_Botanic_Garden_New_York_May_2015_003.jpg"
+      ],
+      "caption": {
+        "kind": "PLACE · UNITED STATES",
+        "title": "Visitor Center deck, Brooklyn Botanic Garden",
+        "line2": "King of Hearts · New York"
+      },
+      "order": 259,
+      "batch": "2026-11-01"
     }
   ]
 }
