@@ -2035,5 +2035,121 @@
    "lon": null
   },
   "photographer": "Carol M. Highsmith"
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Baños Romanos, Bath, Inglaterra, 2014-08-12, DD 39-41 HDR.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ABa%C3%B1os_Romanos%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_39-41_HDR.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2014-08-12 19:34:23",
+  "description": "View of the Great Bath, part of the Roman Baths complex, a site of historical interest in the city of Bath, England. The baths, based on the local hot springs, were built during the Roman occupation of Britain and has become a major touristic site.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ba%C3%B1os_Romanos%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_39-41_HDR.JPG/1280px-Ba%C3%B1os_Romanos%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_39-41_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 869,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ba%C3%B1os_Romanos%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_39-41_HDR.JPG/500px-Ba%C3%B1os_Romanos%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_39-41_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Roman Baths (Bath)",
+   "url": "https://en.wikipedia.org/wiki/Roman_Baths_(Bath)",
+   "extract": "The Roman Baths are well-preserved thermae in the city of Bath, Somerset, England. A temple was constructed on the site between 60 and 70 AD in the first few decades of Roman Britain. Its presence led to the development of the small Roman urban settlement known as Aquae Sulis around the site. The Roman baths were designed for public bathing and were used until the end of Roman rule in Britain in the 5th century AD. According to the Anglo-Saxon Chronicle, the original Roman baths were in ruins a century later. The area around the natural springs was redeveloped several times during the Early and Late Middle Ages.\nThe Roman Baths are preserved in four main features: the Sacred Spring, the Roman Temple, the Roman Bath House, and a museum which holds artefacts from Aquae Sulis. However, all buildings at street level date from the 19th century. It is a major tourist attraction in the UK, and together with the Grand Pump Room, receives more than 1 million visitors annually. Visitors can tour the baths and museum but cannot enter the water due to the presence of the Naegleria fowleri pathogen.",
+   "lat": 51.3809,
+   "lon": -2.3595
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Clark Center Stanford October 2019 HDR 1.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AClark_Center_Stanford_October_2019_HDR_1.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "King of Hearts",
+  "credit": "Own work",
+  "dateTaken": "Taken on 24 October 2019, 18:47:42",
+  "description": "HDR of 3 exposures (+2 to -2), James H. Clark Center, Stanford University, California.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Clark_Center_Stanford_October_2019_HDR_1.jpg/1280px-Clark_Center_Stanford_October_2019_HDR_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Clark_Center_Stanford_October_2019_HDR_1.jpg/500px-Clark_Center_Stanford_October_2019_HDR_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "James H. Clark Center",
+   "url": "https://en.wikipedia.org/wiki/James_H._Clark_Center",
+   "extract": "The James H. Clark Center (also abbreviated to the Clark Center) at Stanford University, California, United States, is a building, completed in 2003, that houses interdisciplinary research in the biological sciences.",
+   "lat": 37.43117,
+   "lon": -122.17445
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Serranía de Hornocal up close near Humahuaca.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASerran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg",
+  "license": "CC BY 4.0",
+  "artist": "Havardtl",
+  "credit": "Own work",
+  "dateTaken": "2017-08-18 13:20:49",
+  "description": "Serranía de Hornocal near Huamahuaca, Jujuy Province in Argentina.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg/1280px-Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg/500px-Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Serranía de Hornocal",
+   "url": "https://en.wikipedia.org/wiki/Serran%C3%ADa_de_Hornocal",
+   "extract": "The Serranía de Hornocal are a range of mountains located 25 kilometres (16 mi) from the city of Humahuaca in the Argentine province of Jujuy. Exposed in the range is the limestone formation called Yacoraite that extends from Salta, Argentina, through the Argentine Quebrada de Humahuaca, and then through the Bolivian Altiplano to Peru.\nThe mountains reach an altitude of 4,761 metres (15,620 ft) above sea level.\nThe region Quebrada de Humahuaca was declared a World Heritage Site in 2003, both for its colorful mountain landscapes and the historic Inca caravan road running through the region.",
+   "lat": -23.26666667,
+   "lon": -65.11666667
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Travis Wetland panorama, Christchurch, New Zealand.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ATravis_Wetland_panorama%2C_Christchurch%2C_New_Zealand.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Michal Klajban",
+  "credit": "Own work",
+  "dateTaken": "2019-08-15 16:55:09",
+  "description": "Travis Wetland panorama, Christchurch, New Zealand. When zoomed in, a few different bird species can be seen:\nPied stilt\nMallard\nPūkeko\nGrey teal\nNorthern shoveler",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Travis_Wetland_panorama%2C_Christchurch%2C_New_Zealand.jpg/1280px-Travis_Wetland_panorama%2C_Christchurch%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 197,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Travis_Wetland_panorama%2C_Christchurch%2C_New_Zealand.jpg/500px-Travis_Wetland_panorama%2C_Christchurch%2C_New_Zealand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Travis Wetland",
+   "url": "https://en.wikipedia.org/wiki/Travis_Wetland",
+   "extract": "Travis Wetland is a wetland in the suburb of Burwood in Christchurch, New Zealand. An ecological restoration programme is being undertaken to restore the wetland. It covers 116 ha of land formerly drained and used as a dairy farm. In 2009 it won the \"Urban Sustainability\" category in the Green Ribbon Awards awarded by the Minister for the Environment.\nThe Māori name for North New Brighton and the Travis Wetlands is Ōruapaeroa, pre-European occupation it was rich with eels and bird life, and was considered as an important food-gathering place by the local iwi, Ngāi Tahu, the Māori communal houses were burnt down  in November 1882 when an early European settler acquired the land.\nIn May 2010 the rare and endangered Canterbury mudfish were released into the wetland in the hope that they would become established.",
+   "lat": -43.485852,
+   "lon": 172.693133
+  }
+ },
+ {
+  "group": "photograph",
+  "commonsFile": "File:\"Sheriff\" Steve Schmidt, a rancher, costumed presenter, and owner of Old West town, an audience-participation theme park, working cattle ranch, and frequent movie, TV-commercial, and country-music LCCN2014631868.tif",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A%22Sheriff%22_Steve_Schmidt%2C_a_rancher%2C_costumed_presenter%2C_and_owner_of_Old_West_town%2C_an_audience-participation_theme_park%2C_working_cattle_ranch%2C_and_frequent_movie%2C_TV-commercial%2C_and_country-music_LCCN2014631868.tif",
+  "license": "Public domain",
+  "artist": "Carol M. Highsmith",
+  "credit": "Library of Congress\n\nCatalog: http://lccn.loc.gov/2014631868\nImage download: https://cdn.loc.gov/master/pnp/highsm/27600/27668a.tif\nOriginal url: http://hdl.loc.gov/loc.pnp/highsm.27668",
+  "dateTaken": "Taken on 24 April 2014, 11:53 (according to Exif data)",
+  "description": "Title: \"Sheriff\" Steve Schmidt, a rancher, costumed presenter, and owner of Old West town, an audience-participation theme park, working cattle ranch, and frequent movie, TV-commercial, and country-music video venue at Enchanted Springs Ranch outside the town of Boerne, west of San Antonio in the Texas Hill Country. The locale contains more than 40 movie facades or original buildings moved from remote locations in the surrounding hills\nPhysical description: 1 photograph : digital, tiff file, infrared.\n\nNotes: Title, date, and keywords based on information provided by the photographer.; Gift; T",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%22Sheriff%22_Steve_Schmidt%2C_a_rancher%2C_costumed_presenter%2C_and_owner_of_Old_West_town%2C_an_audience-participation_theme_park%2C_working_cattle_ranch%2C_and_frequent_movie%2C_TV-commercial%2C_and_country-music_LCCN2014631868.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/%22Sheriff%22_Steve_Schmidt%2C_a_rancher%2C_costumed_presenter%2C_and_owner_of_Old_West_town%2C_an_audience-participation_theme_park%2C_working_cattle_ranch%2C_and_frequent_movie%2C_TV-commercial%2C_and_country-music_LCCN2014631868.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carol M. Highsmith",
+   "url": "https://en.wikipedia.org/wiki/Carol_M._Highsmith",
+   "extract": "Carol McKinney Highsmith (born Carol Louise McKinney on May 18, 1946) is an American photographer and author. Her work documents the landscapes, architecture, and people of the rural and urban United States in a decades-long nationwide study, in progress since the 1980s. Highsmith has donated her photographs to the Library of Congress since 1992, creating a collection of nearly 100,000 images, all in the public domain.\nHighsmith began her nationwide photography project after extensively photographing the Willard Hotel in the early 1980s for its restoration, a project that introduced her to the works of pioneering 20th-century photojournalist Frances Benjamin Johnston. Highsmith cites Johnston as a major influence, drawing on Johnston's comprehensive architectural and landscape photography of the 1920s and 1930s and on the donation of her life's work to the Library of Congress. Since 2010, Highsmith has toured multiple states per year to create a broad pictorial record of the country in the 21st century, a series that she expects to complete in 2026.",
+   "lat": null,
+   "lon": null
+  },
+  "photographer": "Carol M. Highsmith"
  }
 ]
