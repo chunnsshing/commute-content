@@ -2749,5 +2749,28 @@
    "lat": -22.05916667,
    "lon": -68.22833333
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Linköping-tekniska verken.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ALink%C3%B6ping-tekniska_verken.jpg",
+  "license": "CC BY 2.0",
+  "artist": "tomhe",
+  "credit": "Flickr",
+  "dateTaken": "2006-04-21",
+  "description": "Tekniska verkens huvudkontor vid Stångebro, Linköping.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Link%C3%B6ping-tekniska_verken.jpg/1280px-Link%C3%B6ping-tekniska_verken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Link%C3%B6ping-tekniska_verken.jpg/500px-Link%C3%B6ping-tekniska_verken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Linköping",
+   "url": "https://en.wikipedia.org/wiki/Link%C3%B6ping",
+   "extract": "Linköping (  LIN-shə-ping, Swedish: [ˈlɪ̂nːˌɕøːpɪŋ] ) is a city in southern Sweden, with around 167,000 inhabitants as of 2024. It is the seat of Linköping Municipality and the capital of Östergötland County. Linköping is also the episcopal see of the Diocese of Linköping (Church of Sweden) and is well known for its cathedral. Linköping is the center of an old cultural region and celebrated its 700th anniversary in 1987. Dominating the city's skyline from afar is the steeple of the cathedral (Domkyrkan).\nNowadays, Linköping is known for its university and its high-technology industry. Linköping wants to create a sustainable development of the city and therefore planned to become a carbon-neutral community by 2025. Located on the Östergötland Plain, Linköping is closely linked to Norrköping, roughly 40 kilometres (25 mi) to the east, near the sea.",
+   "lat": 58.41583333,
+   "lon": 15.62527778
+  }
  }
 ]
