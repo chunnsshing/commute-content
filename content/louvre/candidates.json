@@ -2795,5 +2795,51 @@
    "lat": 14.05,
    "lon": 105.84
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Viborg Katedralskole Symmetrical.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AViborg_Katedralskole_Symmetrical.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Slaunger",
+  "credit": "Own work",
+  "dateTaken": "2015-04-12 09:17:25",
+  "description": "Morning panorama of the Eastern facade of Viborg Katedralskole, Viborg, Denmark",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Viborg_Katedralskole_Symmetrical.jpg/1280px-Viborg_Katedralskole_Symmetrical.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 344,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Viborg_Katedralskole_Symmetrical.jpg/500px-Viborg_Katedralskole_Symmetrical.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Viborg Katedralskole",
+   "url": "https://en.wikipedia.org/wiki/Viborg_Katedralskole",
+   "extract": "Viborg Katedralskole is a public gymnasium (secondary education school) and IB World School in Viborg, Denmark. The school is located at Gammel Skivevej 2 in Viborg and supports about 1000 students.",
+   "lat": 56.45732778,
+   "lon": 9.41210833
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Vista desde Julio Andrade, Provincia de Carchi, Ecuador, 2015-07-21, DD 41.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AVista_desde_Julio_Andrade%2C_Provincia_de_Carchi%2C_Ecuador%2C_2015-07-21%2C_DD_41.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2015-07-21",
+  "description": "View of the fields from Julio Andrade, Carchi Province, Ecuador",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Vista_desde_Julio_Andrade%2C_Provincia_de_Carchi%2C_Ecuador%2C_2015-07-21%2C_DD_41.JPG/1280px-Vista_desde_Julio_Andrade%2C_Provincia_de_Carchi%2C_Ecuador%2C_2015-07-21%2C_DD_41.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 539,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Vista_desde_Julio_Andrade%2C_Provincia_de_Carchi%2C_Ecuador%2C_2015-07-21%2C_DD_41.JPG/500px-Vista_desde_Julio_Andrade%2C_Provincia_de_Carchi%2C_Ecuador%2C_2015-07-21%2C_DD_41.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Carchi Province",
+   "url": "https://en.wikipedia.org/wiki/Carchi_Province",
+   "extract": "Carchi (Spanish pronunciation: [ˈkaɾtʃi]) is a province in Ecuador. The capital is Tulcán. The Carchi River rises on the slopes of Chiles volcano and forms the boundary between Colombia and Ecuador near Tulcan.  Rumichaca Bridge is the most important land route between Colombia and Ecuador.",
+   "lat": 0.45,
+   "lon": -78.05
+  }
  }
 ]
