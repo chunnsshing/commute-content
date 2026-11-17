@@ -2013,5 +2013,51 @@
    "lat": 49.79222222,
    "lon": 5.23277778
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Mafra May 2013-2.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AMafra_May_2013-2.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Alvesgaspar",
+  "credit": "Own work",
+  "dateTaken": "2013-05-05 13:35:52",
+  "description": "Main facade of Mafra National Palace, Portugal",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mafra_May_2013-2.jpg/1280px-Mafra_May_2013-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 886,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mafra_May_2013-2.jpg/500px-Mafra_May_2013-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Mafra, Portugal",
+   "url": "https://en.wikipedia.org/wiki/Mafra,_Portugal",
+   "extract": "Mafra (Portuguese pronunciation: [ˈmafɾɐ] ) is a city and a municipality in the district of Lisbon, on the west coast of Portugal, and part of the urban agglomeration of the Greater Lisbon subregion. The population in 2011 was 76,685, in an area of 291.66 km2.\nIt is mostly known for the sumptuous Mafra National Palace inscribed as a UNESCO World Heritage Site. Built in the baroque style, the Mafra National Palace also inspired Portuguese Nobel Prize laureate José Saramago to write his novel Baltasar and Blimunda (Memorial do Convento). Other points of interest around the municipality include the Tapada Nacional de Mafra (also part of the UNESCO site), an enclosed wildlife and game reserve, and Ericeira's World Surf Reserve, the second in the world.",
+   "lat": 38.94111111,
+   "lon": -9.33194444
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Riyadh Skyline.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ARiyadh_Skyline.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "B.alotaby",
+  "credit": "Own work",
+  "dateTaken": "2018-02-08 18:01:55",
+  "description": "Riyadh Skyline  is growing. Dated February 2018",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1280px-Riyadh_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 720,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/500px-Riyadh_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Riyadh",
+   "url": "https://en.wikipedia.org/wiki/Riyadh",
+   "extract": "Riyadh is the capital and largest city of Saudi Arabia, as well as the largest city on the Arabian Peninsula. It serves as the administrative capital of both the Riyadh Province and the Riyadh Emirate. It has been the Saudi capital since 1824, when it was designated as the seat of the Second Saudi State, the current form of the metropolis largely emerged in the 1950s as an expansion of the 18th-century walled town, following the dismantling of its defensive fortifications.",
+   "lat": 24.6383,
+   "lon": 46.715
+  }
  }
 ]
