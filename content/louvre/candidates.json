@@ -2312,5 +2312,51 @@
    "lat": 19.74916667,
    "lon": 101.99166667
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Woningen boven S-charl, 12-10-2024. (actm.) 01.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AWoningen_boven_S-charl%2C_12-10-2024._%28actm.%29_01.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Agnes Monkelbaan",
+  "credit": "Own work",
+  "dateTaken": "2024-10-12 11:50:47",
+  "description": "S-charl, Houses above S-charl.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Woningen_boven_S-charl%2C_12-10-2024._%28actm.%29_01.jpg/1280px-Woningen_boven_S-charl%2C_12-10-2024._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 838,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Woningen_boven_S-charl%2C_12-10-2024._%28actm.%29_01.jpg/500px-Woningen_boven_S-charl%2C_12-10-2024._%28actm.%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "S-charl",
+   "url": "https://en.wikipedia.org/wiki/S-charl",
+   "extract": "S-charl is a village in the municipality of Scuol, located in the canton of Graubünden, Switzerland. The village lies in the Engadin region, at 1,810 metres in the Val S-charl south of Scuol, in the Sesvenna Range (Swiss Alps).",
+   "lat": 46.71666667,
+   "lon": 10.33333333
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Wooden and bamboo facades of dwellings with sudare in a cobbled street of Gion, perspective effect with vanishing point, Kyoto, Japan.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AWooden_and_bamboo_facades_of_dwellings_with_sudare_in_a_cobbled_street_of_Gion%2C_perspective_effect_with_vanishing_point%2C_Kyoto%2C_Japan.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "",
+  "credit": "Own work",
+  "dateTaken": "12 June 2019 08:54:13",
+  "description": "Wooden and bamboo facades of dwellings with sudare in the cobbled and picturesque pedestrian street leading to Gion Tatsumi Bridge, perspective effect with a central vanishing point, Gion, Kiyomotocho, Higashiyama Ward, Kyoto, Japan.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Wooden_and_bamboo_facades_of_dwellings_with_sudare_in_a_cobbled_street_of_Gion%2C_perspective_effect_with_vanishing_point%2C_Kyoto%2C_Japan.jpg/1280px-Wooden_and_bamboo_facades_of_dwellings_with_sudare_in_a_cobbled_street_of_Gion%2C_perspective_effect_with_vanishing_point%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Wooden_and_bamboo_facades_of_dwellings_with_sudare_in_a_cobbled_street_of_Gion%2C_perspective_effect_with_vanishing_point%2C_Kyoto%2C_Japan.jpg/500px-Wooden_and_bamboo_facades_of_dwellings_with_sudare_in_a_cobbled_street_of_Gion%2C_perspective_effect_with_vanishing_point%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Gion",
+   "url": "https://en.wikipedia.org/wiki/Gion",
+   "extract": "Gion (祇園) is a district of Higashiyama-ku, Kyoto, Japan, originating as an entertainment district in the Sengoku period, in front of Yasaka Shrine (Gion Shrine). The district was built to accommodate the needs of travellers and visitors to the shrine. It eventually evolved to become one of the most exclusive and well-known geisha districts in all of Japan. Gion is the Japanese translation (via Chinese Qiyuan) of the Buddhist term Jetavana.  Yasaka Shrine, located in this district is the center of the Gion faith.\nThe geisha in Kyoto do not refer to themselves as geisha, instead using the local term 'geiko'. While the term geisha means \"artist\" or \"person of the arts\", the more direct term geiko means essentially \"a woman of art\".",
+   "lat": 35.003496,
+   "lon": 135.775051
+  }
  }
 ]
