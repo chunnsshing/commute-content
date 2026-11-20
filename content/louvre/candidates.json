@@ -2358,5 +2358,51 @@
    "lat": 35.003496,
    "lon": 135.775051
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Paris Palais du Luxembourg façade s printemps 2014.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AParis_Palais_du_Luxembourg_fa%C3%A7ade_s_printemps_2014.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "JLPC",
+  "credit": "Own work",
+  "dateTaken": "2014-04-07 18:04:37",
+  "description": "South facade and basin of the Luxembourg Palace(built from 1615 to 1631) in spring, Paris (6th arr.)",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Paris_Palais_du_Luxembourg_fa%C3%A7ade_s_printemps_2014.jpg/1280px-Paris_Palais_du_Luxembourg_fa%C3%A7ade_s_printemps_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 397,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Paris_Palais_du_Luxembourg_fa%C3%A7ade_s_printemps_2014.jpg/500px-Paris_Palais_du_Luxembourg_fa%C3%A7ade_s_printemps_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Luxembourg Palace",
+   "url": "https://en.wikipedia.org/wiki/Luxembourg_Palace",
+   "extract": "The Luxembourg Palace (French: Palais du Luxembourg, pronounced [palɛ dy lyksɑ̃buʁ]) is at 15 Rue de Vaugirard in the 6th arrondissement of Paris, France. It was originally built (1615–1645) to the designs of the French architect Salomon de Brosse to be the royal residence of the regent Marie de' Medici, mother of King Louis XIII. After the Revolution it was refashioned (1799–1805) by Jean-François Chalgrin into a legislative building and subsequently greatly enlarged and remodeled (1835–1856) by Alphonse de Gisors. The palace has been the seat of the upper houses of the various French national legislatures (excepting only the unicameral National Assembly of the Second Republic) since the establishment of the Sénat conservateur during the Consulate; as such, it has been home to the Senate of the Fifth Republic since its establishment in 1958.\nImmediately west of the palace on the Rue de Vaugirard is the Petit Luxembourg, now the residence of the Senate President; and slightly further west, the Musée du Luxembourg, in the former orangery. On the south side of the palace, the formal Luxembourg Garden presents a 25-hectare (62-acre) green parterre of gravel and lawn populated with statues and large basins of water where children sail model boats.\n\n",
+   "lat": 48.84833333,
+   "lon": 2.33722222
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Lagangarbh cottage with Buachaille Etive Mòr.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ALagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Colin",
+  "credit": "Own work",
+  "dateTaken": "2015-08-15 15:56:29",
+  "description": "Buachaille Etive Mòr viewed from the A82 which runs through Glen Coe, with the white cottage of Lagangarbh next to the river Coupall. The cottage, converted from a crofter's home, is used as a Scottish Mountaineering Club hut, and can accommodate 20 people, with 10 more in a barn behind. The trees to the west were planted to provide shelter from the wind. The main mountain peak on the left is Stob Dearg at 1022m.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg/1280px-Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 720,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg/500px-Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Buachaille Etive Mòr",
+   "url": "https://en.wikipedia.org/wiki/Buachaille_Etive_M%C3%B2r",
+   "extract": "Buachaille Etive Mòr (; Scottish Gaelic: Buachaille Èite Mòr, \"great herdsman of Etive\"), also known simply as \"The Buachaille\", is a mountain at the head of Glen Etive in the Highlands of Scotland. Its pyramidal shape, as seen from the northeast, makes it one of the most recognisable mountains in Scotland, and one of the most depicted on postcards and calendars.\nBuachaille Etive Mòr is a large ridge nearly five miles (8 km) long, almost entirely encircled by the River Etive and its tributary the River Coupall. The ridge contains four main peaks: from north-east to south-west these are Stob Dearg (1,021.4 m), Stob na Doire (1,011 m), Stob Coire Altruim (941 m) and Stob na Bròige (956 m). Stob Dearg and Stob na Bròige are both Munros; the latter was promoted to Munro status by the Scottish Mountaineering Club in 1997. To the west is the smaller ridge, Buachaille Etive Beag.",
+   "lat": 56.64730278,
+   "lon": -4.89779722
+  }
  }
 ]
