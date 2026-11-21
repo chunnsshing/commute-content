@@ -2404,5 +2404,74 @@
    "lat": 56.64730278,
    "lon": -4.89779722
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Sagami Temple 2600px.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASagami_Temple_2600px.jpg",
+  "license": "CC BY 2.5",
+  "artist": "663highland  (Edited by Laitche)",
+  "credit": "663highland",
+  "dateTaken": "2007-01-27",
+  "description": "Pillars of Sagami Temple at Hyōgo Prefecture in Japan.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Sagami_Temple_2600px.jpg/1280px-Sagami_Temple_2600px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 1913,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Sagami_Temple_2600px.jpg/500px-Sagami_Temple_2600px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Sagami-ji",
+   "url": "https://en.wikipedia.org/wiki/Sagami-ji",
+   "extract": "Sagami-ji (酒見寺; or  Sagami-dera), is a Shingon Buddhist temple in Kasai, Hyōgo Prefecture, Japan.  Its mountain name (sangō) is Senjōsan (泉生山).  Emperor Shōmu ordered its construction in 745 (the 17th year of the Tenpyō era) at the request of Gyōki, a Buddhist priest.",
+   "lat": 34.9357,
+   "lon": 134.82959167
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Öxarárfoss, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 029.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3A%C3%96xar%C3%A1rfoss%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_029.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "Taken on 16 August 2014, 10:26:36",
+  "description": "Öxarárfoss, Þingvellir National Park, Suðurland, Iceland. The 20 meter high waterfall flows from the Öxará river and is one of the most visited attractions in Þingvellir National Park, one of the two World Heritage sites in Iceland.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%C3%96xar%C3%A1rfoss%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_029.JPG/1280px-%C3%96xar%C3%A1rfoss%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_029.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 788,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%C3%96xar%C3%A1rfoss%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_029.JPG/500px-%C3%96xar%C3%A1rfoss%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_029.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Þingvellir",
+   "url": "https://en.wikipedia.org/wiki/%C3%9Eingvellir",
+   "extract": "Þingvellir (Old Norse pronunciation: [ˈθɪŋgˌvɛlːɪr], Icelandic pronunciation: [ˈθiŋkˌvɛtlɪr̥] , anglicised as Thingvellir) was the site of the Alþing, the annual parliament of Iceland from the year 930 until the last session held at Þingvellir in 1798. Since 1881, the parliament has been located within Alþingishúsið in Iceland's capital, Reykjavík.\nÞingvellir is now a national park in the municipality of Bláskógabyggð in southwestern Iceland, about 40 km (25 miles) northeast of Reykjavík. Þingvellir is a site of historical, cultural, and geological significance, and is one of the most popular tourist destinations in Iceland. The park lies in a rift valley that marks the crest of the Mid-Atlantic Ridge and the boundary between the North American and Eurasian tectonic plates. To its south lies Þingvallavatn, the largest natural lake in Iceland.\nÞingvellir National Park (þjóðgarðurinn á Þingvöllum [ˈθjouðˌkarðʏrɪn au ˈθiŋkˌvœtlʏm]) was founded in 1930, marking the 1000th anniversary of the Althing. The park was later expanded to protect the diverse and natural phenomena in the surrounding area and was designated as a World Heritage Site in 2004.",
+   "lat": 64.25380556,
+   "lon": -21.03725
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Selfoss July 2014.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASelfoss_July_2014.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Martin Falbisoner",
+  "credit": "Own work",
+  "dateTaken": "2014-07-23 13:54:12",
+  "description": "Selfoss, Iceland, July 2014",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Selfoss_July_2014.JPG/1280px-Selfoss_July_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 686,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Selfoss_July_2014.JPG/500px-Selfoss_July_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Selfoss (waterfall)",
+   "url": "https://en.wikipedia.org/wiki/Selfoss_(waterfall)",
+   "extract": "Selfoss (Icelandic pronunciation: [ˈsɛlˌfɔsː] ) is a waterfall on the river Jökulsá á Fjöllum in the north of Iceland.  The river drops over a number of waterfalls over about 30 km before flowing into Öxarfjörður, a bay of the Arctic Sea. The river originates as melt water from the glacier Vatnajökull and therefore the water flow varies depending on the season, the weather and volcanic activity.\nA few hundred meters downstream of the 11 m (36 ft)-high waterfall is Dettifoss, the second-most powerful waterfall in Europe. Below the falls, the river passes through a gorge which is part of the Jökulsárgljúfur National Park.",
+   "lat": 65.79833333,
+   "lon": -16.3825
+  }
  }
 ]
