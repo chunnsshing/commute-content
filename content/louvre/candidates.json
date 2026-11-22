@@ -2473,5 +2473,28 @@
    "lat": 65.79833333,
    "lon": -16.3825
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Rosendals palace May 2012.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ARosendals_palace_May_2012.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Arild Vågen",
+  "credit": "Own work",
+  "dateTaken": "2012-05-01 16:27:12",
+  "description": "Rosendals slott (Rosendals palace). Djurgården, Stockholm.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rosendals_palace_May_2012.jpg/1280px-Rosendals_palace_May_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 720,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rosendals_palace_May_2012.jpg/500px-Rosendals_palace_May_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Rosendal Palace",
+   "url": "https://en.wikipedia.org/wiki/Rosendal_Palace",
+   "extract": "Rosendal Palace (Swedish: Rosendals slott) is a Swedish palace pavilion located on Djurgården,  an island in central Stockholm. It was built between 1823 and 1827 for King Charles XIV John, the first Bernadotte king of Sweden.\n\n",
+   "lat": 59.32888889,
+   "lon": 18.11833333
+  }
  }
 ]
