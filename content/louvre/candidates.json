@@ -2496,5 +2496,74 @@
    "lat": 59.32888889,
    "lon": 18.11833333
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Salar de Atacama.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ASalar_de_Atacama.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Francesco Mocellin",
+  "credit": "Own work",
+  "dateTaken": "2009-04-13",
+  "description": "The Atacama Dry lake, in Chile. At the horizon, the Tumisa, Lejía and Miñiques volcanoes.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Salar_de_Atacama.jpg/1280px-Salar_de_Atacama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Salar_de_Atacama.jpg/500px-Salar_de_Atacama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Salar de Atacama",
+   "url": "https://en.wikipedia.org/wiki/Salar_de_Atacama",
+   "extract": "Salar de Atacama, located 55 km (34 mi) south of San Pedro de Atacama, is the largest salt flat in Chile. It is surrounded by mountains and lacks drainage outlets. To the east, it is enclosed by the main chain of the Andes, while to the west lies a secondary mountain range called Cordillera de Domeyko. The landscape is dominated by imposing volcanoes such as Licancabur, Acamarachi, Aguas Calientes, and Láscar, the latter being one of Chile's most active volcanoes. These volcanoes are situated along the eastern side of the Salar de Atacama, forming a north–south trending line that separates it from smaller endorheic basins.\nSystematic economic surveys of the mineral resources of the salt flat begun in the 1960s with Chilean and American investigations financed through a grant from the United Nations. Anaconda Company discovered the lithium in the brines in 1962 while searching for freshwater for its copper mining operations. Since the 2000s, Salar de Atacama has become a significant hub for lithium extraction, as lithium is found in the brines of the salt flat.\nThe Likan Antay people are the indigenous inhabitants of Salar de Atacama and its surrounding areas.",
+   "lat": -23.5,
+   "lon": -68.25
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Volcán de Ollagüe, Bolivia, 2016-02-03, DD 80-88 PAN.JPG",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AVolc%C3%A1n_de_Ollag%C3%BCe%2C_Bolivia%2C_2016-02-03%2C_DD_80-88_PAN.JPG",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2016-02-03 14:15:16",
+  "description": "Volcanic landscape featuring from left to right Tomasamil (5,890 m or 19,320 ft), Cañapa (5,882 m or 19,298 ft), Ollagüe (5,868 m or 19,252 ft) and Aucanquilcha (6,176 m or 20,262 ft), Andes, southern Bolivia/northern Chile.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Volc%C3%A1n_de_Ollag%C3%BCe%2C_Bolivia%2C_2016-02-03%2C_DD_80-88_PAN.JPG/1280px-Volc%C3%A1n_de_Ollag%C3%BCe%2C_Bolivia%2C_2016-02-03%2C_DD_80-88_PAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 142,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Volc%C3%A1n_de_Ollag%C3%BCe%2C_Bolivia%2C_2016-02-03%2C_DD_80-88_PAN.JPG/500px-Volc%C3%A1n_de_Ollag%C3%BCe%2C_Bolivia%2C_2016-02-03%2C_DD_80-88_PAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Ollagüe",
+   "url": "https://en.wikipedia.org/wiki/Ollag%C3%BCe",
+   "extract": "Ollagüe (Spanish pronunciation: [oˈʎaɣwe]) or Ullawi (Aymara: [uˈʎawi]) is a massive andesite stratovolcano in the Andes on the Bolivia–Chile border, within the Antofagasta Region of Chile and the Potosi Department of Bolivia. Part of the Central Volcanic Zone of the Andes, its highest summit is 5,868 metres (19,252 ft) above sea level and features a summit crater that opens to the south. The western rim of the summit crater is formed by a compound of lava domes, the youngest of which features a vigorous fumarole that is visible from afar.\nOllagüe is mostly of Pleistocene age. It started developing more than one million years ago, forming the so-called Vinta Loma and Santa Rosa series mostly of andesitic lava flows. A fault bisects the edifice and two large landslides occurred in relation to it. Later two groups of dacitic lava domes formed, Ch'aska Urqu on the southeastern slope and La Celosa on the northwestern. Another centre named La Poruñita formed at that time on the western foot of the volcano, but it is not clear whether it is part of the main Ollagüe system. Activity at the summit continued during this time, forming the El Azufre sequence.\nThis phase of edifice growth was interrupted by a major collapse of the western flank of Ollagüe. Debris from the collapse spread in the form of hummocks down the western slope and into an adjacent salt pan, splitting it in two. The occurrence of this collapse was perhaps facilitated by a major crustal lineament that crosses Ollagüe from southeast to northwest. Later volcanic activity filled up the collapse scar, forming the Santa Cecilia series. This series includes lava flows as well as a compound lava dome on the western rim of the summit crater, which represent the youngest volcanic activity of Ollagüe. While there is no clear evidence of historical eruptions at Ollagüe, the volcano is considered to be potentially active and is monitored by the National Geology and Mining Service (SERNAGEOMIN) of Chile. Hydrothermal alteration has formed sulfur deposits on the volcano, which is the site of several sulfur mines. Later glaciations have formed moraines on the volcano.",
+   "lat": -21.28333333,
+   "lon": -68.18333333
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Puerta de Palmas, Badajoz, España, 2020-07-22, DD 82.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3APuerta_de_Palmas%2C_Badajoz%2C_Espa%C3%B1a%2C_2020-07-22%2C_DD_82.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Diego Delso",
+  "credit": "Own work",
+  "dateTaken": "2020-07-22 14:25:36",
+  "description": "Palmas Gate, Badajoz, Spain.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Puerta_de_Palmas%2C_Badajoz%2C_Espa%C3%B1a%2C_2020-07-22%2C_DD_82.jpg/1280px-Puerta_de_Palmas%2C_Badajoz%2C_Espa%C3%B1a%2C_2020-07-22%2C_DD_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 660,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Puerta_de_Palmas%2C_Badajoz%2C_Espa%C3%B1a%2C_2020-07-22%2C_DD_82.jpg/500px-Puerta_de_Palmas%2C_Badajoz%2C_Espa%C3%B1a%2C_2020-07-22%2C_DD_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Badajoz",
+   "url": "https://en.wikipedia.org/wiki/Badajoz",
+   "extract": "Badajoz is the capital of the province of Badajoz in the autonomous community of Extremadura, Spain. Belonging to the traditional comarca of Tierra de Badajoz, it is situated close to the Portuguese border, on the left bank of the river Guadiana. The population in 2011 was 151,565.\nBadajoz (Baṭalyaws) was founded by Ibn Marwan towards 875. In the 11th century, it became the seat of the Taifa of Badajoz, noted as a hub for (high) cultural production under the Aftasids despite military and political instability. Badajoz was conquered by the Kingdom of León in 1230, becoming a royal demesne and seat of an opulent diocese. Due to the spillover of civil wars and conflicts with Portugal, the city underwent many spells of calamity throughout the medieval and modern periods. Featuring an area of 1,470 km2, the extensive municipal territory of Badajoz comprises the main city and about 26 secondary settlements and pedanías.\nBadajoz lies on the A-5 road route connecting central Spain with Portugal. It is also served by Badajoz Railway Station and the Badajoz Airport. Promoted by the European Union, the initiative of the Badajoz-Elvas-Campo Maior eurocity seeks to achieve deeper cross-border cooperation with the Portuguese cities of Elvas and Campo Maior.\n\n",
+   "lat": 38.88027778,
+   "lon": -6.97527778
+  }
  }
 ]
