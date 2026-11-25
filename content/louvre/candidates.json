@@ -2565,5 +2565,51 @@
    "lat": 38.88027778,
    "lon": -6.97527778
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Dwellings and pirogues on the Mekong bank of Don Det Laos at sunrise with pink clouds.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3ADwellings_and_pirogues_on_the_Mekong_bank_of_Don_Det_Laos_at_sunrise_with_pink_clouds.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Basile Morin",
+  "credit": "Own work",
+  "dateTaken": "2021-12-29 06:18:47",
+  "description": "Dwellings and pirogues on the Mekong bank of Don Det at sunrise with pink clouds, seen from the bridge to Don Khon, Si Phan Don, Laos.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Dwellings_and_pirogues_on_the_Mekong_bank_of_Don_Det_Laos_at_sunrise_with_pink_clouds.jpg/1280px-Dwellings_and_pirogues_on_the_Mekong_bank_of_Don_Det_Laos_at_sunrise_with_pink_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 853,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Dwellings_and_pirogues_on_the_Mekong_bank_of_Don_Det_Laos_at_sunrise_with_pink_clouds.jpg/500px-Dwellings_and_pirogues_on_the_Mekong_bank_of_Don_Det_Laos_at_sunrise_with_pink_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Namkha, Laos",
+   "url": "https://en.wikipedia.org/wiki/Namkha,_Laos",
+   "extract": "Namkha or Ban Namkha (Lao: ນ້ຳກັດ or ບ້ານນ້ຳກ້າ) is a village in Pha Oudom District in Bokeo Province of northwestern Laos.\nIt is the oldest village in the district, established in 1906 by the Lao Lom people.\nThe village lies in between the Nam Haad River and a tree populated area in the Pha Oudom District. While populated of the village is unknown due to information, it is said to be mildly population ranging from 4,035 to 5,000. It is northwestern of Laos.\nEthnic groups range from Khmu and Hmong, with both ethnicities being very populated in the village. The main language that is spoken there is Lao, with the little of village speaking Tibetan, due to the word \"Namkha\" being in the name.",
+   "lat": 20.07972222,
+   "lon": 100.79916667
+  }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Aerial view of Apple Park dllu.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Apple_Park_dllu.jpg",
+  "license": "CC BY-SA 4.0",
+  "artist": "Daniel L. Lu (user:dllu)",
+  "credit": "Own work",
+  "dateTaken": "2018-04-15 00:05:32",
+  "description": "Aerial view of Apple Park, the corporate headquarters of Apple Inc., located in Cupertino, California. The roof is covered in solar panels with an output of 17 MWp, making it one of the biggest solar roofs in the world. Photo taken from a Cessna 172M.",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 855,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Apple Park",
+   "url": "https://en.wikipedia.org/wiki/Apple_Park",
+   "extract": "Apple Park, also known as Apple Campus 2, is the corporate headquarters of Apple, located in Cupertino, California, United States. The campus accommodates more than 12,000 employees, who began moving into the facility in April 2017 while construction was still underway. It replaced the Apple Infinite Loop campus as the company's corporate headquarters.\nDesigned by Norman Foster, the campus is centered on a four-story, 64-acre (26 ha) circular office building set within a 360-acre (150 ha) site. Its circular groundscraper design has led to the media nickname \"the spaceship\", while Apple employees have referred to it as \"the ring\". About 80 percent of the site consists of landscaped green space planted with drought-tolerant trees and vegetation native to the Cupertino area, and the central courtyard includes an artificial pond.\nThe campus includes the Steve Jobs Theater, Visitor Center, Developer Center, and Observatory – venues which have allowed Apple to host its annual Worldwide Developers Conference at Apple Park since 2022.\n\n",
+   "lat": 37.3349,
+   "lon": -122.009
+  }
  }
 ]
