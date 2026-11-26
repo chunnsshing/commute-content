@@ -2611,5 +2611,28 @@
    "lat": 37.3349,
    "lon": -122.009
   }
+ },
+ {
+  "group": "place",
+  "commonsFile": "File:Wadi Bani Khalid East RB.jpg",
+  "filePage": "https://commons.wikimedia.org/wiki/File%3AWadi_Bani_Khalid_East_RB.jpg",
+  "license": "CC BY-SA 3.0",
+  "artist": "Richard Bartz",
+  "credit": "Own work",
+  "dateTaken": "2014-01-05",
+  "description": "Wadi Bani Khalid, Sharqiyah region, Muscat, Oman",
+  "image": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Wadi_Bani_Khalid_East_RB.jpg/1280px-Wadi_Bani_Khalid_East_RB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "width": 1280,
+   "height": 660,
+   "viewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Wadi_Bani_Khalid_East_RB.jpg/500px-Wadi_Bani_Khalid_East_RB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "article": {
+   "title": "Wadi Bani Khalid (Wilayat)",
+   "url": "https://en.wikipedia.org/wiki/Wadi_Bani_Khalid_(Wilayat)",
+   "extract": "Wilāyat Wādī Banī Khālid (Arabic: وِلَايَة وَادِي بَنِي خَالِد) is a Wilāyah (Province) in the Northern Governorate of the Eastern Region of Oman. Located about 126 miles (203 km) from Muscat, and 120 km (75 miles) from Sur, the province has a wadi which serves as a destination for tourists, that is Wādī Banī Khālid (Arabic: وَادِي بَنِي خَالِد).",
+   "lat": 22.602,
+   "lon": 59.083
+  }
  }
 ]
